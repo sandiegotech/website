@@ -127,7 +127,7 @@
       color: var(--gold);
     }
     .section-label .sub { display: block; color: var(--muted); margin-top: 0.35rem; }
-    .section-body { max-width: 48rem; }
+    .section-body { max-width: 48rem; min-width: 0; }
     .section-body h2 {
       font-family: var(--font-display);
       font-weight: 500;
@@ -1150,7 +1150,7 @@
               <!-- SwiftUI color extension -->
               <div style="margin-top: 1.75rem; border: 1px solid var(--hairline); background: #0D1118; padding: 1.5rem; overflow-x: auto;">
                 <p style="font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(252,251,248,0.35); margin-bottom: 1rem;">SwiftUI — Color tokens</p>
-                <pre style="font-family: var(--font-mono); font-size: 0.8rem; line-height: 1.7; color: rgba(252,251,248,0.85); margin: 0; white-space: pre;">extension Color {
+                <pre style="font-family: var(--font-mono); font-size: 0.8rem; line-height: 1.7; color: rgba(252,251,248,0.85); margin: 0; white-space: pre; overflow-x: auto; max-width: 100%;">extension Color {
     static let sditPaper   = Color(light: Color(hex:"FCFBF8"), dark: Color(hex:"101C2C"))
     static let sditInk     = Color(light: Color(hex:"101C2C"), dark: Color(hex:"F0EFE8").opacity(0.92))
     static let sditMuted   = Color(light: Color(hex:"5A6472"), dark: Color(hex:"F0EFE8").opacity(0.50))
@@ -1189,7 +1189,7 @@
               <!-- SwiftUI font extension -->
               <div style="margin-top: 1.75rem; border: 1px solid var(--hairline); background: #0D1118; padding: 1.5rem; overflow-x: auto;">
                 <p style="font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(252,251,248,0.35); margin-bottom: 1rem;">SwiftUI — Font tokens</p>
-                <pre style="font-family: var(--font-mono); font-size: 0.8rem; line-height: 1.7; color: rgba(252,251,248,0.85); margin: 0; white-space: pre;">extension Font {
+                <pre style="font-family: var(--font-mono); font-size: 0.8rem; line-height: 1.7; color: rgba(252,251,248,0.85); margin: 0; white-space: pre; overflow-x: auto; max-width: 100%;">extension Font {
     static func sditDisplay(_ size: CGFloat, italic: Bool = false) -> Font {
         .custom(italic ? "EBGaramond-Italic" : "EBGaramond-Medium", size: size)
     }
