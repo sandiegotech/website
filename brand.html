@@ -532,18 +532,71 @@
                 </div>
               </div>
 
-              <div style="margin-top: 2.5rem; display: flex; gap: 2.5rem; align-items: flex-end; flex-wrap: wrap;">
-                <div>
-                  <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">Full crest — on paper</p>
-                  <img src="/assets/sdit-crest-ink.png" alt="SDIT coat of arms" style="width: 200px; height: auto;" />
+              <!-- Logo variants -->
+              <div style="margin-top: 2.5rem;">
+                <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 1.5rem; border-bottom: 1px solid var(--hairline); padding-bottom: 0.75rem;">Logo variants</p>
+
+                <!-- Three crests side by side -->
+                <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; border: 1px solid var(--hairline);">
+                  <div style="padding: 2rem 1.5rem; border-right: 1px solid var(--hairline); text-align: center; background: var(--paper);">
+                    <img src="/assets/sdit-crest-navy.png" alt="SDIT crest — navy" style="width: 140px; height: auto; margin: 0 auto 1rem;" />
+                    <p style="font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);">Navy · on paper</p>
+                    <p style="font-family: var(--font-mono); font-size: 0.65rem; color: var(--muted); margin-top: 0.2rem;">sdit-crest-navy.png</p>
+                  </div>
+                  <div style="padding: 2rem 1.5rem; border-right: 1px solid var(--hairline); text-align: center; background: #1a1a1a;">
+                    <img src="/assets/sdit-crest-navy.png" alt="SDIT crest — on dark" style="width: 140px; height: auto; margin: 0 auto 1rem;" />
+                    <p style="font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(252,251,248,0.5);">Navy · on dark</p>
+                    <p style="font-family: var(--font-mono); font-size: 0.65rem; color: rgba(252,251,248,0.4); margin-top: 0.2rem;">sdit-crest-navy.png</p>
+                  </div>
+                  <div style="padding: 2rem 1.5rem; text-align: center; background: var(--paper);">
+                    <img src="/assets/sdit-crest-gold.png" alt="SDIT crest — gold" style="width: 140px; height: auto; margin: 0 auto 1rem;" />
+                    <p style="font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);">Gold · on paper</p>
+                    <p style="font-family: var(--font-mono); font-size: 0.65rem; color: var(--muted); margin-top: 0.2rem;">sdit-crest-gold.png</p>
+                  </div>
                 </div>
-                <div>
-                  <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">Shield mark — masthead size</p>
-                  <img src="/assets/sdit-shield-ink.png" alt="SDIT shield" style="height: 56px; width: auto;" />
+
+                <!-- Shield mark + app icon -->
+                <div style="display: flex; gap: 2.5rem; align-items: flex-end; margin-top: 2rem; flex-wrap: wrap;">
+                  <div>
+                    <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">Shield mark — masthead</p>
+                    <img src="/assets/sdit-shield-ink.png" alt="SDIT shield" style="height: 56px; width: auto;" />
+                  </div>
+                  <div>
+                    <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">App icon (512 · 192 · 180)</p>
+                    <img src="/assets/icon-192.png" alt="SDIT app icon" style="width: 64px; height: 64px;" />
+                  </div>
+                  <div>
+                    <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">Favicon (32 · 16)</p>
+                    <img src="/assets/favicon-32x32.png" alt="SDIT favicon" style="width: 32px; height: 32px; image-rendering: pixelated;" />
+                  </div>
                 </div>
-                <div>
-                  <p style="font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">App icon</p>
-                  <img src="/assets/icon-192.png" alt="SDIT app icon" style="width: 64px; height: 64px;" />
+
+                <!-- Usage rules for logo -->
+                <div style="margin-top: 2rem;">
+                  <div class="spec-row">
+                    <span class="spec-key">Primary (on light)</span>
+                    <span class="spec-val"><code>sdit-crest-navy.png</code> — navy version with white interior details</span>
+                  </div>
+                  <div class="spec-row">
+                    <span class="spec-key">On dark backgrounds</span>
+                    <span class="spec-val"><code>sdit-crest-navy.png</code> also works on dark; or <code>sdit-crest-gold.png</code> for warmth</span>
+                  </div>
+                  <div class="spec-row">
+                    <span class="spec-key">Masthead mark</span>
+                    <span class="spec-val"><code>sdit-shield-ink.png</code> — shield only, navy, displayed at <code>height: 1.55rem</code></span>
+                  </div>
+                  <div class="spec-row">
+                    <span class="spec-key">Minimum size</span>
+                    <span class="spec-val">Full crest: 120px wide minimum. Shield mark: 20px minimum.</span>
+                  </div>
+                  <div class="spec-row">
+                    <span class="spec-key">Clear space</span>
+                    <span class="spec-val">At least ½ the shield width on all sides. Never crowd the crest.</span>
+                  </div>
+                  <div class="spec-row">
+                    <span class="spec-key">Never</span>
+                    <span class="spec-val">Stretch, rotate, recolor, add drop shadows, or place on a busy background.</span>
+                  </div>
                 </div>
               </div>
             </div>
