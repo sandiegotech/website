@@ -698,18 +698,21 @@ h1, h2, h3, h4 {
 .cta {
   display: inline-block;
   margin-top: 1.75rem;
-  font-family: var(--font-mono);
-  font-size: 0.8rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--paper);
-  background: var(--ink);
-  padding: 0.9rem 1.6rem;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  color: var(--ink);
+  background: transparent;
+  padding: 0.75rem 0;
   text-decoration: none;
-  transition: background 0.2s ease;
+  border-bottom: 1px solid var(--ink);
+  transition: all 0.2s ease;
 }
 
-.cta:hover { background: var(--marine); color: var(--paper); }
+.cta:hover {
+  color: var(--marine);
+  border-bottom-color: var(--marine);
+}
 
 /* colophon (footer) */
 .colophon { border-top: 1px solid var(--hairline); padding: 2rem 0 3rem; }
