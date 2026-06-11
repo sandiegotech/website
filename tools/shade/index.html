@@ -4,54 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shade — SDIT Tools</title>
-  <meta name="description" content="Shade: a privacy posture advisor for iPhone. See how exposed your phone is right now. Free, open-source, from SDIT.">
+  <meta name="description" content="Shade — a deep privacy cleanup once, a quick re-check weekly, and the plain-language context to understand who is tracking you. A free, open-source iOS app from the San Diego Institute of Technology.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../../styles.css">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
   <meta name="theme-color" content="#101C2C">
-  <style>
-    .tool-hero { padding: 5rem 0 4rem; border-bottom: 1px solid var(--hairline); }
-    .tool-meta { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
-    .badge {
-      font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.1em;
-      text-transform: uppercase; padding: 0.3rem 0.65rem; border-radius: 4px;
-      background: var(--gray-100); color: var(--muted); border: 1px solid var(--gray-200);
-    }
-    .badge--ios { background: rgba(35,78,112,0.08); color: var(--marine); border-color: rgba(35,78,112,0.2); }
-    .tool-icon {
-      width: 80px; height: 80px; border-radius: 20px;
-      background: var(--cream-mid); border: 1px solid var(--hairline);
-      display: flex; align-items: center; justify-content: center;
-      color: var(--ink); margin-bottom: 2rem;
-    }
-    .tool-icon svg { width: 40px; height: 40px; }
-    .tool-links { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 2.5rem; }
-    .btn {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      padding: 0.7rem 1.4rem; font-family: var(--font-body); font-size: 0.875rem;
-      font-weight: 600; border-radius: var(--radius); border: 1.5px solid transparent;
-      text-decoration: none; transition: transform 200ms, box-shadow 200ms, background 150ms, border-color 150ms, color 150ms;
-    }
-    .btn svg { width: 14px; height: 14px; flex-shrink: 0; }
-    .btn--primary { background: var(--charcoal); color: var(--warm-white-90); border-color: var(--charcoal); }
-    .btn--primary:hover { background: var(--charcoal-light); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(16,28,44,0.22); }
-    .btn--ghost { background: transparent; color: var(--muted); border-color: var(--gray-200); }
-    .btn--ghost:hover { border-color: var(--gold-border); color: var(--gold); }
-    .tool-breadcrumb {
-      font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.1em;
-      text-transform: uppercase; color: var(--muted); margin-bottom: 2rem;
-    }
-    .tool-breadcrumb a { color: var(--muted); text-decoration: none; }
-    .tool-breadcrumb a:hover { color: var(--gold); }
-    .tool-breadcrumb span { margin: 0 0.5rem; }
-  </style>
 </head>
 <body>
 
+  <!-- ============ MASTHEAD ============ -->
   <header class="masthead">
     <div class="frame masthead-inner">
       <a href="../../index.html" class="wordmark"><img class="masthead-crest" src="/assets/sdit-shield-ink.png" alt="" width="23" height="23" /><span>San Diego Institute of Technology</span></a>
@@ -60,57 +26,71 @@
         <a href="../../index.html#thesis">Thesis</a>
         <a href="../../index.html#model">Model</a>
         <a href="../../index.html#founding">Founding</a>
-        <a href="../../philosophy.html">Philosophy</a>
         <a href="../../tools/" class="is-active">Tools</a>
         <a href="../../apply.html" class="is-apply">Apply</a>
       </nav>
     </div>
   </header>
 
-  <main>
-    <section class="tool-hero">
+  <main id="top">
+
+    <!-- ============ HERO ============ -->
+    <section class="charter">
       <div class="frame">
-        <p class="tool-breadcrumb"><a href="../../tools/">Tools</a><span>/</span>Shade</p>
-        <div class="tool-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+        <p class="eyebrow rise"><a href="../../tools/" style="color: inherit; text-decoration: none;">SDIT Tools</a> · Shade · Privacy Hygiene</p>
+        <h1 class="rise d1">Know what your phone <em>gives away</em>.</h1>
+        <p class="standfirst rise d2">Shade helps you do one thing well: a deep privacy cleanup once, then a quick re-check each week — with the plain-language context to understand who is actually tracking you, and how.</p>
+        <div class="meridian rise d3" aria-hidden="true">
+          <svg width="44" height="24" viewBox="0 0 44 24" fill="none">
+            <circle cx="22" cy="20" r="9" stroke="#A8842C" stroke-width="1.25"/>
+            <line x1="0" y1="20" x2="44" y2="20" stroke="#234E70" stroke-width="1.25"/>
           </svg>
-        </div>
-        <div class="tool-meta">
-          <span class="badge badge--ios">iOS</span>
-          <span class="badge">MIT License</span>
-          <span class="badge">Free</span>
-        </div>
-        <p class="eyebrow">Privacy &amp; Digital Awareness</p>
-        <h1 class="d1">Shade</h1>
-        <p class="standfirst" style="max-width: 42rem;">A privacy posture advisor for iPhone. Shade answers one question: how exposed is this phone right now? Bluetooth, location, network, app permissions — all visible at a glance, with guided steps to reduce what you're broadcasting.</p>
-        <div class="tool-links">
-          <a href="https://github.com/sandiegotech/iPhone-GhostMode" class="btn btn--primary" target="_blank" rel="noopener">
-            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
-            View on GitHub
-          </a>
-          <a href="../../tools/" class="btn btn--ghost">← All Tools</a>
+          <span class="coords">Free · MIT · In Testing · iOS</span>
+          <span class="line"></span>
         </div>
       </div>
     </section>
 
-    <section class="article">
+    <!-- ============ THE TOOL ============ -->
+    <section class="article" id="tool">
       <div class="frame article-grid">
-        <div class="article-label">What it does</div>
+        <div class="article-label">The Tool<span class="num">What it does</span></div>
         <div class="article-body">
-          <h2>Know your exposure. Reduce it.</h2>
-          <p class="lede">Most people have no idea how much their iPhone broadcasts.</p>
-          <p>Shade checks your phone's privacy posture across the signals that matter: Bluetooth state, network status, location permissions, and the apps that have access to more than they need. The exposure score gives you a clear read on where you stand. Mission modes — Everyday, Travel, Meeting, and Ghost — give you a structured way to tighten your posture for the situation you're in.</p>
-          <p>The manual checklist covers iOS settings Apple doesn't expose to ordinary apps, walking you through the exact path to review each one. A local app risk guide explains what the apps already on your phone can access. Everything stays on-device — no cloud, no account, no irony.</p>
+          <h2>A checkup, not a scare.</h2>
+          <p class="lede">Three tabs, one clear action: clean up the phone's privacy settings, understand why each step matters, and come back next week to keep it clean.</p>
+          <p>The Checkup walks you through a guided cleanup grouped by topic — tracking and ads, location, background activity, sharing, system analytics. Each step explains why it matters and gives the exact path in iOS Settings, because Apple does not let apps flip these switches for you — and an app that claims otherwise is lying to you. Shade tracks your progress, remembers when you last checked, and shows an honest live snapshot of the phone's radios and its own permissions — presented as information, not a score. The Learn tab explains how tracking actually works: ad identifiers, data brokers, in-app trackers, beacons, location trails, fingerprinting, and a risk guide for the apps everyone has.</p>
+          <img src="shade-app.png" alt="Shade welcome screen — choose a protection level: Aware, Hardened, or Lockdown" width="260" style="display: block; margin: 2.25rem 0 1.5rem; width: min(260px, 75%); height: auto; border: 1px solid var(--hairline);" />
           <div class="status">
-            <span class="s-label">Platforms</span>
-            iOS — built with SwiftUI. Open <code>GhostMode.xcodeproj</code> in Xcode and run the target on a device or simulator.
+            <span class="s-label">Trust</span>
+            No cloud, no account, no analytics — a privacy app that itself collects nothing
           </div>
         </div>
       </div>
     </section>
+
+    <!-- ============ WHY IT EXISTS ============ -->
+    <section class="article correspond" id="why">
+      <div class="frame article-grid">
+        <div class="article-label">Why It Exists<span class="num">The reason</span></div>
+        <div class="article-body">
+          <h2>Privacy is a habit, not a product.</h2>
+          <p class="lede">An economy of well-funded companies profits from what your phone broadcasts. Most people never see it happen — which is exactly how it is designed.</p>
+          <p>The Institute holds that a person should command their machines, and a device that reports on you to parties you cannot name is a machine under someone else's command. Shade exists to return that authority in the most practical way we know: not paranoia, not a subscription that promises invisibility, but understanding — what is collected, by whom, why it matters — and a finite, repeatable habit for doing something about it. The tool teaches you to need it less, not more.</p>
+          <div class="status">
+            <span class="s-label">Source</span>
+            MIT License · Build it yourself at <a href="https://github.com/sandiegotech/Shade" target="_blank" rel="noopener">github.com/sandiegotech/Shade</a>
+          </div>
+          <div class="status">
+            <span class="s-label">Status</span>
+            In testing · Not yet on the App Store · TestFlight invites by request — <a href="mailto:brandon@sandiegotech.org?subject=Shade%20Testing">write to test it</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
   </main>
 
+  <!-- ============ COLOPHON ============ -->
   <footer class="colophon">
     <div class="frame colophon-inner">
       <span>San Diego Institute of Technology · MMXXVI</span>
@@ -120,6 +100,8 @@
         <a href="../../privacy.html">Privacy</a>
         <a href="../../terms.html">Terms</a>
         <a href="../../non-discrimination.html">Non-Discrimination</a>
+        <a href="../../philosophy.html">Philosophy</a>
+        <a href="../../brand.html">Brand</a>
       </nav>
     </div>
   </footer>

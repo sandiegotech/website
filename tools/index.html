@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tools — San Diego Institute of Technology</title>
-  <meta name="description" content="Free and open-source tools from SDIT — built to help you stay focused, protect your privacy, and understand the machines you use every day.">
+  <meta name="description" content="Free and open-source tools from SDIT — simple instruments for attention, understanding, privacy, and taste in the age of AI.">
   <meta property="og:title" content="SDIT Tools">
-  <meta property="og:description" content="Free and open-source tools from SDIT — built for focus, privacy, and performance in the age of AI.">
+  <meta property="og:description" content="Five free, open-source apps from the San Diego Institute of Technology. No cost, no tracking, no lock-in.">
   <meta property="og:type" content="website">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../styles.css">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
@@ -18,228 +18,6 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
   <meta name="theme-color" content="#101C2C">
-  <style>
-    /* ---- Philosophy strip ---- */
-    .tools-philosophy {
-      padding: 4rem 0;
-      border-bottom: 1px solid var(--hairline);
-    }
-    .tools-philosophy .article-grid { align-items: start; }
-    .phil-body {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 2.5rem;
-    }
-    @media (max-width: 600px) { .phil-body { grid-template-columns: 1fr; gap: 1.5rem; } }
-    .phil-item__icon {
-      width: 26px;
-      height: 26px;
-      color: var(--gold);
-      margin-bottom: 0.85rem;
-    }
-    .phil-item__title {
-      font-family: var(--font-display);
-      font-size: 1.1rem;
-      font-style: italic;
-      color: var(--marine);
-      margin-bottom: 0.45rem;
-    }
-    .phil-item p { font-size: 0.875rem; color: var(--muted); line-height: 1.75; }
-
-    /* ---- Tools grid ---- */
-    .tools-grid-section {
-      padding: 4.5rem 0;
-      border-bottom: 1px solid var(--hairline);
-    }
-    .tools-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem;
-      margin-top: 3rem;
-    }
-    @media (max-width: 1000px) { .tools-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (max-width: 640px)  { .tools-grid { grid-template-columns: 1fr; } }
-
-    /* ---- App Card ---- */
-    .app-card {
-      border: 1px solid var(--hairline);
-      border-radius: var(--radius-lg);
-      overflow: hidden;
-      background: var(--white);
-      display: flex;
-      flex-direction: column;
-      transition: border-color 280ms cubic-bezier(0.16,1,0.3,1),
-                  box-shadow 280ms cubic-bezier(0.16,1,0.3,1),
-                  transform 280ms cubic-bezier(0.16,1,0.3,1);
-      text-decoration: none;
-      color: inherit;
-    }
-    .app-card:hover {
-      border-color: var(--gold-border);
-      box-shadow: 0 12px 40px rgba(168, 132, 44, 0.1);
-      transform: translateY(-3px);
-    }
-    .app-card__top {
-      padding: 2.25rem 2.25rem 0;
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-    }
-    .app-card__icon-row {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      margin-bottom: 1.5rem;
-    }
-    .app-icon {
-      width: 60px;
-      height: 60px;
-      border-radius: 14px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-      background: var(--cream-mid);
-      color: var(--ink);
-      border: 1px solid var(--hairline);
-    }
-    .app-icon svg { width: 30px; height: 30px; }
-    .app-platform-badges { display: flex; gap: 0.4rem; flex-wrap: wrap; justify-content: flex-end; }
-    .badge {
-      font-family: var(--font-mono);
-      font-size: 0.6rem;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      padding: 0.25rem 0.55rem;
-      border-radius: 4px;
-      background: var(--gray-100);
-      color: var(--muted);
-      border: 1px solid var(--gray-200);
-    }
-    .badge--ios     { background: rgba(35,78,112,0.08);  color: var(--marine);  border-color: rgba(35,78,112,0.2); }
-    .badge--mac     { background: rgba(168,132,44,0.08); color: var(--gold);    border-color: var(--gold-border); }
-    .badge--android { background: rgba(79,140,79,0.08);  color: #3a7a3a;        border-color: rgba(79,140,79,0.2); }
-    .app-card__tagline {
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--gold);
-      margin-bottom: 0.5rem;
-    }
-    .app-card__name {
-      font-family: var(--font-display);
-      font-size: 1.75rem;
-      color: var(--ink);
-      margin-bottom: 0.85rem;
-    }
-    .app-card__desc {
-      font-size: 0.9375rem;
-      color: var(--muted);
-      line-height: 1.8;
-      margin-bottom: 1.5rem;
-      flex: 1;
-    }
-    .app-features {
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 0.55rem;
-      margin-bottom: 1.75rem;
-    }
-    .app-features li {
-      display: flex;
-      align-items: flex-start;
-      gap: 0.65rem;
-      font-size: 0.875rem;
-      color: var(--gray-700);
-      line-height: 1.5;
-    }
-    .app-features li::before {
-      content: '';
-      display: block;
-      width: 4px;
-      height: 4px;
-      border-radius: 50%;
-      background: var(--gold);
-      flex-shrink: 0;
-      margin-top: 0.5rem;
-    }
-    .app-card__bottom {
-      padding: 1.25rem 2.25rem 2rem;
-      border-top: 1px solid var(--hairline);
-      display: flex;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-    .btn-dl {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      padding: 0.6rem 1.1rem;
-      font-family: var(--font-body);
-      font-size: 0.8125rem;
-      font-weight: 600;
-      border-radius: var(--radius);
-      border: 1.5px solid transparent;
-      transition: transform 200ms, box-shadow 200ms, background 150ms, border-color 150ms, color 150ms;
-      white-space: nowrap;
-      text-decoration: none;
-    }
-    .btn-dl svg { width: 13px; height: 13px; flex-shrink: 0; }
-    .btn-dl--ghost {
-      background: transparent;
-      color: var(--muted);
-      border-color: var(--gray-200);
-    }
-    .btn-dl--ghost:hover { border-color: var(--gold-border); color: var(--gold); }
-    .btn-dl--arrow {
-      background: transparent;
-      color: var(--marine);
-      border-color: transparent;
-      padding-left: 0;
-      font-weight: 500;
-    }
-    .btn-dl--arrow:hover { color: var(--gold); }
-    .card-license {
-      margin-left: auto;
-      font-family: var(--font-mono);
-      font-size: 0.65rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--gray-300);
-    }
-
-    /* ---- OSS strip ---- */
-    .oss-strip { background: var(--charcoal); padding: 4rem 0; }
-    .oss-inner {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 3rem;
-      align-items: center;
-    }
-    @media (max-width: 640px) { .oss-inner { grid-template-columns: 1fr; gap: 1.5rem; } }
-    .oss-headline {
-      font-family: var(--font-display);
-      font-size: clamp(1.5rem, 3vw, 2.25rem);
-      color: white;
-      margin-bottom: 0.85rem;
-      line-height: 1.2;
-    }
-    .oss-headline em { color: var(--gold-light); font-style: italic; }
-    .oss-body { font-size: 0.9375rem; font-weight: 300; color: var(--warm-white-60); line-height: 1.8; max-width: 44rem; }
-    .oss-license {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 0.5rem;
-      text-align: center;
-      min-width: 110px;
-    }
-    .oss-license__mark { font-family: var(--font-display); font-size: 2.25rem; color: var(--gold); line-height: 1; }
-    .oss-license__label { font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--warm-white-35); }
-  </style>
 </head>
 <body>
 
@@ -252,7 +30,6 @@
         <a href="../index.html#thesis">Thesis</a>
         <a href="../index.html#model">Model</a>
         <a href="../index.html#founding">Founding</a>
-        <a href="../philosophy.html">Philosophy</a>
         <a href="../tools/" class="is-active">Tools</a>
         <a href="../apply.html" class="is-apply">Apply</a>
       </nav>
@@ -266,248 +43,68 @@
       <div class="frame">
         <p class="eyebrow rise">SDIT Tools · Free &amp; Open Source</p>
         <h1 class="rise d1">Tools built for <em>the age of AI</em>.</h1>
-        <p class="standfirst rise d2">Free software from the San Diego Institute of Technology — designed to help you stay focused, protect your privacy, and understand the machines you use every day.</p>
+        <p class="standfirst rise d2">Free software from the San Diego Institute of Technology — simple instruments for attention, understanding, privacy, and taste.</p>
         <p class="standfirst rise d3">No cost. No tracking. No lock-in.</p>
         <div class="meridian rise d3" aria-hidden="true">
           <svg width="44" height="24" viewBox="0 0 44 24" fill="none">
             <circle cx="22" cy="20" r="9" stroke="#A8842C" stroke-width="1.25"/>
             <line x1="0" y1="20" x2="44" y2="20" stroke="#234E70" stroke-width="1.25"/>
           </svg>
-          <span class="coords">MIT Licensed · iOS · Android · macOS</span>
+          <span class="coords">MIT Licensed · In Testing · iOS · macOS · tvOS</span>
           <span class="line"></span>
         </div>
       </div>
     </section>
 
-    <!-- ============ PHILOSOPHY ============ -->
-    <section class="tools-philosophy">
-      <div class="frame">
-        <div class="article-grid">
-          <div class="article-label">Why We Build</div>
-          <div class="phil-body">
-            <div class="phil-item" data-animate>
-              <div class="phil-item__icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M12 2a7 7 0 0 1 7 7c0 4-3.5 8-7 11C8.5 17 5 13 5 9a7 7 0 0 1 7-7Z"/>
-                  <circle cx="12" cy="9" r="2.5"/>
-                </svg>
-              </div>
-              <p class="phil-item__title">Free, forever.</p>
-              <p>Good tools should be accessible to everyone, not reserved for those who can afford subscriptions. These apps are, and always will be, free.</p>
+    <!-- ============ THE TOOLS ============ -->
+    <section class="article" id="tools">
+      <div class="frame article-grid">
+        <div class="article-label">The Tools<span class="num">Five Apps</span></div>
+        <div class="article-body">
+          <h2>Simple instruments, plainly made.</h2>
+          <p class="lede">Each tool does one thing well, costs nothing, and keeps nothing of yours. The source for every one is public.</p>
+          <div class="triad">
+            <div class="triad-row">
+              <span class="t-name">Focus</span>
+              <p>One button, a calm countdown, a daily goal that compounds into deep work. Discipline over motivation. iOS &amp; macOS.<br><a href="focus/">About →</a>&ensp;<a href="https://github.com/sandiegotech/Focus" target="_blank" rel="noopener">Source →</a></p>
             </div>
-            <div class="phil-item" data-animate>
-              <div class="phil-item__icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                  <rect x="3" y="11" width="18" height="11" rx="2"/>
-                  <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-                </svg>
-              </div>
-              <p class="phil-item__title">Open source.</p>
-              <p>Every line of code is public. Read it, audit it, fork it. Trust should be earned through transparency, not promised through marketing.</p>
+            <div class="triad-row">
+              <span class="t-name">Gloss</span>
+              <p>Select a word — or a whole paragraph — anywhere on your iPhone and understand it in the context you found it. iOS.<br><a href="gloss/">About →</a>&ensp;<a href="https://github.com/sandiegotech/Gloss" target="_blank" rel="noopener">Source →</a></p>
             </div>
-            <div class="phil-item" data-animate>
-              <div class="phil-item__icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="12" r="9"/>
-                  <path d="M12 8v4l3 3"/>
-                </svg>
-              </div>
-              <p class="phil-item__title">Built for now.</p>
-              <p>The age of AI demands new kinds of tools — for attention, for privacy, for understanding what our machines are doing. These are a start.</p>
+            <div class="triad-row">
+              <span class="t-name">Scope</span>
+              <p>A quiet menu-bar window into what your Mac is actually doing — power, memory, storage, and network at a glance. macOS.<br><a href="scope/">About →</a>&ensp;<a href="https://github.com/sandiegotech/Scope" target="_blank" rel="noopener">Source →</a></p>
             </div>
+            <div class="triad-row">
+              <span class="t-name">Shade</span>
+              <p>A deep privacy cleanup once, a quick re-check weekly, and the plain-language context to understand who is tracking you. iOS.<br><a href="shade/">About →</a>&ensp;<a href="https://github.com/sandiegotech/Shade" target="_blank" rel="noopener">Source →</a></p>
+            </div>
+            <div class="triad-row">
+              <span class="t-name">The Gallery</span>
+              <p>Your television becomes an art gallery: one spotlit work at a time, music from the moment it was made, and the full story on a placard. Apple TV.<br><a href="gallery/">About →</a>&ensp;<a href="https://github.com/sandiegotech/Gallery" target="_blank" rel="noopener">Source →</a></p>
+            </div>
+          </div>
+          <div class="status">
+            <span class="s-label">Source</span>
+            All code is published under the MIT License at <a href="https://github.com/sandiegotech" target="_blank" rel="noopener">github.com/sandiegotech</a>
+          </div>
+          <div class="status">
+            <span class="s-label">Status</span>
+            All five apps are in testing and not yet on the App Store. TestFlight invites go out by request — <a href="mailto:brandon@sandiegotech.org?subject=SDIT%20Tools%20Testing">write to test them</a>. Honest feedback is the contribution we need most right now.
           </div>
         </div>
       </div>
     </section>
 
-    <!-- ============ TOOLS ============ -->
-    <section class="tools-grid-section" id="tools">
-      <div class="frame">
-        <div class="article-grid" style="align-items: start; margin-bottom: 2rem;">
-          <div class="article-label">Current Release<span class="num">4 Tools</span></div>
-          <div class="article-body">
-            <h2>The Tools</h2>
-          </div>
-        </div>
-
-        <div class="tools-grid">
-
-          <!-- ---- Focus ---- -->
-          <a href="focus/" class="app-card" data-animate>
-            <div class="app-card__top">
-              <div class="app-card__icon-row">
-                <div class="app-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round">
-                    <circle cx="12" cy="12" r="9" stroke-width="1.75" stroke-opacity="0.18"/>
-                    <circle cx="12" cy="12" r="9" stroke-width="2.2"
-                      stroke-dasharray="42.4 56.5" stroke-dashoffset="14.1"
-                      transform="rotate(-90 12 12)"/>
-                    <circle cx="12" cy="12" r="2" fill="currentColor" stroke="none"/>
-                    <line x1="12" y1="2.5" x2="12" y2="5.5" stroke-width="2.2"/>
-                  </svg>
-                </div>
-                <div class="app-platform-badges">
-                  <span class="badge badge--ios">iOS</span>
-                  <span class="badge badge--mac">macOS</span>
-                </div>
-              </div>
-              <p class="app-card__tagline">Attention &amp; Deep Work</p>
-              <h3 class="app-card__name">Focus</h3>
-              <p class="app-card__desc">Press one button, watch a calm countdown toward your daily goal, build the hours up over time. Discipline over motivation — structured sessions and gentle accountability without the guilt trip.</p>
-              <ul class="app-features">
-                <li>Structured work and rest sessions built around real cognitive limits</li>
-                <li>Daily intention setting — one clear priority before the phone takes over</li>
-                <li>No accounts, no feed, no algorithm</li>
-              </ul>
-            </div>
-            <div class="app-card__bottom">
-              <span class="btn-dl btn-dl--arrow">View tool →</span>
-              <a href="https://github.com/sandiegotech/Focus" class="btn-dl btn-dl--ghost" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
-                GitHub
-              </a>
-              <span class="card-license">MIT</span>
-            </div>
-          </a>
-
-          <!-- ---- Gloss ---- -->
-          <a href="gloss/" class="app-card" data-animate>
-            <div class="app-card__top">
-              <div class="app-card__icon-row">
-                <div class="app-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
-                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
-                    <line x1="9" y1="9" x2="15" y2="9"/>
-                    <line x1="9" y1="13" x2="13" y2="13"/>
-                  </svg>
-                </div>
-                <div class="app-platform-badges">
-                  <span class="badge badge--ios">iOS</span>
-                </div>
-              </div>
-              <p class="app-card__tagline">Language &amp; Context</p>
-              <h3 class="app-card__name">Gloss</h3>
-              <p class="app-card__desc">Select a word — or a whole paragraph — anywhere on your iPhone. Gloss explains what it means, what it means in the context you're reading, how it's commonly used, and where it comes from.</p>
-              <ul class="app-features">
-                <li>Works in any app via the Share sheet</li>
-                <li>Full passage context, not just dictionary definitions</li>
-                <li>Follow-up questions and saved lookup log</li>
-                <li>Free daily allowance — no API key needed</li>
-              </ul>
-            </div>
-            <div class="app-card__bottom">
-              <span class="btn-dl btn-dl--arrow">View tool →</span>
-              <a href="https://github.com/sandiegotech/Gloss" class="btn-dl btn-dl--ghost" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
-                GitHub
-              </a>
-              <span class="card-license">MIT</span>
-            </div>
-          </a>
-
-          <!-- ---- Scope ---- -->
-          <a href="scope/" class="app-card" data-animate>
-            <div class="app-card__top">
-              <div class="app-card__icon-row">
-                <div class="app-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="12" cy="12" r="9"/>
-                    <circle cx="12" cy="12" r="3"/>
-                    <path d="M12 3v3M12 18v3M3 12h3M18 12h3"/>
-                  </svg>
-                </div>
-                <div class="app-platform-badges">
-                  <span class="badge badge--mac">macOS</span>
-                </div>
-              </div>
-              <p class="app-card__tagline">Performance &amp; System Health</p>
-              <h3 class="app-card__name">Scope</h3>
-              <p class="app-card__desc">A lightweight native macOS menu bar utility for live system metrics with a storage-first point of view. See exactly what your machine is doing — CPU, memory, disk, battery, network — without opening Activity Monitor.</p>
-              <ul class="app-features">
-                <li>Menu bar icon with live load bars — no intrusive windows</li>
-                <li>Storage audit identifying large files, caches, and cleanup candidates</li>
-                <li>Top app power draw, memory pressure, and network destinations</li>
-                <li>Battery health and thermal state at a glance</li>
-              </ul>
-            </div>
-            <div class="app-card__bottom">
-              <span class="btn-dl btn-dl--arrow">View tool →</span>
-              <a href="https://github.com/sandiegotech/Mac-Disko" class="btn-dl btn-dl--ghost" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
-                GitHub
-              </a>
-              <span class="card-license">MIT</span>
-            </div>
-          </a>
-
-          <!-- ---- Shade ---- -->
-          <a href="shade/" class="app-card" data-animate>
-            <div class="app-card__top">
-              <div class="app-card__icon-row">
-                <div class="app-icon" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
-                  </svg>
-                </div>
-                <div class="app-platform-badges">
-                  <span class="badge badge--ios">iOS</span>
-                </div>
-              </div>
-              <p class="app-card__tagline">Privacy &amp; Digital Awareness</p>
-              <h3 class="app-card__name">Shade</h3>
-              <p class="app-card__desc">A privacy posture advisor for iPhone. See how exposed your phone is right now — Bluetooth, location, network, app permissions — with guided steps to reduce what you're broadcasting.</p>
-              <ul class="app-features">
-                <li>Exposure score dashboard with plain-language breakdown</li>
-                <li>Mission modes: Everyday, Travel, Meeting, Ghost</li>
-                <li>Manual checklist for iOS settings apps can't toggle directly</li>
-                <li>No cloud, no account, no tracking of any kind</li>
-              </ul>
-            </div>
-            <div class="app-card__bottom">
-              <span class="btn-dl btn-dl--arrow">View tool →</span>
-              <a href="https://github.com/sandiegotech/iPhone-GhostMode" class="btn-dl btn-dl--ghost" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
-                GitHub
-              </a>
-              <span class="card-license">MIT</span>
-            </div>
-          </a>
-
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ OPEN SOURCE ============ -->
-    <div class="oss-strip">
-      <div class="frame">
-        <div class="oss-inner">
-          <div>
-            <p class="eyebrow" style="color: var(--gold-light); margin-bottom: 0.75rem;">Open Source</p>
-            <h2 class="oss-headline">MIT Licensed — <em>use it for anything</em>.</h2>
-            <p class="oss-body">Every SDIT tool is published under the MIT License. Read the source, build on it, distribute it, or integrate it into your own projects. Software built for the public good should be inspectable by the public.</p>
-          </div>
-          <div class="oss-license">
-            <span class="oss-license__mark">MIT</span>
-            <span class="oss-license__label">License</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ============ ROADMAP ============ -->
-    <section class="article" id="roadmap">
+    <!-- ============ MORE COMING ============ -->
+    <section class="article correspond" id="roadmap">
       <div class="frame article-grid">
         <div class="article-label">Roadmap</div>
         <div class="article-body">
-          <h2>More tools are coming.</h2>
-          <p class="lede">These four are the beginning.</p>
-          <p>The Institute is building a small suite of tools that address the most pressing challenges of living and working in the age of AI — attention, privacy, performance, digital literacy, and more. Each will follow the same principles: free, open-source, no tracking, no dark patterns.</p>
+          <h2>More are coming.</h2>
+          <p class="lede">These five are the beginning — each made for the same reason: a person should meet the computer in a way that strengthens the mind rather than dissolves it.</p>
           <p>If you have an idea for a tool that fits this frame, <a href="mailto:brandon@sandiegotech.org?subject=Tools%20Idea">write to us</a>.</p>
-          <div class="status">
-            <span class="s-label">GitHub</span>
-            All source code is public at <a href="https://github.com/sandiegotech" target="_blank" rel="noopener">github.com/sandiegotech</a>
-          </div>
         </div>
       </div>
     </section>
@@ -524,17 +121,11 @@
         <a href="../privacy.html">Privacy</a>
         <a href="../terms.html">Terms</a>
         <a href="../non-discrimination.html">Non-Discrimination</a>
+        <a href="../philosophy.html">Philosophy</a>
+        <a href="../brand.html">Brand</a>
       </nav>
     </div>
   </footer>
-
-  <script>
-    const observer = new IntersectionObserver(
-      entries => entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); } }),
-      { threshold: 0.12 }
-    );
-    document.querySelectorAll('[data-animate]').forEach(el => observer.observe(el));
-  </script>
 
 </body>
 </html>
