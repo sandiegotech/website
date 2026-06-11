@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lantern — SDIT Tools</title>
-  <meta name="description" content="Lantern: turn your X timeline into a finite, newspaper-style personal news issue. Free, open-source macOS app from SDIT.">
+  <title>Shade — SDIT Tools</title>
+  <meta name="description" content="Shade: a privacy posture advisor for iPhone. See how exposed your phone is right now. Free, open-source, from SDIT.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -21,7 +21,7 @@
       text-transform: uppercase; padding: 0.3rem 0.65rem; border-radius: 4px;
       background: var(--gray-100); color: var(--muted); border: 1px solid var(--gray-200);
     }
-    .badge--mac { background: rgba(168,132,44,0.08); color: var(--gold); border-color: var(--gold-border); }
+    .badge--ios { background: rgba(35,78,112,0.08); color: var(--marine); border-color: rgba(35,78,112,0.2); }
     .tool-icon {
       width: 80px; height: 80px; border-radius: 20px;
       background: var(--cream-mid); border: 1px solid var(--hairline);
@@ -69,25 +69,22 @@
   <main>
     <section class="tool-hero">
       <div class="frame">
-        <p class="tool-breadcrumb"><a href="../../tools/">Tools</a><span>/</span>Lantern</p>
+        <p class="tool-breadcrumb"><a href="../../tools/">Tools</a><span>/</span>Shade</p>
         <div class="tool-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M9 4H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V10l-6-6z"/>
-            <path d="M9 4v6h6"/>
-            <line x1="8" y1="14" x2="16" y2="14"/>
-            <line x1="8" y1="18" x2="12" y2="18"/>
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
           </svg>
         </div>
         <div class="tool-meta">
-          <span class="badge badge--mac">macOS</span>
+          <span class="badge badge--ios">iOS</span>
           <span class="badge">MIT License</span>
           <span class="badge">Free</span>
         </div>
-        <p class="eyebrow">News &amp; Signal</p>
-        <h1 class="d1">Lantern</h1>
-        <p class="standfirst" style="max-width: 42rem;">Turns your X home timeline into a finite, linked personal news issue. Fetches recent posts from your authenticated timeline, shapes them into a newspaper-style world overview, and leaves the low-signal scroll behind.</p>
+        <p class="eyebrow">Privacy &amp; Digital Awareness</p>
+        <h1 class="d1">Shade</h1>
+        <p class="standfirst" style="max-width: 42rem;">A privacy posture advisor for iPhone. Shade answers one question: how exposed is this phone right now? Bluetooth, location, network, app permissions — all visible at a glance, with guided steps to reduce what you're broadcasting.</p>
         <div class="tool-links">
-          <a href="https://github.com/sandiegotech/Mac-Lantern" class="btn btn--primary" target="_blank" rel="noopener">
+          <a href="https://github.com/sandiegotech/iPhone-GhostMode" class="btn btn--primary" target="_blank" rel="noopener">
             <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
             View on GitHub
           </a>
@@ -100,13 +97,13 @@
       <div class="frame article-grid">
         <div class="article-label">What it does</div>
         <div class="article-body">
-          <h2>The timeline, edited into an issue.</h2>
-          <p class="lede">Read the news once. Then close it.</p>
-          <p>Lantern uses X API v2 to fetch your authenticated reverse-chronological timeline, then passes the results through Grok to produce a structured front page: a lead story, ranked topic heat scores, a linked overview with source signals, and context on what matters. The infinite scroll becomes a finite document — something you can read and finish.</p>
-          <p>Credentials stay local. There's no cloud sync, no tracking, and no algorithm beyond the one you configure. Topic weights and interest profiles are editable. Issues are cached locally so you can return to them without refetching.</p>
+          <h2>Know your exposure. Reduce it.</h2>
+          <p class="lede">Most people have no idea how much their iPhone broadcasts.</p>
+          <p>Shade checks your phone's privacy posture across the signals that matter: Bluetooth state, network status, location permissions, and the apps that have access to more than they need. The exposure score gives you a clear read on where you stand. Mission modes — Everyday, Travel, Meeting, and Ghost — give you a structured way to tighten your posture for the situation you're in.</p>
+          <p>The manual checklist covers iOS settings Apple doesn't expose to ordinary apps, walking you through the exact path to review each one. A local app risk guide explains what the apps already on your phone can access. Everything stays on-device — no cloud, no account, no irony.</p>
           <div class="status">
             <span class="s-label">Platforms</span>
-            macOS 14 or newer — built with SwiftUI. Requires an X developer account with OAuth 2.0 and an xAI API key.
+            iOS — built with SwiftUI. Open <code>GhostMode.xcodeproj</code> in Xcode and run the target on a device or simulator.
           </div>
         </div>
       </div>
