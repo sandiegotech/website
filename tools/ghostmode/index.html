@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ghost Mode — SDIT Tools</title>
+  <meta name="description" content="Ghost Mode: a calm device health and exposure monitor for iOS, macOS, and Android. Free, open-source, from SDIT.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="theme-color" content="#101C2C">
+  <style>
+    .tool-hero { padding: 5rem 0 4rem; border-bottom: 1px solid var(--hairline); }
+    .tool-meta { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+    .badge {
+      font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.1em;
+      text-transform: uppercase; padding: 0.3rem 0.65rem; border-radius: 4px;
+      background: var(--gray-100); color: var(--muted); border: 1px solid var(--gray-200);
+    }
+    .badge--ios     { background: rgba(35,78,112,0.08);  color: var(--marine);  border-color: rgba(35,78,112,0.2); }
+    .badge--mac     { background: rgba(168,132,44,0.08); color: var(--gold);    border-color: var(--gold-border); }
+    .badge--android { background: rgba(79,140,79,0.08);  color: #3a7a3a;        border-color: rgba(79,140,79,0.2); }
+    .tool-icon {
+      width: 80px; height: 80px; border-radius: 20px;
+      background: var(--cream-mid); border: 1px solid var(--hairline);
+      display: flex; align-items: center; justify-content: center;
+      color: var(--ink); margin-bottom: 2rem;
+    }
+    .tool-icon svg { width: 40px; height: 40px; }
+    .tool-links { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 2.5rem; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      padding: 0.7rem 1.4rem; font-family: var(--font-body); font-size: 0.875rem;
+      font-weight: 600; border-radius: var(--radius); border: 1.5px solid transparent;
+      text-decoration: none; transition: transform 200ms, box-shadow 200ms, background 150ms, border-color 150ms, color 150ms;
+    }
+    .btn svg { width: 14px; height: 14px; flex-shrink: 0; }
+    .btn--primary { background: var(--charcoal); color: var(--warm-white-90); border-color: var(--charcoal); }
+    .btn--primary:hover { background: var(--charcoal-light); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(16,28,44,0.22); }
+    .btn--ghost { background: transparent; color: var(--muted); border-color: var(--gray-200); }
+    .btn--ghost:hover { border-color: var(--gold-border); color: var(--gold); }
+    .tool-breadcrumb {
+      font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.1em;
+      text-transform: uppercase; color: var(--muted); margin-bottom: 2rem;
+    }
+    .tool-breadcrumb a { color: var(--muted); text-decoration: none; }
+    .tool-breadcrumb a:hover { color: var(--gold); }
+    .tool-breadcrumb span { margin: 0 0.5rem; }
+    .platform-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2.5rem; }
+    @media (max-width: 720px) { .platform-grid { grid-template-columns: 1fr; } }
+    .platform-card {
+      border: 1px solid var(--hairline); border-radius: var(--radius-lg);
+      padding: 1.75rem; background: var(--white);
+    }
+    .platform-card h3 { font-family: var(--font-display); font-size: 1.1rem; color: var(--ink); margin-bottom: 0.5rem; }
+    .platform-card p { font-size: 0.875rem; color: var(--muted); line-height: 1.7; margin-bottom: 1rem; }
+    .platform-card a { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.8125rem; color: var(--marine); text-decoration: none; font-weight: 500; }
+    .platform-card a:hover { color: var(--gold); }
+  </style>
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="frame masthead-inner">
+      <a href="../../index.html" class="wordmark"><img class="masthead-crest" src="/assets/sdit-shield-ink.png" alt="" width="23" height="23" /><span>San Diego Institute of Technology</span></a>
+      <nav class="toc" aria-label="Sections">
+        <a href="../../index.html#premise">Premise</a>
+        <a href="../../index.html#thesis">Thesis</a>
+        <a href="../../index.html#model">Model</a>
+        <a href="../../index.html#founding">Founding</a>
+        <a href="../../tools/" class="is-active">Tools</a>
+        <a href="../../apply.html" class="is-apply">Apply</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="tool-hero">
+      <div class="frame">
+        <p class="tool-breadcrumb"><a href="../../tools/">Tools</a><span>/</span>Ghost Mode</p>
+        <div class="tool-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+        </div>
+        <div class="tool-meta">
+          <span class="badge badge--ios">iOS</span>
+          <span class="badge badge--mac">macOS</span>
+          <span class="badge badge--android">Android</span>
+          <span class="badge">MIT License</span>
+          <span class="badge">Free</span>
+        </div>
+        <p class="eyebrow">Privacy &amp; Exposure Control</p>
+        <h1 class="d1">Ghost Mode</h1>
+        <p class="standfirst" style="max-width: 42rem;">A calm device health and exposure monitor. See what is broadcasting about you — Wi-Fi, Bluetooth, sensors, outbound traffic — and reduce your signal surface before entering a sensitive environment. No cloud. No account. No tracking of any kind.</p>
+        <div class="tool-links">
+          <a href="../../tools/" class="btn btn--ghost">← All Tools</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="article">
+      <div class="frame article-grid">
+        <div class="article-label">What it does</div>
+        <div class="article-body">
+          <h2>Know your exposure. Reduce it.</h2>
+          <p class="lede">Most people have no idea how much their devices broadcast.</p>
+          <p>Ghost Mode answers one question: how exposed is this device right now? Wi-Fi, Bluetooth, cellular, NFC, active listeners, outbound traffic destinations — all of it made visible. Mission modes (Everyday, Travel, Meeting, Blackout) provide a structured way to tighten your posture for the situation you're in. The posture checklist shows what is secure, what needs review, and exactly what action to take.</p>
+          <p>Every version is intentionally dependency-light and easy to audit. Local-only persistence — nothing leaves the device.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="article" style="border-top: 1px solid var(--hairline);">
+      <div class="frame">
+        <h2 style="font-family: var(--font-display); font-size: 1.5rem; color: var(--ink); margin-bottom: 0.5rem;">Available on three platforms</h2>
+        <p style="color: var(--muted); font-size: 0.9375rem; margin-bottom: 0;">Each version is a separate native app, built for its platform's security model.</p>
+        <div class="platform-grid">
+          <div class="platform-card">
+            <span class="badge badge--mac" style="display:inline-block; margin-bottom:1rem;">macOS</span>
+            <h3>Ghost Mode — Mac</h3>
+            <p>Persistent menu bar indicator, compact popover for switching exposure levels, live traffic visibility using local socket data, security scan, and an admin helper for real network lockdown actions.</p>
+            <a href="https://github.com/sandiegotech/Mac-GhostMode" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
+              sandiegotech/Mac-GhostMode
+            </a>
+          </div>
+          <div class="platform-card">
+            <span class="badge badge--ios" style="display:inline-block; margin-bottom:1rem;">iOS</span>
+            <h3>Ghost Mode — iPhone</h3>
+            <p>Exposure score dashboard, Bluetooth and network state checks, manual privacy checklist for iOS settings, mission modes, and local app risk guide. Fully local — no cloud, no account.</p>
+            <a href="https://github.com/sandiegotech/iPhone-GhostMode" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
+              sandiegotech/iPhone-GhostMode
+            </a>
+          </div>
+          <div class="platform-card">
+            <span class="badge badge--android" style="display:inline-block; margin-bottom:1rem;">Android</span>
+            <h3>Ghost Mode — Android</h3>
+            <p>Field-control dashboard for reducing a phone's active radios, sensors, data egress paths, and visible signature. Drop-down control groups, per-control verification, and Black Mode for minimal exposure.</p>
+            <a href="https://github.com/sandiegotech/Android-GhostMode" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>
+              sandiegotech/Android-GhostMode
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="colophon">
+    <div class="frame colophon-inner">
+      <span>San Diego Institute of Technology · MMXXVI</span>
+      <span>501(c)(3) Nonprofit · EIN 39-2954006</span>
+      <nav class="policies" aria-label="Policies">
+        <a href="../../accreditation.html">Accreditation</a>
+        <a href="../../privacy.html">Privacy</a>
+        <a href="../../terms.html">Terms</a>
+        <a href="../../non-discrimination.html">Non-Discrimination</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>
