@@ -466,7 +466,7 @@ h1, h2, h3, h4 {
   white-space: nowrap;
 }
 
-.masthead-crest { height: 1.55rem; width: auto; display: block; }
+.masthead-crest { height: 2rem; width: auto; display: block; }
 
 .masthead .toc a {
   color: var(--muted);
@@ -516,7 +516,7 @@ h1, h2, h3, h4 {
     gap: 0;
     align-items: center;
   }
-  .masthead-inner .wordmark span { display: none; }
+  .masthead-inner .wordmark span { font-size: 0.62rem; letter-spacing: 0.03em; }
   .masthead .toc {
     justify-content: flex-start;
     white-space: normal;
