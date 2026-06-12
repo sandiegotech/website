@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>The Plan — San Diego Institute of Technology</title>
+  <meta name="description" content="The working build plan of the San Diego Institute of Technology — what is being made, in what order, checked against the philosophy.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#101C2C">
+</head>
+<body>
+
+  <!-- ============ MASTHEAD ============ -->
+  <header class="masthead">
+    <div class="frame masthead-inner">
+      <a href="/index.html" class="wordmark"><img class="masthead-crest" src="/assets/sdit-shield-ink.png" alt="" width="23" height="23" /><span>San Diego Institute of Technology</span></a>
+      <button class="hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      <nav class="toc" aria-label="Site">
+        <a href="/daily.html">Daily</a>
+        <a href="/papers/">Papers</a>
+        <a href="/tools/">Tools</a>
+        <a href="https://learn.sandiegotech.org" target="_blank" rel="noopener">Curriculum</a>
+        <a href="/apply.html" class="is-apply">Join</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- ============ HERO ============ -->
+    <section class="charter">
+      <div class="frame">
+        <p class="eyebrow rise">The Plan · Internal Working Document · MMXXVI</p>
+        <h1 class="rise d1">What we are building, <em>and in what order</em>.</h1>
+        <p class="standfirst rise d2">The <a href="/philosophy.html">philosophy</a> says what the Institute is for. This page says what is actually being made to serve it — what is done, what is underway, and what is next. It is the execution companion to the constitution, and like the constitution it is meant to be used.</p>
+        <p class="standfirst rise d3">Every item here is checked against the tenets before it ships — above all <a href="/philosophy.html#artifact">the Artifact</a>: knowledge is completed in the making. A plan that makes nothing is decoration.</p>
+        <p class="rise d3" style="font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);">Backstage · Not linked from public navigation · <span class="tag tag--done">Done</span> <span class="tag tag--building">Building</span> <span class="tag tag--planned">Planned</span></p>
+      </div>
+    </section>
+
+    <!-- ============ THE SITE ============ -->
+    <section class="article" id="site">
+      <div class="frame article-grid">
+        <div class="article-label">I<span class="num">The Site &amp; Identity</span></div>
+        <div class="article-body">
+          <h2>The front door.</h2>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--done">Done</span></div>
+            <div class="plan-item__body">
+              <h3>Two-motions structure</h3>
+              <p>The whole site is organized around exploration and making. Navigation: Daily · Papers · Tools · Curriculum · Apply, uniform on every page.</p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--done">Done</span></div>
+            <div class="plan-item__body">
+              <h3>The Artifact tenet</h3>
+              <p>Consumption and creation added to the <a href="/philosophy.html#artifact">philosophy</a> as Tenet XII — the doctrinal root of the whole structure.</p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--planned">Planned</span></div>
+            <div class="plan-item__body">
+              <h3>Brand guide reconciliation</h3>
+              <p>The internal <a href="/brand.html">brand guide</a> still carries a few stale details (title/meta inconsistencies). Low priority; tidy when convenient.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ THE DAILY ============ -->
+    <section class="article" id="daily">
+      <div class="frame article-grid">
+        <div class="article-label">II<span class="num">The Daily · Email</span></div>
+        <div class="article-body">
+          <h2>The habit, automated.</h2>
+          <p class="lede">The <a href="/daily.html">Daily</a> page is live. The one real gap is delivery: there is no email backend yet. The intent is a simple, privacy-respecting list — manual now, automated soon.</p>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--building">Building</span></div>
+            <div class="plan-item__body">
+              <h3>Interim — manual list</h3>
+              <p>Today the subscribe button opens an email to <a href="mailto:brandon@sandiegotech.org">brandon@sandiegotech.org</a>. Names are added to the list by hand. This works for the founding phase and costs nothing.</p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--planned">Planned</span></div>
+            <div class="plan-item__body">
+              <h3>Automated — a real subscribe form</h3>
+              <p><strong>Recommended: Buttondown.</strong> It is built for exactly this — a plain daily letter, privacy-respecting, no surveillance, a free tier to start, and an embeddable HTML form that needs no JavaScript. It fits the aesthetic and the values.</p>
+              <p>Alternatives if needed: MailerLite (larger free tier), Kit/ConvertKit (creator-focused), or self-hosted Listmonk (free, but needs a server).</p>
+              <p><strong>Handoff:</strong> the account requires a signup, so the founder creates it; hand over the username (or embed snippet) and the subscribe form on the Daily page can be wired to it in a couple of minutes, replacing the interim mailto. Sending the letter itself stays manual until a cadence is set.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ PAPERS ============ -->
+    <section class="article" id="papers">
+      <div class="frame article-grid">
+        <div class="article-label">III<span class="num">Papers</span></div>
+        <div class="article-body">
+          <h2>The making, given back.</h2>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--done">Done</span></div>
+            <div class="plan-item__body">
+              <h3>Paper I — Why the Institute Began</h3>
+              <p>The founding essay. <a href="/papers/why-the-institute-began.html">Published.</a></p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--done">Done</span></div>
+            <div class="plan-item__body">
+              <h3>Paper II — Living in the Age of AI: What Does It Mean to Live Well?</h3>
+              <p>The field guide on meaning and flourishing. <a href="/papers/living-in-the-age-of-ai.html">Published.</a></p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--planned">Planned</span></div>
+            <div class="plan-item__body">
+              <h3>Cadence &amp; backlog</h3>
+              <p>Aim for roughly one paper a week. Maintain a running list of ideas — original arguments and concept explorations — and draft from it steadily. Each new paper is a finished artifact, not a post.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ TOOLS ============ -->
+    <section class="article" id="tools">
+      <div class="frame article-grid">
+        <div class="article-label">IV<span class="num">Tools</span></div>
+        <div class="article-body">
+          <h2>Software as artifact.</h2>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--building">Building</span></div>
+            <div class="plan-item__body">
+              <h3>Five apps in testing</h3>
+              <p>Focus, Gloss, Scope, Shade, and The Gallery are built and <a href="/tools/">documented</a>. All are in testing; TestFlight invites go out by request.</p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--planned">Planned</span></div>
+            <div class="plan-item__body">
+              <h3>Public release</h3>
+              <p>Move from by-request TestFlight to public TestFlight links, then the App Store. Replace the mailto CTAs with real links as each ships. Capture the missing Scope screenshot.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CURRICULUM & FELLOWSHIP ============ -->
+    <section class="article" id="institute">
+      <div class="frame article-grid">
+        <div class="article-label">V<span class="num">Curriculum &amp; Fellowship</span></div>
+        <div class="article-body">
+          <h2>The deeper rooms.</h2>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--building">Building</span></div>
+            <div class="plan-item__body">
+              <h3>Open curriculum</h3>
+              <p>Free and online at <a href="https://learn.sandiegotech.org" target="_blank" rel="noopener">learn.sandiegotech.org</a>, written in the open. Now scoped to course material — the daily exploration lives in the Daily.</p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span class="tag tag--building">Building</span></div>
+            <div class="plan-item__body">
+              <h3>Founding fellowships</h3>
+              <p><a href="/fellowship.html">Applications</a> are read personally. Keep them human; no automated scoring. Grow only as fast as the bar can be cleared.</p>
+            </div>
+          </div>
+          <div class="plan-item">
+            <div class="plan-item__tag"><span style="font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold);">Doctrine</span></div>
+            <div class="plan-item__body">
+              <h3>On participation and fellowship</h3>
+              <div class="status">
+                <span class="s-label">The Founder · MMXXVI</span>
+                Anyone is welcome to visit and stay and contribute. Your acceptance is earned not decided. Show up, put in the work. Fellowships are reserved for those who are driven the most. Not by who might make the greatest things, but by who will inspire others.
+              </div>
+              <p>The floor is zero — no credential, no application required to follow the work, engage with the ideas, or contribute. The fellowship bar is different: not résumé, not potential output — drive, presence, and the capacity to pull others forward. The question is not <em>what will you make</em> but <em>who will you move</em>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CLOSING ============ -->
+    <section class="article correspond" id="next">
+      <div class="frame article-grid">
+        <div class="article-label">Next<span class="num">The near edge</span></div>
+        <div class="article-body">
+          <h2>The next thing to make.</h2>
+          <p>In priority order: wire the Daily email to a real list (founder creates the Buttondown account; the form gets connected), then hold the weekly paper cadence, then move the tools toward public release. The rule is the Artifact's rule — finish things, and give them back.</p>
+          <a class="cta" href="/philosophy.html#artifact">Read the tenet this serves →</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============ COLOPHON ============ -->
+  <footer class="colophon">
+    <div class="frame colophon-inner">
+      <span>San Diego Institute of Technology · MMXXVI</span>
+      <span>Internal Working Document</span>
+      <nav class="policies" aria-label="More">
+        <a href="/philosophy.html">Philosophy</a>
+        <a href="/brand.html">Brand</a>
+        <a href="/index.html">Charter</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelector('.hamburger').addEventListener('click', function() {
+      var open = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', String(!open));
+      document.querySelector('.masthead .toc').classList.toggle('is-open');
+    });
+  </script>
+</body>
+</html>
