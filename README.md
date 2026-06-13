@@ -2,6 +2,8 @@
 
 Public website for [sandiegotech.org](https://sandiegotech.org) — a founding institution for education in the age of AI.
 
+GitHub: [sandiegotech/website](https://github.com/sandiegotech/website)
+
 ## Structure
 
 ```
