@@ -1,9 +1,8 @@
 # Local tooling / preview helpers (not site content)
 .claude/
 
-# Internal working documents — accessible via localhost only, not published
-brand.html
-plan.html
+# Internal working documents — backstage/ folder is local only, not published
+backstage/
 
 # macOS
 .DS_Store
