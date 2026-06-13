@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Legal — San Diego Institute of Technology</title>
-  <meta name="description" content="How San Diego Institute of Technology operates legally — entity structure, education law, content rights, privacy, and accreditation.">
+  <meta name="description" content="Legal information for San Diego Institute of Technology — entity structure, policies, and accreditation status.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
@@ -16,122 +16,72 @@
   <meta name="theme-color" content="#101C2C">
 
   <style>
-    .legal-grid {
-      display: grid;
-      grid-template-columns: 14rem 1fr;
-      gap: 0 3rem;
-      max-width: 60rem;
+    .legal-block {
+      border: 1px solid var(--hairline);
+      border-radius: 4px;
+      padding: 1.5rem;
+      margin-bottom: 1.25rem;
     }
-    @media (max-width: 700px) {
-      .legal-grid { grid-template-columns: 1fr; }
+    .legal-block-label {
+      font-family: var(--font-mono);
+      font-size: 0.55rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.5rem;
     }
-
-    .legal-toc {
-      position: sticky;
-      top: 4rem;
-      align-self: start;
-      padding-top: 0.25rem;
+    .legal-block h3 {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--ink);
+      margin-bottom: 0.4rem;
     }
-    .legal-toc a {
-      display: block;
+    .legal-block p {
+      font-size: 0.88rem;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 0.75rem;
+    }
+    .legal-block a.block-link {
       font-family: var(--font-mono);
       font-size: 0.58rem;
       letter-spacing: 0.12em;
       text-transform: uppercase;
-      color: var(--muted);
-      text-decoration: none;
-      padding: 0.3rem 0;
-      border-bottom: none;
-      transition: color 0.15s;
-    }
-    .legal-toc a:hover { color: var(--ink); }
-    .legal-toc a.toc-active { color: var(--gold); }
-    .legal-toc hr { border: none; border-top: 1px solid var(--hairline); margin: 0.75rem 0; }
-
-    .legal-section {
-      padding-bottom: 3rem;
-      border-bottom: 1px solid var(--hairline);
-      margin-bottom: 3rem;
-    }
-    .legal-section:last-child { border-bottom: none; }
-
-    .legal-section h2 {
-      font-family: var(--font-display);
-      font-size: 1.45rem;
-      font-weight: 500;
-      color: var(--ink);
-      margin-bottom: 0.3rem;
-    }
-    .section-roman {
-      font-family: var(--font-mono);
-      font-size: 0.58rem;
-      letter-spacing: 0.2em;
-      text-transform: uppercase;
       color: var(--gold);
-      display: block;
-      margin-bottom: 0.5rem;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(168,132,44,0.3);
+      padding-bottom: 0.05em;
     }
-    .legal-section p, .legal-section li {
-      font-size: 0.92rem;
-      line-height: 1.7;
-      color: var(--ink);
-    }
-    .legal-section p + p { margin-top: 0.75rem; }
-    .legal-section ul, .legal-section ol {
-      padding-left: 1.25rem;
-      margin: 0.75rem 0;
-    }
-    .legal-section li { margin-bottom: 0.4rem; }
-    .legal-section strong { font-weight: 500; }
-    .legal-section em { color: var(--muted); }
+    .legal-block a.block-link:hover { border-bottom-color: var(--gold); }
 
-    .rule-block {
-      background: #F6F3EC;
-      border-left: 3px solid var(--gold);
-      padding: 1rem 1.25rem;
-      margin: 1rem 0;
-      border-radius: 0 3px 3px 0;
+    .entity-table {
+      width: 100%;
+      border-collapse: collapse;
       font-size: 0.88rem;
-      line-height: 1.6;
-      color: var(--ink);
+      margin-top: 0.5rem;
     }
-    .rule-block strong { display: block; margin-bottom: 0.25rem; font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold); }
-
-    .warn-block {
-      background: #FFF8E8;
-      border-left: 3px solid #D4940A;
-      padding: 1rem 1.25rem;
-      margin: 1rem 0;
-      border-radius: 0 3px 3px 0;
-      font-size: 0.88rem;
-      line-height: 1.6;
-      color: var(--ink);
+    .entity-table td {
+      padding: 0.45rem 0;
+      border-bottom: 1px solid var(--hairline);
+      line-height: 1.4;
+      vertical-align: top;
     }
-    .warn-block strong { display: block; margin-bottom: 0.25rem; font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; color: #9A6A00; }
-
-    .ok-block {
-      background: #F0F7F0;
-      border-left: 3px solid #5A9A5A;
-      padding: 1rem 1.25rem;
-      margin: 1rem 0;
-      border-radius: 0 3px 3px 0;
-      font-size: 0.88rem;
-      line-height: 1.6;
-      color: var(--ink);
-    }
-    .ok-block strong { display: block; margin-bottom: 0.25rem; font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; color: #3A7A3A; }
-
-    .legal-meta {
+    .entity-table tr:last-child td { border-bottom: none; }
+    .entity-table td:first-child {
       font-family: var(--font-mono);
-      font-size: 0.62rem;
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
       color: var(--muted);
-      line-height: 1.6;
+      width: 11rem;
+      padding-right: 1.5rem;
     }
+    .entity-table td:last-child { color: var(--ink); }
   </style>
 </head>
 <body>
 
-  <!-- ============ BACKSTAGE HEADER ============ -->
   <header class="masthead">
     <div class="frame masthead-inner">
       <a href="/" class="wordmark"><img class="masthead-crest" src="/assets/sdit-shield-ink.png" alt="" width="19" height="23" /><span>San Diego Institute of Technology</span></a>
@@ -146,331 +96,64 @@
     </div>
   </header>
 
-  <main style="max-width: 64rem; margin: 0 auto; padding: 3rem 1.5rem 5rem;">
+  <main style="max-width: 44rem; margin: 0 auto; padding: 3rem 1.5rem 5rem;">
 
-    <!-- Header -->
     <p style="font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem;">San Diego Institute of Technology · Legal</p>
-    <h1 style="font-family: var(--font-display); font-size: 2.2rem; font-weight: 500; color: var(--ink); margin-bottom: 0.4rem;">Legal Reference</h1>
-    <p style="font-size: 1rem; color: var(--muted); max-width: 44rem; margin-bottom: 0.75rem; line-height: 1.65;">A practical boundary map for operating SDIT seriously. Not a restriction list — a guide to knowing where the lines are so you can operate right up to them with confidence.</p>
-    <p style="font-family: var(--font-mono); font-size: 0.62rem; color: var(--muted); margin-bottom: 3rem;"><em>This is an internal reference document, not legal advice. For significant decisions — incorporation, accreditation filings, employment contracts, licensing — consult a qualified attorney.</em></p>
+    <h1 style="font-family: var(--font-display); font-size: 2rem; font-weight: 500; color: var(--ink); margin-bottom: 0.4rem;">Legal</h1>
+    <p style="font-size: 1rem; color: var(--muted); margin-bottom: 3rem; line-height: 1.65;">Policies, entity information, and accreditation status for the San Diego Institute of Technology.</p>
 
-    <div class="legal-grid">
+    <!-- Entity -->
+    <div class="legal-block">
+      <p class="legal-block-label">Entity</p>
+      <h3>San Diego Institute of Technology</h3>
+      <p>A California Nonprofit Public Benefit Corporation and federally recognized 501(c)(3) tax-exempt organization. Contributions to SDIT are tax-deductible to the extent allowed by law.</p>
+      <table class="entity-table">
+        <tr><td>EIN</td><td>39-2954006</td></tr>
+        <tr><td>CA Entity No.</td><td>B20250185674</td></tr>
+        <tr><td>Entity Type</td><td>Nonprofit Corporation — California — Public Benefit</td></tr>
+        <tr><td>501(c)(3) Status</td><td>Effective June 28, 2025</td></tr>
+        <tr><td>Address</td><td>5222 Cardeno Dr, San Diego, CA 92109</td></tr>
+      </table>
+    </div>
 
-      <!-- TOC -->
-      <aside class="legal-toc">
-        <a href="#entity">I. Entity &amp; Structure</a>
-        <a href="#name">II. Name &amp; Branding</a>
-        <a href="#education">III. Education Law</a>
-        <a href="#content">IV. Content &amp; IP</a>
-        <a href="#tools">V. Software &amp; Apps</a>
-        <a href="#email">VI. Email &amp; Marketing</a>
-        <a href="#privacy">VII. Privacy &amp; Data</a>
-        <a href="#money">VIII. Revenue &amp; Tax</a>
-        <a href="#accreditation">IX. Accreditation</a>
-        <a href="#checklist">X. Pre-launch Checklist</a>
-        <hr>
-        <a href="/">← Home</a>
-      </aside>
+    <!-- Privacy -->
+    <div class="legal-block">
+      <p class="legal-block-label">Policy</p>
+      <h3>Privacy Policy</h3>
+      <p>How SDIT collects, uses, and protects personal information — including email signups, website analytics, and app data.</p>
+      <a href="/privacy.html" class="block-link">Read Privacy Policy →</a>
+    </div>
 
-      <!-- Body -->
-      <div>
+    <!-- Terms -->
+    <div class="legal-block">
+      <p class="legal-block-label">Policy</p>
+      <h3>Terms of Use</h3>
+      <p>Terms governing use of the SDIT website, tools, courses, and publications.</p>
+      <a href="/terms.html" class="block-link">Read Terms of Use →</a>
+    </div>
 
-        <!-- I. Entity -->
-        <section class="legal-section" id="entity">
-          <span class="section-roman">I</span>
-          <h2>Entity &amp; Structure</h2>
+    <!-- Accreditation -->
+    <div class="legal-block">
+      <p class="legal-block-label">Status</p>
+      <h3>Accreditation</h3>
+      <p>SDIT is an unaccredited institution. We do not hold regional or national accreditation, do not grant degrees, and do not claim accredited status. Full details on our accreditation status and path forward.</p>
+      <a href="/accreditation.html" class="block-link">Read Accreditation Statement →</a>
+    </div>
 
-          <p>SDIT needs to be a formal legal entity before it takes money, signs contracts, or employs anyone. Operating as a sole proprietor is fine for early building, but creates personal liability.</p>
+    <!-- Non-Discrimination -->
+    <div class="legal-block">
+      <p class="legal-block-label">Policy</p>
+      <h3>Non-Discrimination</h3>
+      <p>SDIT does not discriminate on the basis of race, color, religion, gender, national origin, disability, sexual orientation, or any other protected characteristic.</p>
+      <a href="/non-discrimination.html" class="block-link">Read Non-Discrimination Policy →</a>
+    </div>
 
-          <div class="rule-block">
-            <strong>Form the entity before launch</strong>
-            Incorporate as an LLC or public benefit corporation in California before the first paid transaction. A California LLC costs ~$800/year (franchise tax) but is straightforward. A public benefit corporation costs more to maintain but signals serious intent and enables tax-exempt status later.
-          </div>
-
-          <p>California requires any entity with "Institute," "University," "College," or "Academy" in the name to either hold an approved exemption or obtain degree-granting approval from the Bureau for Private Postsecondary Education (BPPE). Operating without approval can result in fines up to $50,000.</p>
-
-          <div class="warn-block">
-            <strong>California BPPE registration</strong>
-            If SDIT grants certificates, credentials, or degrees — or collects tuition — it must register with the BPPE. Non-degree educational products (tools, content subscriptions, papers) may be exempt. Get a legal opinion on this before taking money for anything that looks like a course.
-          </div>
-
-          <div class="ok-block">
-            <strong>What's clearly fine now</strong>
-            Publishing free content (essays, philosophy, papers), releasing free open-source tools, and building the brand — none of this requires BPPE registration. You can operate publicly and collect an email list before any entity is formed, as long as no money changes hands and no credentials are issued.
-          </div>
-        </section>
-
-        <!-- II. Name & Branding -->
-        <section class="legal-section" id="name">
-          <span class="section-roman">II</span>
-          <h2>Name &amp; Branding</h2>
-
-          <p>"San Diego Institute of Technology" is a descriptive name. In California, no single party can own exclusive rights to a purely descriptive geographic + generic term. That said, consistent use builds common law trademark rights over time.</p>
-
-          <ul>
-            <li>Check whether anyone else is using "San Diego Institute of Technology" or "SDIT" in commerce — do a USPTO search and a California Secretary of State entity search before investing heavily in the brand.</li>
-            <li>The domain <code>sandiegotech.org</code> is already in use. That's protective — prior use in commerce is the foundation of a trademark claim.</li>
-            <li>Register the name as a DBA (Doing Business As) with San Diego County if operating under it before forming a formal entity.</li>
-            <li>Apply for a federal trademark once SDIT is generating real activity. Cost is ~$350 per class of goods/services. Classes to consider: 41 (education), 42 (software/tech services).</li>
-          </ul>
-
-          <div class="rule-block">
-            <strong>Logo &amp; visual identity</strong>
-            Original creative works are automatically copyright-protected at creation. The SDIT shield, wordmark, and typography system are protected the moment they exist in fixed form. No registration required, though registration strengthens enforcement. Register key assets with the US Copyright Office if/when SDIT reaches commercial scale.
-          </div>
-        </section>
-
-        <!-- III. Education Law -->
-        <section class="legal-section" id="education">
-          <span class="section-roman">III</span>
-          <h2>Education Law</h2>
-
-          <p>This is the most consequential area to get right. The word "university" carries legal weight in California and most jurisdictions.</p>
-
-          <p><strong>What SDIT can do freely:</strong></p>
-          <ul>
-            <li>Publish educational content — essays, papers, guides, readings — for free or paid</li>
-            <li>Offer courses as self-paced online content without issuing degrees</li>
-            <li>Issue certificates of completion (not degrees) — these have almost no regulation</li>
-            <li>Create tools and apps that support learning</li>
-            <li>Publish a daily newsletter / email series</li>
-            <li>Host a community, forum, or cohort-based learning experience</li>
-          </ul>
-
-          <p><strong>What requires BPPE approval or exemption:</strong></p>
-          <ul>
-            <li>Issuing academic degrees (AA, BA, MS, PhD, etc.)</li>
-            <li>Charging tuition for programs that lead toward a degree</li>
-            <li>Claiming institutional accreditation you don't hold</li>
-            <li>Advertising as an "accredited" institution when you're not</li>
-          </ul>
-
-          <div class="warn-block">
-            <strong>Do not use "degree" language</strong>
-            Don't use "Bachelor's," "Master's," "Doctor of," or similar on any public page until degree-granting authority is established. "Certificate," "credential," "completion record," and "course" are all fine. This applies to the public philosophy page too — review before finalizing.
-          </div>
-
-          <div class="ok-block">
-            <strong>BPPE exemptions that likely apply</strong>
-            California Ed. Code §94874 exempts institutions that don't offer degree programs, don't use the word "university" in an accreditation context, and whose courses are clearly non-credential-granting. SDIT likely qualifies as long as it doesn't claim accreditation. Confirm with an attorney before taking tuition.
-          </div>
-
-          <p>The philosophy's line about being a "serious, legitimate university" is an aspiration — fine internally. Do not use "university" as the primary public-facing descriptor until the legal path is clear. "Institute" is safer and is already in the official name.</p>
-        </section>
-
-        <!-- IV. Content & IP -->
-        <section class="legal-section" id="content">
-          <span class="section-roman">IV</span>
-          <h2>Content &amp; Intellectual Property</h2>
-
-          <p>Everything SDIT publishes is a creative work. Treat it accordingly.</p>
-
-          <ul>
-            <li><strong>SDIT-authored content</strong> is automatically copyright-protected. Consider adding a visible copyright notice + year to all published pages.</li>
-            <li><strong>Guest or contributor content</strong> — if SDIT ever publishes writing by others, get a written license or assignment before publishing. A simple email confirmation is technically enough, but a one-page contributor agreement is cleaner.</li>
-            <li><strong>Quoted material</strong> — short quotations for commentary, criticism, or education are generally covered by fair use. Don't reproduce entire articles, song lyrics, or substantial portions of books.</li>
-            <li><strong>Images and fonts</strong> — only use assets with licenses that permit the intended use (web, commercial). Document the license for every asset in the brand system. The current typefaces (EB Garamond, IBM Plex) are open-source — confirm nothing in the asset pipeline is unlicensed.</li>
-            <li><strong>AI-generated content</strong> — as of 2026, AI-generated text and images are not independently copyrightable under US law. Human authorship and curation is what creates protectable IP for SDIT's publications.</li>
-          </ul>
-
-          <div class="rule-block">
-            <strong>Open-source tools</strong>
-            If any SDIT tool is open-source, choose a license intentionally. MIT is permissive (others can use commercially). AGPL requires derivative works to be open-source. Apache 2.0 includes a patent grant. The choice signals values — match it to the philosophy.
-          </div>
-        </section>
-
-        <!-- V. Software & Apps -->
-        <section class="legal-section" id="tools">
-          <span class="section-roman">V</span>
-          <h2>Software &amp; Apps</h2>
-
-          <p>Each tool has its own compliance surface depending on what it does and what data it touches.</p>
-
-          <p><strong>Before shipping any app:</strong></p>
-          <ul>
-            <li>Privacy policy — required by Apple App Store, Google Play, and California law (CalOPPA, CCPA) if any personal data is collected. This includes email addresses.</li>
-            <li>Terms of service — defines the relationship with users, limits liability, covers misuse.</li>
-            <li>Data handling — what does the app collect? Where does it go? How long is it kept? This determines CCPA/GDPR exposure.</li>
-            <li>App Store guidelines — Apple's guidelines are extensive. Review them before submitting. Common rejection causes: privacy labels incorrect, content policy, subscriptions not using Apple's payment system.</li>
-          </ul>
-
-          <div class="warn-block">
-            <strong>Apps that handle health or focus data</strong>
-            Focus (attention training) may touch health-adjacent territory. If it integrates with HealthKit, Screen Time APIs, or collects behavioral data about attention/focus, check Apple's guidelines for health and research apps. Different rules apply. Do not claim medical or therapeutic benefits.
-          </div>
-
-          <div class="ok-block">
-            <strong>Gallery (tvOS) — lower friction</strong>
-            Gallery doesn't collect personal data (art display app). Minimal compliance surface. Focus on content licensing for any art assets displayed — confirm you have rights to display each piece.
-          </div>
-
-          <p>Each app needs its own App Store privacy label that accurately reflects what it collects. These are legally binding disclosures — incorrect labels have resulted in App Store removals and FTC scrutiny.</p>
-        </section>
-
-        <!-- VI. Email & Marketing -->
-        <section class="legal-section" id="email">
-          <span class="section-roman">VI</span>
-          <h2>Email &amp; Marketing</h2>
-
-          <p>The Daily email is the most legally straightforward content product SDIT will run — but it still has rules.</p>
-
-          <p><strong>CAN-SPAM Act (US federal law) requires:</strong></p>
-          <ul>
-            <li>A clear "From" name and address that matches the sender</li>
-            <li>A non-deceptive subject line</li>
-            <li>A physical mailing address in every email (can be a PO box)</li>
-            <li>A functional unsubscribe mechanism — honored within 10 business days</li>
-            <li>No deceptive header information</li>
-          </ul>
-
-          <p>Buttondown handles most of this automatically, but SDIT needs a physical address. Get a PO box or use a registered agent address.</p>
-
-          <div class="rule-block">
-            <strong>GDPR (if you have EU subscribers)</strong>
-            If any subscriber is in the EU, GDPR applies. This means explicit opt-in consent, the right to erasure ("delete my data"), and a privacy policy that covers email. Buttondown is GDPR-compliant by default. The signup form must not have pre-checked boxes. Document consent at the time of signup.
-          </div>
-
-          <p>Never import email addresses you collected elsewhere (an event sign-in sheet, another list) without explicit permission for this specific list. Each list needs its own consent.</p>
-
-          <div class="ok-block">
-            <strong>Transactional vs. marketing email</strong>
-            The Daily is a newsletter — marketing email. Tool launch announcements are also marketing. Password resets and account emails are transactional. Keep these flows separate in Buttondown.
-          </div>
-        </section>
-
-        <!-- VII. Privacy & Data -->
-        <section class="legal-section" id="privacy">
-          <span class="section-roman">VII</span>
-          <h2>Privacy &amp; Data</h2>
-
-          <p>California Consumer Privacy Act (CCPA) applies to businesses that collect personal data from California residents. SDIT will almost certainly serve California residents — treat CCPA as applicable from day one.</p>
-
-          <p><strong>What CCPA requires:</strong></p>
-          <ul>
-            <li>A privacy policy disclosing what categories of personal data are collected and why</li>
-            <li>The right for users to know what data SDIT holds about them</li>
-            <li>The right to delete personal data on request</li>
-            <li>No selling of personal data without opt-out notice</li>
-            <li>If SDIT earns over $25M/year or handles data on 100k+ consumers: additional obligations kick in (CPRA amendment)</li>
-          </ul>
-
-          <div class="warn-block">
-            <strong>Analytics and tracking</strong>
-            If the site uses Google Analytics, Plausible, Fathom, or similar — any tool that fingerprints or tracks users — this is personal data collection. Either use a privacy-respecting analytics tool (Plausible, Fathom) or add a cookie consent banner. Given the philosophy's emphasis on respect, a privacy-respecting analytics tool is the more coherent choice.
-          </div>
-
-          <p>Publish a privacy policy page before collecting any data — including email signups. The policy needs to be linked from the signup form, not just buried in a footer.</p>
-
-          <p><strong>Student records:</strong> If SDIT ever issues transcripts or records academic completion, FERPA (federal student privacy law) may apply. FERPA governs how student educational records are stored, accessed, and disclosed. This is a future consideration — but design any student data system with FERPA in mind from the start.</p>
-        </section>
-
-        <!-- VIII. Revenue & Tax -->
-        <section class="legal-section" id="money">
-          <span class="section-roman">VIII</span>
-          <h2>Revenue &amp; Tax</h2>
-
-          <p>SDIT's model should be clear before money flows. Different revenue structures have different tax and regulatory implications.</p>
-
-          <p><strong>Revenue types and what to watch:</strong></p>
-          <ul>
-            <li><strong>Subscriptions (tools, courses):</strong> California sales tax on SaaS is complex — some digital products are taxable, some aren't. Get clarity before pricing.</li>
-            <li><strong>One-time course purchases:</strong> Simpler than subscriptions. Still need sales tax review.</li>
-            <li><strong>Donations/philanthropy:</strong> Only tax-deductible if SDIT becomes a 501(c)(3). Don't call donations "tax-deductible" until that status is confirmed.</li>
-            <li><strong>Grants:</strong> If SDIT applies for educational grants, the grantor will require incorporation and often 501(c)(3) status.</li>
-          </ul>
-
-          <div class="rule-block">
-            <strong>Tax-exempt status</strong>
-            A 501(c)(3) nonprofit can accept tax-deductible donations, apply for many grants, and has other advantages. But it requires a board of directors, annual filings, restrictions on political activity, and "public benefit" as the primary mission. This is the right long-term structure for a genuine educational institute. Plan for it — but don't rush it.
-          </div>
-
-          <div class="ok-block">
-            <strong>LLC as a transitional structure</strong>
-            Start as a California LLC. It's fast to form, simple to operate, and can be converted to a nonprofit corporation later. Run SDIT's initial revenue through the LLC while building toward a nonprofit structure. This is the standard path for educational startups.
-          </div>
-        </section>
-
-        <!-- IX. Accreditation -->
-        <section class="legal-section" id="accreditation">
-          <span class="section-roman">IX</span>
-          <h2>Accreditation</h2>
-
-          <p>Accreditation is how SDIT's courses and degrees would be recognized by employers, other universities, and the government. It is a multi-year process and is not required to operate or teach — but it matters for student aid and credential recognition.</p>
-
-          <p><strong>Types of accreditation relevant to SDIT:</strong></p>
-          <ul>
-            <li><strong>Regional accreditation (WSCUC, formerly WASC):</strong> The gold standard for California institutions. Required for federal financial aid eligibility. Multi-year process. Requires a stable institution with established governance, faculty, facilities, and outcomes data. Realistically 5–10 years out.</li>
-            <li><strong>DEAC (Distance Education Accrediting Commission):</strong> Designed for online and distance learning institutions. More achievable pathway for a digital-first institute. Students from DEAC-accredited institutions can access federal aid. Still a 2–4 year process.</li>
-            <li><strong>Programmatic accreditation:</strong> Some programs (nursing, law, engineering) have their own accreditors. Not relevant yet for SDIT's current scope.</li>
-          </ul>
-
-          <div class="rule-block">
-            <strong>Do not claim accreditation you don't have</strong>
-            This is the single most serious legal risk in education. Falsely claiming accreditation is fraud. Do not say "accredited" anywhere — not even loosely — until accreditation is formally granted. The word "accredited" has a specific legal meaning. "Rigorous," "serious," "legitimate," and "peer-reviewed" are fine descriptors that don't carry legal baggage.
-          </div>
-
-          <p>The path: operate as an unaccredited institution offering non-degree educational products → establish governance and track record → apply to DEAC or WSCUC as a candidate → pursue full accreditation. This is a 5–10 year arc. Build toward it — but don't let it slow down shipping the first tools and courses.</p>
-
-          <div class="ok-block">
-            <strong>SDIT can operate and teach without accreditation</strong>
-            Many well-respected educational programs are not accredited — they're respected for quality, not credentials. Building reputation through excellent work is the strategy while the institutional pathway develops.
-          </div>
-        </section>
-
-        <!-- X. Pre-launch Checklist -->
-        <section class="legal-section" id="checklist">
-          <span class="section-roman">X</span>
-          <h2>Pre-launch Checklist</h2>
-          <p>Before any major public launch — site, tool, or course — run through this list.</p>
-
-          <p style="font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin: 1.5rem 0 0.75rem;">Before publishing the site publicly:</p>
-          <ul>
-            <li>Privacy policy page live and linked from footer</li>
-            <li>No claim of accreditation or degree-granting authority</li>
-            <li>Copyright notice on all pages</li>
-            <li>Analytics tool is privacy-respecting or consent is implemented</li>
-            <li>Legal entity formed (or operating solely as free content)</li>
-            <li>Trademarks searched — no conflicting "SDIT" use</li>
-          </ul>
-
-          <p style="font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin: 1.5rem 0 0.75rem;">Before launching the Daily email:</p>
-          <ul>
-            <li>Physical mailing address secured (PO box)</li>
-            <li>Signup form has explicit opt-in language</li>
-            <li>Privacy policy linked from signup form</li>
-            <li>Buttondown configured with correct From name and address</li>
-            <li>Unsubscribe link tested and working</li>
-          </ul>
-
-          <p style="font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin: 1.5rem 0 0.75rem;">Before shipping any paid app or course:</p>
-          <ul>
-            <li>Terms of service written and linked</li>
-            <li>Privacy policy updated to cover app data</li>
-            <li>App Store privacy label accurate</li>
-            <li>California sales tax treatment confirmed</li>
-            <li>BPPE exemption confirmed in writing (or registration complete)</li>
-            <li>Legal entity formed and operational</li>
-            <li>Refund policy clear (required by Apple for subscriptions)</li>
-          </ul>
-
-          <p style="font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin: 1.5rem 0 0.75rem;">Ongoing:</p>
-          <ul>
-            <li>Annual California LLC franchise tax paid ($800 minimum)</li>
-            <li>No "accredited" language added to any public page without formal accreditation</li>
-            <li>Contributor agreements on file for any externally-authored content</li>
-            <li>Data deletion requests fulfilled within 45 days (CCPA)</li>
-            <li>This document reviewed when a new product type launches</li>
-          </ul>
-
-          <div class="rule-block">
-            <strong>The north star</strong>
-            SDIT's credibility as a serious institution is its most valuable legal asset. Every public statement, credential claim, and product description should be one a careful lawyer would be comfortable with. When in doubt: understate, then overdeliver.
-          </div>
-
-        </section>
-
-      </div><!-- end body col -->
-    </div><!-- end legal-grid -->
+    <!-- Contact -->
+    <div class="legal-block">
+      <p class="legal-block-label">Contact</p>
+      <h3>Questions</h3>
+      <p>For legal questions, data requests, or policy concerns, contact us at <a href="mailto:legal@sandiegotech.org" style="color:var(--ink);">legal@sandiegotech.org</a>.</p>
+    </div>
 
   </main>
 
