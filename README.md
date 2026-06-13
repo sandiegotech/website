@@ -20,8 +20,6 @@ styles.css          Single global stylesheet
 |------|-----|---------|
 | index.html | / | Founding Charter |
 | philosophy.html | /philosophy | The Philosophy (14 tenets) |
-| brand.html | /brand | Design system reference |
-| legal.html | /legal | Legal structure and compliance |
 | daily.html | /daily | The Daily email |
 | apply.html | /apply | Join / Fellowship |
 
