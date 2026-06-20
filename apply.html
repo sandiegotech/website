@@ -54,48 +54,50 @@
     <section class="charter">
       <div class="frame">
         <p class="eyebrow rise">Founding Phase · San Diego, California</p>
-        <h1 class="rise d1">There are several ways to <em>be part of this</em>.</h1>
-        <p class="standfirst rise d2">We are building something that doesn't exist yet. You can be involved at any level — from following the work to helping fund it to joining the founding cohort. Every level of participation matters.</p>
+        <h1 class="rise d1">Three ways to <em>take part</em>.</h1>
+        <p class="standfirst rise d2">SDIT exists to reunite knowledge across disciplines in pursuit of truth, human flourishing, and the long-term success of civilization. You can take part at three depths — and the first is open to everyone, today.</p>
+        <p class="standfirst rise d3">Learn from the work as a <em>Visitor</em>. Join the in-person circle as a <em>Student</em>. Help build the institution as a <em>Fellow</em>.</p>
       </div>
     </section>
 
     <!-- ============ THREE PATHS ============ -->
     <section class="article" id="paths">
       <div class="frame article-grid">
-        <div class="article-label">Ways to Join<span class="num">Choose your depth</span></div>
+        <div class="article-label">Ways to Take Part<span class="num">Choose your depth</span></div>
         <div class="article-body">
           <div class="join-paths">
-            <a href="#follow" class="join-path">
-              <span class="join-path__num">I</span>
-              <span class="join-path__name">Follow the Work</span>
-              <span class="join-path__desc">The Daily newsletter, the Papers, the open Curriculum — all of it is free, and following along from the beginning is its own form of participation.</span>
-              <span class="join-path__arrow">Subscribe to the Daily →</span>
+            <a href="#visitor" class="join-path">
+              <span class="join-path__num">Open to all</span>
+              <span class="join-path__name">Visitor</span>
+              <span class="join-path__desc">Learn from everything SDIT makes — the open Curriculum, the Daily, the Papers. Free, online, no application. Anyone can begin today.</span>
+              <span class="join-path__arrow">Start learning →</span>
             </a>
-            <a href="#support" class="join-path">
-              <span class="join-path__num">II</span>
-              <span class="join-path__name">Support the Founding</span>
-              <span class="join-path__desc">SDIT is an early-stage 501(c)(3). A donation of any size — recurring or one-time — goes directly to building the institution and keeping everything free.</span>
-              <span class="join-path__arrow">Give what you can →</span>
+            <a href="/student.html" class="join-path">
+              <span class="join-path__num">In person · By application</span>
+              <span class="join-path__name">Student</span>
+              <span class="join-path__desc">The in-person circle — a small group who come to SDIT itself to learn: in the workshop, the seminar, and the water. Coveted, and earned.</span>
+              <span class="join-path__arrow">Apply as a Student →</span>
             </a>
             <a href="/fellowship.html" class="join-path">
-              <span class="join-path__num">III</span>
-              <span class="join-path__name">Apply for a Fellowship</span>
-              <span class="join-path__desc">The deepest level of involvement. Fellows are founders of the curriculum — working on real projects, shaping the institution, and building something that lasts.</span>
-              <span class="join-path__arrow">View the Fellowship →</span>
+              <span class="join-path__num">In person · By application</span>
+              <span class="join-path__name">Fellow</span>
+              <span class="join-path__desc">The deepest involvement. Fellows come to build the institution itself — its curriculum, its projects, its founding. Few, and chosen.</span>
+              <span class="join-path__arrow">Apply as a Fellow →</span>
             </a>
           </div>
+          <p style="margin-top: 1.5rem; font-size: 0.95rem; color: var(--muted);">A fourth way is to make the whole thing possible: <a href="#support">support the founding</a>.</p>
         </div>
       </div>
     </section>
 
-    <!-- ============ I · FOLLOW THE WORK ============ -->
-    <section class="article" id="follow">
+    <!-- ============ VISITOR ============ -->
+    <section class="article" id="visitor">
       <div class="frame article-grid">
-        <div class="article-label">I<span class="num">Follow the Work</span></div>
+        <div class="article-label">Visitor<span class="num">Open to all</span></div>
         <div class="article-body">
-          <h2>Start with attention.</h2>
-          <p class="lede">The lightest commitment is also the most consistent. Everything SDIT publishes is free and open — you don't need to apply, donate, or sign up to read the Curriculum or the Papers. But following along from the beginning is not nothing.</p>
-          <p>The people who are present for the founding — who read the papers as they come out, who engage with the ideas, who follow the work before it becomes well-known — those people are part of the record. The Daily brings the work to you every morning: a song, an image, an idea worth sitting with.</p>
+          <h2>Learn from the work. Free, and open.</h2>
+          <p class="lede">Everything SDIT publishes is free — you don't need to apply, pay, or sign up to read the Curriculum or the Papers. To be a Visitor is simply to learn from the Institute as it builds in the open.</p>
+          <p>The people who are present for the founding — who read the papers as they come out, who follow the work before it becomes well-known — are part of the record. The Daily brings the work to you every morning: a song, an image, an idea worth sitting with.</p>
           <div class="triad">
             <div class="triad-row">
               <span class="t-name">The Daily</span>
@@ -110,42 +112,64 @@
               <p>The open curriculum — courses, frameworks, and tools developed at SDIT — available to anyone, forever, at <a href="https://learn.sandiegotech.org" target="_blank" rel="noopener">learn.sandiegotech.org</a>.</p>
             </div>
           </div>
-          <a class="cta" href="/daily.html">Subscribe to the Daily →</a>
+          <form class="subscribe" id="daily-subscribe">
+            <input type="email" id="daily-email" name="email" placeholder="you@example.com" required autocomplete="email" aria-label="Email address" />
+            <button type="submit">Subscribe to the Daily →</button>
+          </form>
+          <p class="subscribe__note">Free, forever · No tracking, no ads · <a href="/daily.html">What the Daily is →</a></p>
         </div>
       </div>
     </section>
 
-    <!-- ============ II · SUPPORT ============ -->
-    <section class="article" id="support">
+    <!-- ============ STUDENT ============ -->
+    <section class="article" id="student">
       <div class="frame article-grid">
-        <div class="article-label">II<span class="num">Support the Founding</span></div>
+        <div class="article-label">Student<span class="num">The in-person circle</span></div>
         <div class="article-body">
-          <h2>Make it possible.</h2>
-          <p class="lede">SDIT is an early-stage nonprofit. We don't have an endowment, a campus, or a large staff — we have a mission, a working plan, and a growing founding circle. A donation of any size makes the work more possible.</p>
-          <p>Everything we build is free and open. That is not incidental — it is the point. Keeping it free requires people who believe in it enough to fund it. A donation goes directly to publishing more Papers, developing the Curriculum, and supporting founding Fellows who couldn't otherwise participate.</p>
-          <div class="status">
-            <span class="s-label">What to know</span>
-            501(c)(3) Nonprofit · EIN 39-2954006 · Tax-deductible in the United States · All contributions stay in the founding fund
-          </div>
-          <a class="cta" href="/support.html">Support the Institute →</a>
+          <h2>Come to learn, in person.</h2>
+          <p class="lede">Students are the small in-person circle — people who come to SDIT itself to learn: in the workshop, the seminar room, and the water. It is not a degree, and not yet a credential. It is a real education in good company, during the founding.</p>
+          <p>Places are few, and held to a high bar — not of résumé, but of seriousness. A Student is expected to show up, do the work, and raise the level of everyone around them. Cost is never the deciding factor; if support is needed, say so plainly.</p>
+          <nav class="ledger" aria-label="Student">
+            <a href="/student.html">
+              <span class="l-name">Apply as a Student</span>
+              <span class="l-meta">What it is, what's expected, how to apply →</span>
+            </a>
+          </nav>
         </div>
       </div>
     </section>
 
-    <!-- ============ III · THE FELLOWSHIP ============ -->
-    <section class="article correspond" id="fellowship">
+    <!-- ============ FELLOW ============ -->
+    <section class="article" id="fellow">
       <div class="frame article-grid">
-        <div class="article-label">III<span class="num">The Fellowship</span></div>
+        <div class="article-label">Fellow<span class="num">Build the institution</span></div>
         <div class="article-body">
           <h2>The deepest level of involvement.</h2>
           <p class="lede">A Founding Fellowship is not a degree, a bootcamp, or a credential. It is an invitation to serious work — on real questions and real projects — in the company of people figuring out what it means to think and build well in the age of AI.</p>
           <p>Fellows are not students passing through a finished curriculum. They are founders of one. What a Fellow builds becomes part of how the institution is built. There is no tuition — Fellowships stay open regardless of financial circumstance. The only requirement is genuine commitment to the work.</p>
           <nav class="ledger" aria-label="Fellowship">
             <a href="/fellowship.html">
-              <span class="l-name">View the Fellowship</span>
+              <span class="l-name">Apply as a Fellow</span>
               <span class="l-meta">What it is, what's expected, how to apply →</span>
             </a>
           </nav>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ SUPPORT ============ -->
+    <section class="article correspond" id="support">
+      <div class="frame article-grid">
+        <div class="article-label">Support<span class="num">Make it possible</span></div>
+        <div class="article-body">
+          <h2>Fund the founding.</h2>
+          <p class="lede">SDIT is an early-stage nonprofit. We don't have an endowment, a campus, or a large staff — we have a mission, a working plan, and a growing founding circle. A donation of any size makes the work more possible.</p>
+          <p>Everything we build is free and open. That is not incidental — it is the point. Keeping it free requires people who believe in it enough to fund it. A donation goes directly to publishing more Papers, developing the Curriculum, and supporting Students and Fellows who couldn't otherwise take part.</p>
+          <div class="status">
+            <span class="s-label">What to know</span>
+            501(c)(3) Nonprofit · EIN 39-2954006 · Tax-deductible in the United States · All contributions stay in the founding fund
+          </div>
+          <a class="cta" href="/support.html">Support the Institute →</a>
         </div>
       </div>
     </section>
@@ -172,6 +196,18 @@
       this.setAttribute('aria-expanded', String(!open));
       document.querySelector('.masthead .toc').classList.toggle('is-open');
     });
+
+    var dailyForm = document.getElementById('daily-subscribe');
+    if (dailyForm) {
+      dailyForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        var email = (document.getElementById('daily-email').value || '').trim();
+        var body = "I'd like to receive The Daily." + (email ? "\n\nEmail: " + email : "");
+        window.location.href = "mailto:brandon@sandiegotech.org?subject="
+          + encodeURIComponent("Subscribe to The Daily")
+          + "&body=" + encodeURIComponent(body);
+      });
+    }
   </script>
 </body>
 </html>

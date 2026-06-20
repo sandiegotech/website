@@ -96,7 +96,7 @@
           <h2>The Post-Industrial Renaissance</h2>
           <p class="lede">The last time the tools of production changed this profoundly, the result was not the mass unemployment of the mind. It was the Renaissance — an age in which engineering, art, science, and philosophy were practiced as one discipline, often by one person.</p>
           <p>We hold that the age of AI demands the same integration. The division of knowledge into isolated specialties was an industrial convenience, not an intellectual truth. The people who will matter most in the coming decades are those who can move across domains — who can build and write, calculate and compose, command technology and remain fully human while doing it.</p>
-          <p>The Institute exists to educate that kind of person, and to develop the framework by which others can be educated the same way.</p>
+          <p>SDIT exists to reunite knowledge across disciplines in pursuit of truth, human flourishing, and the long-term success of civilization.</p>
         </div>
       </div>
     </section>
@@ -174,6 +174,22 @@
       </div>
     </section>
 
+    <!-- ============ THE DAILY — SUBSCRIBE ============ -->
+    <section class="article" id="subscribe">
+      <div class="frame article-grid">
+        <div class="article-label">The Daily<span class="num">A habit of attention</span></div>
+        <div class="article-body">
+          <h2>One letter each morning — a song, an image, an idea.</h2>
+          <p class="lede">The Daily is the Institute's first discipline made into a habit: pay attention to something worth attending to. Free, unsponsored, and small enough to read in a minute.</p>
+          <form class="subscribe" id="daily-subscribe">
+            <input type="email" id="daily-email" name="email" placeholder="you@example.com" required autocomplete="email" aria-label="Email address" />
+            <button type="submit">Subscribe →</button>
+          </form>
+          <p class="subscribe__note">Free, forever · No tracking, no ads · <a href="/daily.html">What the Daily is →</a></p>
+        </div>
+      </div>
+    </section>
+
     <!-- ============ CORRESPONDENCE ============ -->
     <section class="article correspond" id="correspondence">
       <div class="frame article-grid">
@@ -221,6 +237,18 @@
       this.setAttribute('aria-expanded', String(!open));
       document.querySelector('.masthead .toc').classList.toggle('is-open');
     });
+
+    var dailyForm = document.getElementById('daily-subscribe');
+    if (dailyForm) {
+      dailyForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        var email = (document.getElementById('daily-email').value || '').trim();
+        var body = "I'd like to receive The Daily." + (email ? "\n\nEmail: " + email : "");
+        window.location.href = "mailto:brandon@sandiegotech.org?subject="
+          + encodeURIComponent("Subscribe to The Daily")
+          + "&body=" + encodeURIComponent(body);
+      });
+    }
   </script>
 </body>
 </html>
