@@ -471,7 +471,7 @@ h1, h2, h3, h4 {
 .masthead .toc a {
   color: var(--muted);
   text-decoration: none;
-  margin-left: 1.5rem;
+  margin-left: 1.15rem;
   transition: color 0.2s ease;
 }
 
@@ -507,7 +507,7 @@ h1, h2, h3, h4 {
 .hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
 .hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
-@media (max-width: 680px) {
+@media (max-width: 900px) {
   .masthead-inner {
     flex-wrap: wrap;
     justify-content: space-between;
