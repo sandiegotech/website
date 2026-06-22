@@ -507,7 +507,7 @@ h1, h2, h3, h4 {
 .hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
 .hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
-@media (max-width: 900px) {
+@media (max-width: 760px) {
   .masthead-inner {
     flex-wrap: wrap;
     justify-content: space-between;
