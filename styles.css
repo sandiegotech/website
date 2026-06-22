@@ -610,6 +610,13 @@ h1, h2, h3, h4 {
 
 .charter h1 em { font-style: italic; color: var(--marine); }
 
+/* Mission-led hero headline — longer sentence, sized to read as a statement */
+.charter h1.lead-mission {
+  font-size: clamp(1.85rem, 3.4vw, 2.8rem);
+  line-height: 1.18;
+  max-width: 24ch;
+}
+
 .charter .standfirst {
   font-family: var(--font-display);
   font-size: 1.3rem;
