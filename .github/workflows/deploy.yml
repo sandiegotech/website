@@ -1,0 +1,38 @@
+name: Deploy site
+
+# Publishing is a push to main — the same thing that used to trigger a Pages
+# build. S3 has no equivalent of Pages' automatic publish, so this stands in
+# for it.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Two pushes in quick succession would otherwise race: the slower job's sync
+# could finish last and republish the older tree. Queue them instead, and let
+# an in-flight run finish rather than cancelling it half-synced.
+concurrency:
+  group: deploy-site
+  cancel-in-progress: false
+
+permissions:
+  id-token: write   # required to mint the OIDC token AWS trades for the role
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assume deploy role
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::681432799403:role/sdit-website-deploy
+          aws-region: us-west-2
+
+      # --site skips the CloudFormation step: the role can read the stack's
+      # outputs but deliberately cannot change infrastructure, so changes to
+      # template.yaml are still applied by hand from a workstation.
+      - name: Publish
+        run: ./infra/deploy.sh --site
