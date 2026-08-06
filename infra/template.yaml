@@ -133,9 +133,22 @@ Resources:
               'tools/scope', 'tools/shade'
             ];
             var key = uri.replace(/^\/+/, '').replace(/\/+$/, '');
-            request.uri = DIRS.indexOf(key) !== -1
-              ? uri + '/index.html'
-              : uri + '.html';
+
+            // Directories redirect to the trailing-slash form rather than
+            // serving it, matching GitHub Pages and keeping one canonical URL
+            // per page. Same rule as the learn stack.
+            if (DIRS.indexOf(key) !== -1) {
+              var dqs = '';
+              for (var dk in request.querystring) {
+                dqs += (dqs ? '&' : '?') + dk + '=' + request.querystring[dk].value;
+              }
+              return {
+                statusCode: 301,
+                statusDescription: 'Moved Permanently',
+                headers: { location: { value: uri + '/' + dqs } }
+              };
+            }
+            request.uri = uri + '.html';
           }
           return request;
         }
