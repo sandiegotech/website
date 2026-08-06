@@ -23,7 +23,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      # Full history: build_sitemap.py derives each page's lastmod from its
+      # last commit, and a shallow clone would date every page the same.
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Assume deploy role
         uses: aws-actions/configure-aws-credentials@v4

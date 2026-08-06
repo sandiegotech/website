@@ -29,6 +29,12 @@ if [ "${1:-}" != "--site" ]; then
       CertificateArn="$CERT_ARN"
 fi
 
+# Derived from disk rather than maintained by hand: a page added without a
+# sitemap entry, or edited without touching its lastmod, would otherwise ship
+# a sitemap that disagrees with the site. Both had happened.
+echo "→ Regenerating sitemap"
+python3 ./build_sitemap.py
+
 # Look each output up by name. A single multi-key query returns them in
 # CloudFormation's order, not the order they were asked for, so positional
 # reads silently assign the wrong value to the wrong variable.

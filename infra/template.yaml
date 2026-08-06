@@ -125,12 +125,7 @@ Resources:
           if (!uri.includes('.')) {
             var DIRS = [
               'papers',
-              'research',
-              'research/focus', 'research/gallery', 'research/gloss',
-              'research/scope', 'research/shade',
-              'tools',
-              'tools/focus', 'tools/gallery', 'tools/gloss',
-              'tools/scope', 'tools/shade'
+              'research'
             ];
             var key = uri.replace(/^\/+/, '').replace(/\/+$/, '');
 
