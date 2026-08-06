@@ -1,6 +1,6 @@
 # San Diego Institute of Technology
 
-Public website for [sandiegotech.org](https://sandiegotech.org) — a founding institution for education in the age of AI.
+Public website for [sandiegotech.org](https://sandiegotech.org) — a new institution where engineers and creative people work together to make beautiful things.
 
 GitHub: [sandiegotech/website](https://github.com/sandiegotech/website)
 
@@ -8,9 +8,11 @@ GitHub: [sandiegotech/website](https://github.com/sandiegotech/website)
 
 ```
 /                   Homepage and policy pages
-/tools/             Five tool landing pages (Focus, Gloss, Scope, Shade, Gallery)
 /papers/            Published papers and essays
+/research/          Lectio — the Institute's research project
 /assets/            Brand assets — logos, icons, favicons
+/assets/fonts/      Self-hosted webfonts (the site loads nothing third-party)
+/infra/             CloudFormation stack, deploy script, sitemap generator
 styles.css          Single global stylesheet
 ```
 
@@ -19,7 +21,7 @@ styles.css          Single global stylesheet
 | Page | URL | Purpose |
 |------|-----|---------|
 | index.html | / | Founding Charter |
-| philosophy.html | /philosophy | The Philosophy (14 tenets) |
+| philosophy.html | /philosophy | The Philosophy (12 tenets, 3 parts) |
 | daily.html | /daily | The Daily email |
 | apply.html | /apply | Join / Fellowship |
 
@@ -52,15 +54,15 @@ sitting in the folder is published whether committed or not. `backstage/` and
 
 ### Hosting
 
-Mid-migration. The live domain is still served by **GitHub Pages** (custom domain
-in `CNAME`), fronted by Cloudflare. The replacement — S3 behind CloudFront,
-stack `sdit-apex-web` in `us-west-2` — is built, populated, and verified at its
-distribution address, but DNS has not been cut over.
+Served from **S3 behind CloudFront** (stack `sdit-apex-web`, `us-west-2`),
+with Cloudflare proxying DNS for the apex and `www`. GitHub Pages served this
+domain until the cutover on 2026-08-05 and is no longer in the path.
 
-The last step is repointing `sandiegotech.org` and `www` at the distribution in
-Cloudflare DNS, set to **DNS only**. Until then the workflow publishes to a
-bucket nobody is reading, which is harmless. Rollback after cutover is restoring
-the previous Cloudflare records.
+Pushing to `main` deploys: the workflow assumes an OIDC role and runs
+`./infra/deploy.sh --site`, which regenerates the sitemap, syncs the tree, and
+invalidates the edge. Changes to `infra/template.yaml` are **not** applied by
+CI — the deploy role can read stack outputs but cannot alter infrastructure —
+so run the full `./infra/deploy.sh` from a workstation for those.
 
 | Stack | What it holds |
 |-------|---------------|
