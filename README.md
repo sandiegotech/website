@@ -78,3 +78,9 @@ if the extensionless form needs to work too.
 ## Internal docs
 
 The `backstage/` folder is gitignored and has its own private repo at [sandiegotech/internal](https://github.com/sandiegotech/internal). It contains the founder's bible, build plan, and operational overview.
+
+## Rights
+
+Code in this repository is MIT-licensed; the site's prose, the papers, and
+the artwork are CC BY-NC 4.0 — free to share and teach from with credit,
+commercial rights reserved to the Institute. See [LICENSE.md](LICENSE.md).
