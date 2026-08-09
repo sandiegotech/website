@@ -627,6 +627,41 @@ h1, h2, h3, h4 {
 
 .charter .standfirst + .standfirst { margin-top: 1.1rem; }
 
+/* Epigraph — the charter's own claim about a life, quoted from Tenet IV so a
+   reader meets what the Institute is for before the machinery that governs it.
+   Recurrence in the tenet below is the point: an epigraph is meant to return. */
+.charter .creed {
+  margin-top: 2.75rem;
+  padding-left: 1.5rem;
+  border-left: 2px solid var(--gold);
+  max-width: 38rem;
+}
+.charter .creed p {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.42rem;
+  line-height: 1.5;
+  color: var(--marine);
+}
+.charter .creed cite {
+  display: block;
+  margin-top: 0.75rem;
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.charter .creed cite a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--hairline); }
+.charter .creed cite a:hover { color: var(--gold); }
+
+@media (max-width: 760px) {
+  .charter .creed { margin-top: 2rem; padding-left: 1.1rem; }
+  .charter .creed p { font-size: 1.2rem; }
+}
+
 /* horizon mark */
 .meridian {
   margin-top: 4rem;
