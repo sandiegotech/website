@@ -233,18 +233,22 @@
         <div class="article-label">The Reading<span class="num">Side by side</span></div>
         <div class="article-body">
           <h2>What readable actually means.</h2>
-          <p class="lede">The opening of <em>Meditations</em>, Book II — the words a Roman emperor wrote to himself about getting up in the morning. On the left, the edition most people meet. On the right, the edition Lectio is building.</p>
+          <p class="lede">The opening of <em>Meditations</em>, Book II — the words a Roman emperor wrote to himself about getting up in the morning. On the left, the edition most people meet. On the right, the same passage as it reads in the app today.</p>
           <div class="compare">
             <div class="compare-panel">
               <span class="c-label">George Long · 1862</span>
-              <p>&ldquo;Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.&rdquo;</p>
+              <p>&ldquo;Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.&rdquo;</p>
             </div>
             <div class="compare-panel is-lectio">
-              <span class="c-label">Lectio Modern Edition · Working draft</span>
-              <p>&ldquo;Begin the morning by telling yourself: today I will meet the intrusive, the ungrateful, the overbearing, the dishonest, the envious, the cold. All of them are made this way by not knowing the difference between good and evil.&rdquo;</p>
+              <span class="c-label">Lectio Modern Edition · In the app</span>
+              <p>&ldquo;Begin each morning by telling yourself: today I will meet people who are meddling, ungrateful, arrogant, dishonest, envious, and unsociable. They are like this because they cannot tell good from evil.&rdquo;</p>
             </div>
           </div>
           <p class="compare-note">Same sentences. Same Stoic. In the app, Long, Casaubon&rsquo;s 1634 English, and the original Greek sit one tap away — nothing is replaced.</p>
+          <div class="status" style="margin-top: 1.5rem;">
+            <span class="s-label">The Divergence Record</span>
+            Every Lectio edition ships with its departures documented. Where Long renders <em>to hēgemonikon</em> as &ldquo;the ruling faculty,&rdquo; Lectio writes &ldquo;the mind that governs you&rdquo; — both accurate; only one opaque. Each call is recorded with its reasoning, one tap away.
+          </div>
           <p style="margin-top: 1.5rem;">The left column is not wrong; it was simply written for readers who died a century ago. The right column is the project: the same sense and the same force, carried into the language people read now — and reviewed by a person before it ships.</p>
         </div>
       </div>
@@ -283,7 +287,7 @@
           </figure>
 
           <p class="lede">The corpus is the great works themselves — the books that built the modern mind, whatever shelf they happen to sit on. The inspiration for the scope is old: in 1909, Charles Eliot assembled the five-foot shelf — the Harvard Classics — 51 public-domain volumes meant to give any person a genuine education in fifteen minutes a day. That shelf is a map we admire, not a boundary we accept.</p>
-          <p>Lectio is being built to make these works readable — not just accessible, but readable: the kind of reading where you finish and feel the work was worth the time. The production process begins with three:</p>
+          <p>Lectio is being built to make these works readable — not just accessible, but readable: the kind of reading where you finish and feel the work was worth the time. Production began with three:</p>
           <div class="triad">
             <div class="triad-row">
               <span class="t-name">Meditations</span>
@@ -291,14 +295,14 @@
             </div>
             <div class="triad-row">
               <span class="t-name">The Iliad</span>
-              <p>Homer. In the app now. The showcase for multi-translation reading: Pope's heroic couplets, Butler's plain prose, and the original Greek — all at once, all in place.</p>
+              <p>Homer. In the app now — the showcase for multi-edition reading: the Lectio edition, Pope's heroic couplets, and Butler's plain prose, side by side with your place kept.</p>
             </div>
             <div class="triad-row">
-              <span class="t-name">Apology · Crito · Phaedo</span>
-              <p>Plato. The trial and death of Socrates — short, gripping, and far more approachable for a first reader than anything else in the Greek philosophical canon.</p>
+              <span class="t-name">Hamlet</span>
+              <p>Shakespeare. The original text beside a Lectio edition in modern prose — the sternest test of the method, where the original's music has to stay audible.</p>
             </div>
           </div>
-          <p>Getting these three right — especially the Modern Edition quality — is what the first phase is for. Breadth comes after. Custom covers have been produced for over 130 works; the catalog is ready to scale as the production process is proven.</p>
+          <p>The bundle has since grown to fourteen works — Homer to Hamlet, Gilgamesh to Genesis, Marcus Aurelius to Machiavelli — ten already carrying a Lectio edition, with the human read-through that precedes final publication underway. Custom covers exist for over 130 works; the catalog scales as each edition proves out.</p>
         </div>
       </div>
     </section>
@@ -311,11 +315,12 @@
           <h2>Context beside the text. The reading column stays calm.</h2>
           <p class="lede">The signature UI of Lectio: a warm reading column on the left, a quiet right-hand rail — The Margin — carrying the living layer. Tap a word, see a person, follow a reference. All of it in the margin, none of it interrupting the text.</p>
           <p>The comprehension layer is pre-generated, not live. For each work, the research pipeline produces an annotation dictionary: 300 to 400 entries covering proper nouns, recurring concepts, and the high-frequency references a modern reader will stumble on. Who is Achilles? What is <em>xenia</em>? What are the Furies? Each entry is generated once from the full scholarly record, human-reviewed, and committed to the content bundle as static, finished data. A reader tapping "xenia" gets a considered, edited definition — not whatever a model generates cold that afternoon.</p>
+          <p><strong>The Docent.</strong> The margin also carries a reading companion. Ask it about the passage in front of you and it answers from the text and the curated editorial layer — not the open internet. It runs on-device: free, offline, and private, with nothing sent anywhere. AI is an instrument here, never the authority — the Docent's answers are labeled as its own, and the text remains the text.</p>
           <p>Words not in the annotation dictionary fall through to Webster's 1913 — a complete, public-domain dictionary included in the app. No API call for ordinary vocabulary. On-device AI handles anything genuinely unexpected. The design goal is near-zero per-user cost: content is pre-generated and served static, so each additional reader costs essentially nothing.</p>
           <p><strong>Multi-edition reading.</strong> Every work carries multiple editions: the Lectio Modern Edition, every public-domain translation available, and the original-language text. Switching editions keeps your place. Each edition carries a provenance card — translator and year for historical editions; model, date, and sources for Lectio editions — available in the switcher and in any exported PDF.</p>
           <div class="status">
             <span class="s-label">What's built</span>
-            The Margin, tap-to-explore words, word save, editorial enrichment per passage, and multi-edition reading are all running. Meditations, The Iliad, The Odyssey, and The Aeneid are in the content bundle.
+            The Margin, the Docent, tap-to-explore words, word save, notes, search, editorial enrichment per passage, and multi-edition reading are all running. Fourteen works are in the content bundle.
           </div>
         </div>
       </div>
@@ -330,7 +335,7 @@
           <p class="lede">A well-made printed Lectio Edition is the natural physical form of this work — and the revenue model that makes everything else possible.</p>
           <p>Lectio the app is free end-to-end: the public-domain texts, the original languages, The Margin, the annotation dictionary, and the Lectio Modern Edition itself. No subscription, no paywall on the text. The near-zero AI cost architecture — content pre-generated and served static — makes free sustainable at any scale.</p>
           <p>Revenue comes from the physical artifact. A printed <em>Lectio Edition</em> of each work — carefully designed, human-read and approved in full before printing, carrying a provenance colophon — is produced on demand. No inventory to carry. Whoever wants only to read pays nothing; whoever wants to keep a fine edition buys the book. Proceeds flow through SDIT and fund its work.</p>
-          <p>Every work and every language is another edition with nothing to warehouse, so the catalogue only grows. Spanish editions — fitting San Diego — come next. This is not a separate product from the app; it is another rendering of the same content, made permanent. The knowledge is never gated. Only the made object is sold.</p>
+          <p>Every work and every language is another edition with nothing to warehouse, so the catalogue only grows. Spanish editions — fitting San Diego — come next. This is not a separate product from the app; it is another rendering of the same content, made permanent. The book is typeset directly from the same content bundle the app reads — text, provenance, divergences and all — so the page and the reader can never drift apart. The press already runs: finished interiors come off it today. The knowledge is never gated. Only the made object is sold.</p>
           <p>A modern translation that tells you exactly how it was made — model, vintage, sources, human reviewer — is the selling point, not a disclaimer. Honesty is the product.</p>
         </div>
       </div>
@@ -345,15 +350,15 @@
           <div class="triad">
             <div class="triad-row">
               <span class="t-name">Done</span>
-              <p>Pipeline to portable JSON bundle. Stable segment IDs. Provenance records. iPad reader. Multi-edition reading. The Margin. Word save. Meditations, The Iliad, The Odyssey, and The Aeneid in the bundle. 130+ custom Lectio Edition covers.</p>
+              <p>Pipeline to portable JSON bundle. Stable segment IDs. Provenance records. iPad reader with multi-edition reading, the Margin, the Docent, notes, search, and collections. Fourteen works in the bundle, ten with Lectio editions. A print pipeline that sets any edition as a finished book from the same content. 130+ custom covers.</p>
             </div>
             <div class="triad-row">
               <span class="t-name">In progress</span>
-              <p>Full Webster's 1913 dictionary integration. Deeper passage enrichment. The deep-research Modern Edition production process. First human-reviewed Modern Editions for the three-work corpus.</p>
+              <p>The human read-through of each Lectio edition — the review gate everything passes before it is published as final. Full Webster's 1913 dictionary integration. Deeper passage enrichment.</p>
             </div>
             <div class="triad-row">
               <span class="t-name">Coming</span>
-              <p>The Lectio Modern Edition as the in-app default. First printed Lectio Editions on print-on-demand. Optional SDIT account for cross-device sync. The connection graph. The rest of the corpus.</p>
+              <p>App Store release. Printed Lectio Editions on print-on-demand. The third form of each work: a recording of the Lectio edition, read aloud. Optional SDIT account for cross-device sync. Spanish editions. The rest of the corpus.</p>
             </div>
           </div>
           <div class="status">
