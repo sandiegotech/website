@@ -125,9 +125,19 @@ Resources:
           if (!uri.includes('.')) {
             var DIRS = [
               'papers',
-              'research'
+              'lectio'
             ];
             var key = uri.replace(/^\/+/, '').replace(/\/+$/, '');
+
+            // /research/ was Lectio's home before the project got its own
+            // page; links in the wild keep working.
+            if (key === 'research') {
+              return {
+                statusCode: 301,
+                statusDescription: 'Moved Permanently',
+                headers: { location: { value: '/lectio/' } }
+              };
+            }
 
             // Directories redirect to the trailing-slash form rather than
             // serving it, matching GitHub Pages and keeping one canonical URL

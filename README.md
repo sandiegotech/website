@@ -9,7 +9,7 @@ GitHub: [sandiegotech/website](https://github.com/sandiegotech/website)
 ```
 /                   Homepage and policy pages
 /papers/            Published papers and essays
-/research/          Lectio — the Institute's research project
+/lectio/            Lectio — the Institute's first project
 /assets/            Brand assets — logos, icons, favicons
 /assets/fonts/      Self-hosted webfonts (the site loads nothing third-party)
 /infra/             CloudFormation stack, deploy script, sitemap generator
