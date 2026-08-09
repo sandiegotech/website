@@ -63,6 +63,43 @@
       color: var(--ink-mid, #6b7280);
       margin-top: 0.75rem;
     }
+    .compare {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+      margin-top: 2rem;
+    }
+    @media (max-width: 700px) {
+      .compare { grid-template-columns: 1fr; }
+    }
+    .compare-panel {
+      border: 1px solid var(--hairline, #E2DCCC);
+      padding: 1.5rem 1.6rem 1.4rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .compare-panel .c-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.66rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-mid, #6b7280);
+    }
+    .compare-panel.is-lectio .c-label { color: var(--gold, #A8842C); }
+    .compare-panel p {
+      margin: 0;
+      font-size: 1.08rem;
+      line-height: 1.65;
+    }
+    .compare-note {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--ink-mid, #6b7280);
+      margin-top: 1.1rem;
+    }
     .hc-figure {
       float: right;
       margin: 0 0 1.5rem 2rem;
@@ -74,7 +111,44 @@
       box-shadow: 0 4px 20px rgba(0,0,0,0.16);
     }
     @media (max-width: 640px) {
-      .hc-figure { float: none; width: 120px; margin: 0 0 1.5rem 0; }
+      .compare {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+      margin-top: 2rem;
+    }
+    @media (max-width: 700px) {
+      .compare { grid-template-columns: 1fr; }
+    }
+    .compare-panel {
+      border: 1px solid var(--hairline, #E2DCCC);
+      padding: 1.5rem 1.6rem 1.4rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .compare-panel .c-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.66rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-mid, #6b7280);
+    }
+    .compare-panel.is-lectio .c-label { color: var(--gold, #A8842C); }
+    .compare-panel p {
+      margin: 0;
+      font-size: 1.08rem;
+      line-height: 1.65;
+    }
+    .compare-note {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--ink-mid, #6b7280);
+      margin-top: 1.1rem;
+    }
+    .hc-figure { float: none; width: 120px; margin: 0 0 1.5rem 0; }
     }
   </style>
 </head>
@@ -141,7 +215,7 @@
     <!-- ============ THE RESEARCH QUESTION ============ -->
     <section class="article" id="question">
       <div class="frame article-grid">
-        <div class="article-label">The Research Question<span class="num">Reading</span></div>
+        <div class="article-label">The Problem<span class="num">Reading</span></div>
         <div class="article-body">
           <h2>The greatest books ever written are almost entirely unread.</h2>
           <p class="lede">Not because people aren't capable. Because the on-ramp is brutal — and no one has fixed it.</p>
@@ -149,6 +223,29 @@
           <p>The reason is not laziness. It is the on-ramp: archaic translations that put even native English speakers at a remove, names and references that assume a classical education no one has anymore, dense walls of text with no context and no margin for the mind. Most reading apps reproduce the same forbidding 1909 file and wish you luck.</p>
           <p>The research question Lectio investigates is what happens when you fix that. If you give a modern reader a clear, plain-English edition of <em>The Iliad</em> — synthesized from the full scholarly record, with context beside the text and every hard word a tap away — does the book become readable? The hypothesis is yes. And that the right instrument for this is not a summary, not a podcast, not an audiobook: it is the book itself, properly made for the reader it has now.</p>
           <p>This is also a question about AI. Lectio holds that AI can either replace reading or deepen it, and that the design of every feature must choose between those two. A tool that reads for you removes the reader. A tool that removes the friction from stopping at an unknown word — or that gives you a plain-English edition of Dante instead of a nineteenth-century verse translation — leaves the reader intact while making the reader better. That distinction is the research.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ THE READING ============ -->
+    <section class="article" id="reading">
+      <div class="frame article-grid">
+        <div class="article-label">The Reading<span class="num">Side by side</span></div>
+        <div class="article-body">
+          <h2>What readable actually means.</h2>
+          <p class="lede">The opening of <em>Meditations</em>, Book II — the words a Roman emperor wrote to himself about getting up in the morning. On the left, the edition most people meet. On the right, the edition Lectio is building.</p>
+          <div class="compare">
+            <div class="compare-panel">
+              <span class="c-label">George Long · 1862</span>
+              <p>&ldquo;Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.&rdquo;</p>
+            </div>
+            <div class="compare-panel is-lectio">
+              <span class="c-label">Lectio Modern Edition · Working draft</span>
+              <p>&ldquo;Begin the morning by telling yourself: today I will meet the intrusive, the ungrateful, the overbearing, the dishonest, the envious, the cold. All of them are made this way by not knowing the difference between good and evil.&rdquo;</p>
+            </div>
+          </div>
+          <p class="compare-note">Same sentences. Same Stoic. In the app, Long, Casaubon&rsquo;s 1634 English, and the original Greek sit one tap away — nothing is replaced.</p>
+          <p style="margin-top: 1.5rem;">The left column is not wrong; it was simply written for readers who died a century ago. The right column is the project: the same sense and the same force, carried into the language people read now — and reviewed by a person before it ships.</p>
         </div>
       </div>
     </section>
@@ -265,8 +362,22 @@
           </div>
           <div class="status">
             <span class="s-label">Access</span>
-            Not yet on the App Store · TestFlight invites by request — <a href="mailto:brandon@sandiegotech.org?subject=Lectio%20Testing">write to test it</a>
+            Not yet on the App Store · Running on iPad via TestFlight
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ READ WITH US ============ -->
+    <section class="article correspond" id="read">
+      <div class="frame article-grid">
+        <div class="article-label">Read With Us<span class="num">The open door</span></div>
+        <div class="article-body">
+          <h2>The first readers shape the thing.</h2>
+          <p class="lede">Lectio is being built in the open, and it is at the stage where readers matter most: when the choices are still being made.</p>
+          <p>Write for a TestFlight invitation and read on your iPad as the editions land. Tell us where a passage loses you, where the Margin helps, and which work you want made readable next — the corpus grows in the order people actually want to read it.</p>
+          <a class="cta" href="mailto:brandon@sandiegotech.org?subject=Lectio%20Testing">Write for an invitation →</a>
+          <p style="margin-top: 1.5rem; font-size: 0.95rem; color: var(--muted, #6b7280);">Prefer to watch from a distance? <a href="/daily.html">The Daily</a> carries Lectio's progress as it happens.</p>
         </div>
       </div>
     </section>
