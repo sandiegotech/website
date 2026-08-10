@@ -105,7 +105,10 @@
         <div class="article-body">
           <h2>Begin the habit.</h2>
           <p>The Daily is free, and always will be. No tracking, no advertising, no selling of your name — only a short, considered letter each morning. Reply to any letter and you are off the list.</p>
-          <a class="cta" href="mailto:brandon@sandiegotech.org?subject=Subscribe%20to%20The%20Daily&body=I'd%20like%20to%20receive%20The%20Daily.">Subscribe to The Daily →</a>
+          <form class="subscribe" id="daily-subscribe">
+            <input type="email" id="daily-email" name="email" placeholder="you@example.com" required autocomplete="email" aria-label="Email address" />
+            <button type="submit">Subscribe to The Daily →</button>
+          </form>
           <p style="margin-top: 1.25rem; font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);">During the founding phase, subscriptions are opened by hand. Send the email and you are on the list.</p>
         </div>
       </div>
@@ -134,6 +137,26 @@
       this.setAttribute('aria-expanded', String(!open));
       document.querySelector('.masthead .toc').classList.toggle('is-open');
     });
+
+    // The Daily's list runs on Buttondown. Until the handle is set, the form
+    // falls back to correspondence — an address is never dropped on the floor.
+    var SDIT_LIST = '';
+    var dailyForm = document.getElementById('daily-subscribe');
+    if (dailyForm) {
+      if (SDIT_LIST) {
+        dailyForm.setAttribute('action', 'https://buttondown.com/api/emails/embed-subscribe/' + SDIT_LIST);
+        dailyForm.setAttribute('method', 'post');
+      } else {
+        dailyForm.addEventListener('submit', function(e) {
+          e.preventDefault();
+          var email = (document.getElementById('daily-email').value || '').trim();
+          var body = "I'd like to receive The Daily." + (email ? "\n\nEmail: " + email : "");
+          window.location.href = "mailto:brandon@sandiegotech.org?subject="
+            + encodeURIComponent("Subscribe to The Daily")
+            + "&body=" + encodeURIComponent(body);
+        });
+      }
+    }
   </script>
 </body>
 </html>

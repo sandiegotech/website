@@ -281,16 +281,26 @@
       document.querySelector('.masthead .toc').classList.toggle('is-open');
     });
 
+    // The Daily's list runs on Buttondown. Until the handle is set, the form
+    // falls back to correspondence — an address is never dropped on the floor.
+    var SDIT_LIST = '';
     var dailyForm = document.getElementById('daily-subscribe');
     if (dailyForm) {
-      dailyForm.addEventListener('submit', function(e) {
-        e.preventDefault();
-        var email = (document.getElementById('daily-email').value || '').trim();
-        var body = "I'd like to receive The Daily." + (email ? "\n\nEmail: " + email : "");
-        window.location.href = "mailto:brandon@sandiegotech.org?subject="
-          + encodeURIComponent("Subscribe to The Daily")
-          + "&body=" + encodeURIComponent(body);
-      });
+      if (SDIT_LIST) {
+        dailyForm.setAttribute('action', 'https://buttondown.com/api/emails/embed-subscribe/' + SDIT_LIST);
+        dailyForm.setAttribute('method', 'post');
+      } else {
+        dailyForm.addEventListener('submit', function(e) {
+          e.preventDefault();
+          var email = (document.getElementById('daily-email').value || '').trim();
+          var body = "I'd like to receive The Daily." + (email ? "
+
+Email: " + email : "");
+          window.location.href = "mailto:brandon@sandiegotech.org?subject="
+            + encodeURIComponent("Subscribe to The Daily")
+            + "&body=" + encodeURIComponent(body);
+        });
+      }
     }
   </script>
 </body>

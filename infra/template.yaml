@@ -196,7 +196,7 @@ Resources:
               script-src 'self' 'unsafe-inline' https://www.zeffy.com;
               frame-src https://www.zeffy.com;
               connect-src 'self' https://www.zeffy.com;
-              form-action 'self' mailto:;
+              form-action 'self' mailto: https://buttondown.com;
               base-uri 'self';
               object-src 'none'
         CustomHeadersConfig:
