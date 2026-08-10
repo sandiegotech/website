@@ -209,7 +209,7 @@
 
     // The Daily's list runs on Buttondown. Until the handle is set, the form
     // falls back to correspondence — an address is never dropped on the floor.
-    var SDIT_LIST = '';
+    var SDIT_LIST = 'sandiegotech';
     var dailyForm = document.getElementById('daily-subscribe');
     if (dailyForm) {
       if (SDIT_LIST) {
@@ -219,9 +219,7 @@
         dailyForm.addEventListener('submit', function(e) {
           e.preventDefault();
           var email = (document.getElementById('daily-email').value || '').trim();
-          var body = "I'd like to receive The Daily." + (email ? "
-
-Email: " + email : "");
+          var body = "I'd like to receive The Daily." + (email ? "\n\nEmail: " + email : "");
           window.location.href = "mailto:brandon@sandiegotech.org?subject="
             + encodeURIComponent("Subscribe to The Daily")
             + "&body=" + encodeURIComponent(body);
