@@ -27,6 +27,7 @@ WEIGHTS = {
     "philosophy.html": (0.9, "monthly"),
     "apply.html": (0.8, "monthly"),
     "daily.html": (0.8, "daily"),
+    "events.html": (0.8, "weekly"),
     "papers/": (0.8, "weekly"),
     "lectio/": (0.9, "weekly"),
     "fellowship.html": (0.7, "monthly"),
