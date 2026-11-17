@@ -4,153 +4,155 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lectio — San Diego Institute of Technology</title>
-  <meta name="description" content="Lectio — the first project of the San Diego Institute of Technology: a reading app that recovers what the great works meant, in the English people read now.">
+  <meta name="description" content="Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/">
   <meta property="og:title" content="Lectio — San Diego Institute of Technology">
-  <meta property="og:description" content="Lectio — the first project of the San Diego Institute of Technology: a reading app that recovers what the great works meant, in the English people read now.">
+  <meta property="og:description" content="Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.">
   <meta property="og:image" content="https://sandiegotech.org/assets/sdit-crest-navy.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="696">
   <meta property="og:image:alt" content="San Diego Institute of Technology">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Lectio — San Diego Institute of Technology">
-  <meta name="twitter:description" content="Lectio — the first project of the San Diego Institute of Technology: a reading app that recovers what the great works meant, in the English people read now.">
+  <meta name="twitter:description" content="Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.">
   <meta name="twitter:image" content="https://sandiegotech.org/assets/sdit-crest-navy.png">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/lectio/lectio.css">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
   <meta name="theme-color" content="#101C2C">
-  <style>
-    .cover-grid {
-      display: grid;
-      grid-template-columns: repeat(5, 1fr);
-      gap: 1.25rem;
-      margin-top: 2.5rem;
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://sandiegotech.org/lectio/",
+      "url": "https://sandiegotech.org/lectio/",
+      "name": "Lectio",
+      "description": "Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "San Diego Institute of Technology",
+        "url": "https://sandiegotech.org/"
+      },
+      "inLanguage": "en",
+      "hasPart": [
+        {
+          "@type": "Book",
+          "name": "Meditations",
+          "url": "https://sandiegotech.org/lectio/meditations/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Iliad",
+          "url": "https://sandiegotech.org/lectio/iliad/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Odyssey",
+          "url": "https://sandiegotech.org/lectio/odyssey/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Republic",
+          "url": "https://sandiegotech.org/lectio/republic/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Aeneid",
+          "url": "https://sandiegotech.org/lectio/aeneid/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Prince",
+          "url": "https://sandiegotech.org/lectio/the-prince/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Analects",
+          "url": "https://sandiegotech.org/lectio/analects/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Tao Te Ching",
+          "url": "https://sandiegotech.org/lectio/tao-te-ching/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Dhammapada",
+          "url": "https://sandiegotech.org/lectio/dhammapada/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Bhagavad Gita",
+          "url": "https://sandiegotech.org/lectio/bhagavad-gita/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Epic of Gilgamesh",
+          "url": "https://sandiegotech.org/lectio/gilgamesh/"
+        },
+        {
+          "@type": "Book",
+          "name": "Nicomachean Ethics",
+          "url": "https://sandiegotech.org/lectio/nicomachean-ethics/"
+        },
+        {
+          "@type": "Book",
+          "name": "Confessions",
+          "url": "https://sandiegotech.org/lectio/confessions/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Divine Comedy",
+          "url": "https://sandiegotech.org/lectio/divine-comedy/"
+        },
+        {
+          "@type": "Book",
+          "name": "Hamlet",
+          "url": "https://sandiegotech.org/lectio/hamlet/"
+        },
+        {
+          "@type": "Book",
+          "name": "The Gospel of Mark",
+          "url": "https://sandiegotech.org/lectio/mark/"
+        },
+        {
+          "@type": "Book",
+          "name": "Genesis",
+          "url": "https://sandiegotech.org/lectio/genesis/"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://sandiegotech.org/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Lectio",
+          "item": "https://sandiegotech.org/lectio/"
+        }
+      ]
     }
-    @media (max-width: 900px) {
-      .cover-grid { grid-template-columns: repeat(3, 1fr); }
-    }
-    @media (max-width: 560px) {
-      .cover-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
-    }
-    .cover-grid img {
-      width: 100%;
-      display: block;
-      box-shadow: 0 6px 24px rgba(0,0,0,0.18);
-      border-radius: 1px;
-    }
-    .research-figure {
-      margin: 2.5rem 0 0;
-    }
-    .research-figure img {
-      width: 100%;
-      display: block;
-      box-shadow: 0 8px 40px rgba(0,0,0,0.14);
-    }
-    .research-figure figcaption {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.7rem;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--ink-mid, #6b7280);
-      margin-top: 0.75rem;
-    }
-    .compare {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1.25rem;
-      margin-top: 2rem;
-    }
-    @media (max-width: 700px) {
-      .compare { grid-template-columns: 1fr; }
-    }
-    .compare-panel {
-      border: 1px solid var(--hairline, #E2DCCC);
-      padding: 1.5rem 1.6rem 1.4rem;
-      display: flex;
-      flex-direction: column;
-      gap: 1rem;
-    }
-    .compare-panel .c-label {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.66rem;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--ink-mid, #6b7280);
-    }
-    .compare-panel.is-lectio .c-label { color: var(--gold, #A8842C); }
-    .compare-panel p {
-      margin: 0;
-      font-size: 1.08rem;
-      line-height: 1.65;
-    }
-    .compare-note {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.7rem;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--ink-mid, #6b7280);
-      margin-top: 1.1rem;
-    }
-    .hc-figure {
-      float: right;
-      margin: 0 0 1.5rem 2rem;
-      width: 180px;
-    }
-    .hc-figure img {
-      width: 100%;
-      display: block;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.16);
-    }
-    @media (max-width: 640px) {
-      .compare {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1.25rem;
-      margin-top: 2rem;
-    }
-    @media (max-width: 700px) {
-      .compare { grid-template-columns: 1fr; }
-    }
-    .compare-panel {
-      border: 1px solid var(--hairline, #E2DCCC);
-      padding: 1.5rem 1.6rem 1.4rem;
-      display: flex;
-      flex-direction: column;
-      gap: 1rem;
-    }
-    .compare-panel .c-label {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.66rem;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--ink-mid, #6b7280);
-    }
-    .compare-panel.is-lectio .c-label { color: var(--gold, #A8842C); }
-    .compare-panel p {
-      margin: 0;
-      font-size: 1.08rem;
-      line-height: 1.65;
-    }
-    .compare-note {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.7rem;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--ink-mid, #6b7280);
-      margin-top: 1.1rem;
-    }
-    .hc-figure { float: none; width: 120px; margin: 0 0 1.5rem 0; }
-    }
-  </style>
+  ]
+}
+  </script>
 </head>
 <body>
 
@@ -162,6 +164,7 @@
       <nav class="toc" id="site-nav" aria-label="Site">
         <a href="/daily.html">Daily</a>
         <a href="/academics.html">Academics</a>
+        <a href="/projects.html" class="is-active">Projects</a>
         <a href="/events.html">Events</a>
         <a href="/philosophy.html">Philosophy</a>
         <a href="/apply.html" class="is-apply">Join</a>
@@ -171,255 +174,243 @@
 
   <main id="top">
 
-    <!-- ============ HERO ============ -->
     <section class="charter">
       <div class="frame">
+        <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li aria-current="page">Lectio</li></ol></nav>
         <p class="eyebrow rise">Lectio · The First Project</p>
         <h1 class="rise d1">Let any person read a great work. <em>With genuine ease.</em></h1>
-        <p class="standfirst rise d2">Lectio is a reading app for the great works — Homer to Hamlet, the Tao Te Ching to <em>Meditations</em> — built to recover what each author actually meant, and to say it in the English people read now. Modern machine learning weighs every word and every sentence against everything ever written about the work — the original language, every translation, the scholarship — because meanings drift: a word rarely carries today what it carried when it was written, or even what its Victorian translator heard. Every edition earns its release through the review of its readers — students and scholars alike; every word is free to read; the printed volume funds this institution.</p>
-        <p class="standfirst rise d3">It is the first project of the San Diego Institute of Technology. It is a large undertaking, and it is underway.</p>
-        <div class="meridian rise d4" aria-hidden="true">
-          <svg width="44" height="24" viewBox="0 0 44 24" fill="none">
-            <circle cx="22" cy="20" r="9" stroke="#A8842C" stroke-width="1.25"/>
-            <line x1="0" y1="20" x2="44" y2="20" stroke="#234E70" stroke-width="1.25"/>
-          </svg>
-          <span class="coords">The First Project · iPad · In Development · MIT Licensed</span>
-          <span class="line"></span>
-        </div>
+        <p class="standfirst rise d2">Lectio is a reader for the great books. Each one gets a new edition in plain current English, faithful to the original, with the historical translations and the original language one tap away.</p><p class="standfirst rise d3">It is the first project of the San Diego Institute of Technology. 17 editions are in beta. The app is not out yet. This page says where everything stands.</p>
       </div>
     </section>
-
-    <!-- ============ COVER GRID ============ -->
-    <section class="article" id="catalog">
-      <div class="frame">
-        <div class="cover-grid">
-          <img src="/assets/lectio/lectio-the-divine-comedy.jpg" alt="The Divine Comedy — Dante Alighieri · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-moby-dick.jpg" alt="Moby-Dick — Herman Melville · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-on-liberty.jpg" alt="On Liberty — John Stuart Mill · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-the-plays-and-sonnets.jpg" alt="The Plays and Sonnets — William Shakespeare · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-democracy-in-america.jpg" alt="Democracy in America — Alexis de Tocqueville · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-discourse-on-method.jpg" alt="Discourse on Method — René Descartes · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-plato-apology-crito-phaedo.jpg" alt="Apology, Crito, Phaedo — Plato · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-the-origin-of-species.jpg" alt="On the Origin of Species — Charles Darwin · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-paradise-lost.jpg" alt="Paradise Lost — John Milton · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-the-stranger.jpg" alt="The Stranger — Albert Camus · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-nicomachean-ethics.jpg" alt="Nicomachean Ethics — Aristotle · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-rousseau-discourse-on-inequality.jpg" alt="Discourse on Inequality — Jean-Jacques Rousseau · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-walden.jpg" alt="Walden — Henry David Thoreau · Lectio Edition 2026">
-          <img src="/assets/lectio/lectio-the-wealth-of-nations.jpg" alt="The Wealth of Nations — Adam Smith · Lectio Edition 2026">
-        </div>
-        <p style="font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-mid, #6b7280); margin-top: 1.25rem; text-align: center;">Over 130 works. A custom Lectio Edition cover for each — from Homer to Woolf, Plato to Darwin.</p>
-      </div>
-    </section>
-
-    <!-- ============ THE RESEARCH QUESTION ============ -->
     <section class="article" id="question">
       <div class="frame article-grid">
         <div class="article-label">The Problem<span class="num">Reading</span></div>
         <div class="article-body">
           <h2>The greatest books ever written are almost entirely unread.</h2>
-          <p class="lede">Not because people aren't capable. Because the on-ramp is brutal — and no one has fixed it.</p>
-          <p>The great works are free, in the public domain, and contain some of the most important things ever written: <em>The Iliad</em>, <em>Meditations</em>, <em>The Divine Comedy</em>, <em>Moby-Dick</em>, <em>On the Origin of Species</em>, <em>Democracy in America</em>. And almost nobody reads them.</p>
-          <p>The reason is not laziness. It is the on-ramp: archaic translations that put even native English speakers at a remove, names and references that assume a classical education no one has anymore, dense walls of text with no context and no margin for the mind. Most reading apps reproduce the same forbidding 1909 file and wish you luck.</p>
-          <p>Lectio fixes that. Give a modern reader a clear, plain-English edition of <em>The Iliad</em> — synthesized from the full scholarly record, with context beside the text and every hard word a tap away — and the book becomes readable. The right instrument for this is not a summary, not a podcast, not an audiobook: it is the book itself, properly made for the reader it has now.</p>
-          <p>This is also a question about AI. Lectio holds that AI can either replace reading or deepen it, and that the design of every feature must choose between those two. A tool that reads for you removes the reader. A tool that removes the friction from stopping at an unknown word — or that gives you a plain-English edition of Dante instead of a nineteenth-century verse translation — leaves the reader intact while making the reader better. That distinction is the work.</p>
+          <p class="lede">People are capable of reading them. What stops them is the way in.</p>
+          <p>The great works are free and in the public domain: <em>The Iliad</em>, <em>Meditations</em>, <em>The Divine Comedy</em>, the <em>Tao Te Ching</em>. Almost nobody reads them.</p>
+          <p>The free copy of each is a translation a century or more old. Its English puts even a native speaker at a distance, and its names and references assume a classical schooling few people have now. Most reading apps hand over the same 1909 file and leave you to it.</p>
+          <p>Lectio gives each book a clear modern edition and keeps the old ones beside it. It is the whole book, made for the reader it has now. Nothing is cut and nothing is summarized.</p>
         </div>
       </div>
     </section>
-
-    <!-- ============ THE READING ============ -->
+    <section class="article" id="library">
+      <div class="frame article-grid">
+        <div class="article-label">The Library<span class="num">17 editions</span></div>
+        <div class="article-body">
+          <h2>The books that have a Lectio edition today.</h2>
+          <p class="lede">Each cover opens a page on that edition: what the book is, why the edition was made, how it begins, the choices it makes, and the record of how it was drafted and checked.</p>
+          <ul class="lx-grid">
+            <li><a href="/lectio/meditations/">
+              <img src="/lectio/meditations/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Meditations">
+              <span class="lx-t">Meditations</span>
+              <span class="lx-a">Marcus Aurelius</span>
+            </a></li>
+            <li><a href="/lectio/iliad/">
+              <img src="/lectio/iliad/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Iliad">
+              <span class="lx-t">The Iliad</span>
+              <span class="lx-a">Homer</span>
+            </a></li>
+            <li><a href="/lectio/odyssey/">
+              <img src="/lectio/odyssey/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Odyssey">
+              <span class="lx-t">The Odyssey</span>
+              <span class="lx-a">Homer</span>
+            </a></li>
+            <li><a href="/lectio/republic/">
+              <img src="/lectio/republic/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Republic">
+              <span class="lx-t">The Republic</span>
+              <span class="lx-a">Plato</span>
+            </a></li>
+            <li><a href="/lectio/aeneid/">
+              <img src="/lectio/aeneid/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Aeneid">
+              <span class="lx-t">The Aeneid</span>
+              <span class="lx-a">Virgil</span>
+            </a></li>
+            <li><a href="/lectio/the-prince/">
+              <img src="/lectio/the-prince/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Prince">
+              <span class="lx-t">The Prince</span>
+              <span class="lx-a">Niccolò Machiavelli</span>
+            </a></li>
+            <li><a href="/lectio/analects/">
+              <img src="/lectio/analects/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Analects">
+              <span class="lx-t">The Analects</span>
+              <span class="lx-a">Confucius</span>
+            </a></li>
+            <li><a href="/lectio/tao-te-ching/">
+              <img src="/lectio/tao-te-ching/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Tao Te Ching">
+              <span class="lx-t">The Tao Te Ching</span>
+              <span class="lx-a">Laozi</span>
+            </a></li>
+            <li><a href="/lectio/dhammapada/">
+              <img src="/lectio/dhammapada/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Dhammapada">
+              <span class="lx-t">The Dhammapada</span>
+              <span class="lx-a">Early Buddhist tradition</span>
+            </a></li>
+            <li><a href="/lectio/bhagavad-gita/">
+              <img src="/lectio/bhagavad-gita/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Bhagavad Gita">
+              <span class="lx-t">The Bhagavad Gita</span>
+              <span class="lx-a"></span>
+            </a></li>
+            <li><a href="/lectio/gilgamesh/">
+              <img src="/lectio/gilgamesh/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Epic of Gilgamesh">
+              <span class="lx-t">The Epic of Gilgamesh</span>
+              <span class="lx-a">Sumer &amp; Akkad</span>
+            </a></li>
+            <li><a href="/lectio/nicomachean-ethics/">
+              <img src="/lectio/nicomachean-ethics/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Nicomachean Ethics">
+              <span class="lx-t">Nicomachean Ethics</span>
+              <span class="lx-a">Aristotle</span>
+            </a></li>
+            <li><a href="/lectio/confessions/">
+              <img src="/lectio/confessions/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Confessions">
+              <span class="lx-t">Confessions</span>
+              <span class="lx-a">Saint Augustine</span>
+            </a></li>
+            <li><a href="/lectio/divine-comedy/">
+              <img src="/lectio/divine-comedy/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Divine Comedy">
+              <span class="lx-t">The Divine Comedy</span>
+              <span class="lx-a">Dante Alighieri</span>
+            </a></li>
+            <li><a href="/lectio/hamlet/">
+              <img src="/lectio/hamlet/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Hamlet">
+              <span class="lx-t">Hamlet</span>
+              <span class="lx-a">William Shakespeare</span>
+            </a></li>
+            <li><a href="/lectio/mark/">
+              <img src="/lectio/mark/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Gospel of Mark">
+              <span class="lx-t">The Gospel of Mark</span>
+              <span class="lx-a">attributed to Mark</span>
+            </a></li>
+            <li><a href="/lectio/genesis/">
+              <img src="/lectio/genesis/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Genesis">
+              <span class="lx-t">Genesis</span>
+              <span class="lx-a">Ancient Israel</span>
+            </a></li>
+          </ul>
+          <div class="status lx-status">
+            <span class="s-label">Where these stand</span>
+            All 17 are beta. They were drafted by AI models. In November 2026 every section had a first review by machine readers, and the confirmed fixes were applied. An edition becomes a release through <a href="#scholars">the review of its readers</a> together with the editor's own full read. Neither has happened yet for any edition. <a href="/lectio/mission/">How an edition is made.</a>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="article" id="reading">
       <div class="frame article-grid">
         <div class="article-label">The Reading<span class="num">Side by side</span></div>
         <div class="article-body">
-          <h2>What readable actually means.</h2>
-          <p class="lede">The opening of <em>Meditations</em>, Book II — the words a Roman emperor wrote to himself about getting up in the morning. On the left, the edition most people meet. On the right, the same passage as it reads in the app today.</p>
-          <div class="compare">
-            <div class="compare-panel">
-              <span class="c-label">George Long · 1862</span>
-              <p>&ldquo;Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.&rdquo;</p>
-            </div>
-            <div class="compare-panel is-lectio">
-              <span class="c-label">Lectio Edition · In the app</span>
-              <p>&ldquo;Begin each morning by telling yourself: today I will meet people who are meddling, ungrateful, arrogant, dishonest, envious, and unsociable. They are like this because they cannot tell good from evil.&rdquo;</p>
-            </div>
+          <h2>What readable means.</h2>
+          <p class="lede">The opening of <em>Meditations</em>, Book II. A Roman emperor is telling himself how to face the morning.</p>
+          <div class="lx-compare">
+            <figure>
+              <figcaption>George Long · 1862</figcaption>
+              <blockquote data-edition="edition.meditations.long-1862">Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.</blockquote>
+            </figure>
+            <figure class="is-lectio">
+              <figcaption>Lectio Edition · 2026</figcaption>
+              <blockquote data-edition="edition.meditations.lectio-modern">Begin each morning by telling yourself: today I will meet people who are meddling, ungrateful, arrogant, dishonest, envious, and unsociable. They are like this because they cannot tell good from evil.</blockquote>
+            </figure>
           </div>
-          <p class="compare-note">Same sentences. Same Stoic. In the app, Long, Casaubon&rsquo;s 1634 English, and the original Greek sit one tap away — nothing is replaced.</p>
-          <div class="status" style="margin-top: 1.5rem;">
-            <span class="s-label">The Divergence Record</span>
-            Every Lectio edition ships with its departures documented. Where Long renders <em>to hēgemonikon</em> as &ldquo;the ruling faculty,&rdquo; Lectio writes &ldquo;the mind that governs you&rdquo; — both accurate; only one opaque. Each call is recorded with its reasoning, one tap away.
-          </div>
-          <p style="margin-top: 1.5rem;">The left column is not wrong; it was simply written for readers who died a century ago. The right column is the project: the same sense and the same force, carried into the language people read now — and released only when its review closes.</p>
-          <p style="margin-top: 1.5rem;">Or judge it at full length. The complete <em>Meditations</em> — the Lectio Edition, typeset by the same press that will print the physical books — is free to download as a beta copy while its review is open.</p>
-          <a class="cta" href="/lectio/meditations-lectio-edition-beta.pdf">Download the Meditations beta · PDF, 1.1&nbsp;MB →</a>
+          <p>The first is the edition most people meet. It is accurate, and it was written for readers who died a century ago. The second is the same two sentences as they stand in the Lectio Edition today. In the app, Long, Casaubon's English of 1634 and the Greek stay beside it.</p>
         </div>
       </div>
     </section>
-
-    <!-- ============ THE ORIGINALS ============ -->
-    <section class="article" id="originals">
+    <section class="article" id="edition">
       <div class="frame article-grid">
-        <div class="article-label">The Originals<span class="num">Nothing replaced</span></div>
+        <div class="article-label">The Edition<span class="num">How it is made</span></div>
         <div class="article-body">
-          <h2>The originals do not go away. They are the point.</h2>
-          <p class="lede">Every historical translation and every original-language text in the corpus stays in the app, one tap from the Lectio edition — free to read, and worth reading. The Lectio edition is not a replacement; it is an introduction.</p>
-          <p>It exists for the reader who would otherwise struggle through, or never begin: a way to meet the work in your own language first, and then walk deeper — into Long&rsquo;s English, into Casaubon&rsquo;s, into the Greek itself if you will go that far. Nothing stands between you and the original except the on-ramp that used to stop you.</p>
-          <p>And most of these works were never English to begin with. The Iliad is Greek; the Meditations, a Roman emperor&rsquo;s Greek; the Tao Te Ching, classical Chinese. Every English reader has only ever met them in translation. Lectio continues the work translation has always done — carrying the lessons of these books into the languages and the era in front of us: modern English first, Spanish next, and onward to readers who never had a translation at all.</p>
+          <h2>How an edition is made.</h2>
+          <p class="lede">A Lectio edition is a new rendering of the whole work. It is drafted by an AI model and it says so.</p>
+          <p>The public-domain translations and, where we have it, the original are brought into one bundle. A model drafts the edition section by section. A second reader, also a model, then reads every section against those sources and reports what is wrong. A further pass tries to prove each finding false, and only the fixes that survive are applied. At that point the edition is a beta. It becomes a release when its readers have reviewed it and the editor has read the whole of it himself. Neither has happened yet for any book.</p>
+          <p>Each edition is stamped with the year it was drafted and the date it was last revised, and it carries its sources and the places where it departs from the older English.</p>
+          <a class="cta" href="/lectio/mission/">The translation mission, in full →</a>
         </div>
       </div>
     </section>
-
-    <!-- ============ THE LECTIO EDITION ============ -->
-    <section class="article correspond" id="edition">
+    <section class="article" id="coming">
       <div class="frame article-grid">
-        <div class="article-label">The Lectio Edition<span class="num">The flagship</span></div>
+        <div class="article-label">What Is Coming<span class="num">The schedule</span></div>
         <div class="article-body">
-          <h2>A fresh, plain-modern-English edition of each work. Produced by deep research. Free in the app.</h2>
-          <p class="lede">The thing only Lectio does: a new edition of each great work, synthesized from the full scholarly record and expressed in the language people actually read now.</p>
-          <p>Not a summary. Not a simplification. A real, faithful rendering of the work — the sense and force of the original, in contemporary English — produced by a rigorous process and released only after review. The claim the project is testing: a person who reads the Lectio Edition of <em>The Iliad</em> has read <em>The Iliad</em>.</p>
-          <p><strong>How it is made.</strong> For each section of text, the research pipeline gathers everything available: every public-domain translation, the original Greek or Latin, and all available scholarship — modern translations as research input, academic commentaries, the ancient scholia. It synthesizes from the full record and produces a rendering that is faithful to the original, informed by every serious reading of it, and expressed in fresh, contemporary English. Then it ships as a beta and enters review — students and scholars, reading closely. Copyrighted translations are research inputs, never reproduced text — what scholarship says about a passage can be synthesized; the text of a copyrighted translation cannot be included.</p>
-          <p><strong>Provenance is a first-class feature.</strong> Every Lectio Edition carries a full provenance record: the AI model used, the date produced, the sources consulted, and a plain-language description of the method. The reading surface shows only "Lectio Edition." The full record is one tap away. It is never passed off as a historical translation.</p>
-          <p><strong>Editions have vintages.</strong> As models improve, the edition can be regenerated — a 2026 edition, a 2028 edition, and so on. The current edition is always the default. Older vintages are archived with their provenance intact: a permanent, citable record. Students citing a passage can pin to a specific vintage.</p>
-          <p>The Lectio Edition is the default in the app. One tap switches to any public-domain translation or the original language. Accessibility by default, depth on demand.</p>
-
-          <figure class="research-figure">
-            <img src="/assets/lectio/print-preview.png" alt="Lectio Edition — The Iliad, Book I: The Quarrel. A typeset page with footer gloss.">
-            <figcaption>A page from the Lectio Edition of The Iliad — clean serif text, with a footer gloss orienting the reader in place without spoiling what comes next.</figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ THE CORPUS ============ -->
-    <section class="article" id="corpus">
-      <div class="frame article-grid">
-        <div class="article-label">The Corpus<span class="num">The scope</span></div>
-        <div class="article-body">
-          <h2>Seventeen works in. The scope: the books that built the modern mind.</h2>
-
-          <figure class="hc-figure">
-            <img src="/assets/lectio/harvard-classics.jpg" alt="The Harvard Classics — The Five-Foot Shelf of Books">
-          </figure>
-
-          <p class="lede">The corpus is the great works themselves — the books that built the modern mind, whatever shelf they happen to sit on. The inspiration for the scope is old: in 1909, Charles Eliot assembled the five-foot shelf — the Harvard Classics — 51 public-domain volumes meant to give any person a genuine education in fifteen minutes a day. That shelf is a map we admire, not a boundary we accept.</p>
-          <p>Lectio is being built to make these works readable — not just accessible, but readable: the kind of reading where you finish and feel the work was worth the time. Production began with three:</p>
-          <div class="triad">
-            <div class="triad-row">
-              <span class="t-name">Meditations</span>
-              <p>Marcus Aurelius. Stoic philosophy written by a Roman emperor to himself. In the app now with the Lectio Edition, the George Long 1862 translation, Méric Casaubon 1634, and the original Greek.</p>
-            </div>
-            <div class="triad-row">
-              <span class="t-name">The Iliad</span>
-              <p>Homer. In the app now — the showcase for multi-edition reading: the Lectio edition, Pope's heroic couplets, and Butler's plain prose, side by side with your place kept.</p>
-            </div>
-            <div class="triad-row">
-              <span class="t-name">Hamlet</span>
-              <p>Shakespeare. The original text beside a Lectio edition in modern prose — the sternest test of the method, where the original's music has to stay audible.</p>
-            </div>
-          </div>
-          <p>The bundle has since grown to seventeen works — Homer to Hamlet, Gilgamesh to Genesis, the Tao Te Ching to the Dhammapada — and every one now carries a Lectio edition, each one beta until it passes review. Custom covers exist for over 130 works; the catalog scales as each edition proves out.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ THE MARGIN ============ -->
-    <section class="article correspond" id="margin">
-      <div class="frame article-grid">
-        <div class="article-label">The Margin<span class="num">Comprehension layer</span></div>
-        <div class="article-body">
-          <h2>Context beside the text. The reading column stays calm.</h2>
-          <p class="lede">The signature UI of Lectio: a warm reading column on the left, a quiet right-hand rail — The Margin — carrying the living layer. Tap a word, see a person, follow a reference. All of it in the margin, none of it interrupting the text.</p>
-          <p>The comprehension layer is pre-generated, not live. For each work, the research pipeline produces an annotation dictionary: 300 to 400 entries covering proper nouns, recurring concepts, and the high-frequency references a modern reader will stumble on. Who is Achilles? What is <em>xenia</em>? What are the Furies? Each entry is generated once from the full scholarly record, human-reviewed, and committed to the content bundle as static, finished data. A reader tapping "xenia" gets a considered, edited definition — not whatever a model generates cold that afternoon.</p>
-          <p><strong>The Docent.</strong> The margin also carries a reading companion. Ask it about the passage in front of you and it answers from the text and the curated editorial layer — not the open internet. It runs on-device: free, offline, and private, with nothing sent anywhere. AI is an instrument here, never the authority — the Docent's answers are labeled as its own, and the text remains the text.</p>
-          <p>Words not in the annotation dictionary fall through to Webster's 1913 — a complete, public-domain dictionary included in the app. No API call for ordinary vocabulary. On-device AI handles anything genuinely unexpected. The design goal is near-zero per-user cost: content is pre-generated and served static, so each additional reader costs essentially nothing.</p>
-          <p><strong>Multi-edition reading.</strong> Every work carries multiple editions: the Lectio Edition, every public-domain translation available, and the original-language text. Switching editions keeps your place. Each edition carries a provenance card — translator and year for historical editions; model, date, and sources for Lectio editions — available in the switcher and in any exported PDF.</p>
-          <div class="status">
-            <span class="s-label">What's built</span>
-            The Margin, the Docent, tap-to-explore words, word save, notes, search, editorial enrichment per passage, and multi-edition reading are all running. Seventeen works are in the content bundle.
+          <h2>About twenty books at launch. Then one each Monday.</h2>
+          <p class="lede">This is the plan. Dates can slip. The launch books go out as betas. A book that is not finished does not go out.</p>
+          <p>The launch shelf is 20 books: the 17 above and 3 more that are drafted and not yet in the library, <em>Apology, Crito &amp; Phaedo</em> (Plato), <em>The Art of War</em> (Sun Tzu) and <em>The Golden Sayings</em> (Epictetus).</p>
+          <p>After launch, one new book appears each Monday from January 4, 2027, announced in <a href="/daily.html">the Daily</a>. The first 12 are dated. The register behind them holds 219 books in all.</p>
+          <div class="lx-table-wrap">
+            <table class="lx-table">
+              <thead><tr><th>Monday</th><th>Book</th><th>Author</th></tr></thead>
+              <tbody>
+              <tr><td>January 4, 2027</td><td><em>The Rubaiyat</em></td><td>Omar Khayyam</td></tr>
+              <tr><td>January 11, 2027</td><td><em>On Friendship &amp; On Old Age</em></td><td>Cicero</td></tr>
+              <tr><td>January 18, 2027</td><td><em>Candide</em></td><td>Voltaire</td></tr>
+              <tr><td>January 25, 2027</td><td><em>The Consolation of Philosophy</em></td><td>Boethius</td></tr>
+              <tr><td>February 1, 2027</td><td><em>Utopia</em></td><td>Sir Thomas More</td></tr>
+              <tr><td>February 8, 2027</td><td><em>In Praise of Folly</em></td><td>Erasmus</td></tr>
+              <tr><td>February 15, 2027</td><td><em>The Imitation of Christ</em></td><td>Thomas à Kempis</td></tr>
+              <tr><td>February 22, 2027</td><td><em>Discourse on Method</em></td><td>René Descartes</td></tr>
+              <tr><td>March 1, 2027</td><td><em>The Social Contract</em></td><td>Jean-Jacques Rousseau</td></tr>
+              <tr><td>March 8, 2027</td><td><em>The Poems of Sappho</em></td><td>Sappho</td></tr>
+              <tr><td>March 15, 2027</td><td><em>The Enuma Elish</em></td><td>Babylon</td></tr>
+              <tr><td>March 22, 2027</td><td><em>The Yoga Sutras</em></td><td>Patanjali</td></tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
     </section>
-
-    <!-- ============ THE PHYSICAL EDITION ============ -->
+    <section class="article" id="app">
+      <div class="frame article-grid">
+        <div class="article-label">The App<span class="num">Not yet released</span></div>
+        <div class="article-body">
+          <h2>The app is built and not yet released.</h2>
+          <p class="lede">Lectio is being prepared for the App Store. The Institute's Apple developer enrollment is in review, and nothing can be submitted until it clears. When the app is out it will be free.</p>
+          <p>It runs on iPhone and iPad. It opens to the books you have been reading. Every book lists its editions, and switching between them keeps your place. You can set a passage beside the same passage in another edition, and keep bookmarks, highlights, notes and saved words.</p>
+          <p>There is no link here because there is nothing to install yet. The Daily will say when there is.</p>
+        </div>
+      </div>
+    </section>
     <section class="article" id="print">
       <div class="frame article-grid">
-        <div class="article-label">The Lectio Edition in Print<span class="num">The artifact</span></div>
+        <div class="article-label">In Print<span class="num">One proof</span></div>
         <div class="article-body">
-          <h2>The app is free. The book is the product. The proceeds fund the Institute.</h2>
-          <p class="lede">A well-made printed Lectio Edition is the natural physical form of this work — and the revenue model that makes everything else possible.</p>
-          <p>Lectio the app is free end-to-end: the public-domain texts, the original languages, The Margin, the annotation dictionary, and the Lectio Edition itself. No subscription, no paywall on the text. The near-zero AI cost architecture — content pre-generated and served static — makes free sustainable at any scale.</p>
-          <p>Revenue comes from the physical artifact. A printed <em>Lectio Edition</em> of each work — carefully designed, reviewed in full and stamped a release before printing, carrying a provenance colophon — is produced on demand. No inventory to carry. Whoever wants only to read pays nothing; whoever wants to keep a fine edition buys the book. Proceeds flow through SDIT and fund its work.</p>
-          <p>Every work and every language is another edition with nothing to warehouse, so the catalogue only grows. Spanish editions — fitting San Diego — come next. This is not a separate product from the app; it is another rendering of the same content, made permanent. The book is typeset directly from the same content bundle the app reads — text, provenance, divergences and all — so the page and the reader can never drift apart. The press already runs: finished interiors come off it today. The knowledge is never gated. Only the made object is sold.</p>
-          <p>A modern translation that tells you exactly how it was made — model, vintage, sources, human reviewer — is the selling point, not a disclaimer. Honesty is the product.</p>
+          <h2>Printed editions are planned. One proof exists.</h2>
+          <p class="lede">The printed book is set from the same bundle the app reads, so the page and the screen carry the same text.</p>
+          <p>The only printed artifact today is a proof of <em>Meditations</em>. Only a release is printed, and the editor reads the proof on paper before it is sold. The plan after that is one printed edition a month, shortest works first.</p>
+          <p>The text will be free to read, in the app and as a PDF. The bound book is what is sold, and what it earns goes to the Institute. One PDF exists today, of <em>Meditations</em>: <a href="/lectio/meditations/meditations-lectio-edition-2026-11.pdf">PDF, beta, revised November 2026</a>.</p>
+          <p>Editions in other languages are planned, Spanish first. None exists yet beyond a trial setting of <em>Meditations</em>.</p>
         </div>
       </div>
     </section>
-
-    <!-- ============ THE SCHOLARS ============ -->
-    <section class="article correspond" id="scholars">
+    <section class="article" id="scholars">
       <div class="frame article-grid">
-        <div class="article-label">The Scholars<span class="num">Beta &rarr; Release</span></div>
+        <div class="article-label">The Scholars<span class="num">Beta → Release</span></div>
         <div class="article-body">
           <h2>Every edition is beta until its readers make it a release.</h2>
-          <p class="lede">A Lectio edition ships the moment it is produced, labeled beta. It earns its release stamp one way: the review of its readers — students and scholars alike — who verify, passage against passage, that it keeps the original&rsquo;s message and reads clean.</p>
-          <p>This is review by care, not by credential. A scholar here is anyone who will read closely: hold the Lectio edition against Long, or Casaubon, or the original, flag where a passage loses the sense or the music, and say so plainly. When its readers are satisfied on both counts — faithful, and easy — the edition is stamped a release. Only releases go to print.</p>
-          <p>There is an old precedent for building this way. The Oxford English Dictionary was not written by a committee of dons; it began with an appeal to the public, and thousands of volunteer readers spent decades mailing quotation slips to Murray&rsquo;s scriptorium. Lectio pays that method its homage, with better instruments: every flagged passage anchors to an exact segment, every accepted correction lands in the next vintage with its reasoning recorded, and every released edition names its reviewers in the colophon.</p>
-          <a class="cta" href="mailto:brandon@sandiegotech.org?subject=Lectio%20Scholars&amp;body=I%27d%20like%20to%20join%20the%20review.%0A%0AA%20work%20I%27d%20want%20to%20read%20closely%3A%20">Join the review &rarr;</a>
-          <div class="status" style="margin-top: 1.5rem;">
+          <p class="lede">A Lectio edition is labeled beta from the day it is made. It earns its release stamp through the review of its readers, students and scholars alike, together with the editor's own full read.</p>
+          <p>This is review by care, not by credential. A scholar here is anyone who will read closely. You hold the Lectio edition against the older translations, or against the original if you have the language. You flag where a passage loses the sense or reads badly, and you say so plainly.</p>
+          <p>Every flagged passage anchors to an exact segment of the text. An accepted correction lands in the next revision with its reason recorded. A released edition names its reviewers in the colophon. Only releases go to print.</p>
+          <p>There is a precedent. The Oxford English Dictionary began with an appeal to the public, and volunteer readers spent decades mailing quotation slips to its editors. Lectio works the same way, with better instruments.</p>
+          <p>The machine review of November 2026 was a first pass. It does not replace this one. No edition has had its readers' review yet.</p>
+          <a class="cta" href="mailto:brandon@sandiegotech.org?subject=Lectio%20Scholars&amp;body=I%27d%20like%20to%20join%20the%20review.%0A%0AA%20work%20I%27d%20want%20to%20read%20closely%3A%20">Join the review →</a>
+          <div class="status lx-status">
             <span class="s-label">Open now</span>
-            The first review is <em>Meditations</em> — the beta is free to download above, and the review is open to anyone willing to read it closely.
+            The first open review is <em>Meditations</em>. The beta is on <a href="/lectio/meditations/">its edition page</a>, and the whole text is here to read: <a href="/lectio/meditations/meditations-lectio-edition-2026-11.pdf">PDF, beta, revised November 2026</a>.
           </div>
         </div>
       </div>
     </section>
-
-    <!-- ============ STATUS ============ -->
-    <section class="article correspond" id="status">
+    <section class="article correspond" id="source">
       <div class="frame article-grid">
-        <div class="article-label">Status<span class="num">Where we are</span></div>
+        <div class="article-label">The Record<span class="num">Open</span></div>
         <div class="article-body">
-          <h2>Foundation built. Lectio Editions in production.</h2>
-          <div class="triad">
-            <div class="triad-row">
-              <span class="t-name">Done</span>
-              <p>Pipeline to portable JSON bundle. Stable segment IDs. Provenance records. iPad reader with multi-edition reading, the Margin, the Docent, notes, search, and collections. Seventeen works in the bundle — thirty-six editions, every work with a Lectio edition. A print pipeline that sets any edition as a finished book from the same content. 130+ custom covers.</p>
-            </div>
-            <div class="triad-row">
-              <span class="t-name">In progress</span>
-              <p>The review of each Lectio edition — students and scholars, the gate between beta and release. Full Webster’s 1913 dictionary integration. Deeper passage enrichment.</p>
-            </div>
-            <div class="triad-row">
-              <span class="t-name">Coming</span>
-              <p>App Store release. Printed Lectio Editions on print-on-demand. The third form of each work: a recording of the Lectio edition, read aloud. Optional SDIT account for cross-device sync. Spanish editions. The rest of the corpus.</p>
-            </div>
-          </div>
+          <h2>The method and the record are public.</h2>
+          <p class="lede">Each edition's page carries its own record: the model that drafted it, its sources, what the review found and fixed, and what is still open.</p>
+          <p>If you read a passage and think it is wrong, write to <a href="mailto:brandon@sandiegotech.org?subject=Lectio">brandon@sandiegotech.org</a> and say where.</p>
           <div class="status">
             <span class="s-label">Source</span>
-            Open at <a href="https://github.com/sandiegotech/Lectio" target="_blank" rel="noopener">github.com/sandiegotech/Lectio</a> — the pipeline, the provenance, the method · Code MIT · Lectio Editions CC BY-NC 4.0
-          </div>
-          <div class="status">
-            <span class="s-label">Access</span>
-            Not yet on the App Store · Running on iPad via TestFlight
+            <a href="https://github.com/sandiegotech/Lectio" target="_blank" rel="noopener">github.com/sandiegotech/Lectio</a> · Code MIT · Lectio Editions CC BY-NC 4.0
           </div>
         </div>
       </div>
     </section>
-
-    <!-- ============ READ WITH US ============ -->
-    <section class="article correspond" id="read">
-      <div class="frame article-grid">
-        <div class="article-label">Read With Us<span class="num">The open door</span></div>
-        <div class="article-body">
-          <h2>The first readers shape the thing.</h2>
-          <p class="lede">Lectio is being built in the open, and it is at the stage where readers matter most: when the choices are still being made.</p>
-          <p>Start tonight if you like — <a href="/lectio/meditations-lectio-edition-beta.pdf">the Meditations beta</a> is free to download and read anywhere. Then write for a TestFlight invitation and read on your iPad as the editions land. Tell us where a passage loses you, where the Margin helps, and which work you want made readable next — the corpus grows in the order people actually want to read it. And if you would go deeper, <a href="#scholars">join the review</a>: the readers who verify an edition are the ones who make it a release.</p>
-          <a class="cta" href="mailto:brandon@sandiegotech.org?subject=Lectio%20Testing">Write for an invitation →</a>
-          <p style="margin-top: 1.5rem; font-size: 0.95rem; color: var(--muted, #6b7280);">Prefer to watch from a distance? <a href="/daily.html">The Daily</a> carries Lectio's progress as it happens.</p>
-        </div>
-      </div>
-    </section>
-
   </main>
 
   <!-- ============ COLOPHON ============ -->

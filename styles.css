@@ -507,7 +507,8 @@ h1, h2, h3, h4 {
 .hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
 .hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
-@media (max-width: 760px) {
+/* 860, not 760: with six links the row needs about 830px beside the wordmark. */
+@media (max-width: 860px) {
   .masthead-inner {
     flex-wrap: wrap;
     justify-content: space-between;

@@ -1,0 +1,227 @@
+/* ================================================================
+   Lectio pages — /lectio/, /lectio/mission/, /lectio/<book>/
+   Loaded after /styles.css. Uses its tokens; adds only what the
+   Lectio pages need. Pages are written by Lectio/tools/site.py.
+   ================================================================ */
+
+/* grid children must be allowed to shrink, or a wide table widens the page */
+.article-grid > * { min-width: 0; }
+
+/* ---- breadcrumbs ---- */
+.lx-crumbs {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 2rem;
+}
+.lx-crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.25rem 0.6rem; }
+.lx-crumbs li + li::before { content: "/"; margin-right: 0.6rem; color: var(--hairline); }
+.lx-crumbs a { color: var(--muted); text-decoration: none; border-bottom: 1px solid var(--hairline); }
+.lx-crumbs a:hover { color: var(--gold); }
+
+/* ---- the library grid ---- */
+.lx-grid {
+  list-style: none;
+  margin: 2.25rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.75rem 1.25rem;
+}
+@media (max-width: 900px) { .lx-grid { grid-template-columns: repeat(4, 1fr); } }
+@media (max-width: 680px) { .lx-grid { grid-template-columns: repeat(3, 1fr); gap: 1.25rem 0.9rem; } }
+@media (max-width: 420px) { .lx-grid { grid-template-columns: repeat(2, 1fr); } }
+.lx-grid a { display: block; text-decoration: none; color: var(--ink); }
+.lx-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 1px;
+  box-shadow: 0 6px 22px rgba(16, 28, 44, 0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.lx-grid a:hover img { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(16, 28, 44, 0.24); }
+.lx-grid .lx-t {
+  display: block;
+  margin-top: 0.7rem;
+  font-family: var(--font-display);
+  font-size: 1.02rem;
+  line-height: 1.25;
+}
+.lx-grid .lx-a {
+  display: block;
+  margin-top: 0.15rem;
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.lx-grid a:hover .lx-t { color: var(--marine); }
+
+.lx-caption {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-top: 1.25rem;
+}
+
+/* ---- side by side ---- */
+.lx-compare { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; margin-top: 2rem; }
+@media (max-width: 700px) { .lx-compare { grid-template-columns: 1fr; } }
+.lx-compare figure {
+  margin: 0;
+  border: 1px solid var(--hairline);
+  padding: 1.4rem 1.5rem;
+}
+.lx-compare figcaption {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.9rem;
+}
+.lx-compare .is-lectio figcaption { color: var(--gold); }
+.lx-compare blockquote { margin: 0; font-family: var(--font-display); font-size: 1.15rem; line-height: 1.6; }
+
+/* ---- book hero ---- */
+.lx-book .frame {
+  display: grid;
+  grid-template-columns: minmax(0, 15rem) 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+.lx-book .lx-crumbs { grid-column: 1 / -1; margin-bottom: 0; }
+.lx-book .lx-cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+  box-shadow: 0 10px 36px rgba(16, 28, 44, 0.22);
+  border-radius: 1px;
+}
+.lx-book h1 { max-width: 16ch; margin-bottom: 0.9rem; }
+.lx-book .lx-author { font-family: var(--font-display); font-size: 1.45rem; font-style: italic; color: var(--marine); margin-bottom: 1.4rem; }
+.lx-tags { list-style: none; margin: 0 0 1.75rem; padding: 0; display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.lx-tags li {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border: 1px solid var(--hairline);
+  padding: 0.3rem 0.6rem;
+}
+@media (max-width: 720px) {
+  .lx-book .frame { grid-template-columns: 1fr; gap: 2rem; }
+  .lx-book .lx-cover { max-width: 11rem; }
+}
+
+/* ---- reading passage ---- */
+.lx-passage {
+  margin: 1.75rem 0 0;
+  padding: 1.75rem 0 0.25rem;
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+}
+.lx-passage .lx-sec {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 1rem;
+}
+.lx-passage p {
+  font-family: var(--font-display);
+  font-size: 1.22rem;
+  line-height: 1.62;
+  margin: 0 0 1.05rem;
+}
+.lx-passage p + .lx-sec { margin-top: 1.75rem; }
+.lx-passage p.lx-verse { line-height: 1.5; }
+
+/* ---- lists and records ---- */
+.lx-list { margin: 1.25rem 0 0; padding-left: 1.1rem; }
+.lx-list li { margin-bottom: 0.6rem; }
+.lx-list li::marker { color: var(--gold); }
+
+.lx-div { margin-top: 2rem; border-top: 1px solid var(--hairline); }
+.lx-div article { padding: 1.3rem 0 1.35rem; border-bottom: 1px solid var(--hairline); }
+.lx-div h3 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 1.3;
+  margin: 0 0 0.2rem;
+}
+.lx-div .lx-where {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.75rem;
+}
+.lx-div dl { margin: 0 0 0.75rem; display: grid; grid-template-columns: 4.5rem 1fr; gap: 0.35rem 0.9rem; }
+.lx-div dt {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding-top: 0.3rem;
+}
+.lx-div dd { margin: 0; font-family: var(--font-display); font-size: 1.1rem; line-height: 1.45; }
+.lx-div dd.is-lectio { color: var(--marine); }
+.lx-div p { font-size: 0.97rem; }
+
+.lx-facts { margin: 1.5rem 0 0; display: grid; grid-template-columns: 9.5rem 1fr; gap: 0; border-top: 1px solid var(--hairline); }
+.lx-facts dt, .lx-facts dd { padding: 0.7rem 0; border-bottom: 1px solid var(--hairline); margin: 0; }
+.lx-facts dt {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding-top: 0.9rem;
+}
+.lx-facts dd { font-size: 0.98rem; }
+.lx-facts ul { margin: 0; padding-left: 1.1rem; }
+@media (max-width: 540px) {
+  .lx-facts { grid-template-columns: 1fr; }
+  .lx-facts dt { border-bottom: 0; padding-bottom: 0; }
+  .lx-facts dd { padding-top: 0.25rem; }
+  .lx-div dl { grid-template-columns: 1fr; gap: 0.1rem; }
+  .lx-div dd { margin-bottom: 0.4rem; }
+}
+
+.lx-table-wrap { overflow-x: auto; margin-top: 1.5rem; }
+.lx-table { border-collapse: collapse; width: 100%; font-size: 0.93rem; }
+.lx-table th, .lx-table td { text-align: left; padding: 0.55rem 0.9rem 0.55rem 0; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+.lx-table th {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.lx-table td.n, .lx-table th.n { text-align: right; font-variant-numeric: tabular-nums; }
+.lx-table tfoot td { font-weight: 600; }
+.lx-table a { white-space: nowrap; }
+
+.lx-sub {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 1.3rem;
+  margin: 2.25rem 0 0.5rem;
+}
+
+.lx-next { display: flex; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; font-family: var(--font-display); font-size: 1.15rem; }
+.lx-next a { color: var(--marine); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.lx-next a:hover { color: var(--gold); }
