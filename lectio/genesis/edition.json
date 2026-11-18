@@ -56,5 +56,307 @@
   "citation": "Genesis. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/genesis/",
   "url": "https://sandiegotech.org/lectio/genesis/",
   "markdown": "https://sandiegotech.org/lectio/genesis/index.md",
-  "cover": "https://sandiegotech.org/lectio/genesis/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/genesis/cover.jpg",
+  "text": [
+    {
+      "label": "Chapter 1",
+      "title": "The Seven Days",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-1/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-1/index.md"
+    },
+    {
+      "label": "Chapter 2",
+      "title": "The Garden",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-2/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-2/index.md"
+    },
+    {
+      "label": "Chapter 3",
+      "title": "The Serpent",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-3/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-3/index.md"
+    },
+    {
+      "label": "Chapter 4",
+      "title": "Cain and Abel",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-4/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-4/index.md"
+    },
+    {
+      "label": "Chapter 5",
+      "title": "From Adam to Noah",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-5/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-5/index.md"
+    },
+    {
+      "label": "Chapter 6",
+      "title": "The Earth Filled With Violence",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-6/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-6/index.md"
+    },
+    {
+      "label": "Chapter 7",
+      "title": "The Flood",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-7/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-7/index.md"
+    },
+    {
+      "label": "Chapter 8",
+      "title": "The Waters Go Down",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-8/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-8/index.md"
+    },
+    {
+      "label": "Chapter 9",
+      "title": "The Bow in the Cloud",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-9/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-9/index.md"
+    },
+    {
+      "label": "Chapter 10",
+      "title": "The Table of Nations",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-10/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-10/index.md"
+    },
+    {
+      "label": "Chapter 11",
+      "title": "Babel, and the Line to Abram",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-11/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-11/index.md"
+    },
+    {
+      "label": "Chapter 12",
+      "title": "Go",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-12/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-12/index.md"
+    },
+    {
+      "label": "Chapter 13",
+      "title": "Abram and Lot Part",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-13/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-13/index.md"
+    },
+    {
+      "label": "Chapter 14",
+      "title": "The War of the Kings, and Melchizedek",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-14/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-14/index.md"
+    },
+    {
+      "label": "Chapter 15",
+      "title": "Count the Stars",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-15/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-15/index.md"
+    },
+    {
+      "label": "Chapter 16",
+      "title": "Hagar",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-16/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-16/index.md"
+    },
+    {
+      "label": "Chapter 17",
+      "title": "New Names",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-17/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-17/index.md"
+    },
+    {
+      "label": "Chapter 18",
+      "title": "Three Visitors, and the Argument",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-18/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-18/index.md"
+    },
+    {
+      "label": "Chapter 19",
+      "title": "Sodom",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-19/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-19/index.md"
+    },
+    {
+      "label": "Chapter 20",
+      "title": "Abimelech",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-20/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-20/index.md"
+    },
+    {
+      "label": "Chapter 21",
+      "title": "Laughter, and the Wilderness",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-21/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-21/index.md"
+    },
+    {
+      "label": "Chapter 22",
+      "title": "The Binding",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-22/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-22/index.md"
+    },
+    {
+      "label": "Chapter 23",
+      "title": "The Cave at Machpelah",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-23/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-23/index.md"
+    },
+    {
+      "label": "Chapter 24",
+      "title": "Rebekah at the Well",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-24/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-24/index.md"
+    },
+    {
+      "label": "Chapter 25",
+      "title": "Two Nations",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-25/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-25/index.md"
+    },
+    {
+      "label": "Chapter 26",
+      "title": "Isaac Digs the Wells Again",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-26/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-26/index.md"
+    },
+    {
+      "label": "Chapter 27",
+      "title": "The Stolen Blessing",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-27/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-27/index.md"
+    },
+    {
+      "label": "Chapter 28",
+      "title": "The Ladder at Bethel",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-28/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-28/index.md"
+    },
+    {
+      "label": "Chapter 29",
+      "title": "Jacob Meets His Match",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-29/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-29/index.md"
+    },
+    {
+      "label": "Chapter 30",
+      "title": "The Sisters, and the Flocks",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-30/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-30/index.md"
+    },
+    {
+      "label": "Chapter 31",
+      "title": "The Flight, and the Heap of Witness",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-31/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-31/index.md"
+    },
+    {
+      "label": "Chapter 32",
+      "title": "The Night at the Jabbok",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-32/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-32/index.md"
+    },
+    {
+      "label": "Chapter 33",
+      "title": "The Face of a Brother",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-33/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-33/index.md"
+    },
+    {
+      "label": "Chapter 34",
+      "title": "Dinah",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-34/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-34/index.md"
+    },
+    {
+      "label": "Chapter 35",
+      "title": "Bethel Again, and Rachel's Grave",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-35/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-35/index.md"
+    },
+    {
+      "label": "Chapter 36",
+      "title": "The Line of Esau",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-36/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-36/index.md"
+    },
+    {
+      "label": "Chapter 37",
+      "title": "The Dreamer and the Coat",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-37/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-37/index.md"
+    },
+    {
+      "label": "Chapter 38",
+      "title": "Judah and Tamar",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-38/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-38/index.md"
+    },
+    {
+      "label": "Chapter 39",
+      "title": "In the Egyptian's House",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-39/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-39/index.md"
+    },
+    {
+      "label": "Chapter 40",
+      "title": "The Cupbearer and the Baker",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-40/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-40/index.md"
+    },
+    {
+      "label": "Chapter 41",
+      "title": "Pharaoh's Dreams",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-41/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-41/index.md"
+    },
+    {
+      "label": "Chapter 42",
+      "title": "The Brothers Come Down",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-42/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-42/index.md"
+    },
+    {
+      "label": "Chapter 43",
+      "title": "Benjamin",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-43/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-43/index.md"
+    },
+    {
+      "label": "Chapter 44",
+      "title": "The Silver Cup",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-44/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-44/index.md"
+    },
+    {
+      "label": "Chapter 45",
+      "title": "I Am Joseph",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-45/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-45/index.md"
+    },
+    {
+      "label": "Chapter 46",
+      "title": "Down to Egypt",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-46/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-46/index.md"
+    },
+    {
+      "label": "Chapter 47",
+      "title": "Jacob Before Pharaoh, and the Famine",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-47/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-47/index.md"
+    },
+    {
+      "label": "Chapter 48",
+      "title": "The Crossed Hands",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-48/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-48/index.md"
+    },
+    {
+      "label": "Chapter 49",
+      "title": "Jacob Blesses His Sons",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-49/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-49/index.md"
+    },
+    {
+      "label": "Chapter 50",
+      "title": "God Meant It for Good",
+      "url": "https://sandiegotech.org/lectio/genesis/chapter-50/",
+      "markdown": "https://sandiegotech.org/lectio/genesis/chapter-50/index.md"
+    }
+  ]
 }

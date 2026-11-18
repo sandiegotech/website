@@ -69,5 +69,79 @@
   "url": "https://sandiegotech.org/lectio/meditations/",
   "markdown": "https://sandiegotech.org/lectio/meditations/index.md",
   "cover": "https://sandiegotech.org/lectio/meditations/cover.jpg",
-  "pdf": "https://sandiegotech.org/lectio/meditations/meditations-lectio-edition-2026-11.pdf"
+  "pdf": "https://sandiegotech.org/lectio/meditations/meditations-lectio-edition-2026-11.pdf",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "What I Learned, and From Whom",
+      "url": "https://sandiegotech.org/lectio/meditations/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-10/index.md"
+    },
+    {
+      "label": "Book XI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-11/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-11/index.md"
+    },
+    {
+      "label": "Book XII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/meditations/book-12/",
+      "markdown": "https://sandiegotech.org/lectio/meditations/book-12/index.md"
+    }
+  ]
 }

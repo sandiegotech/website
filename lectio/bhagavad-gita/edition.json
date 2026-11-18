@@ -55,5 +55,115 @@
   "citation": "The Bhagavad Gita. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/bhagavad-gita/",
   "url": "https://sandiegotech.org/lectio/bhagavad-gita/",
   "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/index.md",
-  "cover": "https://sandiegotech.org/lectio/bhagavad-gita/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/bhagavad-gita/cover.jpg",
+  "text": [
+    {
+      "label": "Chapter I",
+      "title": "The Distress of Arjuna",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/index.md"
+    },
+    {
+      "label": "Chapter II",
+      "title": "The Deathless Self and the Way of Action",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-2/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-2/index.md"
+    },
+    {
+      "label": "Chapter III",
+      "title": "Action as Sacrifice",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-3/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-3/index.md"
+    },
+    {
+      "label": "Chapter IV",
+      "title": "The Way of Knowledge and Sacrifice",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-4/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-4/index.md"
+    },
+    {
+      "label": "Chapter V",
+      "title": "The Renouncing of Works",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-5/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-5/index.md"
+    },
+    {
+      "label": "Chapter VI",
+      "title": "The Discipline of Meditation",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-6/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-6/index.md"
+    },
+    {
+      "label": "Chapter VII",
+      "title": "Knowing the Supreme",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-7/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-7/index.md"
+    },
+    {
+      "label": "Chapter VIII",
+      "title": "The Hour of Death and the Imperishable",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-8/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-8/index.md"
+    },
+    {
+      "label": "Chapter IX",
+      "title": "The Royal Knowledge and the Royal Secret",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-9/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-9/index.md"
+    },
+    {
+      "label": "Chapter X",
+      "title": "The Divine Glories",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-10/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-10/index.md"
+    },
+    {
+      "label": "Chapter XI",
+      "title": "The Vision of the Universal Form",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-11/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-11/index.md"
+    },
+    {
+      "label": "Chapter XII",
+      "title": "The Way of Devotion",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-12/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-12/index.md"
+    },
+    {
+      "label": "Chapter XIII",
+      "title": "The Field and the Knower of the Field",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-13/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-13/index.md"
+    },
+    {
+      "label": "Chapter XIV",
+      "title": "The Three Qualities of Nature",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-14/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-14/index.md"
+    },
+    {
+      "label": "Chapter XV",
+      "title": "The Supreme Person",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-15/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-15/index.md"
+    },
+    {
+      "label": "Chapter XVI",
+      "title": "The Divine and the Demonic",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-16/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-16/index.md"
+    },
+    {
+      "label": "Chapter XVII",
+      "title": "The Threefold Faith",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-17/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-17/index.md"
+    },
+    {
+      "label": "Chapter XVIII",
+      "title": "Freedom Through Surrender and Letting Go",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-18/",
+      "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/chapter-18/index.md"
+    }
+  ]
 }

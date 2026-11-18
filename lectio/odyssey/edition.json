@@ -57,5 +57,151 @@
   "citation": "Homer. The Odyssey. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/odyssey/",
   "url": "https://sandiegotech.org/lectio/odyssey/",
   "markdown": "https://sandiegotech.org/lectio/odyssey/index.md",
-  "cover": "https://sandiegotech.org/lectio/odyssey/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/odyssey/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "Athena Visits Ithaca",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "Telemachus Calls the Assembly",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "Nestor at Pylos",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "Menelaus and Helen at Sparta",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "Calypso, and the Raft",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "Nausicaa",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "The Palace of Alcinous",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "The Games of the Phaeacians",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "The Cicones, the Lotus-Eaters, and the Cyclops",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "Aeolus, the Laestrygonians, and Circe",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-10/index.md"
+    },
+    {
+      "label": "Book XI",
+      "title": "The Land of the Dead",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-11/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-11/index.md"
+    },
+    {
+      "label": "Book XII",
+      "title": "The Sirens, Scylla and Charybdis, and the Cattle of the Sun",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-12/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-12/index.md"
+    },
+    {
+      "label": "Book XIII",
+      "title": "The Return to Ithaca",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-13/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-13/index.md"
+    },
+    {
+      "label": "Book XIV",
+      "title": "In the Hut of Eumaeus",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-14/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-14/index.md"
+    },
+    {
+      "label": "Book XV",
+      "title": "Telemachus Sails Home",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-15/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-15/index.md"
+    },
+    {
+      "label": "Book XVI",
+      "title": "Father and Son",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-16/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-16/index.md"
+    },
+    {
+      "label": "Book XVII",
+      "title": "The Beggar at His Own Door",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-17/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-17/index.md"
+    },
+    {
+      "label": "Book XVIII",
+      "title": "The Beggars’ Fight",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-18/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-18/index.md"
+    },
+    {
+      "label": "Book XIX",
+      "title": "By the Fire, and the Scar",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-19/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-19/index.md"
+    },
+    {
+      "label": "Book XX",
+      "title": "The Last Night Before the Reckoning",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-20/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-20/index.md"
+    },
+    {
+      "label": "Book XXI",
+      "title": "The Contest of the Bow",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-21/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-21/index.md"
+    },
+    {
+      "label": "Book XXII",
+      "title": "The Killing of the Suitors",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-22/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-22/index.md"
+    },
+    {
+      "label": "Book XXIII",
+      "title": "The Sign of the Bed",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-23/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-23/index.md"
+    },
+    {
+      "label": "Book XXIV",
+      "title": "Peace in Ithaca",
+      "url": "https://sandiegotech.org/lectio/odyssey/book-24/",
+      "markdown": "https://sandiegotech.org/lectio/odyssey/book-24/index.md"
+    }
+  ]
 }

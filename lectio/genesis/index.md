@@ -45,6 +45,63 @@ The Lectio Edition keeps the refrains word for word, keeps more of the Hebrew's 
 
 The first 247 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 50 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter 1](https://sandiegotech.org/lectio/genesis/chapter-1/)
+
+1. [Chapter 1](https://sandiegotech.org/lectio/genesis/chapter-1/) The Seven Days
+2. [Chapter 2](https://sandiegotech.org/lectio/genesis/chapter-2/) The Garden
+3. [Chapter 3](https://sandiegotech.org/lectio/genesis/chapter-3/) The Serpent
+4. [Chapter 4](https://sandiegotech.org/lectio/genesis/chapter-4/) Cain and Abel
+5. [Chapter 5](https://sandiegotech.org/lectio/genesis/chapter-5/) From Adam to Noah
+6. [Chapter 6](https://sandiegotech.org/lectio/genesis/chapter-6/) The Earth Filled With Violence
+7. [Chapter 7](https://sandiegotech.org/lectio/genesis/chapter-7/) The Flood
+8. [Chapter 8](https://sandiegotech.org/lectio/genesis/chapter-8/) The Waters Go Down
+9. [Chapter 9](https://sandiegotech.org/lectio/genesis/chapter-9/) The Bow in the Cloud
+10. [Chapter 10](https://sandiegotech.org/lectio/genesis/chapter-10/) The Table of Nations
+11. [Chapter 11](https://sandiegotech.org/lectio/genesis/chapter-11/) Babel, and the Line to Abram
+12. [Chapter 12](https://sandiegotech.org/lectio/genesis/chapter-12/) Go
+13. [Chapter 13](https://sandiegotech.org/lectio/genesis/chapter-13/) Abram and Lot Part
+14. [Chapter 14](https://sandiegotech.org/lectio/genesis/chapter-14/) The War of the Kings, and Melchizedek
+15. [Chapter 15](https://sandiegotech.org/lectio/genesis/chapter-15/) Count the Stars
+16. [Chapter 16](https://sandiegotech.org/lectio/genesis/chapter-16/) Hagar
+17. [Chapter 17](https://sandiegotech.org/lectio/genesis/chapter-17/) New Names
+18. [Chapter 18](https://sandiegotech.org/lectio/genesis/chapter-18/) Three Visitors, and the Argument
+19. [Chapter 19](https://sandiegotech.org/lectio/genesis/chapter-19/) Sodom
+20. [Chapter 20](https://sandiegotech.org/lectio/genesis/chapter-20/) Abimelech
+21. [Chapter 21](https://sandiegotech.org/lectio/genesis/chapter-21/) Laughter, and the Wilderness
+22. [Chapter 22](https://sandiegotech.org/lectio/genesis/chapter-22/) The Binding
+23. [Chapter 23](https://sandiegotech.org/lectio/genesis/chapter-23/) The Cave at Machpelah
+24. [Chapter 24](https://sandiegotech.org/lectio/genesis/chapter-24/) Rebekah at the Well
+25. [Chapter 25](https://sandiegotech.org/lectio/genesis/chapter-25/) Two Nations
+26. [Chapter 26](https://sandiegotech.org/lectio/genesis/chapter-26/) Isaac Digs the Wells Again
+27. [Chapter 27](https://sandiegotech.org/lectio/genesis/chapter-27/) The Stolen Blessing
+28. [Chapter 28](https://sandiegotech.org/lectio/genesis/chapter-28/) The Ladder at Bethel
+29. [Chapter 29](https://sandiegotech.org/lectio/genesis/chapter-29/) Jacob Meets His Match
+30. [Chapter 30](https://sandiegotech.org/lectio/genesis/chapter-30/) The Sisters, and the Flocks
+31. [Chapter 31](https://sandiegotech.org/lectio/genesis/chapter-31/) The Flight, and the Heap of Witness
+32. [Chapter 32](https://sandiegotech.org/lectio/genesis/chapter-32/) The Night at the Jabbok
+33. [Chapter 33](https://sandiegotech.org/lectio/genesis/chapter-33/) The Face of a Brother
+34. [Chapter 34](https://sandiegotech.org/lectio/genesis/chapter-34/) Dinah
+35. [Chapter 35](https://sandiegotech.org/lectio/genesis/chapter-35/) Bethel Again, and Rachel's Grave
+36. [Chapter 36](https://sandiegotech.org/lectio/genesis/chapter-36/) The Line of Esau
+37. [Chapter 37](https://sandiegotech.org/lectio/genesis/chapter-37/) The Dreamer and the Coat
+38. [Chapter 38](https://sandiegotech.org/lectio/genesis/chapter-38/) Judah and Tamar
+39. [Chapter 39](https://sandiegotech.org/lectio/genesis/chapter-39/) In the Egyptian's House
+40. [Chapter 40](https://sandiegotech.org/lectio/genesis/chapter-40/) The Cupbearer and the Baker
+41. [Chapter 41](https://sandiegotech.org/lectio/genesis/chapter-41/) Pharaoh's Dreams
+42. [Chapter 42](https://sandiegotech.org/lectio/genesis/chapter-42/) The Brothers Come Down
+43. [Chapter 43](https://sandiegotech.org/lectio/genesis/chapter-43/) Benjamin
+44. [Chapter 44](https://sandiegotech.org/lectio/genesis/chapter-44/) The Silver Cup
+45. [Chapter 45](https://sandiegotech.org/lectio/genesis/chapter-45/) I Am Joseph
+46. [Chapter 46](https://sandiegotech.org/lectio/genesis/chapter-46/) Down to Egypt
+47. [Chapter 47](https://sandiegotech.org/lectio/genesis/chapter-47/) Jacob Before Pharaoh, and the Famine
+48. [Chapter 48](https://sandiegotech.org/lectio/genesis/chapter-48/) The Crossed Hands
+49. [Chapter 49](https://sandiegotech.org/lectio/genesis/chapter-49/) Jacob Blesses His Sons
+50. [Chapter 50](https://sandiegotech.org/lectio/genesis/chapter-50/) God Meant It for Good
+
 ## What this edition decided.
 
 These rules come from the charter written for the biblical books and from the review.

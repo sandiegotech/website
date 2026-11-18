@@ -41,6 +41,23 @@ The edition now keeps every distinction Aristotle makes and gives each term one 
 
 The first 205 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All ten books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/nicomachean-ethics/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/nicomachean-ethics/book-1/) The Good for Man
+2. [Book II](https://sandiegotech.org/lectio/nicomachean-ethics/book-2/) Virtue as a Mean
+3. [Book III](https://sandiegotech.org/lectio/nicomachean-ethics/book-3/) Choice, Courage, and Temperance
+4. [Book IV](https://sandiegotech.org/lectio/nicomachean-ethics/book-4/) The Virtues of Character
+5. [Book V](https://sandiegotech.org/lectio/nicomachean-ethics/book-5/) Justice
+6. [Book VI](https://sandiegotech.org/lectio/nicomachean-ethics/book-6/) Practical Wisdom
+7. [Book VII](https://sandiegotech.org/lectio/nicomachean-ethics/book-7/) Self-Control and Pleasure
+8. [Book VIII](https://sandiegotech.org/lectio/nicomachean-ethics/book-8/) Friendship
+9. [Book IX](https://sandiegotech.org/lectio/nicomachean-ethics/book-9/) Self-Love and the Need for Friends
+10. [Book X](https://sandiegotech.org/lectio/nicomachean-ethics/book-10/) Pleasure and the Contemplative Life
+
 ## What this edition decided.
 
 This edition took more correction than any other: 206 fixes, most of them to make the vocabulary hold. The review wrote a glossary and applied it.

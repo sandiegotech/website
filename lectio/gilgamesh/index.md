@@ -41,6 +41,24 @@ This also makes it the edition with the least to check against. No comparison te
 
 The first 198 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 11 tablets, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Tablet I](https://sandiegotech.org/lectio/gilgamesh/tablet-1/)
+
+1. [Tablet I](https://sandiegotech.org/lectio/gilgamesh/tablet-1/) The Coming of Enkidu
+2. [Tablet II](https://sandiegotech.org/lectio/gilgamesh/tablet-2/) Bread, Beer, and the Wrestling at the Gate
+3. [Tablet III](https://sandiegotech.org/lectio/gilgamesh/tablet-3/) The Mother's Prayer
+4. [Tablet IV](https://sandiegotech.org/lectio/gilgamesh/tablet-4/) The Road to the Cedars
+5. [Tablet V](https://sandiegotech.org/lectio/gilgamesh/tablet-5/) Humbaba and the Cedars
+6. [Tablet VI](https://sandiegotech.org/lectio/gilgamesh/tablet-6/) Ishtar and the Bull of Heaven
+7. [Tablet VII](https://sandiegotech.org/lectio/gilgamesh/tablet-7/) The Doom of Enkidu
+8. [Tablet VIII](https://sandiegotech.org/lectio/gilgamesh/tablet-8/) The Mourning of Gilgamesh
+9. [Tablet IX](https://sandiegotech.org/lectio/gilgamesh/tablet-9/) The Road of the Sun
+10. [Tablet X](https://sandiegotech.org/lectio/gilgamesh/tablet-10/) The Ale-Wife, the Boatman, and the Waters of Death
+11. [Tablet XI](https://sandiegotech.org/lectio/gilgamesh/tablet-11/) The Flood, the Plant, and the Walls of Uruk
+
 ## What this edition decided.
 
 The first draft added to the story. It explained, moralized and supplied feelings the tablets do not give. Most of the review's work was taking that out.

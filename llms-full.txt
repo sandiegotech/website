@@ -362,6 +362,25 @@ The Lectio Edition gives the twelve books in plain current English, with nothing
 
 The first 225 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 12 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/meditations/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/meditations/book-1/) What I Learned, and From Whom
+2. [Book II](https://sandiegotech.org/lectio/meditations/book-2/)
+3. [Book III](https://sandiegotech.org/lectio/meditations/book-3/)
+4. [Book IV](https://sandiegotech.org/lectio/meditations/book-4/)
+5. [Book V](https://sandiegotech.org/lectio/meditations/book-5/)
+6. [Book VI](https://sandiegotech.org/lectio/meditations/book-6/)
+7. [Book VII](https://sandiegotech.org/lectio/meditations/book-7/)
+8. [Book VIII](https://sandiegotech.org/lectio/meditations/book-8/)
+9. [Book IX](https://sandiegotech.org/lectio/meditations/book-9/)
+10. [Book X](https://sandiegotech.org/lectio/meditations/book-10/)
+11. [Book XI](https://sandiegotech.org/lectio/meditations/book-11/)
+12. [Book XII](https://sandiegotech.org/lectio/meditations/book-12/)
+
 ## What this edition decided.
 
 The review of November 2026 set these rules for the whole work and applied them. The authority is the Greek. Long and Casaubon are witnesses to it, not sources of text.
@@ -506,6 +525,37 @@ The Lectio Edition is a prose Iliad in current English, all twenty-four books. I
 > Chryses had come to the fast Greek ships to free his daughter, carrying a boundless ransom, holding in his hands, high on a golden staff, the wreaths of Apollo who strikes from afar. He begged the whole army, but most of all the two sons of Atreus, the marshals of the people:
 
 The first 161 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 24 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/iliad/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/iliad/book-1/) The Quarrel
+2. [Book II](https://sandiegotech.org/lectio/iliad/book-2/) The Dream and the Ships
+3. [Book III](https://sandiegotech.org/lectio/iliad/book-3/) The Duel for Helen
+4. [Book IV](https://sandiegotech.org/lectio/iliad/book-4/) The Broken Truce
+5. [Book V](https://sandiegotech.org/lectio/iliad/book-5/) The Day of Diomedes
+6. [Book VI](https://sandiegotech.org/lectio/iliad/book-6/) Hector and Andromache
+7. [Book VII](https://sandiegotech.org/lectio/iliad/book-7/) The Duel of Hector and Ajax
+8. [Book VIII](https://sandiegotech.org/lectio/iliad/book-8/) The Tide of Battle Turns
+9. [Book IX](https://sandiegotech.org/lectio/iliad/book-9/) The Embassy to Achilles
+10. [Book X](https://sandiegotech.org/lectio/iliad/book-10/) The Night Raid
+11. [Book XI](https://sandiegotech.org/lectio/iliad/book-11/) The Day of Agamemnon
+12. [Book XII](https://sandiegotech.org/lectio/iliad/book-12/) The Storming of the Wall
+13. [Book XIII](https://sandiegotech.org/lectio/iliad/book-13/) Poseidon at the Ships
+14. [Book XIV](https://sandiegotech.org/lectio/iliad/book-14/) The Deception of Zeus
+15. [Book XV](https://sandiegotech.org/lectio/iliad/book-15/) The Battle at the Ships
+16. [Book XVI](https://sandiegotech.org/lectio/iliad/book-16/) The Death of Patroclus
+17. [Book XVII](https://sandiegotech.org/lectio/iliad/book-17/) The Fight over Patroclus
+18. [Book XVIII](https://sandiegotech.org/lectio/iliad/book-18/) The Shield of Achilles
+19. [Book XIX](https://sandiegotech.org/lectio/iliad/book-19/) The Rage Laid Down
+20. [Book XX](https://sandiegotech.org/lectio/iliad/book-20/) The Gods Go to War
+21. [Book XXI](https://sandiegotech.org/lectio/iliad/book-21/) The Battle at the River
+22. [Book XXII](https://sandiegotech.org/lectio/iliad/book-22/) The Death of Hector
+23. [Book XXIII](https://sandiegotech.org/lectio/iliad/book-23/) The Funeral Games for Patroclus
+24. [Book XXIV](https://sandiegotech.org/lectio/iliad/book-24/) The Ransom of Hector
 
 ## What this edition decided.
 
@@ -684,6 +734,37 @@ It was made to be read alongside the Lectio Iliad. The two share their names, th
 
 The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 24 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/odyssey/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/odyssey/book-1/) Athena Visits Ithaca
+2. [Book II](https://sandiegotech.org/lectio/odyssey/book-2/) Telemachus Calls the Assembly
+3. [Book III](https://sandiegotech.org/lectio/odyssey/book-3/) Nestor at Pylos
+4. [Book IV](https://sandiegotech.org/lectio/odyssey/book-4/) Menelaus and Helen at Sparta
+5. [Book V](https://sandiegotech.org/lectio/odyssey/book-5/) Calypso, and the Raft
+6. [Book VI](https://sandiegotech.org/lectio/odyssey/book-6/) Nausicaa
+7. [Book VII](https://sandiegotech.org/lectio/odyssey/book-7/) The Palace of Alcinous
+8. [Book VIII](https://sandiegotech.org/lectio/odyssey/book-8/) The Games of the Phaeacians
+9. [Book IX](https://sandiegotech.org/lectio/odyssey/book-9/) The Cicones, the Lotus-Eaters, and the Cyclops
+10. [Book X](https://sandiegotech.org/lectio/odyssey/book-10/) Aeolus, the Laestrygonians, and Circe
+11. [Book XI](https://sandiegotech.org/lectio/odyssey/book-11/) The Land of the Dead
+12. [Book XII](https://sandiegotech.org/lectio/odyssey/book-12/) The Sirens, Scylla and Charybdis, and the Cattle of the Sun
+13. [Book XIII](https://sandiegotech.org/lectio/odyssey/book-13/) The Return to Ithaca
+14. [Book XIV](https://sandiegotech.org/lectio/odyssey/book-14/) In the Hut of Eumaeus
+15. [Book XV](https://sandiegotech.org/lectio/odyssey/book-15/) Telemachus Sails Home
+16. [Book XVI](https://sandiegotech.org/lectio/odyssey/book-16/) Father and Son
+17. [Book XVII](https://sandiegotech.org/lectio/odyssey/book-17/) The Beggar at His Own Door
+18. [Book XVIII](https://sandiegotech.org/lectio/odyssey/book-18/) The Beggars’ Fight
+19. [Book XIX](https://sandiegotech.org/lectio/odyssey/book-19/) By the Fire, and the Scar
+20. [Book XX](https://sandiegotech.org/lectio/odyssey/book-20/) The Last Night Before the Reckoning
+21. [Book XXI](https://sandiegotech.org/lectio/odyssey/book-21/) The Contest of the Bow
+22. [Book XXII](https://sandiegotech.org/lectio/odyssey/book-22/) The Killing of the Suitors
+23. [Book XXIII](https://sandiegotech.org/lectio/odyssey/book-23/) The Sign of the Bed
+24. [Book XXIV](https://sandiegotech.org/lectio/odyssey/book-24/) Peace in Ithaca
+
 ## What this edition decided.
 
 The review swept all twenty-four books for each of these and corrected every departure it found.
@@ -849,6 +930,23 @@ The Lectio Edition renders all ten books as talk between people, in current Engl
 > Of course we'll wait, said Glaucon; and in a few minutes Polemarchus came up, with Adeimantus, Glaucon's brother, Niceratus the son of Nicias, and several others, all on their way from the procession.
 
 The first 176 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All ten books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/republic/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/republic/book-1/) What Is Justice?
+2. [Book II](https://sandiegotech.org/lectio/republic/book-2/) The Ring of Gyges
+3. [Book III](https://sandiegotech.org/lectio/republic/book-3/) The Noble Lie
+4. [Book IV](https://sandiegotech.org/lectio/republic/book-4/) Justice Found
+5. [Book V](https://sandiegotech.org/lectio/republic/book-5/) The Three Waves
+6. [Book VI](https://sandiegotech.org/lectio/republic/book-6/) The Sun and the Divided Line
+7. [Book VII](https://sandiegotech.org/lectio/republic/book-7/) The Cave
+8. [Book VIII](https://sandiegotech.org/lectio/republic/book-8/) The Decay of Regimes
+9. [Book IX](https://sandiegotech.org/lectio/republic/book-9/) The Tyrant's Soul
+10. [Book X](https://sandiegotech.org/lectio/republic/book-10/) Poetry and the Myth of Er
 
 ## What this edition decided.
 
@@ -1021,6 +1119,25 @@ The Lectio Edition gives the twelve books as prose in current English. It keeps 
 > There was an ancient city, Carthage, a colony out of Tyre, facing Italy far across the water, opposite the mouth of the Tiber — a city rich in resources and fierce in the arts of war. They say Juno loved it above all places on earth, more even than Samos. Here she kept her armor; here she kept her chariot. And it was her fixed ambition, if fate would only allow it, that this city should one day rule the world.
 
 The first 221 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 12 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/aeneid/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/aeneid/book-1/) The Storm, and Carthage
+2. [Book II](https://sandiegotech.org/lectio/aeneid/book-2/) The Fall of Troy
+3. [Book III](https://sandiegotech.org/lectio/aeneid/book-3/) The Wanderings, and the Death of Anchises
+4. [Book IV](https://sandiegotech.org/lectio/aeneid/book-4/) The Tragedy of Dido
+5. [Book V](https://sandiegotech.org/lectio/aeneid/book-5/) The Games for Anchises, and the Loss of Palinurus
+6. [Book VI](https://sandiegotech.org/lectio/aeneid/book-6/) The Descent to the Underworld
+7. [Book VII](https://sandiegotech.org/lectio/aeneid/book-7/) Latium, and the Opening of the War
+8. [Book VIII](https://sandiegotech.org/lectio/aeneid/book-8/) Evander, and the Shield of Aeneas
+9. [Book IX](https://sandiegotech.org/lectio/aeneid/book-9/) Turnus at the Walls, and the Night of Nisus and Euryalus
+10. [Book X](https://sandiegotech.org/lectio/aeneid/book-10/) The Council of the Gods, the Death of Pallas, and the End of Mezentius
+11. [Book XI](https://sandiegotech.org/lectio/aeneid/book-11/) The Death of Pallas, the Council, and Camilla
+12. [Book XII](https://sandiegotech.org/lectio/aeneid/book-12/) The Single Combat, and the Death of Turnus
 
 ## What this edition decided.
 
@@ -1204,6 +1321,39 @@ The Lectio Edition renders the twenty-six chapters in current English and leaves
 
 The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 26 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter I](https://sandiegotech.org/lectio/the-prince/chapter-1/)
+
+1. [Chapter I](https://sandiegotech.org/lectio/the-prince/chapter-1/) The Kinds of Principalities
+2. [Chapter II](https://sandiegotech.org/lectio/the-prince/chapter-2/) Hereditary Principalities
+3. [Chapter III](https://sandiegotech.org/lectio/the-prince/chapter-3/) Mixed Principalities
+4. [Chapter IV](https://sandiegotech.org/lectio/the-prince/chapter-4/) Why Darius's Kingdom Did Not Rebel
+5. [Chapter V](https://sandiegotech.org/lectio/the-prince/chapter-5/) Cities That Lived Free
+6. [Chapter VI](https://sandiegotech.org/lectio/the-prince/chapter-6/) By Your Own Arms and Virtù
+7. [Chapter VII](https://sandiegotech.org/lectio/the-prince/chapter-7/) By Others' Arms and Fortune
+8. [Chapter VIII](https://sandiegotech.org/lectio/the-prince/chapter-8/) Rising by Crime
+9. [Chapter IX](https://sandiegotech.org/lectio/the-prince/chapter-9/) The Civil Principality
+10. [Chapter X](https://sandiegotech.org/lectio/the-prince/chapter-10/) Measuring a State's Strength
+11. [Chapter XI](https://sandiegotech.org/lectio/the-prince/chapter-11/) Ecclesiastical Principalities
+12. [Chapter XII](https://sandiegotech.org/lectio/the-prince/chapter-12/) The Kinds of Troops, and Mercenaries
+13. [Chapter XIII](https://sandiegotech.org/lectio/the-prince/chapter-13/) Auxiliaries, Mixed Troops, and One's Own
+14. [Chapter XIV](https://sandiegotech.org/lectio/the-prince/chapter-14/) The Prince and the Art of War
+15. [Chapter XV](https://sandiegotech.org/lectio/the-prince/chapter-15/) What Princes Are Praised or Blamed For
+16. [Chapter XVI](https://sandiegotech.org/lectio/the-prince/chapter-16/) Generosity and Miserliness
+17. [Chapter XVII](https://sandiegotech.org/lectio/the-prince/chapter-17/) Cruelty and Mercy: Loved or Feared
+18. [Chapter XVIII](https://sandiegotech.org/lectio/the-prince/chapter-18/) How Princes Should Keep Their Word
+19. [Chapter XIX](https://sandiegotech.org/lectio/the-prince/chapter-19/) Avoiding Contempt and Hatred
+20. [Chapter XX](https://sandiegotech.org/lectio/the-prince/chapter-20/) Fortresses and Other Expedients
+21. [Chapter XXI](https://sandiegotech.org/lectio/the-prince/chapter-21/) How a Prince Wins Esteem
+22. [Chapter XXII](https://sandiegotech.org/lectio/the-prince/chapter-22/) A Prince's Ministers
+23. [Chapter XXIII](https://sandiegotech.org/lectio/the-prince/chapter-23/) Avoiding Flatterers
+24. [Chapter XXIV](https://sandiegotech.org/lectio/the-prince/chapter-24/) Why Italy's Princes Lost Their States
+25. [Chapter XXV](https://sandiegotech.org/lectio/the-prince/chapter-25/) Fortune, and How to Resist Her
+26. [Chapter XXVI](https://sandiegotech.org/lectio/the-prince/chapter-26/) Exhortation to Free Italy
+
 ## What this edition decided.
 
 The review graded twenty of twenty-six chapters as needing no change. The rules it set are few.
@@ -1378,6 +1528,33 @@ The Lectio Edition keeps each saying about the size the Chinese keeps it, and gi
 > Master Tsang said, "Each day I examine myself on three points. Working for others, was I faithless? With my friends, did I fail to keep my word? What was handed on to me, did I leave unpracticed?"
 
 The first 164 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 20 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/analects/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/analects/book-1/) Learning
+2. [Book II](https://sandiegotech.org/lectio/analects/book-2/) Governing
+3. [Book III](https://sandiegotech.org/lectio/analects/book-3/) Eight Rows of Dancers
+4. [Book IV](https://sandiegotech.org/lectio/analects/book-4/) Human-Heartedness
+5. [Book V](https://sandiegotech.org/lectio/analects/book-5/) Weighing Men
+6. [Book VI](https://sandiegotech.org/lectio/analects/book-6/) Knowing, Loving, Delighting
+7. [Book VII](https://sandiegotech.org/lectio/analects/book-7/) The Transmitter
+8. [Book VIII](https://sandiegotech.org/lectio/analects/book-8/) A Heavy Load, a Long Road
+9. [Book IX](https://sandiegotech.org/lectio/analects/book-9/) The Passing Stream
+10. [Book X](https://sandiegotech.org/lectio/analects/book-10/) At Home and at Court
+11. [Book XI](https://sandiegotech.org/lectio/analects/book-11/) Men of Former Times
+12. [Book XII](https://sandiegotech.org/lectio/analects/book-12/) Yen Yuan
+13. [Book XIII](https://sandiegotech.org/lectio/analects/book-13/) Setting Names Right
+14. [Book XIV](https://sandiegotech.org/lectio/analects/book-14/) Hsien Asked
+15. [Book XV](https://sandiegotech.org/lectio/analects/book-15/) One Word to Walk With
+16. [Book XVI](https://sandiegotech.org/lectio/analects/book-16/) The Chi Family
+17. [Book XVII](https://sandiegotech.org/lectio/analects/book-17/) Yang Ho
+18. [Book XVIII](https://sandiegotech.org/lectio/analects/book-18/) The Viscount of Wei
+19. [Book XIX](https://sandiegotech.org/lectio/analects/book-19/) Tsze-chang
+20. [Book XX](https://sandiegotech.org/lectio/analects/book-20/) Yao Said
 
 ## What this edition decided.
 
@@ -1569,6 +1746,94 @@ The Lectio Edition gives each chapter in a few plain sentences, with no gloss in
 
 The first 172 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 81 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter 1](https://sandiegotech.org/lectio/tao-te-ching/chapter-1/)
+
+1. [Chapter 1](https://sandiegotech.org/lectio/tao-te-ching/chapter-1/) The Way and the Name
+2. [Chapter 2](https://sandiegotech.org/lectio/tao-te-ching/chapter-2/) The Mutual Arising of Opposites
+3. [Chapter 3](https://sandiegotech.org/lectio/tao-te-ching/chapter-3/) Keeping the Heart Unstirred
+4. [Chapter 4](https://sandiegotech.org/lectio/tao-te-ching/chapter-4/) The Bottomless Well
+5. [Chapter 5](https://sandiegotech.org/lectio/tao-te-ching/chapter-5/) Straw Dogs
+6. [Chapter 6](https://sandiegotech.org/lectio/tao-te-ching/chapter-6/) The Valley Spirit
+7. [Chapter 7](https://sandiegotech.org/lectio/tao-te-ching/chapter-7/) Living for No Self
+8. [Chapter 8](https://sandiegotech.org/lectio/tao-te-ching/chapter-8/) Like Water
+9. [Chapter 9](https://sandiegotech.org/lectio/tao-te-ching/chapter-9/) Knowing When to Stop
+10. [Chapter 10](https://sandiegotech.org/lectio/tao-te-ching/chapter-10/) Mysterious Power
+11. [Chapter 11](https://sandiegotech.org/lectio/tao-te-ching/chapter-11/) The Use of Emptiness
+12. [Chapter 12](https://sandiegotech.org/lectio/tao-te-ching/chapter-12/) The Belly, Not the Eye
+13. [Chapter 13](https://sandiegotech.org/lectio/tao-te-ching/chapter-13/) Favor and Disgrace
+14. [Chapter 14](https://sandiegotech.org/lectio/tao-te-ching/chapter-14/) The Form of the Formless
+15. [Chapter 15](https://sandiegotech.org/lectio/tao-te-ching/chapter-15/) The Ancient Masters
+16. [Chapter 16](https://sandiegotech.org/lectio/tao-te-ching/chapter-16/) Returning to the Root
+17. [Chapter 17](https://sandiegotech.org/lectio/tao-te-ching/chapter-17/) The Best Ruler Is Barely Known
+18. [Chapter 18](https://sandiegotech.org/lectio/tao-te-ching/chapter-18/) When the Way Is Lost
+19. [Chapter 19](https://sandiegotech.org/lectio/tao-te-ching/chapter-19/) Return to the Uncarved Block
+20. [Chapter 20](https://sandiegotech.org/lectio/tao-te-ching/chapter-20/) Alone and Adrift
+21. [Chapter 21](https://sandiegotech.org/lectio/tao-te-ching/chapter-21/) The Essence Within
+22. [Chapter 22](https://sandiegotech.org/lectio/tao-te-ching/chapter-22/) Yield and Remain Whole
+23. [Chapter 23](https://sandiegotech.org/lectio/tao-te-ching/chapter-23/) Few Words Are Natural
+24. [Chapter 24](https://sandiegotech.org/lectio/tao-te-ching/chapter-24/) Standing on Tiptoe
+25. [Chapter 25](https://sandiegotech.org/lectio/tao-te-ching/chapter-25/) Something Formed Before Heaven and Earth
+26. [Chapter 26](https://sandiegotech.org/lectio/tao-te-ching/chapter-26/) The Heavy and the Still
+27. [Chapter 27](https://sandiegotech.org/lectio/tao-te-ching/chapter-27/) Leaving No Track
+28. [Chapter 28](https://sandiegotech.org/lectio/tao-te-ching/chapter-28/) Know the Masculine, Keep to the Feminine
+29. [Chapter 29](https://sandiegotech.org/lectio/tao-te-ching/chapter-29/) The Sacred Vessel
+30. [Chapter 30](https://sandiegotech.org/lectio/tao-te-ching/chapter-30/) Against Force of Arms
+31. [Chapter 31](https://sandiegotech.org/lectio/tao-te-ching/chapter-31/) Weapons Are Instruments of Ill Omen
+32. [Chapter 32](https://sandiegotech.org/lectio/tao-te-ching/chapter-32/) The Uncarved Block
+33. [Chapter 33](https://sandiegotech.org/lectio/tao-te-ching/chapter-33/) Knowing Yourself
+34. [Chapter 34](https://sandiegotech.org/lectio/tao-te-ching/chapter-34/) Small and Great
+35. [Chapter 35](https://sandiegotech.org/lectio/tao-te-ching/chapter-35/) Hold the Great Image
+36. [Chapter 36](https://sandiegotech.org/lectio/tao-te-ching/chapter-36/) The Subtle Light
+37. [Chapter 37](https://sandiegotech.org/lectio/tao-te-ching/chapter-37/) Nothing Left Undone
+38. [Chapter 38](https://sandiegotech.org/lectio/tao-te-ching/chapter-38/) Power and Its Decline
+39. [Chapter 39](https://sandiegotech.org/lectio/tao-te-ching/chapter-39/) Those That Attained the One
+40. [Chapter 40](https://sandiegotech.org/lectio/tao-te-ching/chapter-40/) Returning Is the Movement of the Way
+41. [Chapter 41](https://sandiegotech.org/lectio/tao-te-ching/chapter-41/) How the Way Is Heard
+42. [Chapter 42](https://sandiegotech.org/lectio/tao-te-ching/chapter-42/) The Way Bore the One
+43. [Chapter 43](https://sandiegotech.org/lectio/tao-te-ching/chapter-43/) The Softest Overcomes the Hardest
+44. [Chapter 44](https://sandiegotech.org/lectio/tao-te-ching/chapter-44/) Your Name or Your Self
+45. [Chapter 45](https://sandiegotech.org/lectio/tao-te-ching/chapter-45/) Great Perfection Seems Flawed
+46. [Chapter 46](https://sandiegotech.org/lectio/tao-te-ching/chapter-46/) Knowing You Have Enough
+47. [Chapter 47](https://sandiegotech.org/lectio/tao-te-ching/chapter-47/) Knowing Without Going Out
+48. [Chapter 48](https://sandiegotech.org/lectio/tao-te-ching/chapter-48/) Less and Less
+49. [Chapter 49](https://sandiegotech.org/lectio/tao-te-ching/chapter-49/) The Sage Has No Fixed Mind
+50. [Chapter 50](https://sandiegotech.org/lectio/tao-te-ching/chapter-50/) No Room for Death
+51. [Chapter 51](https://sandiegotech.org/lectio/tao-te-ching/chapter-51/) The Way Gives Life, Power Nurtures
+52. [Chapter 52](https://sandiegotech.org/lectio/tao-te-ching/chapter-52/) The Mother and Her Children
+53. [Chapter 53](https://sandiegotech.org/lectio/tao-te-ching/chapter-53/) The Robber's Boast
+54. [Chapter 54](https://sandiegotech.org/lectio/tao-te-ching/chapter-54/) What Is Well Rooted
+55. [Chapter 55](https://sandiegotech.org/lectio/tao-te-ching/chapter-55/) Full of Power, Like a Newborn Child
+56. [Chapter 56](https://sandiegotech.org/lectio/tao-te-ching/chapter-56/) Those Who Know Do Not Speak
+57. [Chapter 57](https://sandiegotech.org/lectio/tao-te-ching/chapter-57/) Win the World by Not Meddling
+58. [Chapter 58](https://sandiegotech.org/lectio/tao-te-ching/chapter-58/) Fortune and Misfortune
+59. [Chapter 59](https://sandiegotech.org/lectio/tao-te-ching/chapter-59/) Sparing
+60. [Chapter 60](https://sandiegotech.org/lectio/tao-te-ching/chapter-60/) Like Cooking a Small Fish
+61. [Chapter 61](https://sandiegotech.org/lectio/tao-te-ching/chapter-61/) Lying Low
+62. [Chapter 62](https://sandiegotech.org/lectio/tao-te-ching/chapter-62/) The Refuge of All Things
+63. [Chapter 63](https://sandiegotech.org/lectio/tao-te-ching/chapter-63/) The Hard Begins Easy
+64. [Chapter 64](https://sandiegotech.org/lectio/tao-te-ching/chapter-64/) A Journey of a Thousand Miles
+65. [Chapter 65](https://sandiegotech.org/lectio/tao-te-ching/chapter-65/) Ruling Without Cleverness
+66. [Chapter 66](https://sandiegotech.org/lectio/tao-te-ching/chapter-66/) Why Rivers and Seas Are Kings
+67. [Chapter 67](https://sandiegotech.org/lectio/tao-te-ching/chapter-67/) The Three Treasures
+68. [Chapter 68](https://sandiegotech.org/lectio/tao-te-ching/chapter-68/) The Power of Not Contending
+69. [Chapter 69](https://sandiegotech.org/lectio/tao-te-ching/chapter-69/) The Side That Grieves Wins
+70. [Chapter 70](https://sandiegotech.org/lectio/tao-te-ching/chapter-70/) Coarse Cloth, Jade Within
+71. [Chapter 71](https://sandiegotech.org/lectio/tao-te-ching/chapter-71/) Knowing That You Do Not Know
+72. [Chapter 72](https://sandiegotech.org/lectio/tao-te-ching/chapter-72/) When the People Stop Fearing
+73. [Chapter 73](https://sandiegotech.org/lectio/tao-te-ching/chapter-73/) Heaven's Wide Net
+74. [Chapter 74](https://sandiegotech.org/lectio/tao-te-ching/chapter-74/) The Master Carpenter
+75. [Chapter 75](https://sandiegotech.org/lectio/tao-te-ching/chapter-75/) Why the People Go Hungry
+76. [Chapter 76](https://sandiegotech.org/lectio/tao-te-ching/chapter-76/) The Soft and the Living
+77. [Chapter 77](https://sandiegotech.org/lectio/tao-te-ching/chapter-77/) Drawing the Bow
+78. [Chapter 78](https://sandiegotech.org/lectio/tao-te-ching/chapter-78/) Nothing Softer Than Water
+79. [Chapter 79](https://sandiegotech.org/lectio/tao-te-ching/chapter-79/) Holding the Left of the Tally
+80. [Chapter 80](https://sandiegotech.org/lectio/tao-te-ching/chapter-80/) A Small Country
+81. [Chapter 81](https://sandiegotech.org/lectio/tao-te-ching/chapter-81/) True Words
+
 ## What this edition decided.
 
 The review set these rules. The first is the one a reader will notice.
@@ -1754,6 +2019,39 @@ The Lectio Edition gives the twenty-six chapters in plain English that keeps the
 
 The first 155 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 26 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter I](https://sandiegotech.org/lectio/dhammapada/chapter-1/)
+
+1. [Chapter I](https://sandiegotech.org/lectio/dhammapada/chapter-1/) The Twin Verses
+2. [Chapter II](https://sandiegotech.org/lectio/dhammapada/chapter-2/) Heedfulness
+3. [Chapter III](https://sandiegotech.org/lectio/dhammapada/chapter-3/) The Mind
+4. [Chapter IV](https://sandiegotech.org/lectio/dhammapada/chapter-4/) Flowers
+5. [Chapter V](https://sandiegotech.org/lectio/dhammapada/chapter-5/) The Fool
+6. [Chapter VI](https://sandiegotech.org/lectio/dhammapada/chapter-6/) The Wise
+7. [Chapter VII](https://sandiegotech.org/lectio/dhammapada/chapter-7/) The Arhat
+8. [Chapter VIII](https://sandiegotech.org/lectio/dhammapada/chapter-8/) The Thousands
+9. [Chapter IX](https://sandiegotech.org/lectio/dhammapada/chapter-9/) Evil
+10. [Chapter X](https://sandiegotech.org/lectio/dhammapada/chapter-10/) The Rod
+11. [Chapter XI](https://sandiegotech.org/lectio/dhammapada/chapter-11/) Old Age
+12. [Chapter XII](https://sandiegotech.org/lectio/dhammapada/chapter-12/) Self
+13. [Chapter XIII](https://sandiegotech.org/lectio/dhammapada/chapter-13/) The World
+14. [Chapter XIV](https://sandiegotech.org/lectio/dhammapada/chapter-14/) The Awakened One
+15. [Chapter XV](https://sandiegotech.org/lectio/dhammapada/chapter-15/) Happiness
+16. [Chapter XVI](https://sandiegotech.org/lectio/dhammapada/chapter-16/) What We Hold Dear
+17. [Chapter XVII](https://sandiegotech.org/lectio/dhammapada/chapter-17/) Anger
+18. [Chapter XVIII](https://sandiegotech.org/lectio/dhammapada/chapter-18/) Impurity
+19. [Chapter XIX](https://sandiegotech.org/lectio/dhammapada/chapter-19/) The Just
+20. [Chapter XX](https://sandiegotech.org/lectio/dhammapada/chapter-20/) The Path
+21. [Chapter XXI](https://sandiegotech.org/lectio/dhammapada/chapter-21/) Miscellaneous Verses
+22. [Chapter XXII](https://sandiegotech.org/lectio/dhammapada/chapter-22/) The Downward Course
+23. [Chapter XXIII](https://sandiegotech.org/lectio/dhammapada/chapter-23/) The Elephant
+24. [Chapter XXIV](https://sandiegotech.org/lectio/dhammapada/chapter-24/) Craving
+25. [Chapter XXV](https://sandiegotech.org/lectio/dhammapada/chapter-25/) The Monk
+26. [Chapter XXVI](https://sandiegotech.org/lectio/dhammapada/chapter-26/) The True Brahmin
+
 ## What this edition decided.
 
 The review set these rules and swept the whole work for each.
@@ -1923,6 +2221,31 @@ The Lectio Edition is prose. It says what Krishna says in the order he says it, 
 
 The first 249 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 18 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter I](https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/)
+
+1. [Chapter I](https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/) The Distress of Arjuna
+2. [Chapter II](https://sandiegotech.org/lectio/bhagavad-gita/chapter-2/) The Deathless Self and the Way of Action
+3. [Chapter III](https://sandiegotech.org/lectio/bhagavad-gita/chapter-3/) Action as Sacrifice
+4. [Chapter IV](https://sandiegotech.org/lectio/bhagavad-gita/chapter-4/) The Way of Knowledge and Sacrifice
+5. [Chapter V](https://sandiegotech.org/lectio/bhagavad-gita/chapter-5/) The Renouncing of Works
+6. [Chapter VI](https://sandiegotech.org/lectio/bhagavad-gita/chapter-6/) The Discipline of Meditation
+7. [Chapter VII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-7/) Knowing the Supreme
+8. [Chapter VIII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-8/) The Hour of Death and the Imperishable
+9. [Chapter IX](https://sandiegotech.org/lectio/bhagavad-gita/chapter-9/) The Royal Knowledge and the Royal Secret
+10. [Chapter X](https://sandiegotech.org/lectio/bhagavad-gita/chapter-10/) The Divine Glories
+11. [Chapter XI](https://sandiegotech.org/lectio/bhagavad-gita/chapter-11/) The Vision of the Universal Form
+12. [Chapter XII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-12/) The Way of Devotion
+13. [Chapter XIII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-13/) The Field and the Knower of the Field
+14. [Chapter XIV](https://sandiegotech.org/lectio/bhagavad-gita/chapter-14/) The Three Qualities of Nature
+15. [Chapter XV](https://sandiegotech.org/lectio/bhagavad-gita/chapter-15/) The Supreme Person
+16. [Chapter XVI](https://sandiegotech.org/lectio/bhagavad-gita/chapter-16/) The Divine and the Demonic
+17. [Chapter XVII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-17/) The Threefold Faith
+18. [Chapter XVIII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-18/) Freedom Through Surrender and Letting Go
+
 ## What this edition decided.
 
 The review wrote a term sheet for the whole work and brought every chapter into line with it.
@@ -2089,6 +2412,24 @@ This also makes it the edition with the least to check against. No comparison te
 > Look at the wall of Uruk, how it shines like bronze. Study its foundation; no later king will ever match it. Climb the wall and walk its length, test the brickwork: were these bricks not fired in the kiln? Did the Seven Sages themselves not lay the groundwork? A square mile of city, a square mile of date groves, a square mile of clay pits, and half a square mile for Ishtar's temple — three square miles and a half, and all of it is Uruk. Find the box of cedar, slip the bronze ring that locks it, lift the lid, and take out the tablet of lapis lazuli. Read aloud how Gilgamesh suffered, and all that he came through.
 
 The first 198 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 11 tablets, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Tablet I](https://sandiegotech.org/lectio/gilgamesh/tablet-1/)
+
+1. [Tablet I](https://sandiegotech.org/lectio/gilgamesh/tablet-1/) The Coming of Enkidu
+2. [Tablet II](https://sandiegotech.org/lectio/gilgamesh/tablet-2/) Bread, Beer, and the Wrestling at the Gate
+3. [Tablet III](https://sandiegotech.org/lectio/gilgamesh/tablet-3/) The Mother's Prayer
+4. [Tablet IV](https://sandiegotech.org/lectio/gilgamesh/tablet-4/) The Road to the Cedars
+5. [Tablet V](https://sandiegotech.org/lectio/gilgamesh/tablet-5/) Humbaba and the Cedars
+6. [Tablet VI](https://sandiegotech.org/lectio/gilgamesh/tablet-6/) Ishtar and the Bull of Heaven
+7. [Tablet VII](https://sandiegotech.org/lectio/gilgamesh/tablet-7/) The Doom of Enkidu
+8. [Tablet VIII](https://sandiegotech.org/lectio/gilgamesh/tablet-8/) The Mourning of Gilgamesh
+9. [Tablet IX](https://sandiegotech.org/lectio/gilgamesh/tablet-9/) The Road of the Sun
+10. [Tablet X](https://sandiegotech.org/lectio/gilgamesh/tablet-10/) The Ale-Wife, the Boatman, and the Waters of Death
+11. [Tablet XI](https://sandiegotech.org/lectio/gilgamesh/tablet-11/) The Flood, the Plant, and the Walls of Uruk
 
 ## What this edition decided.
 
@@ -2260,6 +2601,23 @@ The edition now keeps every distinction Aristotle makes and gives each term one 
 > Wherever a number of such pursuits fall under a single master art — as bridle-making and all the other trades that produce a horse's equipment fall under horsemanship, and horsemanship together with every military action falls under generalship, and so on — in every case the aim of the master art is more worth choosing than the aims of the arts beneath it, since those lower aims are pursued for the sake of the higher. And it makes no difference whether the activities themselves are the aims, or something further beyond them, as in the sciences just mentioned.
 
 The first 205 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All ten books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/nicomachean-ethics/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/nicomachean-ethics/book-1/) The Good for Man
+2. [Book II](https://sandiegotech.org/lectio/nicomachean-ethics/book-2/) Virtue as a Mean
+3. [Book III](https://sandiegotech.org/lectio/nicomachean-ethics/book-3/) Choice, Courage, and Temperance
+4. [Book IV](https://sandiegotech.org/lectio/nicomachean-ethics/book-4/) The Virtues of Character
+5. [Book V](https://sandiegotech.org/lectio/nicomachean-ethics/book-5/) Justice
+6. [Book VI](https://sandiegotech.org/lectio/nicomachean-ethics/book-6/) Practical Wisdom
+7. [Book VII](https://sandiegotech.org/lectio/nicomachean-ethics/book-7/) Self-Control and Pleasure
+8. [Book VIII](https://sandiegotech.org/lectio/nicomachean-ethics/book-8/) Friendship
+9. [Book IX](https://sandiegotech.org/lectio/nicomachean-ethics/book-9/) Self-Love and the Need for Friends
+10. [Book X](https://sandiegotech.org/lectio/nicomachean-ethics/book-10/) Pleasure and the Contemplative Life
 
 ## What this edition decided.
 
@@ -2440,6 +2798,26 @@ The Lectio Edition gives all thirteen books in current English, with "you" for G
 > Great are you, Lord, and greatly to be praised: great is your power, and your wisdom is beyond all measure. And man wants to praise you — man, one small piece of your creation; man, hauling his mortality around with him, hauling the evidence of his sin and the evidence that you resist the proud. Yet still he wants to praise you, this man, one small piece of your creation. You stir us up to delight in praising you, because you made us for yourself, and our heart is restless until it rests in you. Grant me, Lord, to know and understand which comes first: calling on you, or praising you? And which first — knowing you, or calling on you? But who calls on you without knowing you? Not knowing you, he could call on something else instead of you. Or is it rather that you are called on in order to be known? Yet how will they call on one they have not believed in? And how will they believe without someone to preach him? And those who seek the Lord will praise him — for those who seek find him, and those who find him will praise him. Let me seek you, Lord, by calling on you; let me call on you by believing in you — for you have been preached to us.
 
 The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 13 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/confessions/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/confessions/book-1/) Infancy and Boyhood
+2. [Book II](https://sandiegotech.org/lectio/confessions/book-2/) The Stolen Pears
+3. [Book III](https://sandiegotech.org/lectio/confessions/book-3/) The Cauldron of Carthage
+4. [Book IV](https://sandiegotech.org/lectio/confessions/book-4/) The Death of a Friend
+5. [Book V](https://sandiegotech.org/lectio/confessions/book-5/) Faustus and Ambrose
+6. [Book VI](https://sandiegotech.org/lectio/confessions/book-6/) More Wretched, and You Nearer
+7. [Book VII](https://sandiegotech.org/lectio/confessions/book-7/) The Unchangeable Light
+8. [Book VIII](https://sandiegotech.org/lectio/confessions/book-8/) Take It and Read
+9. [Book IX](https://sandiegotech.org/lectio/confessions/book-9/) Baptism, and the Death of Monica
+10. [Book X](https://sandiegotech.org/lectio/confessions/book-10/) The Palaces of Memory
+11. [Book XI](https://sandiegotech.org/lectio/confessions/book-11/) Time and Eternity
+12. [Book XII](https://sandiegotech.org/lectio/confessions/book-12/) The Heaven of Heavens
+13. [Book XIII](https://sandiegotech.org/lectio/confessions/book-13/) The Sabbath Without Evening
 
 ## What this edition decided.
 
@@ -2639,6 +3017,113 @@ The Lectio Edition keeps Dante's form, one tercet at a time, on his lines, and p
 > that lead us straight down every road.
 
 The first 150 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 100 cantos, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Inferno: Canto I](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-1/)
+
+1. [Inferno: Canto I](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-1/)
+2. [Inferno: Canto II](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-2/)
+3. [Inferno: Canto III](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-3/)
+4. [Inferno: Canto IV](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-4/)
+5. [Inferno: Canto V](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-5/)
+6. [Inferno: Canto VI](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-6/)
+7. [Inferno: Canto VII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-7/)
+8. [Inferno: Canto VIII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-8/)
+9. [Inferno: Canto IX](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-9/)
+10. [Inferno: Canto X](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-10/)
+11. [Inferno: Canto XI](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-11/)
+12. [Inferno: Canto XII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-12/)
+13. [Inferno: Canto XIII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-13/)
+14. [Inferno: Canto XIV](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-14/)
+15. [Inferno: Canto XV](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-15/)
+16. [Inferno: Canto XVI](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-16/)
+17. [Inferno: Canto XVII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-17/)
+18. [Inferno: Canto XVIII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-18/)
+19. [Inferno: Canto XIX](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-19/)
+20. [Inferno: Canto XX](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-20/)
+21. [Inferno: Canto XXI](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-21/)
+22. [Inferno: Canto XXII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-22/)
+23. [Inferno: Canto XXIII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-23/)
+24. [Inferno: Canto XXIV](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-24/)
+25. [Inferno: Canto XXV](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-25/)
+26. [Inferno: Canto XXVI](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-26/)
+27. [Inferno: Canto XXVII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-27/)
+28. [Inferno: Canto XXVIII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-28/)
+29. [Inferno: Canto XXIX](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-29/)
+30. [Inferno: Canto XXX](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-30/)
+31. [Inferno: Canto XXXI](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-31/)
+32. [Inferno: Canto XXXII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-32/)
+33. [Inferno: Canto XXXIII](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-33/)
+34. [Inferno: Canto XXXIV](https://sandiegotech.org/lectio/divine-comedy/inferno-canto-34/)
+35. [Purgatorio: Canto I](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-1/)
+36. [Purgatorio: Canto II](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-2/)
+37. [Purgatorio: Canto III](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-3/)
+38. [Purgatorio: Canto IV](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-4/)
+39. [Purgatorio: Canto V](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-5/)
+40. [Purgatorio: Canto VI](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-6/)
+41. [Purgatorio: Canto VII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-7/)
+42. [Purgatorio: Canto VIII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-8/)
+43. [Purgatorio: Canto IX](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-9/)
+44. [Purgatorio: Canto X](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-10/)
+45. [Purgatorio: Canto XI](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-11/)
+46. [Purgatorio: Canto XII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-12/)
+47. [Purgatorio: Canto XIII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-13/)
+48. [Purgatorio: Canto XIV](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-14/)
+49. [Purgatorio: Canto XV](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-15/)
+50. [Purgatorio: Canto XVI](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-16/)
+51. [Purgatorio: Canto XVII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-17/)
+52. [Purgatorio: Canto XVIII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-18/)
+53. [Purgatorio: Canto XIX](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-19/)
+54. [Purgatorio: Canto XX](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-20/)
+55. [Purgatorio: Canto XXI](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-21/)
+56. [Purgatorio: Canto XXII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-22/)
+57. [Purgatorio: Canto XXIII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-23/)
+58. [Purgatorio: Canto XXIV](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-24/)
+59. [Purgatorio: Canto XXV](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-25/)
+60. [Purgatorio: Canto XXVI](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-26/)
+61. [Purgatorio: Canto XXVII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-27/)
+62. [Purgatorio: Canto XXVIII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-28/)
+63. [Purgatorio: Canto XXIX](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-29/)
+64. [Purgatorio: Canto XXX](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-30/)
+65. [Purgatorio: Canto XXXI](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-31/)
+66. [Purgatorio: Canto XXXII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-32/)
+67. [Purgatorio: Canto XXXIII](https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-33/)
+68. [Paradiso: Canto I](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-1/)
+69. [Paradiso: Canto II](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-2/)
+70. [Paradiso: Canto III](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-3/)
+71. [Paradiso: Canto IV](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-4/)
+72. [Paradiso: Canto V](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-5/)
+73. [Paradiso: Canto VI](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-6/)
+74. [Paradiso: Canto VII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-7/)
+75. [Paradiso: Canto VIII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-8/)
+76. [Paradiso: Canto IX](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-9/)
+77. [Paradiso: Canto X](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-10/)
+78. [Paradiso: Canto XI](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-11/)
+79. [Paradiso: Canto XII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-12/)
+80. [Paradiso: Canto XIII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-13/)
+81. [Paradiso: Canto XIV](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-14/)
+82. [Paradiso: Canto XV](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-15/)
+83. [Paradiso: Canto XVI](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-16/)
+84. [Paradiso: Canto XVII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-17/)
+85. [Paradiso: Canto XVIII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-18/)
+86. [Paradiso: Canto XIX](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-19/)
+87. [Paradiso: Canto XX](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-20/)
+88. [Paradiso: Canto XXI](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-21/)
+89. [Paradiso: Canto XXII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-22/)
+90. [Paradiso: Canto XXIII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-23/)
+91. [Paradiso: Canto XXIV](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-24/)
+92. [Paradiso: Canto XXV](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-25/)
+93. [Paradiso: Canto XXVI](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-26/)
+94. [Paradiso: Canto XXVII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-27/)
+95. [Paradiso: Canto XXVIII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-28/)
+96. [Paradiso: Canto XXIX](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-29/)
+97. [Paradiso: Canto XXX](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-30/)
+98. [Paradiso: Canto XXXI](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-31/)
+99. [Paradiso: Canto XXXII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-32/)
+100. [Paradiso: Canto XXXIII](https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-33/)
 
 ## What this edition decided.
 
@@ -2884,6 +3369,18 @@ The Lectio Edition keeps the verse lines and nearly all of Shakespeare's words. 
 
 The first 150 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All five acts, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Act I](https://sandiegotech.org/lectio/hamlet/act-1/)
+
+1. [Act I](https://sandiegotech.org/lectio/hamlet/act-1/)
+2. [Act II](https://sandiegotech.org/lectio/hamlet/act-2/)
+3. [Act III](https://sandiegotech.org/lectio/hamlet/act-3/)
+4. [Act IV](https://sandiegotech.org/lectio/hamlet/act-4/)
+5. [Act V](https://sandiegotech.org/lectio/hamlet/act-5/)
+
 ## What this edition decided.
 
 The first draft changed too much. Most of the review's 147 fixes put Shakespeare's wording back.
@@ -3052,6 +3549,29 @@ The Lectio Edition keeps the pace and the repetition, and keeps the hard words h
 > And this is what he announced: “After me comes one stronger than I am. I'm not fit to stoop down and untie the strap of his sandals. I baptized you with water. He will baptize you with the Holy Spirit.”
 
 The first 155 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 16 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter 1](https://sandiegotech.org/lectio/mark/chapter-1/)
+
+1. [Chapter 1](https://sandiegotech.org/lectio/mark/chapter-1/) The Beginning of the Good News
+2. [Chapter 2](https://sandiegotech.org/lectio/mark/chapter-2/) Authority, and the Company He Keeps
+3. [Chapter 3](https://sandiegotech.org/lectio/mark/chapter-3/) The Twelve, and the Divided House
+4. [Chapter 4](https://sandiegotech.org/lectio/mark/chapter-4/) What the Sower Went Out to Do
+5. [Chapter 5](https://sandiegotech.org/lectio/mark/chapter-5/) Legion, and the Girl Who Got Up
+6. [Chapter 6](https://sandiegotech.org/lectio/mark/chapter-6/) No Honor at Home; Bread in the Wilderness
+7. [Chapter 7](https://sandiegotech.org/lectio/mark/chapter-7/) What Actually Makes a Person Unclean
+8. [Chapter 8](https://sandiegotech.org/lectio/mark/chapter-8/) Who Do You Say I Am
+9. [Chapter 9](https://sandiegotech.org/lectio/mark/chapter-9/) The Mountain, and the Argument on the Road
+10. [Chapter 10](https://sandiegotech.org/lectio/mark/chapter-10/) The Road Up to Jerusalem
+11. [Chapter 11](https://sandiegotech.org/lectio/mark/chapter-11/) Into the City, and Into the Temple
+12. [Chapter 12](https://sandiegotech.org/lectio/mark/chapter-12/) The Vineyard, the Coin, and the Widow
+13. [Chapter 13](https://sandiegotech.org/lectio/mark/chapter-13/) Not One Stone Left on Another
+14. [Chapter 14](https://sandiegotech.org/lectio/mark/chapter-14/) The Supper, the Garden, the Courtyard
+15. [Chapter 15](https://sandiegotech.org/lectio/mark/chapter-15/) The Cross
+16. [Chapter 16](https://sandiegotech.org/lectio/mark/chapter-16/) The Empty Tomb
 
 ## What this edition decided.
 
@@ -3234,6 +3754,63 @@ The Lectio Edition keeps the refrains word for word, keeps more of the Hebrew's 
 > God said, “Let the waters under the sky be gathered into one place, so that dry land can appear.” And so it was. God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good. God said, “Let the earth put out growth: seed-bearing plants, and every kind of fruit tree bearing fruit with its seed inside it.” And so it was. The earth put out growth — every kind of seed-bearing plant, every kind of tree bearing fruit with its seed inside it. And God saw that it was good. And there was evening, and there was morning: the third day.
 
 The first 247 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## The whole edition is here to read.
+
+All 50 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter 1](https://sandiegotech.org/lectio/genesis/chapter-1/)
+
+1. [Chapter 1](https://sandiegotech.org/lectio/genesis/chapter-1/) The Seven Days
+2. [Chapter 2](https://sandiegotech.org/lectio/genesis/chapter-2/) The Garden
+3. [Chapter 3](https://sandiegotech.org/lectio/genesis/chapter-3/) The Serpent
+4. [Chapter 4](https://sandiegotech.org/lectio/genesis/chapter-4/) Cain and Abel
+5. [Chapter 5](https://sandiegotech.org/lectio/genesis/chapter-5/) From Adam to Noah
+6. [Chapter 6](https://sandiegotech.org/lectio/genesis/chapter-6/) The Earth Filled With Violence
+7. [Chapter 7](https://sandiegotech.org/lectio/genesis/chapter-7/) The Flood
+8. [Chapter 8](https://sandiegotech.org/lectio/genesis/chapter-8/) The Waters Go Down
+9. [Chapter 9](https://sandiegotech.org/lectio/genesis/chapter-9/) The Bow in the Cloud
+10. [Chapter 10](https://sandiegotech.org/lectio/genesis/chapter-10/) The Table of Nations
+11. [Chapter 11](https://sandiegotech.org/lectio/genesis/chapter-11/) Babel, and the Line to Abram
+12. [Chapter 12](https://sandiegotech.org/lectio/genesis/chapter-12/) Go
+13. [Chapter 13](https://sandiegotech.org/lectio/genesis/chapter-13/) Abram and Lot Part
+14. [Chapter 14](https://sandiegotech.org/lectio/genesis/chapter-14/) The War of the Kings, and Melchizedek
+15. [Chapter 15](https://sandiegotech.org/lectio/genesis/chapter-15/) Count the Stars
+16. [Chapter 16](https://sandiegotech.org/lectio/genesis/chapter-16/) Hagar
+17. [Chapter 17](https://sandiegotech.org/lectio/genesis/chapter-17/) New Names
+18. [Chapter 18](https://sandiegotech.org/lectio/genesis/chapter-18/) Three Visitors, and the Argument
+19. [Chapter 19](https://sandiegotech.org/lectio/genesis/chapter-19/) Sodom
+20. [Chapter 20](https://sandiegotech.org/lectio/genesis/chapter-20/) Abimelech
+21. [Chapter 21](https://sandiegotech.org/lectio/genesis/chapter-21/) Laughter, and the Wilderness
+22. [Chapter 22](https://sandiegotech.org/lectio/genesis/chapter-22/) The Binding
+23. [Chapter 23](https://sandiegotech.org/lectio/genesis/chapter-23/) The Cave at Machpelah
+24. [Chapter 24](https://sandiegotech.org/lectio/genesis/chapter-24/) Rebekah at the Well
+25. [Chapter 25](https://sandiegotech.org/lectio/genesis/chapter-25/) Two Nations
+26. [Chapter 26](https://sandiegotech.org/lectio/genesis/chapter-26/) Isaac Digs the Wells Again
+27. [Chapter 27](https://sandiegotech.org/lectio/genesis/chapter-27/) The Stolen Blessing
+28. [Chapter 28](https://sandiegotech.org/lectio/genesis/chapter-28/) The Ladder at Bethel
+29. [Chapter 29](https://sandiegotech.org/lectio/genesis/chapter-29/) Jacob Meets His Match
+30. [Chapter 30](https://sandiegotech.org/lectio/genesis/chapter-30/) The Sisters, and the Flocks
+31. [Chapter 31](https://sandiegotech.org/lectio/genesis/chapter-31/) The Flight, and the Heap of Witness
+32. [Chapter 32](https://sandiegotech.org/lectio/genesis/chapter-32/) The Night at the Jabbok
+33. [Chapter 33](https://sandiegotech.org/lectio/genesis/chapter-33/) The Face of a Brother
+34. [Chapter 34](https://sandiegotech.org/lectio/genesis/chapter-34/) Dinah
+35. [Chapter 35](https://sandiegotech.org/lectio/genesis/chapter-35/) Bethel Again, and Rachel's Grave
+36. [Chapter 36](https://sandiegotech.org/lectio/genesis/chapter-36/) The Line of Esau
+37. [Chapter 37](https://sandiegotech.org/lectio/genesis/chapter-37/) The Dreamer and the Coat
+38. [Chapter 38](https://sandiegotech.org/lectio/genesis/chapter-38/) Judah and Tamar
+39. [Chapter 39](https://sandiegotech.org/lectio/genesis/chapter-39/) In the Egyptian's House
+40. [Chapter 40](https://sandiegotech.org/lectio/genesis/chapter-40/) The Cupbearer and the Baker
+41. [Chapter 41](https://sandiegotech.org/lectio/genesis/chapter-41/) Pharaoh's Dreams
+42. [Chapter 42](https://sandiegotech.org/lectio/genesis/chapter-42/) The Brothers Come Down
+43. [Chapter 43](https://sandiegotech.org/lectio/genesis/chapter-43/) Benjamin
+44. [Chapter 44](https://sandiegotech.org/lectio/genesis/chapter-44/) The Silver Cup
+45. [Chapter 45](https://sandiegotech.org/lectio/genesis/chapter-45/) I Am Joseph
+46. [Chapter 46](https://sandiegotech.org/lectio/genesis/chapter-46/) Down to Egypt
+47. [Chapter 47](https://sandiegotech.org/lectio/genesis/chapter-47/) Jacob Before Pharaoh, and the Famine
+48. [Chapter 48](https://sandiegotech.org/lectio/genesis/chapter-48/) The Crossed Hands
+49. [Chapter 49](https://sandiegotech.org/lectio/genesis/chapter-49/) Jacob Blesses His Sons
+50. [Chapter 50](https://sandiegotech.org/lectio/genesis/chapter-50/) God Meant It for Good
 
 ## What this edition decided.
 

@@ -55,5 +55,67 @@
   "citation": "Plato. The Republic. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/republic/",
   "url": "https://sandiegotech.org/lectio/republic/",
   "markdown": "https://sandiegotech.org/lectio/republic/index.md",
-  "cover": "https://sandiegotech.org/lectio/republic/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/republic/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "What Is Justice?",
+      "url": "https://sandiegotech.org/lectio/republic/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "The Ring of Gyges",
+      "url": "https://sandiegotech.org/lectio/republic/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "The Noble Lie",
+      "url": "https://sandiegotech.org/lectio/republic/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "Justice Found",
+      "url": "https://sandiegotech.org/lectio/republic/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "The Three Waves",
+      "url": "https://sandiegotech.org/lectio/republic/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "The Sun and the Divided Line",
+      "url": "https://sandiegotech.org/lectio/republic/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "The Cave",
+      "url": "https://sandiegotech.org/lectio/republic/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "The Decay of Regimes",
+      "url": "https://sandiegotech.org/lectio/republic/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "The Tyrant's Soul",
+      "url": "https://sandiegotech.org/lectio/republic/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "Poetry and the Myth of Er",
+      "url": "https://sandiegotech.org/lectio/republic/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/republic/book-10/index.md"
+    }
+  ]
 }

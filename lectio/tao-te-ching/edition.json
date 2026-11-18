@@ -55,5 +55,493 @@
   "citation": "Laozi. The Tao Te Ching. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/tao-te-ching/",
   "url": "https://sandiegotech.org/lectio/tao-te-ching/",
   "markdown": "https://sandiegotech.org/lectio/tao-te-ching/index.md",
-  "cover": "https://sandiegotech.org/lectio/tao-te-ching/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/tao-te-ching/cover.jpg",
+  "text": [
+    {
+      "label": "Chapter 1",
+      "title": "The Way and the Name",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-1/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-1/index.md"
+    },
+    {
+      "label": "Chapter 2",
+      "title": "The Mutual Arising of Opposites",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-2/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-2/index.md"
+    },
+    {
+      "label": "Chapter 3",
+      "title": "Keeping the Heart Unstirred",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-3/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-3/index.md"
+    },
+    {
+      "label": "Chapter 4",
+      "title": "The Bottomless Well",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-4/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-4/index.md"
+    },
+    {
+      "label": "Chapter 5",
+      "title": "Straw Dogs",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-5/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-5/index.md"
+    },
+    {
+      "label": "Chapter 6",
+      "title": "The Valley Spirit",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-6/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-6/index.md"
+    },
+    {
+      "label": "Chapter 7",
+      "title": "Living for No Self",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-7/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-7/index.md"
+    },
+    {
+      "label": "Chapter 8",
+      "title": "Like Water",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-8/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-8/index.md"
+    },
+    {
+      "label": "Chapter 9",
+      "title": "Knowing When to Stop",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-9/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-9/index.md"
+    },
+    {
+      "label": "Chapter 10",
+      "title": "Mysterious Power",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-10/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-10/index.md"
+    },
+    {
+      "label": "Chapter 11",
+      "title": "The Use of Emptiness",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-11/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-11/index.md"
+    },
+    {
+      "label": "Chapter 12",
+      "title": "The Belly, Not the Eye",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-12/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-12/index.md"
+    },
+    {
+      "label": "Chapter 13",
+      "title": "Favor and Disgrace",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-13/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-13/index.md"
+    },
+    {
+      "label": "Chapter 14",
+      "title": "The Form of the Formless",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-14/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-14/index.md"
+    },
+    {
+      "label": "Chapter 15",
+      "title": "The Ancient Masters",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-15/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-15/index.md"
+    },
+    {
+      "label": "Chapter 16",
+      "title": "Returning to the Root",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-16/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-16/index.md"
+    },
+    {
+      "label": "Chapter 17",
+      "title": "The Best Ruler Is Barely Known",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-17/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-17/index.md"
+    },
+    {
+      "label": "Chapter 18",
+      "title": "When the Way Is Lost",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-18/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-18/index.md"
+    },
+    {
+      "label": "Chapter 19",
+      "title": "Return to the Uncarved Block",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-19/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-19/index.md"
+    },
+    {
+      "label": "Chapter 20",
+      "title": "Alone and Adrift",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-20/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-20/index.md"
+    },
+    {
+      "label": "Chapter 21",
+      "title": "The Essence Within",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-21/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-21/index.md"
+    },
+    {
+      "label": "Chapter 22",
+      "title": "Yield and Remain Whole",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-22/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-22/index.md"
+    },
+    {
+      "label": "Chapter 23",
+      "title": "Few Words Are Natural",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-23/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-23/index.md"
+    },
+    {
+      "label": "Chapter 24",
+      "title": "Standing on Tiptoe",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-24/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-24/index.md"
+    },
+    {
+      "label": "Chapter 25",
+      "title": "Something Formed Before Heaven and Earth",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-25/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-25/index.md"
+    },
+    {
+      "label": "Chapter 26",
+      "title": "The Heavy and the Still",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-26/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-26/index.md"
+    },
+    {
+      "label": "Chapter 27",
+      "title": "Leaving No Track",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-27/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-27/index.md"
+    },
+    {
+      "label": "Chapter 28",
+      "title": "Know the Masculine, Keep to the Feminine",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-28/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-28/index.md"
+    },
+    {
+      "label": "Chapter 29",
+      "title": "The Sacred Vessel",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-29/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-29/index.md"
+    },
+    {
+      "label": "Chapter 30",
+      "title": "Against Force of Arms",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-30/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-30/index.md"
+    },
+    {
+      "label": "Chapter 31",
+      "title": "Weapons Are Instruments of Ill Omen",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-31/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-31/index.md"
+    },
+    {
+      "label": "Chapter 32",
+      "title": "The Uncarved Block",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-32/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-32/index.md"
+    },
+    {
+      "label": "Chapter 33",
+      "title": "Knowing Yourself",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-33/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-33/index.md"
+    },
+    {
+      "label": "Chapter 34",
+      "title": "Small and Great",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-34/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-34/index.md"
+    },
+    {
+      "label": "Chapter 35",
+      "title": "Hold the Great Image",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-35/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-35/index.md"
+    },
+    {
+      "label": "Chapter 36",
+      "title": "The Subtle Light",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-36/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-36/index.md"
+    },
+    {
+      "label": "Chapter 37",
+      "title": "Nothing Left Undone",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-37/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-37/index.md"
+    },
+    {
+      "label": "Chapter 38",
+      "title": "Power and Its Decline",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-38/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-38/index.md"
+    },
+    {
+      "label": "Chapter 39",
+      "title": "Those That Attained the One",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-39/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-39/index.md"
+    },
+    {
+      "label": "Chapter 40",
+      "title": "Returning Is the Movement of the Way",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-40/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-40/index.md"
+    },
+    {
+      "label": "Chapter 41",
+      "title": "How the Way Is Heard",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-41/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-41/index.md"
+    },
+    {
+      "label": "Chapter 42",
+      "title": "The Way Bore the One",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-42/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-42/index.md"
+    },
+    {
+      "label": "Chapter 43",
+      "title": "The Softest Overcomes the Hardest",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-43/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-43/index.md"
+    },
+    {
+      "label": "Chapter 44",
+      "title": "Your Name or Your Self",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-44/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-44/index.md"
+    },
+    {
+      "label": "Chapter 45",
+      "title": "Great Perfection Seems Flawed",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-45/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-45/index.md"
+    },
+    {
+      "label": "Chapter 46",
+      "title": "Knowing You Have Enough",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-46/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-46/index.md"
+    },
+    {
+      "label": "Chapter 47",
+      "title": "Knowing Without Going Out",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-47/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-47/index.md"
+    },
+    {
+      "label": "Chapter 48",
+      "title": "Less and Less",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-48/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-48/index.md"
+    },
+    {
+      "label": "Chapter 49",
+      "title": "The Sage Has No Fixed Mind",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-49/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-49/index.md"
+    },
+    {
+      "label": "Chapter 50",
+      "title": "No Room for Death",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-50/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-50/index.md"
+    },
+    {
+      "label": "Chapter 51",
+      "title": "The Way Gives Life, Power Nurtures",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-51/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-51/index.md"
+    },
+    {
+      "label": "Chapter 52",
+      "title": "The Mother and Her Children",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-52/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-52/index.md"
+    },
+    {
+      "label": "Chapter 53",
+      "title": "The Robber's Boast",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-53/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-53/index.md"
+    },
+    {
+      "label": "Chapter 54",
+      "title": "What Is Well Rooted",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-54/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-54/index.md"
+    },
+    {
+      "label": "Chapter 55",
+      "title": "Full of Power, Like a Newborn Child",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-55/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-55/index.md"
+    },
+    {
+      "label": "Chapter 56",
+      "title": "Those Who Know Do Not Speak",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-56/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-56/index.md"
+    },
+    {
+      "label": "Chapter 57",
+      "title": "Win the World by Not Meddling",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-57/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-57/index.md"
+    },
+    {
+      "label": "Chapter 58",
+      "title": "Fortune and Misfortune",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-58/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-58/index.md"
+    },
+    {
+      "label": "Chapter 59",
+      "title": "Sparing",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-59/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-59/index.md"
+    },
+    {
+      "label": "Chapter 60",
+      "title": "Like Cooking a Small Fish",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-60/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-60/index.md"
+    },
+    {
+      "label": "Chapter 61",
+      "title": "Lying Low",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-61/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-61/index.md"
+    },
+    {
+      "label": "Chapter 62",
+      "title": "The Refuge of All Things",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-62/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-62/index.md"
+    },
+    {
+      "label": "Chapter 63",
+      "title": "The Hard Begins Easy",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-63/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-63/index.md"
+    },
+    {
+      "label": "Chapter 64",
+      "title": "A Journey of a Thousand Miles",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-64/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-64/index.md"
+    },
+    {
+      "label": "Chapter 65",
+      "title": "Ruling Without Cleverness",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-65/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-65/index.md"
+    },
+    {
+      "label": "Chapter 66",
+      "title": "Why Rivers and Seas Are Kings",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-66/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-66/index.md"
+    },
+    {
+      "label": "Chapter 67",
+      "title": "The Three Treasures",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-67/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-67/index.md"
+    },
+    {
+      "label": "Chapter 68",
+      "title": "The Power of Not Contending",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-68/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-68/index.md"
+    },
+    {
+      "label": "Chapter 69",
+      "title": "The Side That Grieves Wins",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-69/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-69/index.md"
+    },
+    {
+      "label": "Chapter 70",
+      "title": "Coarse Cloth, Jade Within",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-70/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-70/index.md"
+    },
+    {
+      "label": "Chapter 71",
+      "title": "Knowing That You Do Not Know",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-71/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-71/index.md"
+    },
+    {
+      "label": "Chapter 72",
+      "title": "When the People Stop Fearing",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-72/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-72/index.md"
+    },
+    {
+      "label": "Chapter 73",
+      "title": "Heaven's Wide Net",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-73/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-73/index.md"
+    },
+    {
+      "label": "Chapter 74",
+      "title": "The Master Carpenter",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-74/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-74/index.md"
+    },
+    {
+      "label": "Chapter 75",
+      "title": "Why the People Go Hungry",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-75/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-75/index.md"
+    },
+    {
+      "label": "Chapter 76",
+      "title": "The Soft and the Living",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-76/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-76/index.md"
+    },
+    {
+      "label": "Chapter 77",
+      "title": "Drawing the Bow",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-77/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-77/index.md"
+    },
+    {
+      "label": "Chapter 78",
+      "title": "Nothing Softer Than Water",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-78/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-78/index.md"
+    },
+    {
+      "label": "Chapter 79",
+      "title": "Holding the Left of the Tally",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-79/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-79/index.md"
+    },
+    {
+      "label": "Chapter 80",
+      "title": "A Small Country",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-80/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-80/index.md"
+    },
+    {
+      "label": "Chapter 81",
+      "title": "True Words",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/chapter-81/",
+      "markdown": "https://sandiegotech.org/lectio/tao-te-ching/chapter-81/index.md"
+    }
+  ]
 }

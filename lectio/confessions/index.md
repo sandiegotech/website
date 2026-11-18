@@ -39,6 +39,26 @@ The Lectio Edition gives all thirteen books in current English, with "you" for G
 
 The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 13 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/confessions/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/confessions/book-1/) Infancy and Boyhood
+2. [Book II](https://sandiegotech.org/lectio/confessions/book-2/) The Stolen Pears
+3. [Book III](https://sandiegotech.org/lectio/confessions/book-3/) The Cauldron of Carthage
+4. [Book IV](https://sandiegotech.org/lectio/confessions/book-4/) The Death of a Friend
+5. [Book V](https://sandiegotech.org/lectio/confessions/book-5/) Faustus and Ambrose
+6. [Book VI](https://sandiegotech.org/lectio/confessions/book-6/) More Wretched, and You Nearer
+7. [Book VII](https://sandiegotech.org/lectio/confessions/book-7/) The Unchangeable Light
+8. [Book VIII](https://sandiegotech.org/lectio/confessions/book-8/) Take It and Read
+9. [Book IX](https://sandiegotech.org/lectio/confessions/book-9/) Baptism, and the Death of Monica
+10. [Book X](https://sandiegotech.org/lectio/confessions/book-10/) The Palaces of Memory
+11. [Book XI](https://sandiegotech.org/lectio/confessions/book-11/) Time and Eternity
+12. [Book XII](https://sandiegotech.org/lectio/confessions/book-12/) The Heaven of Heavens
+13. [Book XIII](https://sandiegotech.org/lectio/confessions/book-13/) The Sabbath Without Evening
+
 ## What this edition decided.
 
 The review set these rules for the whole work.

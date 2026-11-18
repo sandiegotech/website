@@ -45,6 +45,39 @@ The Lectio Edition gives the twenty-six chapters in plain English that keeps the
 
 The first 155 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 26 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter I](https://sandiegotech.org/lectio/dhammapada/chapter-1/)
+
+1. [Chapter I](https://sandiegotech.org/lectio/dhammapada/chapter-1/) The Twin Verses
+2. [Chapter II](https://sandiegotech.org/lectio/dhammapada/chapter-2/) Heedfulness
+3. [Chapter III](https://sandiegotech.org/lectio/dhammapada/chapter-3/) The Mind
+4. [Chapter IV](https://sandiegotech.org/lectio/dhammapada/chapter-4/) Flowers
+5. [Chapter V](https://sandiegotech.org/lectio/dhammapada/chapter-5/) The Fool
+6. [Chapter VI](https://sandiegotech.org/lectio/dhammapada/chapter-6/) The Wise
+7. [Chapter VII](https://sandiegotech.org/lectio/dhammapada/chapter-7/) The Arhat
+8. [Chapter VIII](https://sandiegotech.org/lectio/dhammapada/chapter-8/) The Thousands
+9. [Chapter IX](https://sandiegotech.org/lectio/dhammapada/chapter-9/) Evil
+10. [Chapter X](https://sandiegotech.org/lectio/dhammapada/chapter-10/) The Rod
+11. [Chapter XI](https://sandiegotech.org/lectio/dhammapada/chapter-11/) Old Age
+12. [Chapter XII](https://sandiegotech.org/lectio/dhammapada/chapter-12/) Self
+13. [Chapter XIII](https://sandiegotech.org/lectio/dhammapada/chapter-13/) The World
+14. [Chapter XIV](https://sandiegotech.org/lectio/dhammapada/chapter-14/) The Awakened One
+15. [Chapter XV](https://sandiegotech.org/lectio/dhammapada/chapter-15/) Happiness
+16. [Chapter XVI](https://sandiegotech.org/lectio/dhammapada/chapter-16/) What We Hold Dear
+17. [Chapter XVII](https://sandiegotech.org/lectio/dhammapada/chapter-17/) Anger
+18. [Chapter XVIII](https://sandiegotech.org/lectio/dhammapada/chapter-18/) Impurity
+19. [Chapter XIX](https://sandiegotech.org/lectio/dhammapada/chapter-19/) The Just
+20. [Chapter XX](https://sandiegotech.org/lectio/dhammapada/chapter-20/) The Path
+21. [Chapter XXI](https://sandiegotech.org/lectio/dhammapada/chapter-21/) Miscellaneous Verses
+22. [Chapter XXII](https://sandiegotech.org/lectio/dhammapada/chapter-22/) The Downward Course
+23. [Chapter XXIII](https://sandiegotech.org/lectio/dhammapada/chapter-23/) The Elephant
+24. [Chapter XXIV](https://sandiegotech.org/lectio/dhammapada/chapter-24/) Craving
+25. [Chapter XXV](https://sandiegotech.org/lectio/dhammapada/chapter-25/) The Monk
+26. [Chapter XXVI](https://sandiegotech.org/lectio/dhammapada/chapter-26/) The True Brahmin
+
 ## What this edition decided.
 
 The review set these rules and swept the whole work for each.

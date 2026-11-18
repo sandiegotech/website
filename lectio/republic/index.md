@@ -43,6 +43,23 @@ The Lectio Edition renders all ten books as talk between people, in current Engl
 
 The first 176 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All ten books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/republic/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/republic/book-1/) What Is Justice?
+2. [Book II](https://sandiegotech.org/lectio/republic/book-2/) The Ring of Gyges
+3. [Book III](https://sandiegotech.org/lectio/republic/book-3/) The Noble Lie
+4. [Book IV](https://sandiegotech.org/lectio/republic/book-4/) Justice Found
+5. [Book V](https://sandiegotech.org/lectio/republic/book-5/) The Three Waves
+6. [Book VI](https://sandiegotech.org/lectio/republic/book-6/) The Sun and the Divided Line
+7. [Book VII](https://sandiegotech.org/lectio/republic/book-7/) The Cave
+8. [Book VIII](https://sandiegotech.org/lectio/republic/book-8/) The Decay of Regimes
+9. [Book IX](https://sandiegotech.org/lectio/republic/book-9/) The Tyrant's Soul
+10. [Book X](https://sandiegotech.org/lectio/republic/book-10/) Poetry and the Myth of Er
+
 ## What this edition decided.
 
 The review found that this edition's terms drifted from book to book. These are the rules that now hold.

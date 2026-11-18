@@ -56,5 +56,607 @@
   "citation": "Dante Alighieri. The Divine Comedy. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/divine-comedy/",
   "url": "https://sandiegotech.org/lectio/divine-comedy/",
   "markdown": "https://sandiegotech.org/lectio/divine-comedy/index.md",
-  "cover": "https://sandiegotech.org/lectio/divine-comedy/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/divine-comedy/cover.jpg",
+  "text": [
+    {
+      "label": "Inferno: Canto I",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-1/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-1/index.md"
+    },
+    {
+      "label": "Inferno: Canto II",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-2/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-2/index.md"
+    },
+    {
+      "label": "Inferno: Canto III",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-3/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-3/index.md"
+    },
+    {
+      "label": "Inferno: Canto IV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-4/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-4/index.md"
+    },
+    {
+      "label": "Inferno: Canto V",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-5/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-5/index.md"
+    },
+    {
+      "label": "Inferno: Canto VI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-6/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-6/index.md"
+    },
+    {
+      "label": "Inferno: Canto VII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-7/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-7/index.md"
+    },
+    {
+      "label": "Inferno: Canto VIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-8/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-8/index.md"
+    },
+    {
+      "label": "Inferno: Canto IX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-9/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-9/index.md"
+    },
+    {
+      "label": "Inferno: Canto X",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-10/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-10/index.md"
+    },
+    {
+      "label": "Inferno: Canto XI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-11/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-11/index.md"
+    },
+    {
+      "label": "Inferno: Canto XII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-12/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-12/index.md"
+    },
+    {
+      "label": "Inferno: Canto XIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-13/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-13/index.md"
+    },
+    {
+      "label": "Inferno: Canto XIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-14/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-14/index.md"
+    },
+    {
+      "label": "Inferno: Canto XV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-15/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-15/index.md"
+    },
+    {
+      "label": "Inferno: Canto XVI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-16/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-16/index.md"
+    },
+    {
+      "label": "Inferno: Canto XVII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-17/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-17/index.md"
+    },
+    {
+      "label": "Inferno: Canto XVIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-18/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-18/index.md"
+    },
+    {
+      "label": "Inferno: Canto XIX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-19/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-19/index.md"
+    },
+    {
+      "label": "Inferno: Canto XX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-20/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-20/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-21/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-21/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-22/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-22/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-23/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-23/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-24/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-24/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-25/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-25/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXVI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-26/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-26/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXVII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-27/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-27/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXVIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-28/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-28/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXIX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-29/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-29/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-30/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-30/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXXI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-31/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-31/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXXII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-32/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-32/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXXIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-33/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-33/index.md"
+    },
+    {
+      "label": "Inferno: Canto XXXIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-34/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/inferno-canto-34/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto I",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-1/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-1/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto II",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-2/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-2/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto III",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-3/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-3/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto IV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-4/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-4/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto V",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-5/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-5/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto VI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-6/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-6/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto VII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-7/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-7/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto VIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-8/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-8/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto IX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-9/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-9/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto X",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-10/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-10/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-11/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-11/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-12/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-12/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-13/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-13/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-14/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-14/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-15/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-15/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XVI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-16/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-16/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XVII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-17/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-17/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XVIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-18/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-18/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XIX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-19/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-19/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-20/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-20/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-21/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-21/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-22/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-22/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-23/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-23/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-24/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-24/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-25/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-25/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXVI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-26/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-26/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXVII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-27/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-27/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXVIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-28/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-28/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXIX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-29/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-29/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-30/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-30/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXXI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-31/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-31/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXXII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-32/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-32/index.md"
+    },
+    {
+      "label": "Purgatorio: Canto XXXIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-33/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/purgatorio-canto-33/index.md"
+    },
+    {
+      "label": "Paradiso: Canto I",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-1/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-1/index.md"
+    },
+    {
+      "label": "Paradiso: Canto II",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-2/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-2/index.md"
+    },
+    {
+      "label": "Paradiso: Canto III",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-3/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-3/index.md"
+    },
+    {
+      "label": "Paradiso: Canto IV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-4/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-4/index.md"
+    },
+    {
+      "label": "Paradiso: Canto V",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-5/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-5/index.md"
+    },
+    {
+      "label": "Paradiso: Canto VI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-6/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-6/index.md"
+    },
+    {
+      "label": "Paradiso: Canto VII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-7/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-7/index.md"
+    },
+    {
+      "label": "Paradiso: Canto VIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-8/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-8/index.md"
+    },
+    {
+      "label": "Paradiso: Canto IX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-9/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-9/index.md"
+    },
+    {
+      "label": "Paradiso: Canto X",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-10/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-10/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-11/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-11/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-12/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-12/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-13/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-13/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-14/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-14/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-15/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-15/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XVI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-16/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-16/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XVII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-17/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-17/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XVIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-18/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-18/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XIX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-19/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-19/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-20/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-20/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-21/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-21/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-22/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-22/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-23/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-23/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXIV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-24/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-24/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-25/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-25/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXVI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-26/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-26/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXVII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-27/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-27/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXVIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-28/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-28/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXIX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-29/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-29/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXX",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-30/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-30/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXXI",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-31/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-31/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXXII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-32/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-32/index.md"
+    },
+    {
+      "label": "Paradiso: Canto XXXIII",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-33/",
+      "markdown": "https://sandiegotech.org/lectio/divine-comedy/paradiso-canto-33/index.md"
+    }
+  ]
 }

@@ -46,4 +46,5 @@ The Lectio editions are licensed CC BY-NC 4.0. Content here may be used to answe
 - [Lectio, full text of these pages](https://sandiegotech.org/llms-full.txt): the overview, the mission and every edition page as one Markdown file
 - [Editions as data](https://sandiegotech.org/lectio/editions.json): each edition's public record as JSON
 - [Feed](https://sandiegotech.org/lectio/feed.xml): new and revised editions, as Atom
+- The whole text of every edition is on the web, one page per book or chapter, listed under Read it on each edition page and under text in its edition.json
 - Every Lectio page has a Markdown twin at the same address with index.md added

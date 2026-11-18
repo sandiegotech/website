@@ -99,6 +99,18 @@ The Lectio Edition keeps the verse lines and nearly all of Shakespeare's words. 
 
 The first 150 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All five acts, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Act I](https://sandiegotech.org/lectio/hamlet/act-1/)
+
+1. [Act I](https://sandiegotech.org/lectio/hamlet/act-1/)
+2. [Act II](https://sandiegotech.org/lectio/hamlet/act-2/)
+3. [Act III](https://sandiegotech.org/lectio/hamlet/act-3/)
+4. [Act IV](https://sandiegotech.org/lectio/hamlet/act-4/)
+5. [Act V](https://sandiegotech.org/lectio/hamlet/act-5/)
+
 ## What this edition decided.
 
 The first draft changed too much. Most of the review's 147 fixes put Shakespeare's wording back.

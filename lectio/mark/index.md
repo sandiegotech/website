@@ -43,6 +43,29 @@ The Lectio Edition keeps the pace and the repetition, and keeps the hard words h
 
 The first 155 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 16 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter 1](https://sandiegotech.org/lectio/mark/chapter-1/)
+
+1. [Chapter 1](https://sandiegotech.org/lectio/mark/chapter-1/) The Beginning of the Good News
+2. [Chapter 2](https://sandiegotech.org/lectio/mark/chapter-2/) Authority, and the Company He Keeps
+3. [Chapter 3](https://sandiegotech.org/lectio/mark/chapter-3/) The Twelve, and the Divided House
+4. [Chapter 4](https://sandiegotech.org/lectio/mark/chapter-4/) What the Sower Went Out to Do
+5. [Chapter 5](https://sandiegotech.org/lectio/mark/chapter-5/) Legion, and the Girl Who Got Up
+6. [Chapter 6](https://sandiegotech.org/lectio/mark/chapter-6/) No Honor at Home; Bread in the Wilderness
+7. [Chapter 7](https://sandiegotech.org/lectio/mark/chapter-7/) What Actually Makes a Person Unclean
+8. [Chapter 8](https://sandiegotech.org/lectio/mark/chapter-8/) Who Do You Say I Am
+9. [Chapter 9](https://sandiegotech.org/lectio/mark/chapter-9/) The Mountain, and the Argument on the Road
+10. [Chapter 10](https://sandiegotech.org/lectio/mark/chapter-10/) The Road Up to Jerusalem
+11. [Chapter 11](https://sandiegotech.org/lectio/mark/chapter-11/) Into the City, and Into the Temple
+12. [Chapter 12](https://sandiegotech.org/lectio/mark/chapter-12/) The Vineyard, the Coin, and the Widow
+13. [Chapter 13](https://sandiegotech.org/lectio/mark/chapter-13/) Not One Stone Left on Another
+14. [Chapter 14](https://sandiegotech.org/lectio/mark/chapter-14/) The Supper, the Garden, the Courtyard
+15. [Chapter 15](https://sandiegotech.org/lectio/mark/chapter-15/) The Cross
+16. [Chapter 16](https://sandiegotech.org/lectio/mark/chapter-16/) The Empty Tomb
+
 ## What this edition decided.
 
 These rules were set before drafting, in a charter for the biblical books, and the review held the text to them.

@@ -43,6 +43,37 @@ The Lectio Edition is a prose Iliad in current English, all twenty-four books. I
 
 The first 161 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 24 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/iliad/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/iliad/book-1/) The Quarrel
+2. [Book II](https://sandiegotech.org/lectio/iliad/book-2/) The Dream and the Ships
+3. [Book III](https://sandiegotech.org/lectio/iliad/book-3/) The Duel for Helen
+4. [Book IV](https://sandiegotech.org/lectio/iliad/book-4/) The Broken Truce
+5. [Book V](https://sandiegotech.org/lectio/iliad/book-5/) The Day of Diomedes
+6. [Book VI](https://sandiegotech.org/lectio/iliad/book-6/) Hector and Andromache
+7. [Book VII](https://sandiegotech.org/lectio/iliad/book-7/) The Duel of Hector and Ajax
+8. [Book VIII](https://sandiegotech.org/lectio/iliad/book-8/) The Tide of Battle Turns
+9. [Book IX](https://sandiegotech.org/lectio/iliad/book-9/) The Embassy to Achilles
+10. [Book X](https://sandiegotech.org/lectio/iliad/book-10/) The Night Raid
+11. [Book XI](https://sandiegotech.org/lectio/iliad/book-11/) The Day of Agamemnon
+12. [Book XII](https://sandiegotech.org/lectio/iliad/book-12/) The Storming of the Wall
+13. [Book XIII](https://sandiegotech.org/lectio/iliad/book-13/) Poseidon at the Ships
+14. [Book XIV](https://sandiegotech.org/lectio/iliad/book-14/) The Deception of Zeus
+15. [Book XV](https://sandiegotech.org/lectio/iliad/book-15/) The Battle at the Ships
+16. [Book XVI](https://sandiegotech.org/lectio/iliad/book-16/) The Death of Patroclus
+17. [Book XVII](https://sandiegotech.org/lectio/iliad/book-17/) The Fight over Patroclus
+18. [Book XVIII](https://sandiegotech.org/lectio/iliad/book-18/) The Shield of Achilles
+19. [Book XIX](https://sandiegotech.org/lectio/iliad/book-19/) The Rage Laid Down
+20. [Book XX](https://sandiegotech.org/lectio/iliad/book-20/) The Gods Go to War
+21. [Book XXI](https://sandiegotech.org/lectio/iliad/book-21/) The Battle at the River
+22. [Book XXII](https://sandiegotech.org/lectio/iliad/book-22/) The Death of Hector
+23. [Book XXIII](https://sandiegotech.org/lectio/iliad/book-23/) The Funeral Games for Patroclus
+24. [Book XXIV](https://sandiegotech.org/lectio/iliad/book-24/) The Ransom of Hector
+
 ## What this edition decided.
 
 These are the rules the review settled for the whole poem.

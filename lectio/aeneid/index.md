@@ -41,6 +41,25 @@ The Lectio Edition gives the twelve books as prose in current English. It keeps 
 
 The first 221 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 12 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/aeneid/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/aeneid/book-1/) The Storm, and Carthage
+2. [Book II](https://sandiegotech.org/lectio/aeneid/book-2/) The Fall of Troy
+3. [Book III](https://sandiegotech.org/lectio/aeneid/book-3/) The Wanderings, and the Death of Anchises
+4. [Book IV](https://sandiegotech.org/lectio/aeneid/book-4/) The Tragedy of Dido
+5. [Book V](https://sandiegotech.org/lectio/aeneid/book-5/) The Games for Anchises, and the Loss of Palinurus
+6. [Book VI](https://sandiegotech.org/lectio/aeneid/book-6/) The Descent to the Underworld
+7. [Book VII](https://sandiegotech.org/lectio/aeneid/book-7/) Latium, and the Opening of the War
+8. [Book VIII](https://sandiegotech.org/lectio/aeneid/book-8/) Evander, and the Shield of Aeneas
+9. [Book IX](https://sandiegotech.org/lectio/aeneid/book-9/) Turnus at the Walls, and the Night of Nisus and Euryalus
+10. [Book X](https://sandiegotech.org/lectio/aeneid/book-10/) The Council of the Gods, the Death of Pallas, and the End of Mezentius
+11. [Book XI](https://sandiegotech.org/lectio/aeneid/book-11/) The Death of Pallas, the Council, and Camilla
+12. [Book XII](https://sandiegotech.org/lectio/aeneid/book-12/) The Single Combat, and the Death of Turnus
+
 ## What this edition decided.
 
 The review set these rules and applied them across the twelve books.

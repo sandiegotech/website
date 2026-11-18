@@ -56,5 +56,79 @@
   "citation": "Virgil. The Aeneid. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/aeneid/",
   "url": "https://sandiegotech.org/lectio/aeneid/",
   "markdown": "https://sandiegotech.org/lectio/aeneid/index.md",
-  "cover": "https://sandiegotech.org/lectio/aeneid/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/aeneid/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "The Storm, and Carthage",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "The Fall of Troy",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "The Wanderings, and the Death of Anchises",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "The Tragedy of Dido",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "The Games for Anchises, and the Loss of Palinurus",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "The Descent to the Underworld",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "Latium, and the Opening of the War",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "Evander, and the Shield of Aeneas",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "Turnus at the Walls, and the Night of Nisus and Euryalus",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "The Council of the Gods, the Death of Pallas, and the End of Mezentius",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-10/index.md"
+    },
+    {
+      "label": "Book XI",
+      "title": "The Death of Pallas, the Council, and Camilla",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-11/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-11/index.md"
+    },
+    {
+      "label": "Book XII",
+      "title": "The Single Combat, and the Death of Turnus",
+      "url": "https://sandiegotech.org/lectio/aeneid/book-12/",
+      "markdown": "https://sandiegotech.org/lectio/aeneid/book-12/index.md"
+    }
+  ]
 }

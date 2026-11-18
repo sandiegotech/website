@@ -51,6 +51,39 @@ The Lectio Edition renders the twenty-six chapters in current English and leaves
 
 The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 26 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter I](https://sandiegotech.org/lectio/the-prince/chapter-1/)
+
+1. [Chapter I](https://sandiegotech.org/lectio/the-prince/chapter-1/) The Kinds of Principalities
+2. [Chapter II](https://sandiegotech.org/lectio/the-prince/chapter-2/) Hereditary Principalities
+3. [Chapter III](https://sandiegotech.org/lectio/the-prince/chapter-3/) Mixed Principalities
+4. [Chapter IV](https://sandiegotech.org/lectio/the-prince/chapter-4/) Why Darius's Kingdom Did Not Rebel
+5. [Chapter V](https://sandiegotech.org/lectio/the-prince/chapter-5/) Cities That Lived Free
+6. [Chapter VI](https://sandiegotech.org/lectio/the-prince/chapter-6/) By Your Own Arms and Virtù
+7. [Chapter VII](https://sandiegotech.org/lectio/the-prince/chapter-7/) By Others' Arms and Fortune
+8. [Chapter VIII](https://sandiegotech.org/lectio/the-prince/chapter-8/) Rising by Crime
+9. [Chapter IX](https://sandiegotech.org/lectio/the-prince/chapter-9/) The Civil Principality
+10. [Chapter X](https://sandiegotech.org/lectio/the-prince/chapter-10/) Measuring a State's Strength
+11. [Chapter XI](https://sandiegotech.org/lectio/the-prince/chapter-11/) Ecclesiastical Principalities
+12. [Chapter XII](https://sandiegotech.org/lectio/the-prince/chapter-12/) The Kinds of Troops, and Mercenaries
+13. [Chapter XIII](https://sandiegotech.org/lectio/the-prince/chapter-13/) Auxiliaries, Mixed Troops, and One's Own
+14. [Chapter XIV](https://sandiegotech.org/lectio/the-prince/chapter-14/) The Prince and the Art of War
+15. [Chapter XV](https://sandiegotech.org/lectio/the-prince/chapter-15/) What Princes Are Praised or Blamed For
+16. [Chapter XVI](https://sandiegotech.org/lectio/the-prince/chapter-16/) Generosity and Miserliness
+17. [Chapter XVII](https://sandiegotech.org/lectio/the-prince/chapter-17/) Cruelty and Mercy: Loved or Feared
+18. [Chapter XVIII](https://sandiegotech.org/lectio/the-prince/chapter-18/) How Princes Should Keep Their Word
+19. [Chapter XIX](https://sandiegotech.org/lectio/the-prince/chapter-19/) Avoiding Contempt and Hatred
+20. [Chapter XX](https://sandiegotech.org/lectio/the-prince/chapter-20/) Fortresses and Other Expedients
+21. [Chapter XXI](https://sandiegotech.org/lectio/the-prince/chapter-21/) How a Prince Wins Esteem
+22. [Chapter XXII](https://sandiegotech.org/lectio/the-prince/chapter-22/) A Prince's Ministers
+23. [Chapter XXIII](https://sandiegotech.org/lectio/the-prince/chapter-23/) Avoiding Flatterers
+24. [Chapter XXIV](https://sandiegotech.org/lectio/the-prince/chapter-24/) Why Italy's Princes Lost Their States
+25. [Chapter XXV](https://sandiegotech.org/lectio/the-prince/chapter-25/) Fortune, and How to Resist Her
+26. [Chapter XXVI](https://sandiegotech.org/lectio/the-prince/chapter-26/) Exhortation to Free Italy
+
 ## What this edition decided.
 
 The review graded twenty of twenty-six chapters as needing no change. The rules it set are few.

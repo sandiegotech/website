@@ -238,3 +238,57 @@
 .lx-related { margin-top: 1.25rem; text-transform: uppercase; letter-spacing: 0.08em; }
 .article-body .lx-related a { color: var(--muted); }
 .article-body .lx-related a:hover { color: var(--gold); }
+
+/* ---- the whole text: one page per book or chapter ---- */
+.charter.lx-chapter { padding: 4rem 0 3rem; }
+.charter.lx-chapter h1 { font-size: clamp(2rem, 4.2vw, 3.1rem); max-width: 22ch; margin-bottom: 1.25rem; }
+.charter.lx-chapter .standfirst { font-style: italic; color: var(--marine); }
+.lx-read { margin-top: 0; border-top: 0; padding-top: 0; padding-bottom: 1rem; max-width: 36rem; }
+.lx-read p { scroll-margin-top: 5rem; }
+.lx-read p.lx-scene {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-top: 2.5rem;
+}
+.lx-read .lx-speaker {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+.lx-read + .lx-next { margin-top: 2.25rem; max-width: 36rem; }
+.lx-foot {
+  margin-top: 1.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  line-height: 1.7;
+  color: var(--muted);
+  max-width: 36rem;
+}
+.article-body .lx-foot a { color: var(--muted); }
+.article-body .lx-foot a:hover { color: var(--gold); }
+.lx-toc {
+  list-style: none;
+  margin: 2rem 0 0;
+  padding: 0;
+  columns: 2;
+  column-gap: 2.5rem;
+}
+.lx-toc.is-long { columns: 3; }
+@media (max-width: 680px) { .lx-toc, .lx-toc.is-long { columns: 1; } }
+.lx-toc li {
+  break-inside: avoid;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--hairline);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+.lx-toc a { color: var(--marine); text-decoration: none; }
+.lx-toc a:hover { color: var(--gold); }
+.lx-toc span { color: var(--muted); font-size: 0.95rem; }
+.lx-toc span::before { content: "· "; }

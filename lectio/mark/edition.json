@@ -55,5 +55,103 @@
   "citation": "The Gospel of Mark. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/mark/",
   "url": "https://sandiegotech.org/lectio/mark/",
   "markdown": "https://sandiegotech.org/lectio/mark/index.md",
-  "cover": "https://sandiegotech.org/lectio/mark/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/mark/cover.jpg",
+  "text": [
+    {
+      "label": "Chapter 1",
+      "title": "The Beginning of the Good News",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-1/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-1/index.md"
+    },
+    {
+      "label": "Chapter 2",
+      "title": "Authority, and the Company He Keeps",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-2/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-2/index.md"
+    },
+    {
+      "label": "Chapter 3",
+      "title": "The Twelve, and the Divided House",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-3/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-3/index.md"
+    },
+    {
+      "label": "Chapter 4",
+      "title": "What the Sower Went Out to Do",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-4/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-4/index.md"
+    },
+    {
+      "label": "Chapter 5",
+      "title": "Legion, and the Girl Who Got Up",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-5/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-5/index.md"
+    },
+    {
+      "label": "Chapter 6",
+      "title": "No Honor at Home; Bread in the Wilderness",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-6/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-6/index.md"
+    },
+    {
+      "label": "Chapter 7",
+      "title": "What Actually Makes a Person Unclean",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-7/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-7/index.md"
+    },
+    {
+      "label": "Chapter 8",
+      "title": "Who Do You Say I Am",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-8/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-8/index.md"
+    },
+    {
+      "label": "Chapter 9",
+      "title": "The Mountain, and the Argument on the Road",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-9/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-9/index.md"
+    },
+    {
+      "label": "Chapter 10",
+      "title": "The Road Up to Jerusalem",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-10/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-10/index.md"
+    },
+    {
+      "label": "Chapter 11",
+      "title": "Into the City, and Into the Temple",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-11/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-11/index.md"
+    },
+    {
+      "label": "Chapter 12",
+      "title": "The Vineyard, the Coin, and the Widow",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-12/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-12/index.md"
+    },
+    {
+      "label": "Chapter 13",
+      "title": "Not One Stone Left on Another",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-13/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-13/index.md"
+    },
+    {
+      "label": "Chapter 14",
+      "title": "The Supper, the Garden, the Courtyard",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-14/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-14/index.md"
+    },
+    {
+      "label": "Chapter 15",
+      "title": "The Cross",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-15/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-15/index.md"
+    },
+    {
+      "label": "Chapter 16",
+      "title": "The Empty Tomb",
+      "url": "https://sandiegotech.org/lectio/mark/chapter-16/",
+      "markdown": "https://sandiegotech.org/lectio/mark/chapter-16/index.md"
+    }
+  ]
 }

@@ -40,6 +40,31 @@ The Lectio Edition is prose. It says what Krishna says in the order he says it, 
 
 The first 249 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 18 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter I](https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/)
+
+1. [Chapter I](https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/) The Distress of Arjuna
+2. [Chapter II](https://sandiegotech.org/lectio/bhagavad-gita/chapter-2/) The Deathless Self and the Way of Action
+3. [Chapter III](https://sandiegotech.org/lectio/bhagavad-gita/chapter-3/) Action as Sacrifice
+4. [Chapter IV](https://sandiegotech.org/lectio/bhagavad-gita/chapter-4/) The Way of Knowledge and Sacrifice
+5. [Chapter V](https://sandiegotech.org/lectio/bhagavad-gita/chapter-5/) The Renouncing of Works
+6. [Chapter VI](https://sandiegotech.org/lectio/bhagavad-gita/chapter-6/) The Discipline of Meditation
+7. [Chapter VII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-7/) Knowing the Supreme
+8. [Chapter VIII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-8/) The Hour of Death and the Imperishable
+9. [Chapter IX](https://sandiegotech.org/lectio/bhagavad-gita/chapter-9/) The Royal Knowledge and the Royal Secret
+10. [Chapter X](https://sandiegotech.org/lectio/bhagavad-gita/chapter-10/) The Divine Glories
+11. [Chapter XI](https://sandiegotech.org/lectio/bhagavad-gita/chapter-11/) The Vision of the Universal Form
+12. [Chapter XII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-12/) The Way of Devotion
+13. [Chapter XIII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-13/) The Field and the Knower of the Field
+14. [Chapter XIV](https://sandiegotech.org/lectio/bhagavad-gita/chapter-14/) The Three Qualities of Nature
+15. [Chapter XV](https://sandiegotech.org/lectio/bhagavad-gita/chapter-15/) The Supreme Person
+16. [Chapter XVI](https://sandiegotech.org/lectio/bhagavad-gita/chapter-16/) The Divine and the Demonic
+17. [Chapter XVII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-17/) The Threefold Faith
+18. [Chapter XVIII](https://sandiegotech.org/lectio/bhagavad-gita/chapter-18/) Freedom Through Surrender and Letting Go
+
 ## What this edition decided.
 
 The review wrote a term sheet for the whole work and brought every chapter into line with it.

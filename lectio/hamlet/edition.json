@@ -53,5 +53,37 @@
   "citation": "William Shakespeare. Hamlet. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/hamlet/",
   "url": "https://sandiegotech.org/lectio/hamlet/",
   "markdown": "https://sandiegotech.org/lectio/hamlet/index.md",
-  "cover": "https://sandiegotech.org/lectio/hamlet/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/hamlet/cover.jpg",
+  "text": [
+    {
+      "label": "Act I",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/hamlet/act-1/",
+      "markdown": "https://sandiegotech.org/lectio/hamlet/act-1/index.md"
+    },
+    {
+      "label": "Act II",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/hamlet/act-2/",
+      "markdown": "https://sandiegotech.org/lectio/hamlet/act-2/index.md"
+    },
+    {
+      "label": "Act III",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/hamlet/act-3/",
+      "markdown": "https://sandiegotech.org/lectio/hamlet/act-3/index.md"
+    },
+    {
+      "label": "Act IV",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/hamlet/act-4/",
+      "markdown": "https://sandiegotech.org/lectio/hamlet/act-4/index.md"
+    },
+    {
+      "label": "Act V",
+      "title": null,
+      "url": "https://sandiegotech.org/lectio/hamlet/act-5/",
+      "markdown": "https://sandiegotech.org/lectio/hamlet/act-5/index.md"
+    }
+  ]
 }

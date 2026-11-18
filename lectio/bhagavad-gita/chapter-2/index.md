@@ -1,0 +1,58 @@
+---
+title: The Bhagavad Gita, Chapter II: The Deathless Self and the Way of Action
+edition: Lectio Edition
+vintage: 2026
+revised: 2026-11-17
+status: beta
+publisher: San Diego Institute of Technology
+license: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+canonical: https://sandiegotech.org/lectio/bhagavad-gita/chapter-2/
+---
+
+Lectio Edition · 2026
+
+# The Bhagavad Gita, Chapter II
+
+The Deathless Self and the Way of Action
+
+Sanjaya: To Arjuna, overcome with such pity and such grief, his eyes blurred with tears, his spirit broken, the charioteer Madhusudana spoke these stern words.
+
+Krishna: Where has this weakness come from, here at the worst hour? It is unworthy of a noble man; it closes the door to heaven and brings disgrace. Have done with this faintness, Arjuna. It does not become you. Shake off this cowardly mood, stand up, scourge of your enemies.
+
+Arjuna: But how, Krishna, am I to aim my arrows in battle against Bhishma and Drona? They are men worthy of my reverence, men I am bound to honor.
+
+It would be better to live in this world on a beggar's crust than to kill these great souls, my teachers; for if I struck them down, every pleasure I tasted afterward would be smeared with their blood. And which is the worse outcome — that we should win, or that they should — I cannot even say. The very men whose death would leave my life empty are standing there before me, drawn up for war. My whole nature is unstrung with pity, my mind clouded over about what is right; so I ask you plainly, tell me which course is better. I am your pupil; I throw myself on your guidance — teach me. For I can see nothing that would drive out the grief that is scorching my senses, not if I won an unrivaled and prosperous kingdom over the whole earth, nor even lordship over the gods.
+
+Sanjaya: So Arjuna spoke to Krishna, the lord of the senses; and then, saying, "I will not fight," he fell silent. To him, standing crushed between the two armies, Krishna answered, with the trace of a smile.
+
+Krishna: You grieve where no grief is called for, and the words you speak, for all their sound of wisdom, are unwise. The truly wise mourn neither for the living nor for the dead. There was never a time when I was not, nor you, nor any of these princes; and there will never be a time hereafter when any of us shall cease to be. As the self within this body passes through childhood and youth and old age, so too at death it passes on into another body. The steady person is not bewildered by this. It is only the contact of the senses with their objects, Arjuna, that brings cold and heat, pleasure and pain; these come and go, they do not last — so endure them. The man whom these cannot shake, who takes pain and pleasure alike with an even mind, is fit for what does not die.
+
+What is real can never cease to be; what is unreal never truly is. The men who have seen to the bottom of things have seen the truth of both. Know that the power which spreads itself through everything cannot be destroyed; no one can bring an end to this, the imperishable. It is only the bodies that wear out — the bodies that house this eternal, indestructible, measureless self. Therefore fight, Arjuna. The man who imagines that the self can be a killer, and the man who supposes that the self can be killed — neither of them understands. It does not kill, and it cannot be killed.
+
+It is never born, and it never dies; having once been, it never ceases to be. Unborn, undying, ancient and unchanging, it is not slain when the body is slain. How can a man who knows it to be indestructible, unborn, deathless, beyond all change — how can such a man kill anyone, or cause any killing?
+
+As a person casts off worn-out clothes and puts on others that are new, so the self lays aside worn-out bodies and enters others that are new. Weapons cannot cut it, fire cannot burn it, water cannot drench it, the wind cannot dry it. It cannot be pierced or burned or soaked or withered; it is unchanging, present everywhere, steady, unmoving, everlasting. It is unseen, beyond all thought, beyond all change. Knowing it to be such, you have no reason to grieve.
+
+And even if you were to hold that the self is endlessly born and endlessly dies, you would still have no cause to mourn, Arjuna; for then, to whatever is born, death is certain, and to whatever dies, birth is certain — so why grieve over what cannot be helped? Creatures are unseen before their birth and unseen again after their death, and seen only in between. What is there in this to mourn over? One person looks on the self as a marvel, another speaks of it as a marvel, another hears of it as a marvel — and even having heard, not one of them truly knows it. This self, dwelling in the body of every living thing, can never be harmed; so you have no reason, Arjuna, to grieve for any creature.
+
+Look, too, at your own duty, and do not waver; for a warrior there is no higher good than a war waged for what is right. Lucky are the warriors, Arjuna, to whom such a battle comes unsought, an open door into heaven. But if you refuse this just and honorable fight, then you throw away your own duty and your good name, and you take on guilt. People will tell of your disgrace forever after, and for one who has been honored, dishonor is worse than death. The great captains will think you fled the field out of fear, and those who held you in high regard will hold you cheap. Your enemies will mock your courage with bitter words — and what could be more painful than that? If you are killed, you will gain heaven; if you win, you will enjoy the earth. So stand up, son of Kunti, resolved to fight.
+
+Treat pleasure and pain as one, gain and loss as one, victory and defeat as one; then gird yourself for battle, and so doing you will take on no guilt. What I have told you so far is the wisdom of Sankhya. Now hear the wisdom of Yoga, of action — once you hold to it, you will throw off the bondage of your deeds. On this path no effort is ever wasted and no step is ever lost; even a little of this practice rescues a person from the greatest fear. Here there is one resolve, single and steady; but the minds of the irresolute branch out endlessly in every direction.
+
+There are foolish people who delight in the mere letter of the Vedas, who say there is nothing more to be had than this. Their hearts are full of craving; they make heaven their goal; their ornate rituals promise rich rebirths as the reward of their good deeds, and aim only at pleasure and power. But those who cling so to pleasure and power never settle their minds in steady contemplation. The Vedas deal with the three qualities of nature; rise above those three qualities, Arjuna — free yourself from the play of opposites, abide always in pure being, take no anxious thought for getting and keeping, and rest at peace in the self. To one who truly knows, the Vedas are worth no more than a well in a country flooded with water. So your concern is with the action itself, never with its fruits. Let the fruit of action never be your motive, and do not become attached to inaction either.
+
+Stand firm in this discipline, Arjuna, and do your work, letting go of all attachment, holding success and failure to be one and the same; for this even-mindedness is what is meant by Yoga. Action done for its fruit is far inferior to action done in this even-minded discipline; seek refuge in that steadiness of mind. Pitiful are those who labor only for a reward. The person whose mind is disciplined in this way casts off both good and evil deeds even in this life; so give yourself to Yoga, for Yoga is skill in action. The wise, disciplined in mind, renounce the fruit that their deeds would earn them, and so they are set free from the bondage of birth and pass to the place beyond all suffering. When your understanding has crossed clear of the thicket of confusion, you will grow indifferent to all the doctrine you have heard or have yet to hear. When your mind, once bewildered by competing teachings, stands unshaken and steady in deep contemplation, then you will have reached this discipline.
+
+Arjuna: And how, Krishna, do we know the person whose wisdom is steady, whose mind rests firm in contemplation? How does such a person speak, how sit, how move?
+
+Krishna: When a person lets go of every desire that haunts the mind, son of Pritha, and finds in the self alone all the contentment he needs, then his wisdom is steady. The one whose mind is not shaken in sorrow, who does not hunger after pleasure, who is free of longing and fear and anger — he is the sage of steady wisdom. The one who clings to nothing anywhere, who neither rejoices in good fortune nor recoils from bad, has settled his wisdom firmly. And when, like a tortoise drawing its limbs in under its shell, a person can draw his senses back from the things that tempt them, then his wisdom stands firm.
+
+The objects of sense may fall away from a person who refuses to feed on them, yet the taste for them can linger; but even that last taste falls away once he has glimpsed the highest. For the senses are turbulent, Arjuna; they can carry off by force even the mind of one who strives and knows. Let him hold them all in check and sit intent on me; for the person who has mastered his senses is the one whose wisdom stands firm. When a person dwells on the objects of sense, attachment to them springs up; from attachment grows desire, and from desire flares anger. From anger comes confusion; from confusion the memory fails; when memory fails, the understanding is lost; and when the understanding is lost, the person is ruined.
+
+But the disciplined soul, moving among the objects of sense with senses freed from craving and aversion, mastered and under his own control, comes to serenity; and in that serenity all his sorrows are dissolved, for the mind of one at peace soon grows steady in wisdom. The undisciplined have no such wisdom, and no power of steady thought; without steady thought there is no peace, and without peace, where is happiness to be found? When the mind runs after the roving senses and lets one of them carry it off, that one bears away a person's wisdom as a gale drives a ship off course across the water. Therefore, Arjuna, the one whose senses are reined in on every side from their objects — his wisdom stands firm.
+
+What is night to all other creatures is the waking hour of the self-mastered; and what is the waking world to other creatures is night to the seer who truly sees. As the waters pour into the ocean, which stays full and unmoved even while they enter it, so all desires may flow into the one who is at peace — and that person, not the man who chases after his desires, attains peace. The one who has given up every desire and moves through the world without longing, without grasping, without any thought of "I" and "mine," comes to peace. This is the state of Brahman, Arjuna; once a person reaches it he is no longer deluded, and to stand firm in it even at the hour of death is to reach the nirvana of Brahman.
+
+[Chapter I](https://sandiegotech.org/lectio/bhagavad-gita/chapter-1/)[Chapter III](https://sandiegotech.org/lectio/bhagavad-gita/chapter-3/)
+
+Beta text, revised November 17, 2026. If a line reads wrong, [the review is open](https://sandiegotech.org/lectio/#scholars). [About this edition](https://sandiegotech.org/lectio/bhagavad-gita/) · [Contents](https://sandiegotech.org/lectio/bhagavad-gita/#read)

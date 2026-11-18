@@ -49,6 +49,25 @@ The Lectio Edition gives the twelve books in plain current English, with nothing
 
 The first 225 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 12 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/meditations/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/meditations/book-1/) What I Learned, and From Whom
+2. [Book II](https://sandiegotech.org/lectio/meditations/book-2/)
+3. [Book III](https://sandiegotech.org/lectio/meditations/book-3/)
+4. [Book IV](https://sandiegotech.org/lectio/meditations/book-4/)
+5. [Book V](https://sandiegotech.org/lectio/meditations/book-5/)
+6. [Book VI](https://sandiegotech.org/lectio/meditations/book-6/)
+7. [Book VII](https://sandiegotech.org/lectio/meditations/book-7/)
+8. [Book VIII](https://sandiegotech.org/lectio/meditations/book-8/)
+9. [Book IX](https://sandiegotech.org/lectio/meditations/book-9/)
+10. [Book X](https://sandiegotech.org/lectio/meditations/book-10/)
+11. [Book XI](https://sandiegotech.org/lectio/meditations/book-11/)
+12. [Book XII](https://sandiegotech.org/lectio/meditations/book-12/)
+
 ## What this edition decided.
 
 The review of November 2026 set these rules for the whole work and applied them. The authority is the Greek. Long and Casaubon are witnesses to it, not sources of text.

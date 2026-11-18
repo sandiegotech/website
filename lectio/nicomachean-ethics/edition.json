@@ -56,5 +56,67 @@
   "citation": "Aristotle. Nicomachean Ethics. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/nicomachean-ethics/",
   "url": "https://sandiegotech.org/lectio/nicomachean-ethics/",
   "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/index.md",
-  "cover": "https://sandiegotech.org/lectio/nicomachean-ethics/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/nicomachean-ethics/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "The Good for Man",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "Virtue as a Mean",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "Choice, Courage, and Temperance",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "The Virtues of Character",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "Justice",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "Practical Wisdom",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "Self-Control and Pleasure",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "Friendship",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "Self-Love and the Need for Friends",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "Pleasure and the Contemplative Life",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/book-10/index.md"
+    }
+  ]
 }

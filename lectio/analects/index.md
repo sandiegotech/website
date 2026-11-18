@@ -45,6 +45,33 @@ The Lectio Edition keeps each saying about the size the Chinese keeps it, and gi
 
 The first 164 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 20 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/analects/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/analects/book-1/) Learning
+2. [Book II](https://sandiegotech.org/lectio/analects/book-2/) Governing
+3. [Book III](https://sandiegotech.org/lectio/analects/book-3/) Eight Rows of Dancers
+4. [Book IV](https://sandiegotech.org/lectio/analects/book-4/) Human-Heartedness
+5. [Book V](https://sandiegotech.org/lectio/analects/book-5/) Weighing Men
+6. [Book VI](https://sandiegotech.org/lectio/analects/book-6/) Knowing, Loving, Delighting
+7. [Book VII](https://sandiegotech.org/lectio/analects/book-7/) The Transmitter
+8. [Book VIII](https://sandiegotech.org/lectio/analects/book-8/) A Heavy Load, a Long Road
+9. [Book IX](https://sandiegotech.org/lectio/analects/book-9/) The Passing Stream
+10. [Book X](https://sandiegotech.org/lectio/analects/book-10/) At Home and at Court
+11. [Book XI](https://sandiegotech.org/lectio/analects/book-11/) Men of Former Times
+12. [Book XII](https://sandiegotech.org/lectio/analects/book-12/) Yen Yuan
+13. [Book XIII](https://sandiegotech.org/lectio/analects/book-13/) Setting Names Right
+14. [Book XIV](https://sandiegotech.org/lectio/analects/book-14/) Hsien Asked
+15. [Book XV](https://sandiegotech.org/lectio/analects/book-15/) One Word to Walk With
+16. [Book XVI](https://sandiegotech.org/lectio/analects/book-16/) The Chi Family
+17. [Book XVII](https://sandiegotech.org/lectio/analects/book-17/) Yang Ho
+18. [Book XVIII](https://sandiegotech.org/lectio/analects/book-18/) The Viscount of Wei
+19. [Book XIX](https://sandiegotech.org/lectio/analects/book-19/) Tsze-chang
+20. [Book XX](https://sandiegotech.org/lectio/analects/book-20/) Yao Said
+
 ## What this edition decided.
 
 The review graded fourteen of twenty books as needing no change. Most of its fixes were to punctuation. The edition's main choices are in its terms.

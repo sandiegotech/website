@@ -56,5 +56,163 @@
   "citation": "Niccolò Machiavelli. The Prince. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/the-prince/",
   "url": "https://sandiegotech.org/lectio/the-prince/",
   "markdown": "https://sandiegotech.org/lectio/the-prince/index.md",
-  "cover": "https://sandiegotech.org/lectio/the-prince/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/the-prince/cover.jpg",
+  "text": [
+    {
+      "label": "Chapter I",
+      "title": "The Kinds of Principalities",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-1/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-1/index.md"
+    },
+    {
+      "label": "Chapter II",
+      "title": "Hereditary Principalities",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-2/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-2/index.md"
+    },
+    {
+      "label": "Chapter III",
+      "title": "Mixed Principalities",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-3/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-3/index.md"
+    },
+    {
+      "label": "Chapter IV",
+      "title": "Why Darius's Kingdom Did Not Rebel",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-4/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-4/index.md"
+    },
+    {
+      "label": "Chapter V",
+      "title": "Cities That Lived Free",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-5/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-5/index.md"
+    },
+    {
+      "label": "Chapter VI",
+      "title": "By Your Own Arms and Virtù",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-6/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-6/index.md"
+    },
+    {
+      "label": "Chapter VII",
+      "title": "By Others' Arms and Fortune",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-7/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-7/index.md"
+    },
+    {
+      "label": "Chapter VIII",
+      "title": "Rising by Crime",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-8/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-8/index.md"
+    },
+    {
+      "label": "Chapter IX",
+      "title": "The Civil Principality",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-9/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-9/index.md"
+    },
+    {
+      "label": "Chapter X",
+      "title": "Measuring a State's Strength",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-10/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-10/index.md"
+    },
+    {
+      "label": "Chapter XI",
+      "title": "Ecclesiastical Principalities",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-11/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-11/index.md"
+    },
+    {
+      "label": "Chapter XII",
+      "title": "The Kinds of Troops, and Mercenaries",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-12/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-12/index.md"
+    },
+    {
+      "label": "Chapter XIII",
+      "title": "Auxiliaries, Mixed Troops, and One's Own",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-13/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-13/index.md"
+    },
+    {
+      "label": "Chapter XIV",
+      "title": "The Prince and the Art of War",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-14/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-14/index.md"
+    },
+    {
+      "label": "Chapter XV",
+      "title": "What Princes Are Praised or Blamed For",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-15/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-15/index.md"
+    },
+    {
+      "label": "Chapter XVI",
+      "title": "Generosity and Miserliness",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-16/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-16/index.md"
+    },
+    {
+      "label": "Chapter XVII",
+      "title": "Cruelty and Mercy: Loved or Feared",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-17/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-17/index.md"
+    },
+    {
+      "label": "Chapter XVIII",
+      "title": "How Princes Should Keep Their Word",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-18/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-18/index.md"
+    },
+    {
+      "label": "Chapter XIX",
+      "title": "Avoiding Contempt and Hatred",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-19/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-19/index.md"
+    },
+    {
+      "label": "Chapter XX",
+      "title": "Fortresses and Other Expedients",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-20/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-20/index.md"
+    },
+    {
+      "label": "Chapter XXI",
+      "title": "How a Prince Wins Esteem",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-21/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-21/index.md"
+    },
+    {
+      "label": "Chapter XXII",
+      "title": "A Prince's Ministers",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-22/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-22/index.md"
+    },
+    {
+      "label": "Chapter XXIII",
+      "title": "Avoiding Flatterers",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-23/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-23/index.md"
+    },
+    {
+      "label": "Chapter XXIV",
+      "title": "Why Italy's Princes Lost Their States",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-24/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-24/index.md"
+    },
+    {
+      "label": "Chapter XXV",
+      "title": "Fortune, and How to Resist Her",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-25/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-25/index.md"
+    },
+    {
+      "label": "Chapter XXVI",
+      "title": "Exhortation to Free Italy",
+      "url": "https://sandiegotech.org/lectio/the-prince/chapter-26/",
+      "markdown": "https://sandiegotech.org/lectio/the-prince/chapter-26/index.md"
+    }
+  ]
 }

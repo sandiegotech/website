@@ -51,6 +51,94 @@ The Lectio Edition gives each chapter in a few plain sentences, with no gloss in
 
 The first 172 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 81 chapters, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Chapter 1](https://sandiegotech.org/lectio/tao-te-ching/chapter-1/)
+
+1. [Chapter 1](https://sandiegotech.org/lectio/tao-te-ching/chapter-1/) The Way and the Name
+2. [Chapter 2](https://sandiegotech.org/lectio/tao-te-ching/chapter-2/) The Mutual Arising of Opposites
+3. [Chapter 3](https://sandiegotech.org/lectio/tao-te-ching/chapter-3/) Keeping the Heart Unstirred
+4. [Chapter 4](https://sandiegotech.org/lectio/tao-te-ching/chapter-4/) The Bottomless Well
+5. [Chapter 5](https://sandiegotech.org/lectio/tao-te-ching/chapter-5/) Straw Dogs
+6. [Chapter 6](https://sandiegotech.org/lectio/tao-te-ching/chapter-6/) The Valley Spirit
+7. [Chapter 7](https://sandiegotech.org/lectio/tao-te-ching/chapter-7/) Living for No Self
+8. [Chapter 8](https://sandiegotech.org/lectio/tao-te-ching/chapter-8/) Like Water
+9. [Chapter 9](https://sandiegotech.org/lectio/tao-te-ching/chapter-9/) Knowing When to Stop
+10. [Chapter 10](https://sandiegotech.org/lectio/tao-te-ching/chapter-10/) Mysterious Power
+11. [Chapter 11](https://sandiegotech.org/lectio/tao-te-ching/chapter-11/) The Use of Emptiness
+12. [Chapter 12](https://sandiegotech.org/lectio/tao-te-ching/chapter-12/) The Belly, Not the Eye
+13. [Chapter 13](https://sandiegotech.org/lectio/tao-te-ching/chapter-13/) Favor and Disgrace
+14. [Chapter 14](https://sandiegotech.org/lectio/tao-te-ching/chapter-14/) The Form of the Formless
+15. [Chapter 15](https://sandiegotech.org/lectio/tao-te-ching/chapter-15/) The Ancient Masters
+16. [Chapter 16](https://sandiegotech.org/lectio/tao-te-ching/chapter-16/) Returning to the Root
+17. [Chapter 17](https://sandiegotech.org/lectio/tao-te-ching/chapter-17/) The Best Ruler Is Barely Known
+18. [Chapter 18](https://sandiegotech.org/lectio/tao-te-ching/chapter-18/) When the Way Is Lost
+19. [Chapter 19](https://sandiegotech.org/lectio/tao-te-ching/chapter-19/) Return to the Uncarved Block
+20. [Chapter 20](https://sandiegotech.org/lectio/tao-te-ching/chapter-20/) Alone and Adrift
+21. [Chapter 21](https://sandiegotech.org/lectio/tao-te-ching/chapter-21/) The Essence Within
+22. [Chapter 22](https://sandiegotech.org/lectio/tao-te-ching/chapter-22/) Yield and Remain Whole
+23. [Chapter 23](https://sandiegotech.org/lectio/tao-te-ching/chapter-23/) Few Words Are Natural
+24. [Chapter 24](https://sandiegotech.org/lectio/tao-te-ching/chapter-24/) Standing on Tiptoe
+25. [Chapter 25](https://sandiegotech.org/lectio/tao-te-ching/chapter-25/) Something Formed Before Heaven and Earth
+26. [Chapter 26](https://sandiegotech.org/lectio/tao-te-ching/chapter-26/) The Heavy and the Still
+27. [Chapter 27](https://sandiegotech.org/lectio/tao-te-ching/chapter-27/) Leaving No Track
+28. [Chapter 28](https://sandiegotech.org/lectio/tao-te-ching/chapter-28/) Know the Masculine, Keep to the Feminine
+29. [Chapter 29](https://sandiegotech.org/lectio/tao-te-ching/chapter-29/) The Sacred Vessel
+30. [Chapter 30](https://sandiegotech.org/lectio/tao-te-ching/chapter-30/) Against Force of Arms
+31. [Chapter 31](https://sandiegotech.org/lectio/tao-te-ching/chapter-31/) Weapons Are Instruments of Ill Omen
+32. [Chapter 32](https://sandiegotech.org/lectio/tao-te-ching/chapter-32/) The Uncarved Block
+33. [Chapter 33](https://sandiegotech.org/lectio/tao-te-ching/chapter-33/) Knowing Yourself
+34. [Chapter 34](https://sandiegotech.org/lectio/tao-te-ching/chapter-34/) Small and Great
+35. [Chapter 35](https://sandiegotech.org/lectio/tao-te-ching/chapter-35/) Hold the Great Image
+36. [Chapter 36](https://sandiegotech.org/lectio/tao-te-ching/chapter-36/) The Subtle Light
+37. [Chapter 37](https://sandiegotech.org/lectio/tao-te-ching/chapter-37/) Nothing Left Undone
+38. [Chapter 38](https://sandiegotech.org/lectio/tao-te-ching/chapter-38/) Power and Its Decline
+39. [Chapter 39](https://sandiegotech.org/lectio/tao-te-ching/chapter-39/) Those That Attained the One
+40. [Chapter 40](https://sandiegotech.org/lectio/tao-te-ching/chapter-40/) Returning Is the Movement of the Way
+41. [Chapter 41](https://sandiegotech.org/lectio/tao-te-ching/chapter-41/) How the Way Is Heard
+42. [Chapter 42](https://sandiegotech.org/lectio/tao-te-ching/chapter-42/) The Way Bore the One
+43. [Chapter 43](https://sandiegotech.org/lectio/tao-te-ching/chapter-43/) The Softest Overcomes the Hardest
+44. [Chapter 44](https://sandiegotech.org/lectio/tao-te-ching/chapter-44/) Your Name or Your Self
+45. [Chapter 45](https://sandiegotech.org/lectio/tao-te-ching/chapter-45/) Great Perfection Seems Flawed
+46. [Chapter 46](https://sandiegotech.org/lectio/tao-te-ching/chapter-46/) Knowing You Have Enough
+47. [Chapter 47](https://sandiegotech.org/lectio/tao-te-ching/chapter-47/) Knowing Without Going Out
+48. [Chapter 48](https://sandiegotech.org/lectio/tao-te-ching/chapter-48/) Less and Less
+49. [Chapter 49](https://sandiegotech.org/lectio/tao-te-ching/chapter-49/) The Sage Has No Fixed Mind
+50. [Chapter 50](https://sandiegotech.org/lectio/tao-te-ching/chapter-50/) No Room for Death
+51. [Chapter 51](https://sandiegotech.org/lectio/tao-te-ching/chapter-51/) The Way Gives Life, Power Nurtures
+52. [Chapter 52](https://sandiegotech.org/lectio/tao-te-ching/chapter-52/) The Mother and Her Children
+53. [Chapter 53](https://sandiegotech.org/lectio/tao-te-ching/chapter-53/) The Robber's Boast
+54. [Chapter 54](https://sandiegotech.org/lectio/tao-te-ching/chapter-54/) What Is Well Rooted
+55. [Chapter 55](https://sandiegotech.org/lectio/tao-te-ching/chapter-55/) Full of Power, Like a Newborn Child
+56. [Chapter 56](https://sandiegotech.org/lectio/tao-te-ching/chapter-56/) Those Who Know Do Not Speak
+57. [Chapter 57](https://sandiegotech.org/lectio/tao-te-ching/chapter-57/) Win the World by Not Meddling
+58. [Chapter 58](https://sandiegotech.org/lectio/tao-te-ching/chapter-58/) Fortune and Misfortune
+59. [Chapter 59](https://sandiegotech.org/lectio/tao-te-ching/chapter-59/) Sparing
+60. [Chapter 60](https://sandiegotech.org/lectio/tao-te-ching/chapter-60/) Like Cooking a Small Fish
+61. [Chapter 61](https://sandiegotech.org/lectio/tao-te-ching/chapter-61/) Lying Low
+62. [Chapter 62](https://sandiegotech.org/lectio/tao-te-ching/chapter-62/) The Refuge of All Things
+63. [Chapter 63](https://sandiegotech.org/lectio/tao-te-ching/chapter-63/) The Hard Begins Easy
+64. [Chapter 64](https://sandiegotech.org/lectio/tao-te-ching/chapter-64/) A Journey of a Thousand Miles
+65. [Chapter 65](https://sandiegotech.org/lectio/tao-te-ching/chapter-65/) Ruling Without Cleverness
+66. [Chapter 66](https://sandiegotech.org/lectio/tao-te-ching/chapter-66/) Why Rivers and Seas Are Kings
+67. [Chapter 67](https://sandiegotech.org/lectio/tao-te-ching/chapter-67/) The Three Treasures
+68. [Chapter 68](https://sandiegotech.org/lectio/tao-te-ching/chapter-68/) The Power of Not Contending
+69. [Chapter 69](https://sandiegotech.org/lectio/tao-te-ching/chapter-69/) The Side That Grieves Wins
+70. [Chapter 70](https://sandiegotech.org/lectio/tao-te-ching/chapter-70/) Coarse Cloth, Jade Within
+71. [Chapter 71](https://sandiegotech.org/lectio/tao-te-ching/chapter-71/) Knowing That You Do Not Know
+72. [Chapter 72](https://sandiegotech.org/lectio/tao-te-ching/chapter-72/) When the People Stop Fearing
+73. [Chapter 73](https://sandiegotech.org/lectio/tao-te-ching/chapter-73/) Heaven's Wide Net
+74. [Chapter 74](https://sandiegotech.org/lectio/tao-te-ching/chapter-74/) The Master Carpenter
+75. [Chapter 75](https://sandiegotech.org/lectio/tao-te-ching/chapter-75/) Why the People Go Hungry
+76. [Chapter 76](https://sandiegotech.org/lectio/tao-te-ching/chapter-76/) The Soft and the Living
+77. [Chapter 77](https://sandiegotech.org/lectio/tao-te-ching/chapter-77/) Drawing the Bow
+78. [Chapter 78](https://sandiegotech.org/lectio/tao-te-ching/chapter-78/) Nothing Softer Than Water
+79. [Chapter 79](https://sandiegotech.org/lectio/tao-te-ching/chapter-79/) Holding the Left of the Tally
+80. [Chapter 80](https://sandiegotech.org/lectio/tao-te-ching/chapter-80/) A Small Country
+81. [Chapter 81](https://sandiegotech.org/lectio/tao-te-ching/chapter-81/) True Words
+
 ## What this edition decided.
 
 The review set these rules. The first is the one a reader will notice.

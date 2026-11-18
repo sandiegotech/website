@@ -55,5 +55,163 @@
   "citation": "The Dhammapada. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/dhammapada/",
   "url": "https://sandiegotech.org/lectio/dhammapada/",
   "markdown": "https://sandiegotech.org/lectio/dhammapada/index.md",
-  "cover": "https://sandiegotech.org/lectio/dhammapada/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/dhammapada/cover.jpg",
+  "text": [
+    {
+      "label": "Chapter I",
+      "title": "The Twin Verses",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-1/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-1/index.md"
+    },
+    {
+      "label": "Chapter II",
+      "title": "Heedfulness",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-2/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-2/index.md"
+    },
+    {
+      "label": "Chapter III",
+      "title": "The Mind",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-3/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-3/index.md"
+    },
+    {
+      "label": "Chapter IV",
+      "title": "Flowers",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-4/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-4/index.md"
+    },
+    {
+      "label": "Chapter V",
+      "title": "The Fool",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-5/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-5/index.md"
+    },
+    {
+      "label": "Chapter VI",
+      "title": "The Wise",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-6/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-6/index.md"
+    },
+    {
+      "label": "Chapter VII",
+      "title": "The Arhat",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-7/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-7/index.md"
+    },
+    {
+      "label": "Chapter VIII",
+      "title": "The Thousands",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-8/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-8/index.md"
+    },
+    {
+      "label": "Chapter IX",
+      "title": "Evil",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-9/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-9/index.md"
+    },
+    {
+      "label": "Chapter X",
+      "title": "The Rod",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-10/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-10/index.md"
+    },
+    {
+      "label": "Chapter XI",
+      "title": "Old Age",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-11/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-11/index.md"
+    },
+    {
+      "label": "Chapter XII",
+      "title": "Self",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-12/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-12/index.md"
+    },
+    {
+      "label": "Chapter XIII",
+      "title": "The World",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-13/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-13/index.md"
+    },
+    {
+      "label": "Chapter XIV",
+      "title": "The Awakened One",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-14/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-14/index.md"
+    },
+    {
+      "label": "Chapter XV",
+      "title": "Happiness",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-15/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-15/index.md"
+    },
+    {
+      "label": "Chapter XVI",
+      "title": "What We Hold Dear",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-16/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-16/index.md"
+    },
+    {
+      "label": "Chapter XVII",
+      "title": "Anger",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-17/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-17/index.md"
+    },
+    {
+      "label": "Chapter XVIII",
+      "title": "Impurity",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-18/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-18/index.md"
+    },
+    {
+      "label": "Chapter XIX",
+      "title": "The Just",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-19/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-19/index.md"
+    },
+    {
+      "label": "Chapter XX",
+      "title": "The Path",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-20/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-20/index.md"
+    },
+    {
+      "label": "Chapter XXI",
+      "title": "Miscellaneous Verses",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-21/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-21/index.md"
+    },
+    {
+      "label": "Chapter XXII",
+      "title": "The Downward Course",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-22/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-22/index.md"
+    },
+    {
+      "label": "Chapter XXIII",
+      "title": "The Elephant",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-23/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-23/index.md"
+    },
+    {
+      "label": "Chapter XXIV",
+      "title": "Craving",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-24/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-24/index.md"
+    },
+    {
+      "label": "Chapter XXV",
+      "title": "The Monk",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-25/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-25/index.md"
+    },
+    {
+      "label": "Chapter XXVI",
+      "title": "The True Brahmin",
+      "url": "https://sandiegotech.org/lectio/dhammapada/chapter-26/",
+      "markdown": "https://sandiegotech.org/lectio/dhammapada/chapter-26/index.md"
+    }
+  ]
 }

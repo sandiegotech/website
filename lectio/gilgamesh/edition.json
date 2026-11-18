@@ -50,5 +50,73 @@
   "citation": "The Epic of Gilgamesh. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/gilgamesh/",
   "url": "https://sandiegotech.org/lectio/gilgamesh/",
   "markdown": "https://sandiegotech.org/lectio/gilgamesh/index.md",
-  "cover": "https://sandiegotech.org/lectio/gilgamesh/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/gilgamesh/cover.jpg",
+  "text": [
+    {
+      "label": "Tablet I",
+      "title": "The Coming of Enkidu",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-1/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-1/index.md"
+    },
+    {
+      "label": "Tablet II",
+      "title": "Bread, Beer, and the Wrestling at the Gate",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-2/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-2/index.md"
+    },
+    {
+      "label": "Tablet III",
+      "title": "The Mother's Prayer",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-3/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-3/index.md"
+    },
+    {
+      "label": "Tablet IV",
+      "title": "The Road to the Cedars",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-4/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-4/index.md"
+    },
+    {
+      "label": "Tablet V",
+      "title": "Humbaba and the Cedars",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-5/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-5/index.md"
+    },
+    {
+      "label": "Tablet VI",
+      "title": "Ishtar and the Bull of Heaven",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-6/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-6/index.md"
+    },
+    {
+      "label": "Tablet VII",
+      "title": "The Doom of Enkidu",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-7/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-7/index.md"
+    },
+    {
+      "label": "Tablet VIII",
+      "title": "The Mourning of Gilgamesh",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-8/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-8/index.md"
+    },
+    {
+      "label": "Tablet IX",
+      "title": "The Road of the Sun",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-9/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-9/index.md"
+    },
+    {
+      "label": "Tablet X",
+      "title": "The Ale-Wife, the Boatman, and the Waters of Death",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-10/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-10/index.md"
+    },
+    {
+      "label": "Tablet XI",
+      "title": "The Flood, the Plant, and the Walls of Uruk",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/tablet-11/",
+      "markdown": "https://sandiegotech.org/lectio/gilgamesh/tablet-11/index.md"
+    }
+  ]
 }

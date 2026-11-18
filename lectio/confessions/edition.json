@@ -56,5 +56,85 @@
   "citation": "Saint Augustine. Confessions. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/confessions/",
   "url": "https://sandiegotech.org/lectio/confessions/",
   "markdown": "https://sandiegotech.org/lectio/confessions/index.md",
-  "cover": "https://sandiegotech.org/lectio/confessions/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/confessions/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "Infancy and Boyhood",
+      "url": "https://sandiegotech.org/lectio/confessions/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "The Stolen Pears",
+      "url": "https://sandiegotech.org/lectio/confessions/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "The Cauldron of Carthage",
+      "url": "https://sandiegotech.org/lectio/confessions/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "The Death of a Friend",
+      "url": "https://sandiegotech.org/lectio/confessions/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "Faustus and Ambrose",
+      "url": "https://sandiegotech.org/lectio/confessions/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "More Wretched, and You Nearer",
+      "url": "https://sandiegotech.org/lectio/confessions/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "The Unchangeable Light",
+      "url": "https://sandiegotech.org/lectio/confessions/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "Take It and Read",
+      "url": "https://sandiegotech.org/lectio/confessions/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "Baptism, and the Death of Monica",
+      "url": "https://sandiegotech.org/lectio/confessions/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "The Palaces of Memory",
+      "url": "https://sandiegotech.org/lectio/confessions/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-10/index.md"
+    },
+    {
+      "label": "Book XI",
+      "title": "Time and Eternity",
+      "url": "https://sandiegotech.org/lectio/confessions/book-11/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-11/index.md"
+    },
+    {
+      "label": "Book XII",
+      "title": "The Heaven of Heavens",
+      "url": "https://sandiegotech.org/lectio/confessions/book-12/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-12/index.md"
+    },
+    {
+      "label": "Book XIII",
+      "title": "The Sabbath Without Evening",
+      "url": "https://sandiegotech.org/lectio/confessions/book-13/",
+      "markdown": "https://sandiegotech.org/lectio/confessions/book-13/index.md"
+    }
+  ]
 }

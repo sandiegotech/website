@@ -56,5 +56,127 @@
   "citation": "Confucius. The Analects. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/analects/",
   "url": "https://sandiegotech.org/lectio/analects/",
   "markdown": "https://sandiegotech.org/lectio/analects/index.md",
-  "cover": "https://sandiegotech.org/lectio/analects/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/analects/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "Learning",
+      "url": "https://sandiegotech.org/lectio/analects/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "Governing",
+      "url": "https://sandiegotech.org/lectio/analects/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "Eight Rows of Dancers",
+      "url": "https://sandiegotech.org/lectio/analects/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "Human-Heartedness",
+      "url": "https://sandiegotech.org/lectio/analects/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "Weighing Men",
+      "url": "https://sandiegotech.org/lectio/analects/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "Knowing, Loving, Delighting",
+      "url": "https://sandiegotech.org/lectio/analects/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "The Transmitter",
+      "url": "https://sandiegotech.org/lectio/analects/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "A Heavy Load, a Long Road",
+      "url": "https://sandiegotech.org/lectio/analects/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "The Passing Stream",
+      "url": "https://sandiegotech.org/lectio/analects/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "At Home and at Court",
+      "url": "https://sandiegotech.org/lectio/analects/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-10/index.md"
+    },
+    {
+      "label": "Book XI",
+      "title": "Men of Former Times",
+      "url": "https://sandiegotech.org/lectio/analects/book-11/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-11/index.md"
+    },
+    {
+      "label": "Book XII",
+      "title": "Yen Yuan",
+      "url": "https://sandiegotech.org/lectio/analects/book-12/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-12/index.md"
+    },
+    {
+      "label": "Book XIII",
+      "title": "Setting Names Right",
+      "url": "https://sandiegotech.org/lectio/analects/book-13/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-13/index.md"
+    },
+    {
+      "label": "Book XIV",
+      "title": "Hsien Asked",
+      "url": "https://sandiegotech.org/lectio/analects/book-14/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-14/index.md"
+    },
+    {
+      "label": "Book XV",
+      "title": "One Word to Walk With",
+      "url": "https://sandiegotech.org/lectio/analects/book-15/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-15/index.md"
+    },
+    {
+      "label": "Book XVI",
+      "title": "The Chi Family",
+      "url": "https://sandiegotech.org/lectio/analects/book-16/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-16/index.md"
+    },
+    {
+      "label": "Book XVII",
+      "title": "Yang Ho",
+      "url": "https://sandiegotech.org/lectio/analects/book-17/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-17/index.md"
+    },
+    {
+      "label": "Book XVIII",
+      "title": "The Viscount of Wei",
+      "url": "https://sandiegotech.org/lectio/analects/book-18/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-18/index.md"
+    },
+    {
+      "label": "Book XIX",
+      "title": "Tsze-chang",
+      "url": "https://sandiegotech.org/lectio/analects/book-19/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-19/index.md"
+    },
+    {
+      "label": "Book XX",
+      "title": "Yao Said",
+      "url": "https://sandiegotech.org/lectio/analects/book-20/",
+      "markdown": "https://sandiegotech.org/lectio/analects/book-20/index.md"
+    }
+  ]
 }

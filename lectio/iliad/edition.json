@@ -65,5 +65,151 @@
   "citation": "Homer. The Iliad. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/iliad/",
   "url": "https://sandiegotech.org/lectio/iliad/",
   "markdown": "https://sandiegotech.org/lectio/iliad/index.md",
-  "cover": "https://sandiegotech.org/lectio/iliad/cover.jpg"
+  "cover": "https://sandiegotech.org/lectio/iliad/cover.jpg",
+  "text": [
+    {
+      "label": "Book I",
+      "title": "The Quarrel",
+      "url": "https://sandiegotech.org/lectio/iliad/book-1/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-1/index.md"
+    },
+    {
+      "label": "Book II",
+      "title": "The Dream and the Ships",
+      "url": "https://sandiegotech.org/lectio/iliad/book-2/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-2/index.md"
+    },
+    {
+      "label": "Book III",
+      "title": "The Duel for Helen",
+      "url": "https://sandiegotech.org/lectio/iliad/book-3/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-3/index.md"
+    },
+    {
+      "label": "Book IV",
+      "title": "The Broken Truce",
+      "url": "https://sandiegotech.org/lectio/iliad/book-4/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-4/index.md"
+    },
+    {
+      "label": "Book V",
+      "title": "The Day of Diomedes",
+      "url": "https://sandiegotech.org/lectio/iliad/book-5/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-5/index.md"
+    },
+    {
+      "label": "Book VI",
+      "title": "Hector and Andromache",
+      "url": "https://sandiegotech.org/lectio/iliad/book-6/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-6/index.md"
+    },
+    {
+      "label": "Book VII",
+      "title": "The Duel of Hector and Ajax",
+      "url": "https://sandiegotech.org/lectio/iliad/book-7/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-7/index.md"
+    },
+    {
+      "label": "Book VIII",
+      "title": "The Tide of Battle Turns",
+      "url": "https://sandiegotech.org/lectio/iliad/book-8/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-8/index.md"
+    },
+    {
+      "label": "Book IX",
+      "title": "The Embassy to Achilles",
+      "url": "https://sandiegotech.org/lectio/iliad/book-9/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-9/index.md"
+    },
+    {
+      "label": "Book X",
+      "title": "The Night Raid",
+      "url": "https://sandiegotech.org/lectio/iliad/book-10/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-10/index.md"
+    },
+    {
+      "label": "Book XI",
+      "title": "The Day of Agamemnon",
+      "url": "https://sandiegotech.org/lectio/iliad/book-11/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-11/index.md"
+    },
+    {
+      "label": "Book XII",
+      "title": "The Storming of the Wall",
+      "url": "https://sandiegotech.org/lectio/iliad/book-12/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-12/index.md"
+    },
+    {
+      "label": "Book XIII",
+      "title": "Poseidon at the Ships",
+      "url": "https://sandiegotech.org/lectio/iliad/book-13/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-13/index.md"
+    },
+    {
+      "label": "Book XIV",
+      "title": "The Deception of Zeus",
+      "url": "https://sandiegotech.org/lectio/iliad/book-14/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-14/index.md"
+    },
+    {
+      "label": "Book XV",
+      "title": "The Battle at the Ships",
+      "url": "https://sandiegotech.org/lectio/iliad/book-15/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-15/index.md"
+    },
+    {
+      "label": "Book XVI",
+      "title": "The Death of Patroclus",
+      "url": "https://sandiegotech.org/lectio/iliad/book-16/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-16/index.md"
+    },
+    {
+      "label": "Book XVII",
+      "title": "The Fight over Patroclus",
+      "url": "https://sandiegotech.org/lectio/iliad/book-17/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-17/index.md"
+    },
+    {
+      "label": "Book XVIII",
+      "title": "The Shield of Achilles",
+      "url": "https://sandiegotech.org/lectio/iliad/book-18/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-18/index.md"
+    },
+    {
+      "label": "Book XIX",
+      "title": "The Rage Laid Down",
+      "url": "https://sandiegotech.org/lectio/iliad/book-19/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-19/index.md"
+    },
+    {
+      "label": "Book XX",
+      "title": "The Gods Go to War",
+      "url": "https://sandiegotech.org/lectio/iliad/book-20/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-20/index.md"
+    },
+    {
+      "label": "Book XXI",
+      "title": "The Battle at the River",
+      "url": "https://sandiegotech.org/lectio/iliad/book-21/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-21/index.md"
+    },
+    {
+      "label": "Book XXII",
+      "title": "The Death of Hector",
+      "url": "https://sandiegotech.org/lectio/iliad/book-22/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-22/index.md"
+    },
+    {
+      "label": "Book XXIII",
+      "title": "The Funeral Games for Patroclus",
+      "url": "https://sandiegotech.org/lectio/iliad/book-23/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-23/index.md"
+    },
+    {
+      "label": "Book XXIV",
+      "title": "The Ransom of Hector",
+      "url": "https://sandiegotech.org/lectio/iliad/book-24/",
+      "markdown": "https://sandiegotech.org/lectio/iliad/book-24/index.md"
+    }
+  ]
 }

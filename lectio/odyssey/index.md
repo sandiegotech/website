@@ -41,6 +41,37 @@ It was made to be read alongside the Lectio Iliad. The two share their names, th
 
 The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
 
+## The whole edition is here to read.
+
+All 24 books, free, one page each. It is the same text the app reads, and it is a beta, so it will be corrected as the review goes on.
+
+[Start at Book I](https://sandiegotech.org/lectio/odyssey/book-1/)
+
+1. [Book I](https://sandiegotech.org/lectio/odyssey/book-1/) Athena Visits Ithaca
+2. [Book II](https://sandiegotech.org/lectio/odyssey/book-2/) Telemachus Calls the Assembly
+3. [Book III](https://sandiegotech.org/lectio/odyssey/book-3/) Nestor at Pylos
+4. [Book IV](https://sandiegotech.org/lectio/odyssey/book-4/) Menelaus and Helen at Sparta
+5. [Book V](https://sandiegotech.org/lectio/odyssey/book-5/) Calypso, and the Raft
+6. [Book VI](https://sandiegotech.org/lectio/odyssey/book-6/) Nausicaa
+7. [Book VII](https://sandiegotech.org/lectio/odyssey/book-7/) The Palace of Alcinous
+8. [Book VIII](https://sandiegotech.org/lectio/odyssey/book-8/) The Games of the Phaeacians
+9. [Book IX](https://sandiegotech.org/lectio/odyssey/book-9/) The Cicones, the Lotus-Eaters, and the Cyclops
+10. [Book X](https://sandiegotech.org/lectio/odyssey/book-10/) Aeolus, the Laestrygonians, and Circe
+11. [Book XI](https://sandiegotech.org/lectio/odyssey/book-11/) The Land of the Dead
+12. [Book XII](https://sandiegotech.org/lectio/odyssey/book-12/) The Sirens, Scylla and Charybdis, and the Cattle of the Sun
+13. [Book XIII](https://sandiegotech.org/lectio/odyssey/book-13/) The Return to Ithaca
+14. [Book XIV](https://sandiegotech.org/lectio/odyssey/book-14/) In the Hut of Eumaeus
+15. [Book XV](https://sandiegotech.org/lectio/odyssey/book-15/) Telemachus Sails Home
+16. [Book XVI](https://sandiegotech.org/lectio/odyssey/book-16/) Father and Son
+17. [Book XVII](https://sandiegotech.org/lectio/odyssey/book-17/) The Beggar at His Own Door
+18. [Book XVIII](https://sandiegotech.org/lectio/odyssey/book-18/) The Beggars’ Fight
+19. [Book XIX](https://sandiegotech.org/lectio/odyssey/book-19/) By the Fire, and the Scar
+20. [Book XX](https://sandiegotech.org/lectio/odyssey/book-20/) The Last Night Before the Reckoning
+21. [Book XXI](https://sandiegotech.org/lectio/odyssey/book-21/) The Contest of the Bow
+22. [Book XXII](https://sandiegotech.org/lectio/odyssey/book-22/) The Killing of the Suitors
+23. [Book XXIII](https://sandiegotech.org/lectio/odyssey/book-23/) The Sign of the Bed
+24. [Book XXIV](https://sandiegotech.org/lectio/odyssey/book-24/) Peace in Ithaca
+
 ## What this edition decided.
 
 The review swept all twenty-four books for each of these and corrected every departure it found.
