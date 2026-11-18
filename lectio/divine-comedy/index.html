@@ -3,23 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Divine Comedy, Dante Alighieri · Lectio Edition — San Diego Institute of Technology</title>
-  <meta name="description" content="The Lectio Edition of Dante&#x27;s Divine Comedy: all one hundred cantos, tercet by tercet, in plain current English, with its choices and its review record.">
+  <title>The Divine Comedy by Dante: a modern translation · Lectio</title>
+  <meta name="description" content="Dante&#x27;s journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/divine-comedy/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="edition.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="book">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/divine-comedy/">
-  <meta property="og:title" content="The Divine Comedy, Dante Alighieri · Lectio Edition — San Diego Institute of Technology">
-  <meta property="og:description" content="The Lectio Edition of Dante&#x27;s Divine Comedy: all one hundred cantos, tercet by tercet, in plain current English, with its choices and its review record.">
-  <meta property="og:image" content="https://sandiegotech.org/lectio/divine-comedy/cover.jpg">
-  <meta property="og:image:width" content="582">
-  <meta property="og:image:height" content="900">
-  <meta property="og:image:alt" content="Cover of the Lectio Edition of The Divine Comedy">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="The Divine Comedy, Dante Alighieri · Lectio Edition — San Diego Institute of Technology">
-  <meta name="twitter:description" content="The Lectio Edition of Dante&#x27;s Divine Comedy: all one hundred cantos, tercet by tercet, in plain current English, with its choices and its review record.">
-  <meta name="twitter:image" content="https://sandiegotech.org/lectio/divine-comedy/cover.jpg">
+  <meta property="og:title" content="The Divine Comedy by Dante: a modern translation · Lectio">
+  <meta property="og:description" content="Dante&#x27;s journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/divine-comedy/share.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Divine Comedy by Dante Alighieri: Lectio Edition">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Divine Comedy by Dante: a modern translation · Lectio">
+  <meta name="twitter:description" content="Dante&#x27;s journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/divine-comedy/share.jpg">
+  <meta name="twitter:image:alt" content="The Divine Comedy by Dante Alighieri: Lectio Edition">
+  <meta property="book:author" content="https://en.wikipedia.org/wiki/Dante_Alighieri">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta name="citation_title" content="The Divine Comedy: Lectio Edition">
+  <meta name="citation_author" content="Dante Alighieri">
+  <meta name="citation_publisher" content="San Diego Institute of Technology">
+  <meta name="citation_publication_date" content="2026/11/17">
+  <meta name="citation_language" content="en">
+  <meta name="citation_public_url" content="https://sandiegotech.org/lectio/divine-comedy/">
+  <meta name="DC.title" content="The Divine Comedy: Lectio Edition">
+  <meta name="DC.creator" content="Dante Alighieri">
+  <meta name="DC.publisher" content="San Diego Institute of Technology">
+  <meta name="DC.date" content="2026-11-17">
+  <meta name="DC.language" content="en">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.rights" content="CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/">
+  <meta name="DC.identifier" content="https://sandiegotech.org/lectio/divine-comedy/">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,43 +57,115 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "Book",
-      "@id": "https://sandiegotech.org/lectio/divine-comedy/#book",
+      "@id": "https://sandiegotech.org/lectio/divine-comedy/#work",
       "name": "The Divine Comedy",
+      "inLanguage": "it",
+      "dateCreated": "1308–1320",
+      "genre": "Epic poem",
+      "workExample": {
+        "@id": "https://sandiegotech.org/lectio/divine-comedy/#edition"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dante Alighieri",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Dante_Alighieri",
+          "https://www.wikidata.org/wiki/Q1067"
+        ]
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://sandiegotech.org/lectio/divine-comedy/#edition",
+      "name": "The Divine Comedy: Lectio Edition",
       "url": "https://sandiegotech.org/lectio/divine-comedy/",
       "bookEdition": "Lectio Edition, 2026 vintage, revised 2026-11-17",
       "inLanguage": "en",
-      "datePublished": "2026",
-      "dateModified": "2026-11-17",
-      "image": "https://sandiegotech.org/lectio/divine-comedy/cover.jpg",
-      "description": "The Lectio Edition of Dante's Divine Comedy: all one hundred cantos, tercet by tercet, in plain current English, with its choices and its review record.",
-      "translator": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+      "exampleOfWork": {
+        "@id": "https://sandiegotech.org/lectio/divine-comedy/#work"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
-      "genre": "Epic poem",
+      "datePublished": "2026",
+      "dateModified": "2026-11-17",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
       "creativeWorkStatus": "Beta",
+      "image": "https://sandiegotech.org/lectio/divine-comedy/cover.jpg",
+      "abstract": "Dante's journey through Hell, Purgatory and Paradise, led first by Virgil and then by Beatrice. One hundred cantos in three-line stanzas, written in Italian between about 1308 and 1320.",
+      "description": "Dante's journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.",
+      "genre": "Epic poem",
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/divine-comedy/"
+      },
       "author": {
         "@type": "Person",
-        "name": "Dante Alighieri"
+        "name": "Dante Alighieri",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Dante_Alighieri",
+          "https://www.wikidata.org/wiki/Q1067"
+        ]
+      },
+      "translationOfWork": {
+        "@id": "https://sandiegotech.org/lectio/divine-comedy/#work"
+      },
+      "translator": {
+        "@id": "https://sandiegotech.org/#organization"
       }
     },
     {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/divine-comedy/",
       "url": "https://sandiegotech.org/lectio/divine-comedy/",
-      "name": "The Divine Comedy: the Lectio Edition",
-      "about": {
-        "@id": "https://sandiegotech.org/lectio/divine-comedy/#book"
-      },
+      "name": "The Divine Comedy by Dante: a modern translation · Lectio",
+      "description": "Dante's journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.",
+      "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/divine-comedy/#edition"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/divine-comedy/#breadcrumb"
+      },
+      "dateModified": "2026-11-17",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/lectio/divine-comedy/cover.jpg",
+        "width": 582,
+        "height": 900
       }
     },
     {
@@ -94,7 +189,8 @@
           "name": "The Divine Comedy",
           "item": "https://sandiegotech.org/lectio/divine-comedy/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/divine-comedy/#breadcrumb"
     }
   ]
 }
@@ -123,7 +219,7 @@
     <section class="charter lx-book">
       <div class="frame">
         <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li><a href="/lectio/">Lectio</a></li><li aria-current="page">The Divine Comedy</li></ol></nav>
-        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" alt="Cover of the Lectio Edition of The Divine Comedy, by Dante Alighieri"></div>
+        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" decoding="async" alt="Cover of the Lectio Edition of The Divine Comedy by Dante Alighieri"></div>
         <div class="lx-head">
           <p class="eyebrow">Lectio Edition · 2026</p>
           <h1>The Divine Comedy</h1>
@@ -295,6 +391,7 @@
             <li>&quot;Behold&quot; survives seven times in the Purgatorio and Paradiso. The rule against it was applied only to the Inferno.</li>
             <li>Fourteen of the edition&#x27;s notes paraphrase the text instead of quoting it.</li>
           </ul>
+          <p class="lx-cite">Cite this edition: Dante Alighieri. The Divine Comedy. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/divine-comedy/</p>
         </div>
       </div>
     </section>
@@ -305,6 +402,7 @@
           <h2>No printed edition or PDF yet.</h2>
           <p class="lede">Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.</p>
           <p class="lx-next" style="margin-top: 2.5rem;"><a href="/lectio/confessions/">← Confessions</a><a href="/lectio/hamlet/">Hamlet →</a></p>
+          <p class="lx-related">Read next: <a href="/lectio/aeneid/">The Aeneid</a>, <a href="/lectio/confessions/">Confessions</a>, <a href="/lectio/genesis/">Genesis</a></p>
         </div>
       </div>
     </section>

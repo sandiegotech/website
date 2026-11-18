@@ -3,23 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Analects, Confucius · Lectio Edition — San Diego Institute of Technology</title>
-  <meta name="description" content="The Lectio Edition of the Analects of Confucius: short sayings in plain current English, with the terms it fixes, its opening, and its review record.">
+  <title>The Analects of Confucius: a modern translation · Lectio</title>
+  <meta name="description" content="The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge&#x27;s version beside it. Beta.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/analects/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="edition.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="book">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/analects/">
-  <meta property="og:title" content="The Analects, Confucius · Lectio Edition — San Diego Institute of Technology">
-  <meta property="og:description" content="The Lectio Edition of the Analects of Confucius: short sayings in plain current English, with the terms it fixes, its opening, and its review record.">
-  <meta property="og:image" content="https://sandiegotech.org/lectio/analects/cover.jpg">
-  <meta property="og:image:width" content="582">
-  <meta property="og:image:height" content="900">
-  <meta property="og:image:alt" content="Cover of the Lectio Edition of The Analects">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="The Analects, Confucius · Lectio Edition — San Diego Institute of Technology">
-  <meta name="twitter:description" content="The Lectio Edition of the Analects of Confucius: short sayings in plain current English, with the terms it fixes, its opening, and its review record.">
-  <meta name="twitter:image" content="https://sandiegotech.org/lectio/analects/cover.jpg">
+  <meta property="og:title" content="The Analects of Confucius: a modern translation · Lectio">
+  <meta property="og:description" content="The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge&#x27;s version beside it. Beta.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/analects/share.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Analects by Confucius: Lectio Edition">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Analects of Confucius: a modern translation · Lectio">
+  <meta name="twitter:description" content="The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge&#x27;s version beside it. Beta.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/analects/share.jpg">
+  <meta name="twitter:image:alt" content="The Analects by Confucius: Lectio Edition">
+  <meta property="book:author" content="https://en.wikipedia.org/wiki/Confucius">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta name="citation_title" content="The Analects: Lectio Edition">
+  <meta name="citation_author" content="Confucius">
+  <meta name="citation_publisher" content="San Diego Institute of Technology">
+  <meta name="citation_publication_date" content="2026/11/17">
+  <meta name="citation_language" content="en">
+  <meta name="citation_public_url" content="https://sandiegotech.org/lectio/analects/">
+  <meta name="DC.title" content="The Analects: Lectio Edition">
+  <meta name="DC.creator" content="Confucius">
+  <meta name="DC.publisher" content="San Diego Institute of Technology">
+  <meta name="DC.date" content="2026-11-17">
+  <meta name="DC.language" content="en">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.rights" content="CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/">
+  <meta name="DC.identifier" content="https://sandiegotech.org/lectio/analects/">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,43 +57,115 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "Book",
-      "@id": "https://sandiegotech.org/lectio/analects/#book",
+      "@id": "https://sandiegotech.org/lectio/analects/#work",
       "name": "The Analects",
+      "inLanguage": "lzh",
+      "dateCreated": "479–221 BCE",
+      "genre": "Philosophy",
+      "workExample": {
+        "@id": "https://sandiegotech.org/lectio/analects/#edition"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Confucius",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Confucius",
+          "https://www.wikidata.org/wiki/Q4604"
+        ]
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://sandiegotech.org/lectio/analects/#edition",
+      "name": "The Analects: Lectio Edition",
       "url": "https://sandiegotech.org/lectio/analects/",
       "bookEdition": "Lectio Edition, 2026 vintage, revised 2026-11-17",
       "inLanguage": "en",
-      "datePublished": "2026",
-      "dateModified": "2026-11-17",
-      "image": "https://sandiegotech.org/lectio/analects/cover.jpg",
-      "description": "The Lectio Edition of the Analects of Confucius: short sayings in plain current English, with the terms it fixes, its opening, and its review record.",
-      "translator": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+      "exampleOfWork": {
+        "@id": "https://sandiegotech.org/lectio/analects/#work"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
-      "genre": "Philosophy",
+      "datePublished": "2026",
+      "dateModified": "2026-11-17",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
       "creativeWorkStatus": "Beta",
+      "image": "https://sandiegotech.org/lectio/analects/cover.jpg",
+      "abstract": "The sayings and conversations of Confucius, written down by his students after his death. Twenty short books on learning, ritual, family, government, and what it takes to become fully human.",
+      "description": "The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge's version beside it. Beta.",
+      "genre": "Philosophy",
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/analects/"
+      },
       "author": {
         "@type": "Person",
-        "name": "Confucius"
+        "name": "Confucius",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Confucius",
+          "https://www.wikidata.org/wiki/Q4604"
+        ]
+      },
+      "translationOfWork": {
+        "@id": "https://sandiegotech.org/lectio/analects/#work"
+      },
+      "translator": {
+        "@id": "https://sandiegotech.org/#organization"
       }
     },
     {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/analects/",
       "url": "https://sandiegotech.org/lectio/analects/",
-      "name": "The Analects: the Lectio Edition",
-      "about": {
-        "@id": "https://sandiegotech.org/lectio/analects/#book"
-      },
+      "name": "The Analects of Confucius: a modern translation · Lectio",
+      "description": "The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge's version beside it. Beta.",
+      "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/analects/#edition"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/analects/#breadcrumb"
+      },
+      "dateModified": "2026-11-17",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/lectio/analects/cover.jpg",
+        "width": 582,
+        "height": 900
       }
     },
     {
@@ -94,7 +189,8 @@
           "name": "The Analects",
           "item": "https://sandiegotech.org/lectio/analects/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/analects/#breadcrumb"
     }
   ]
 }
@@ -123,7 +219,7 @@
     <section class="charter lx-book">
       <div class="frame">
         <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li><a href="/lectio/">Lectio</a></li><li aria-current="page">The Analects</li></ol></nav>
-        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" alt="Cover of the Lectio Edition of The Analects, by Confucius"></div>
+        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" decoding="async" alt="Cover of the Lectio Edition of The Analects by Confucius"></div>
         <div class="lx-head">
           <p class="eyebrow">Lectio Edition · 2026</p>
           <h1>The Analects</h1>
@@ -288,6 +384,7 @@
             <li>Glosses taken out of Books V, XI and XIV need margin notes, if they are wanted.</li>
             <li>Two of the edition&#x27;s notes quote a saying without the &quot;said the Master&quot; that interrupts it in the text. Harmless, but not exact.</li>
           </ul>
+          <p class="lx-cite">Cite this edition: Confucius. The Analects. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/analects/</p>
         </div>
       </div>
     </section>
@@ -298,6 +395,7 @@
           <h2>No printed edition or PDF yet.</h2>
           <p class="lede">Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.</p>
           <p class="lx-next" style="margin-top: 2.5rem;"><a href="/lectio/the-prince/">← The Prince</a><a href="/lectio/tao-te-ching/">The Tao Te Ching →</a></p>
+          <p class="lx-related">Read next: <a href="/lectio/tao-te-ching/">The Tao Te Ching</a>, <a href="/lectio/dhammapada/">The Dhammapada</a>, <a href="/lectio/nicomachean-ethics/">Nicomachean Ethics</a></p>
         </div>
       </div>
     </section>

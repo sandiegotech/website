@@ -1,0 +1,54 @@
+{
+  "title": "The Epic of Gilgamesh",
+  "author": "Anonymous · Sumer & Akkad",
+  "composed": "2100–1200 BCE",
+  "originalLanguage": "akk",
+  "tradition": "East",
+  "genre": "Epic poem",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-23"
+  },
+  "sections": 11,
+  "words": 15357,
+  "sourcesConsulted": [
+    "Akkadian, the Standard Babylonian recension (eleven tablets, traditionally credited to the scholar Sîn-lēqi-unninni)",
+    "George Smith, the first Gilgamesh fragments in The Chaldean Account of Genesis (1876, public domain)",
+    "R. Campbell Thompson, The Epic of Gilgamish (1928, public domain)",
+    "Morris Jastrow & Albert T. Clay, An Old Babylonian Version of the Gilgamesh Epic (1920, public domain)",
+    "E. A. Speiser, in Ancient Near Eastern Texts (1950, consulted, not quoted)",
+    "Benjamin R. Foster, The Epic of Gilgamesh: A Norton Critical Edition (2001, consulted, not quoted)",
+    "Andrew George, The Babylonian Gilgamesh Epic (2003, the standard critical edition; consulted for the Akkadian, not quoted)"
+  ],
+  "editionsOnHand": [],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 11,
+    "gradedA": 0,
+    "gradedB": 11,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 2,
+      "medium": 23,
+      "low": 48
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 33,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "The Epic of Gilgamesh. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/gilgamesh/",
+  "url": "https://sandiegotech.org/lectio/gilgamesh/",
+  "markdown": "https://sandiegotech.org/lectio/gilgamesh/index.md",
+  "cover": "https://sandiegotech.org/lectio/gilgamesh/cover.jpg"
+}

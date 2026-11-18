@@ -3,23 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Odyssey, Homer · Lectio Edition — San Diego Institute of Technology</title>
-  <meta name="description" content="The Lectio Edition of Homer&#x27;s Odyssey: the homecoming in plain current English, with the edition&#x27;s rules, its opening, and its review record.">
+  <title>The Odyssey by Homer: a modern English translation · Lectio</title>
+  <meta name="description" content="Homer&#x27;s poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler&#x27;s version beside it. Beta.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/odyssey/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="edition.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="book">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/odyssey/">
-  <meta property="og:title" content="The Odyssey, Homer · Lectio Edition — San Diego Institute of Technology">
-  <meta property="og:description" content="The Lectio Edition of Homer&#x27;s Odyssey: the homecoming in plain current English, with the edition&#x27;s rules, its opening, and its review record.">
-  <meta property="og:image" content="https://sandiegotech.org/lectio/odyssey/cover.jpg">
-  <meta property="og:image:width" content="582">
-  <meta property="og:image:height" content="900">
-  <meta property="og:image:alt" content="Cover of the Lectio Edition of The Odyssey">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="The Odyssey, Homer · Lectio Edition — San Diego Institute of Technology">
-  <meta name="twitter:description" content="The Lectio Edition of Homer&#x27;s Odyssey: the homecoming in plain current English, with the edition&#x27;s rules, its opening, and its review record.">
-  <meta name="twitter:image" content="https://sandiegotech.org/lectio/odyssey/cover.jpg">
+  <meta property="og:title" content="The Odyssey by Homer: a modern English translation · Lectio">
+  <meta property="og:description" content="Homer&#x27;s poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler&#x27;s version beside it. Beta.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/odyssey/share.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Odyssey by Homer: Lectio Edition">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Odyssey by Homer: a modern English translation · Lectio">
+  <meta name="twitter:description" content="Homer&#x27;s poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler&#x27;s version beside it. Beta.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/odyssey/share.jpg">
+  <meta name="twitter:image:alt" content="The Odyssey by Homer: Lectio Edition">
+  <meta property="book:author" content="https://en.wikipedia.org/wiki/Homer">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta name="citation_title" content="The Odyssey: Lectio Edition">
+  <meta name="citation_author" content="Homer">
+  <meta name="citation_publisher" content="San Diego Institute of Technology">
+  <meta name="citation_publication_date" content="2026/11/17">
+  <meta name="citation_language" content="en">
+  <meta name="citation_public_url" content="https://sandiegotech.org/lectio/odyssey/">
+  <meta name="DC.title" content="The Odyssey: Lectio Edition">
+  <meta name="DC.creator" content="Homer">
+  <meta name="DC.publisher" content="San Diego Institute of Technology">
+  <meta name="DC.date" content="2026-11-17">
+  <meta name="DC.language" content="en">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.rights" content="CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/">
+  <meta name="DC.identifier" content="https://sandiegotech.org/lectio/odyssey/">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,43 +57,115 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "Book",
-      "@id": "https://sandiegotech.org/lectio/odyssey/#book",
+      "@id": "https://sandiegotech.org/lectio/odyssey/#work",
       "name": "The Odyssey",
+      "inLanguage": "grc",
+      "dateCreated": "800–701 BCE",
+      "genre": "Epic poem",
+      "workExample": {
+        "@id": "https://sandiegotech.org/lectio/odyssey/#edition"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Homer",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Homer",
+          "https://www.wikidata.org/wiki/Q6691"
+        ]
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://sandiegotech.org/lectio/odyssey/#edition",
+      "name": "The Odyssey: Lectio Edition",
       "url": "https://sandiegotech.org/lectio/odyssey/",
       "bookEdition": "Lectio Edition, 2026 vintage, revised 2026-11-17",
       "inLanguage": "en",
-      "datePublished": "2026",
-      "dateModified": "2026-11-17",
-      "image": "https://sandiegotech.org/lectio/odyssey/cover.jpg",
-      "description": "The Lectio Edition of Homer's Odyssey: the homecoming in plain current English, with the edition's rules, its opening, and its review record.",
-      "translator": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+      "exampleOfWork": {
+        "@id": "https://sandiegotech.org/lectio/odyssey/#work"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
-      "genre": "Epic poem",
+      "datePublished": "2026",
+      "dateModified": "2026-11-17",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
       "creativeWorkStatus": "Beta",
+      "image": "https://sandiegotech.org/lectio/odyssey/cover.jpg",
+      "abstract": "Homer's poem of the long way home. Odysseus spends ten years getting back from Troy to his wife, his son and his island. Under the monsters and the gods it is about cunning, endurance and the pull of home.",
+      "description": "Homer's poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler's version beside it. Beta.",
+      "genre": "Epic poem",
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/odyssey/"
+      },
       "author": {
         "@type": "Person",
-        "name": "Homer"
+        "name": "Homer",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Homer",
+          "https://www.wikidata.org/wiki/Q6691"
+        ]
+      },
+      "translationOfWork": {
+        "@id": "https://sandiegotech.org/lectio/odyssey/#work"
+      },
+      "translator": {
+        "@id": "https://sandiegotech.org/#organization"
       }
     },
     {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/odyssey/",
       "url": "https://sandiegotech.org/lectio/odyssey/",
-      "name": "The Odyssey: the Lectio Edition",
-      "about": {
-        "@id": "https://sandiegotech.org/lectio/odyssey/#book"
-      },
+      "name": "The Odyssey by Homer: a modern English translation · Lectio",
+      "description": "Homer's poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler's version beside it. Beta.",
+      "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/odyssey/#edition"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/odyssey/#breadcrumb"
+      },
+      "dateModified": "2026-11-17",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/lectio/odyssey/cover.jpg",
+        "width": 582,
+        "height": 900
       }
     },
     {
@@ -94,7 +189,8 @@
           "name": "The Odyssey",
           "item": "https://sandiegotech.org/lectio/odyssey/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/odyssey/#breadcrumb"
     }
   ]
 }
@@ -123,7 +219,7 @@
     <section class="charter lx-book">
       <div class="frame">
         <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li><a href="/lectio/">Lectio</a></li><li aria-current="page">The Odyssey</li></ol></nav>
-        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" alt="Cover of the Lectio Edition of The Odyssey, by Homer"></div>
+        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" decoding="async" alt="Cover of the Lectio Edition of The Odyssey by Homer"></div>
         <div class="lx-head">
           <p class="eyebrow">Lectio Edition · 2026</p>
           <h1>The Odyssey</h1>
@@ -270,6 +366,7 @@
             <li>Two translator&#x27;s notes that had been printed as Homer&#x27;s text, in Books V and XIV, are set aside. The first belongs in the margin notes. The second made a false claim and must be reworded before it goes anywhere.</li>
             <li>A passage in Book XVII repeats one in Book IV and is still worded differently. Matching them is optional.</li>
           </ul>
+          <p class="lx-cite">Cite this edition: Homer. The Odyssey. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/odyssey/</p>
         </div>
       </div>
     </section>
@@ -280,6 +377,7 @@
           <h2>No printed edition or PDF yet.</h2>
           <p class="lede">Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.</p>
           <p class="lx-next" style="margin-top: 2.5rem;"><a href="/lectio/iliad/">← The Iliad</a><a href="/lectio/republic/">The Republic →</a></p>
+          <p class="lx-related">Read next: <a href="/lectio/iliad/">The Iliad</a>, <a href="/lectio/aeneid/">The Aeneid</a>, <a href="/lectio/divine-comedy/">The Divine Comedy</a></p>
         </div>
       </div>
     </section>

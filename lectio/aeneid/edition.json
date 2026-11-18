@@ -1,0 +1,60 @@
+{
+  "title": "The Aeneid",
+  "author": "Virgil",
+  "composed": "29–19 BCE",
+  "originalLanguage": "la",
+  "tradition": "West",
+  "genre": "Epic poem",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-16"
+  },
+  "sections": 12,
+  "words": 100210,
+  "sourcesConsulted": [
+    "John Dryden, verse (1697, public domain)",
+    "Allen Mandelbaum (1971, consulted)",
+    "Robert Fitzgerald (1983, consulted)",
+    "Robert Fagles (2006, consulted)",
+    "the Latin (Virgil)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "John Dryden",
+      "year": 1697,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 12,
+    "gradedA": 0,
+    "gradedB": 12,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 8,
+      "medium": 62,
+      "low": 74
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 36,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Virgil. The Aeneid. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/aeneid/",
+  "url": "https://sandiegotech.org/lectio/aeneid/",
+  "markdown": "https://sandiegotech.org/lectio/aeneid/index.md",
+  "cover": "https://sandiegotech.org/lectio/aeneid/cover.jpg"
+}

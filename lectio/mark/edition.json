@@ -1,0 +1,59 @@
+{
+  "title": "The Gospel of Mark",
+  "author": "Anonymous · attributed to Mark",
+  "composed": "c. 65–75 CE",
+  "originalLanguage": "grc",
+  "tradition": "West",
+  "genre": "Scripture",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-5",
+    "name": "Claude Opus 5",
+    "date": "2026-08-06"
+  },
+  "sections": 16,
+  "words": 13799,
+  "sourcesConsulted": [
+    "King James Version (1611) — public domain",
+    "American Standard Version (1901) — public domain",
+    "Young's Literal Translation (1898) — public domain",
+    "Greek New Testament, Westcott-Hort text (1881) — public domain"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "The King James translators",
+      "year": 1611,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 16,
+    "gradedA": 3,
+    "gradedB": 13,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 0,
+      "medium": 27,
+      "low": 8
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 13,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "The Gospel of Mark. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/mark/",
+  "url": "https://sandiegotech.org/lectio/mark/",
+  "markdown": "https://sandiegotech.org/lectio/mark/index.md",
+  "cover": "https://sandiegotech.org/lectio/mark/cover.jpg"
+}

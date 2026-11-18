@@ -3,23 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Epic of Gilgamesh · Lectio Edition — San Diego Institute of Technology</title>
-  <meta name="description" content="The Lectio Edition of the Epic of Gilgamesh: the eleven tablets in plain current English, with what it restores, what is still missing, and its review record.">
+  <title>The Epic of Gilgamesh: a modern English translation · Lectio</title>
+  <meta name="description" content="The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/gilgamesh/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="edition.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="book">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/gilgamesh/">
-  <meta property="og:title" content="The Epic of Gilgamesh · Lectio Edition — San Diego Institute of Technology">
-  <meta property="og:description" content="The Lectio Edition of the Epic of Gilgamesh: the eleven tablets in plain current English, with what it restores, what is still missing, and its review record.">
-  <meta property="og:image" content="https://sandiegotech.org/lectio/gilgamesh/cover.jpg">
-  <meta property="og:image:width" content="582">
-  <meta property="og:image:height" content="900">
-  <meta property="og:image:alt" content="Cover of the Lectio Edition of The Epic of Gilgamesh">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="The Epic of Gilgamesh · Lectio Edition — San Diego Institute of Technology">
-  <meta name="twitter:description" content="The Lectio Edition of the Epic of Gilgamesh: the eleven tablets in plain current English, with what it restores, what is still missing, and its review record.">
-  <meta name="twitter:image" content="https://sandiegotech.org/lectio/gilgamesh/cover.jpg">
+  <meta property="og:title" content="The Epic of Gilgamesh: a modern English translation · Lectio">
+  <meta property="og:description" content="The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/gilgamesh/share.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Epic of Gilgamesh: Lectio Edition">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Epic of Gilgamesh: a modern English translation · Lectio">
+  <meta name="twitter:description" content="The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/gilgamesh/share.jpg">
+  <meta name="twitter:image:alt" content="The Epic of Gilgamesh: Lectio Edition">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta name="citation_title" content="The Epic of Gilgamesh: Lectio Edition">
+  <meta name="citation_publisher" content="San Diego Institute of Technology">
+  <meta name="citation_publication_date" content="2026/11/17">
+  <meta name="citation_language" content="en">
+  <meta name="citation_public_url" content="https://sandiegotech.org/lectio/gilgamesh/">
+  <meta name="DC.title" content="The Epic of Gilgamesh: Lectio Edition">
+  <meta name="DC.publisher" content="San Diego Institute of Technology">
+  <meta name="DC.date" content="2026-11-17">
+  <meta name="DC.language" content="en">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.rights" content="CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/">
+  <meta name="DC.identifier" content="https://sandiegotech.org/lectio/gilgamesh/">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,39 +54,99 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "Book",
-      "@id": "https://sandiegotech.org/lectio/gilgamesh/#book",
+      "@id": "https://sandiegotech.org/lectio/gilgamesh/#work",
       "name": "The Epic of Gilgamesh",
+      "inLanguage": "akk",
+      "dateCreated": "2100–1200 BCE",
+      "genre": "Epic poem",
+      "workExample": {
+        "@id": "https://sandiegotech.org/lectio/gilgamesh/#edition"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://sandiegotech.org/lectio/gilgamesh/#edition",
+      "name": "The Epic of Gilgamesh: Lectio Edition",
       "url": "https://sandiegotech.org/lectio/gilgamesh/",
       "bookEdition": "Lectio Edition, 2026 vintage, revised 2026-11-17",
       "inLanguage": "en",
-      "datePublished": "2026",
-      "dateModified": "2026-11-17",
-      "image": "https://sandiegotech.org/lectio/gilgamesh/cover.jpg",
-      "description": "The Lectio Edition of the Epic of Gilgamesh: the eleven tablets in plain current English, with what it restores, what is still missing, and its review record.",
-      "translator": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+      "exampleOfWork": {
+        "@id": "https://sandiegotech.org/lectio/gilgamesh/#work"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
+      "datePublished": "2026",
+      "dateModified": "2026-11-17",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "creativeWorkStatus": "Beta",
+      "image": "https://sandiegotech.org/lectio/gilgamesh/cover.jpg",
+      "abstract": "The oldest long story we have. Gilgamesh, king of Uruk, and Enkidu, a man raised among animals, become friends. When Enkidu dies, Gilgamesh refuses his own death and goes looking for a way to live forever. It was written in Akkadian on clay tablets and was lost for two thousand years.",
+      "description": "The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.",
       "genre": "Epic poem",
-      "creativeWorkStatus": "Beta"
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/gilgamesh/"
+      },
+      "translationOfWork": {
+        "@id": "https://sandiegotech.org/lectio/gilgamesh/#work"
+      },
+      "translator": {
+        "@id": "https://sandiegotech.org/#organization"
+      }
     },
     {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/gilgamesh/",
       "url": "https://sandiegotech.org/lectio/gilgamesh/",
-      "name": "The Epic of Gilgamesh: the Lectio Edition",
-      "about": {
-        "@id": "https://sandiegotech.org/lectio/gilgamesh/#book"
-      },
+      "name": "The Epic of Gilgamesh: a modern English translation · Lectio",
+      "description": "The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.",
+      "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/gilgamesh/#edition"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/gilgamesh/#breadcrumb"
+      },
+      "dateModified": "2026-11-17",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/lectio/gilgamesh/cover.jpg",
+        "width": 582,
+        "height": 900
       }
     },
     {
@@ -90,7 +170,8 @@
           "name": "The Epic of Gilgamesh",
           "item": "https://sandiegotech.org/lectio/gilgamesh/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/gilgamesh/#breadcrumb"
     }
   ]
 }
@@ -119,7 +200,7 @@
     <section class="charter lx-book">
       <div class="frame">
         <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li><a href="/lectio/">Lectio</a></li><li aria-current="page">The Epic of Gilgamesh</li></ol></nav>
-        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" alt="Cover of the Lectio Edition of The Epic of Gilgamesh, by Anonymous · Sumer &amp; Akkad"></div>
+        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" decoding="async" alt="Cover of the Lectio Edition of The Epic of Gilgamesh by Anonymous · Sumer &amp; Akkad"></div>
         <div class="lx-head">
           <p class="eyebrow">Lectio Edition · 2026</p>
           <h1>The Epic of Gilgamesh</h1>
@@ -271,6 +352,7 @@
             <li>One segment in Tablet VIII was an editor&#x27;s summary and is set aside. It needs the tablet&#x27;s own text or a bracketed note in its place.</li>
             <li>A note on the killing of Humbaba describes his speech differently from how the text now has it.</li>
           </ul>
+          <p class="lx-cite">Cite this edition: The Epic of Gilgamesh. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/gilgamesh/</p>
         </div>
       </div>
     </section>
@@ -281,6 +363,7 @@
           <h2>No printed edition or PDF yet.</h2>
           <p class="lede">Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.</p>
           <p class="lx-next" style="margin-top: 2.5rem;"><a href="/lectio/bhagavad-gita/">← The Bhagavad Gita</a><a href="/lectio/nicomachean-ethics/">Nicomachean Ethics →</a></p>
+          <p class="lx-related">Read next: <a href="/lectio/genesis/">Genesis</a>, <a href="/lectio/iliad/">The Iliad</a>, <a href="/lectio/odyssey/">The Odyssey</a></p>
         </div>
       </div>
     </section>

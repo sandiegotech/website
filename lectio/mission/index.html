@@ -3,23 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Translation Mission · Lectio — San Diego Institute of Technology</title>
-  <meta name="description" content="Why Lectio makes new editions of the great books, what modern means here, how an edition is drafted and reviewed, and what is not done yet.">
+  <title>How Lectio translates the great books: method and review</title>
+  <meta name="description" content="Why Lectio makes new translations of the great books, how each is drafted by AI and reviewed, what the first review found, and what is not done yet.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/mission/">
-  <meta property="og:type" content="website">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
+  <meta property="og:type" content="article">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/mission/">
-  <meta property="og:title" content="The Translation Mission · Lectio — San Diego Institute of Technology">
-  <meta property="og:description" content="Why Lectio makes new editions of the great books, what modern means here, how an edition is drafted and reviewed, and what is not done yet.">
-  <meta property="og:image" content="https://sandiegotech.org/assets/sdit-crest-navy.png">
+  <meta property="og:title" content="How Lectio translates the great books: method and review">
+  <meta property="og:description" content="Why Lectio makes new translations of the great books, how each is drafted by AI and reviewed, what the first review found, and what is not done yet.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/mission/share.jpg">
   <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="696">
-  <meta property="og:image:alt" content="San Diego Institute of Technology">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Lectio translation mission">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="The Translation Mission · Lectio — San Diego Institute of Technology">
-  <meta name="twitter:description" content="Why Lectio makes new editions of the great books, what modern means here, how an edition is drafted and reviewed, and what is not done yet.">
-  <meta name="twitter:image" content="https://sandiegotech.org/assets/sdit-crest-navy.png">
+  <meta name="twitter:title" content="How Lectio translates the great books: method and review">
+  <meta name="twitter:description" content="Why Lectio makes new translations of the great books, how each is drafted by AI and reviewed, what the first review found, and what is not done yet.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/mission/share.jpg">
+  <meta name="twitter:image:alt" content="The Lectio translation mission">
+  <meta property="article:published_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,19 +42,71 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://sandiegotech.org/lectio/mission/#article",
+      "headline": "A new edition of each great book, and an account of how it was made.",
+      "name": "How Lectio translates the great books: method and review",
+      "description": "Why Lectio makes new translations of the great books, how each is drafted by AI and reviewed, what the first review found, and what is not done yet.",
+      "inLanguage": "en",
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "author": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/mission/"
+      },
+      "image": "https://sandiegotech.org/lectio/mission/share.jpg"
+    },
+    {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/mission/",
       "url": "https://sandiegotech.org/lectio/mission/",
-      "name": "The Lectio translation mission",
-      "description": "Why Lectio makes new editions of the great books, what modern means here, how an edition is drafted and reviewed, and what is not done yet.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
-      },
+      "name": "How Lectio translates the great books: method and review",
+      "description": "Why Lectio makes new translations of the great books, how each is drafted by AI and reviewed, what the first review found, and what is not done yet.",
       "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/mission/#article"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/mission/#breadcrumb"
       },
       "dateModified": "2026-11-17"
     },
@@ -71,7 +131,8 @@
           "name": "The translation mission",
           "item": "https://sandiegotech.org/lectio/mission/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/mission/#breadcrumb"
     }
   ]
 }

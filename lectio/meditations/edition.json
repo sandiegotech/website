@@ -1,0 +1,73 @@
+{
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "composed": "170–180 CE",
+  "originalLanguage": "grc",
+  "tradition": "West",
+  "genre": "Philosophy",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-15"
+  },
+  "sections": 12,
+  "words": 42392,
+  "sourcesConsulted": [
+    "George Long, translation (1862)",
+    "Méric Casaubon, translation (1634)",
+    "Greek original — Τὰ εἰς ἑαυτόν (Wikisource)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "George Long",
+      "year": 1862,
+      "language": "en",
+      "rights": "public_domain"
+    },
+    {
+      "kind": "translation",
+      "translator": "Méric Casaubon",
+      "year": 1634,
+      "language": "en",
+      "rights": "public_domain"
+    },
+    {
+      "kind": "original",
+      "translator": null,
+      "year": null,
+      "language": "grc",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 12,
+    "gradedA": 0,
+    "gradedB": 12,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 8,
+      "medium": 45,
+      "low": 102
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 3,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Marcus Aurelius. Meditations. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/meditations/",
+  "url": "https://sandiegotech.org/lectio/meditations/",
+  "markdown": "https://sandiegotech.org/lectio/meditations/index.md",
+  "cover": "https://sandiegotech.org/lectio/meditations/cover.jpg",
+  "pdf": "https://sandiegotech.org/lectio/meditations/meditations-lectio-edition-2026-11.pdf"
+}

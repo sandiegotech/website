@@ -73,21 +73,28 @@ def main() -> None:
             continue
         if is_noindex(p):
             continue
-        pages.append((url_for(rel), git_date(p)))
+        # A book page's cover sits beside it. Listing it lets image search tie the
+        # cover to the page; share cards are for link previews and are left out.
+        cover = p.parent / "cover.jpg"
+        image = f"{BASE}/{cover.relative_to(ROOT).as_posix()}" if rel.name == "index.html" and cover.exists() else None
+        pages.append((url_for(rel), git_date(p), image))
 
     # Highest priority first, then alphabetically, so the file reads sensibly.
     pages.sort(key=lambda e: (-WEIGHTS.get(e[0], (0.5, ""))[0], e[0]))
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for slug, date in pages:
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"'
+             ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
+    for slug, date, image in pages:
         priority, freq = WEIGHTS.get(slug, (0.5, "monthly"))
         lines += ["  <url>",
                   f"    <loc>{BASE}/{slug}</loc>",
                   f"    <lastmod>{date}</lastmod>",
                   f"    <changefreq>{freq}</changefreq>",
-                  f"    <priority>{priority}</priority>",
-                  "  </url>"]
+                  f"    <priority>{priority}</priority>"]
+        if image:
+            lines.append(f"    <image:image><image:loc>{image}</image:loc></image:image>")
+        lines.append("  </url>")
     lines.append("</urlset>")
 
     (ROOT / "sitemap.xml").write_text("\n".join(lines) + "\n")

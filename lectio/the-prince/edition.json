@@ -1,0 +1,60 @@
+{
+  "title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "composed": "1513",
+  "originalLanguage": "it",
+  "tradition": "West",
+  "genre": "Politics",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-fable-5",
+    "name": "Claude Fable 5",
+    "date": "2026-07-07"
+  },
+  "sections": 26,
+  "words": 29041,
+  "sourcesConsulted": [
+    "Italian, the original text of Il Principe",
+    "W. K. Marriott, The Prince (1908, public domain)",
+    "N. H. Thomson (1882, public domain)",
+    "George Bull (1961, consulted, not quoted)",
+    "Harvey Mansfield (1985, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "W. K. Marriott",
+      "year": 1908,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 26,
+    "gradedA": 20,
+    "gradedB": 6,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 0,
+      "medium": 15,
+      "low": 28
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 62,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Niccolò Machiavelli. The Prince. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/the-prince/",
+  "url": "https://sandiegotech.org/lectio/the-prince/",
+  "markdown": "https://sandiegotech.org/lectio/the-prince/index.md",
+  "cover": "https://sandiegotech.org/lectio/the-prince/cover.jpg"
+}

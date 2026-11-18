@@ -75,6 +75,28 @@ aws s3 sync "$SITE_ROOT" "s3://$BUCKET" \
   --exclude "CNAME" \
   --exclude "*.md"
 
+# The one kind of Markdown that is site content: each Lectio page has a plain
+# Markdown twin (lectio/**/index.md) for machine readers, written by Lectio's
+# tools/site.py. The sync above still excludes every *.md, so READMEs and
+# notes stay out; this step uploads only the twins, and names their type,
+# because S3 would otherwise guess text/markdown without a charset or
+# application/octet-stream depending on the host's mime table. Excluded
+# files are also exempt from --delete, so the sync never removes these.
+echo "→ Uploading Lectio Markdown twins"
+aws s3 cp "$SITE_ROOT/lectio" "s3://$BUCKET/lectio" \
+  --recursive \
+  --exclude "*" \
+  --include "*.md" \
+  --content-type "text/markdown; charset=utf-8"
+
+# llms.txt and llms-full.txt went up with the sync. They are re-sent only to
+# state the charset: both carry Greek, Hebrew and Chinese.
+for f in llms.txt llms-full.txt; do
+  if [ -f "$SITE_ROOT/$f" ]; then
+    aws s3 cp "$SITE_ROOT/$f" "s3://$BUCKET/$f" --content-type "text/plain; charset=utf-8"
+  fi
+done
+
 # HTML is cached at the edge under the CachingOptimized policy, so a sync alone
 # would leave stale pages served for hours. "/*" counts as ONE path against the
 # 1,000-per-month free allowance, not one per file.

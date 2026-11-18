@@ -1,0 +1,69 @@
+{
+  "title": "The Iliad",
+  "author": "Homer",
+  "composed": "800–701 BCE",
+  "originalLanguage": "grc",
+  "tradition": "West",
+  "genre": "Epic poem",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-15"
+  },
+  "sections": 24,
+  "words": 148351,
+  "sourcesConsulted": [
+    "Alexander Pope, verse (1715, public domain)",
+    "Samuel Butler, prose (1898, public domain)",
+    "Lang, Leaf & Myers, prose (1882, public domain)",
+    "Richmond Lattimore (1951, consulted for Greek fidelity)",
+    "Robert Fagles (1990, consulted for narrative energy)",
+    "Emily Wilson (2017, consulted for accuracy)",
+    "the Greek (Homeric text)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "Alexander Pope",
+      "year": 1715,
+      "language": "en",
+      "rights": "public_domain"
+    },
+    {
+      "kind": "translation",
+      "translator": "Samuel Butler",
+      "year": 1898,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 24,
+    "gradedA": 4,
+    "gradedB": 20,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 5,
+      "medium": 44,
+      "low": 114
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 73,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Homer. The Iliad. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/iliad/",
+  "url": "https://sandiegotech.org/lectio/iliad/",
+  "markdown": "https://sandiegotech.org/lectio/iliad/index.md",
+  "cover": "https://sandiegotech.org/lectio/iliad/cover.jpg"
+}

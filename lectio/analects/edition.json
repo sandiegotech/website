@@ -1,0 +1,60 @@
+{
+  "title": "The Analects",
+  "author": "Confucius",
+  "composed": "479–221 BCE",
+  "originalLanguage": "lzh",
+  "tradition": "East",
+  "genre": "Philosophy",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-fable-5",
+    "name": "Claude Fable 5",
+    "date": "2026-07-07"
+  },
+  "sections": 20,
+  "words": 22892,
+  "sourcesConsulted": [
+    "Classical Chinese, the original text of the Lunyu (論語)",
+    "James Legge, The Chinese Classics, Vol. I (1893, public domain)",
+    "W. E. Soothill, The Analects of Confucius (1910, public domain)",
+    "Arthur Waley (1938, consulted, not quoted)",
+    "D. C. Lau (1979, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "James Legge",
+      "year": 1893,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 20,
+    "gradedA": 14,
+    "gradedB": 6,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 0,
+      "medium": 15,
+      "low": 150
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 48,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Confucius. The Analects. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/analects/",
+  "url": "https://sandiegotech.org/lectio/analects/",
+  "markdown": "https://sandiegotech.org/lectio/analects/index.md",
+  "cover": "https://sandiegotech.org/lectio/analects/cover.jpg"
+}

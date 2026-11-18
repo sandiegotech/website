@@ -1,0 +1,60 @@
+{
+  "title": "The Divine Comedy",
+  "author": "Dante Alighieri",
+  "composed": "1308–1320",
+  "originalLanguage": "it",
+  "tradition": "West",
+  "genre": "Epic poem",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "verse",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-24"
+  },
+  "sections": 100,
+  "words": 117657,
+  "sourcesConsulted": [
+    "Italian, Dante's Commedia (Petrocchi text)",
+    "Henry Wadsworth Longfellow (1867, public domain)",
+    "Henry Francis Cary (1814, public domain)",
+    "Charles Eliot Norton, prose (1892, public domain)",
+    "modern verse translations (Ciardi, Mandelbaum, Hollander, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "Henry Wadsworth Longfellow",
+      "year": 1867,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 100,
+    "gradedA": 55,
+    "gradedB": 45,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 2,
+      "medium": 134,
+      "low": 171
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 309,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Dante Alighieri. The Divine Comedy. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/divine-comedy/",
+  "url": "https://sandiegotech.org/lectio/divine-comedy/",
+  "markdown": "https://sandiegotech.org/lectio/divine-comedy/index.md",
+  "cover": "https://sandiegotech.org/lectio/divine-comedy/cover.jpg"
+}

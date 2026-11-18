@@ -1,0 +1,60 @@
+{
+  "title": "Nicomachean Ethics",
+  "author": "Aristotle",
+  "composed": "340 BCE",
+  "originalLanguage": "grc",
+  "tradition": "West",
+  "genre": "Philosophy",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-24"
+  },
+  "sections": 10,
+  "words": 75095,
+  "sourcesConsulted": [
+    "Greek, the Bekker text of the Nicomachean Ethics",
+    "D. P. Chase, The Nicomachean Ethics (1847; Everyman 1911, public domain)",
+    "W. D. Ross, The Nicomachean Ethics (1925, consulted, not quoted)",
+    "F. H. Peters (1893, public domain)",
+    "H. Rackham, Loeb Classical Library (consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "D. P. Chase",
+      "year": 1911,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 10,
+    "gradedA": 0,
+    "gradedB": 10,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 38,
+      "medium": 112,
+      "low": 56
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 30,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Aristotle. Nicomachean Ethics. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/nicomachean-ethics/",
+  "url": "https://sandiegotech.org/lectio/nicomachean-ethics/",
+  "markdown": "https://sandiegotech.org/lectio/nicomachean-ethics/index.md",
+  "cover": "https://sandiegotech.org/lectio/nicomachean-ethics/cover.jpg"
+}

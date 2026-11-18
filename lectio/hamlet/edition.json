@@ -1,0 +1,57 @@
+{
+  "title": "Hamlet",
+  "author": "William Shakespeare",
+  "composed": "1600–1601",
+  "originalLanguage": "en",
+  "tradition": "West",
+  "genre": "Drama",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "verse",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": false,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-24"
+  },
+  "sections": 5,
+  "words": 32418,
+  "sourcesConsulted": [
+    "Shakespeare's text (the conflated Second Quarto / First Folio Hamlet, public domain)",
+    "the OED and a standard glossarial edition (Arden, consulted, not quoted) for archaic senses"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "original",
+      "translator": null,
+      "year": 1603,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 5,
+    "gradedA": 0,
+    "gradedB": 5,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 9,
+      "medium": 67,
+      "low": 71
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 12,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "William Shakespeare. Hamlet. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/hamlet/",
+  "url": "https://sandiegotech.org/lectio/hamlet/",
+  "markdown": "https://sandiegotech.org/lectio/hamlet/index.md",
+  "cover": "https://sandiegotech.org/lectio/hamlet/cover.jpg"
+}

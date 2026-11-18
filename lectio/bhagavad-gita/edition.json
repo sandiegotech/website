@@ -1,0 +1,59 @@
+{
+  "title": "The Bhagavad Gita",
+  "author": null,
+  "composed": "200 BCE – 200 CE",
+  "originalLanguage": "sa",
+  "tradition": "East",
+  "genre": "Religion",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-26"
+  },
+  "sections": 18,
+  "words": 20207,
+  "sourcesConsulted": [
+    "Sanskrit, the original text of the Bhagavadgītā",
+    "Sir Edwin Arnold, The Song Celestial (1885, public domain)",
+    "Kashinath Trimbak Telang, The Bhagavadgītā (1882, public domain)",
+    "Franklin Edgerton (1944, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "Edwin Arnold",
+      "year": 1885,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 18,
+    "gradedA": 8,
+    "gradedB": 10,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 3,
+      "medium": 24,
+      "low": 49
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 60,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "The Bhagavad Gita. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/bhagavad-gita/",
+  "url": "https://sandiegotech.org/lectio/bhagavad-gita/",
+  "markdown": "https://sandiegotech.org/lectio/bhagavad-gita/index.md",
+  "cover": "https://sandiegotech.org/lectio/bhagavad-gita/cover.jpg"
+}

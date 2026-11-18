@@ -1,0 +1,60 @@
+{
+  "title": "Confessions",
+  "author": "Saint Augustine",
+  "composed": "397–400 CE",
+  "originalLanguage": "la",
+  "tradition": "West",
+  "genre": "Religion",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-fable-5",
+    "name": "Claude Fable 5",
+    "date": "2026-07-07"
+  },
+  "sections": 13,
+  "words": 117266,
+  "sourcesConsulted": [
+    "Latin, the original text of the Confessiones",
+    "E. B. Pusey, The Confessions of S. Augustine (1838, public domain)",
+    "William Watts (1631, public domain)",
+    "F. J. Sheed (1942, consulted, not quoted)",
+    "Henry Chadwick (1991, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "E. B. Pusey",
+      "year": 1838,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 13,
+    "gradedA": 2,
+    "gradedB": 11,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 1,
+      "medium": 18,
+      "low": 55
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 39,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Saint Augustine. Confessions. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/confessions/",
+  "url": "https://sandiegotech.org/lectio/confessions/",
+  "markdown": "https://sandiegotech.org/lectio/confessions/index.md",
+  "cover": "https://sandiegotech.org/lectio/confessions/cover.jpg"
+}

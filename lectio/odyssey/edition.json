@@ -1,0 +1,61 @@
+{
+  "title": "The Odyssey",
+  "author": "Homer",
+  "composed": "800–701 BCE",
+  "originalLanguage": "grc",
+  "tradition": "West",
+  "genre": "Epic poem",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-16"
+  },
+  "sections": 24,
+  "words": 118398,
+  "sourcesConsulted": [
+    "Samuel Butler, prose (1900, public domain)",
+    "Butcher & Lang, prose (1879, public domain)",
+    "Robert Fitzgerald (1961, consulted)",
+    "Robert Fagles (1996, consulted)",
+    "Emily Wilson (2017, consulted)",
+    "the Greek (Homeric text)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "Samuel Butler",
+      "year": 1900,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 24,
+    "gradedA": 5,
+    "gradedB": 19,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 2,
+      "medium": 31,
+      "low": 250
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 72,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Homer. The Odyssey. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/odyssey/",
+  "url": "https://sandiegotech.org/lectio/odyssey/",
+  "markdown": "https://sandiegotech.org/lectio/odyssey/index.md",
+  "cover": "https://sandiegotech.org/lectio/odyssey/cover.jpg"
+}

@@ -1,0 +1,3374 @@
+# San Diego Institute of Technology: Lectio, full text
+
+The overview, the translation mission and every edition page of https://sandiegotech.org/lectio/, as Markdown. Licensed CC BY-NC 4.0. Cite the URL given under each heading.
+
+---
+
+Source: https://sandiegotech.org/lectio/
+
+Lectio · The First Project
+
+# Let any person read a great work. *With genuine ease.*
+
+Lectio is a reader for the great books. Each one gets a new edition in plain current English, faithful to the original, with the historical translations and the original language one tap away.
+
+It is the first project of the San Diego Institute of Technology. 17 editions are in beta. The app is not out yet. This page says where everything stands.
+
+## The greatest books ever written are almost entirely unread.
+
+People are capable of reading them. What stops them is the way in.
+
+The great works are free and in the public domain: *The Iliad*, *Meditations*, *The Divine Comedy*, the *Tao Te Ching*. Almost nobody reads them.
+
+The free copy of each is a translation a century or more old. Its English puts even a native speaker at a distance, and its names and references assume a classical schooling few people have now. Most reading apps hand over the same 1909 file and leave you to it.
+
+Lectio gives each book a clear modern edition and keeps the old ones beside it. It is the whole book, made for the reader it has now. Nothing is cut and nothing is summarized.
+
+## The books that have a Lectio edition today.
+
+Each cover opens a page on that edition: what the book is, why the edition was made, how it begins, the choices it makes, and the record of how it was drafted and checked.
+
+- [ Meditations Marcus Aurelius ](https://sandiegotech.org/lectio/meditations/)
+- [ The Iliad Homer ](https://sandiegotech.org/lectio/iliad/)
+- [ The Odyssey Homer ](https://sandiegotech.org/lectio/odyssey/)
+- [ The Republic Plato ](https://sandiegotech.org/lectio/republic/)
+- [ The Aeneid Virgil ](https://sandiegotech.org/lectio/aeneid/)
+- [ The Prince Niccolò Machiavelli ](https://sandiegotech.org/lectio/the-prince/)
+- [ The Analects Confucius ](https://sandiegotech.org/lectio/analects/)
+- [ The Tao Te Ching Laozi ](https://sandiegotech.org/lectio/tao-te-ching/)
+- [ The Dhammapada Early Buddhist tradition ](https://sandiegotech.org/lectio/dhammapada/)
+- [ The Bhagavad Gita ](https://sandiegotech.org/lectio/bhagavad-gita/)
+- [ The Epic of Gilgamesh Sumer & Akkad ](https://sandiegotech.org/lectio/gilgamesh/)
+- [ Nicomachean Ethics Aristotle ](https://sandiegotech.org/lectio/nicomachean-ethics/)
+- [ Confessions Saint Augustine ](https://sandiegotech.org/lectio/confessions/)
+- [ The Divine Comedy Dante Alighieri ](https://sandiegotech.org/lectio/divine-comedy/)
+- [ Hamlet William Shakespeare ](https://sandiegotech.org/lectio/hamlet/)
+- [ The Gospel of Mark attributed to Mark ](https://sandiegotech.org/lectio/mark/)
+- [ Genesis Ancient Israel ](https://sandiegotech.org/lectio/genesis/)
+
+**Where these stand:** All 17 are beta. They were drafted by AI models. In November 2026 every section had a first review by machine readers, and the confirmed fixes were applied. An edition becomes a release through [the review of its readers](https://sandiegotech.org/lectio/#scholars) together with the editor's own full read. Neither has happened yet for any edition. [How an edition is made.](https://sandiegotech.org/lectio/mission/)
+
+## What readable means.
+
+The opening of *Meditations*, Book II. A Roman emperor is telling himself how to face the morning.
+
+**George Long · 1862**
+
+> Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.
+
+**Lectio Edition · 2026**
+
+> Begin each morning by telling yourself: today I will meet people who are meddling, ungrateful, arrogant, dishonest, envious, and unsociable. They are like this because they cannot tell good from evil.
+
+The first is the edition most people meet. It is accurate, and it was written for readers who died a century ago. The second is the same two sentences as they stand in the Lectio Edition today. In the app, Long, Casaubon's English of 1634 and the Greek stay beside it.
+
+## How an edition is made.
+
+A Lectio edition is a new rendering of the whole work. It is drafted by an AI model and it says so.
+
+The public-domain translations and, where we have it, the original are brought into one bundle. A model drafts the edition section by section. A second reader, also a model, then reads every section against those sources and reports what is wrong. A further pass tries to prove each finding false, and only the fixes that survive are applied. At that point the edition is a beta. It becomes a release when its readers have reviewed it and the editor has read the whole of it himself. Neither has happened yet for any book.
+
+Each edition is stamped with the year it was drafted and the date it was last revised, and it carries its sources and the places where it departs from the older English.
+
+[The translation mission, in full](https://sandiegotech.org/lectio/mission/)
+
+## About twenty books at launch. Then one each Monday.
+
+This is the plan. Dates can slip. The launch books go out as betas. A book that is not finished does not go out.
+
+The launch shelf is 20 books: the 17 above and 3 more that are drafted and not yet in the library, *Apology, Crito & Phaedo* (Plato), *The Art of War* (Sun Tzu) and *The Golden Sayings* (Epictetus).
+
+After launch, one new book appears each Monday from January 4, 2027, announced in [the Daily](https://sandiegotech.org/daily.html). The first 12 are dated. The register behind them holds 219 books in all.
+
+| Monday | Book | Author |
+| --- | --- | --- |
+| January 4, 2027 | *The Rubaiyat* | Omar Khayyam |
+| January 11, 2027 | *On Friendship & On Old Age* | Cicero |
+| January 18, 2027 | *Candide* | Voltaire |
+| January 25, 2027 | *The Consolation of Philosophy* | Boethius |
+| February 1, 2027 | *Utopia* | Sir Thomas More |
+| February 8, 2027 | *In Praise of Folly* | Erasmus |
+| February 15, 2027 | *The Imitation of Christ* | Thomas à Kempis |
+| February 22, 2027 | *Discourse on Method* | René Descartes |
+| March 1, 2027 | *The Social Contract* | Jean-Jacques Rousseau |
+| March 8, 2027 | *The Poems of Sappho* | Sappho |
+| March 15, 2027 | *The Enuma Elish* | Babylon |
+| March 22, 2027 | *The Yoga Sutras* | Patanjali |
+
+## The app is built and not yet released.
+
+Lectio is being prepared for the App Store. The Institute's Apple developer enrollment is in review, and nothing can be submitted until it clears. When the app is out it will be free.
+
+It runs on iPhone and iPad. It opens to the books you have been reading. Every book lists its editions, and switching between them keeps your place. You can set a passage beside the same passage in another edition, and keep bookmarks, highlights, notes and saved words.
+
+There is no link here because there is nothing to install yet. The Daily will say when there is.
+
+## Printed editions are planned. One proof exists.
+
+The printed book is set from the same bundle the app reads, so the page and the screen carry the same text.
+
+The only printed artifact today is a proof of *Meditations*. Only a release is printed, and the editor reads the proof on paper before it is sold. The plan after that is one printed edition a month, shortest works first.
+
+The text will be free to read, in the app and as a PDF. The bound book is what is sold, and what it earns goes to the Institute. One PDF exists today, of *Meditations*: [PDF, beta, revised November 2026](https://sandiegotech.org/lectio/meditations/meditations-lectio-edition-2026-11.pdf).
+
+Editions in other languages are planned, Spanish first. None exists yet beyond a trial setting of *Meditations*.
+
+## Every edition is beta until its readers make it a release.
+
+A Lectio edition is labeled beta from the day it is made. It earns its release stamp through the review of its readers, students and scholars alike, together with the editor's own full read.
+
+This is review by care, not by credential. A scholar here is anyone who will read closely. You hold the Lectio edition against the older translations, or against the original if you have the language. You flag where a passage loses the sense or reads badly, and you say so plainly.
+
+Every flagged passage anchors to an exact segment of the text. An accepted correction lands in the next revision with its reason recorded. A released edition names its reviewers in the colophon. Only releases go to print.
+
+There is a precedent. The Oxford English Dictionary began with an appeal to the public, and volunteer readers spent decades mailing quotation slips to its editors. Lectio works the same way, with better instruments.
+
+The machine review of November 2026 was a first pass. It does not replace this one. No edition has had its readers' review yet.
+
+[Join the review](mailto:brandon@sandiegotech.org?subject=Lectio%20Scholars&body=I%27d%20like%20to%20join%20the%20review.%0A%0AA%20work%20I%27d%20want%20to%20read%20closely%3A%20)
+
+**Open now:** The first open review is *Meditations*. The beta is on [its edition page](https://sandiegotech.org/lectio/meditations/), and the whole text is here to read: [PDF, beta, revised November 2026](https://sandiegotech.org/lectio/meditations/meditations-lectio-edition-2026-11.pdf).
+
+## The method and the record are public.
+
+Each edition's page carries its own record: the model that drafted it, its sources, what the review found and fixed, and what is still open.
+
+If you read a passage and think it is wrong, write to [brandon@sandiegotech.org](mailto:brandon@sandiegotech.org?subject=Lectio) and say where.
+
+**Source:** [github.com/sandiegotech/Lectio](https://github.com/sandiegotech/Lectio) · Code MIT · Lectio Editions CC BY-NC 4.0
+
+---
+
+Source: https://sandiegotech.org/lectio/mission/
+
+Lectio · The Translation Mission
+
+# A new edition of each great book, and an account of how it was made.
+
+This page is the method, told once. It covers why Lectio makes new editions at all, what they are held to, the stages each goes through, what the first full review found, and what is still undone.
+
+It describes things as they are on November 17, 2026.
+
+## Why make a new edition at all.
+
+Most of these books were never English. Every English reader has only ever met Homer, Plato or Laozi in translation, and a translation belongs to its time.
+
+The translations that are free to print are old. Pope's Iliad is from 1715. Long's Marcus Aurelius is from 1862. They are good, and some are great. But their English has moved away from us. Old translations use old words, and they also use words we still use in senses we no longer mean. "Temperance" now suggests not drinking. "Piety" suggests church. "Idea" suggests a thought in someone's head.
+
+The good modern translations are under copyright. They cannot be given away, and they cannot be set beside each other in one reader.
+
+So the choice for a free reader was to hand people the 1909 file, or to make something new. Lectio makes a new edition and keeps the old ones next to it. The older translations and the original are not replaced. They are there to be read, and the new edition is how most people will get to them.
+
+## What "modern" means here.
+
+A Lectio edition must read for anyone from about fifteen to ninety.
+
+That rule decides the vocabulary. The English is plain and current, and it is never fashionable. A word half the readers would have to look up is a failure, and so is a word that will sound dated in ten years. The editions draw on the durable middle of the language, the part three generations share.
+
+It cuts both ways. The first review took out "girlfriend", "the haves" and "for free". It also took out "car" for chariot, "chine" and "yonder".
+
+Modern does not mean casual, and it does not mean simplified. Aristotle's distinctions are all still there. Machiavelli is as cold as he was.
+
+## Faithful to the original, and complete.
+
+A Lectio edition is the whole work, in order, at its own length. It is a translation in the ordinary sense. The claim is that someone who has read the Lectio *Iliad* has read the *Iliad*.
+
+Fidelity is checked clause by clause: anything added, dropped, softened, sharpened, or explained. An explanation written into the author's sentence counts as an error even when it is correct. What a reader needs to know goes in a note beside the text.
+
+Names stay. Famous lines stay recognizable. Verse keeps its lines. Where an author repeats a phrase on purpose, the English repeats it.
+
+Shakespeare is the exception that shows the rule. He wrote in English, so there the edition changes very little and his own text stays the default.
+
+## What is reproduced, and what is only consulted.
+
+Public-domain texts are reproduced in full. Copyrighted work is never reproduced.
+
+- **Public-domain translations** are included whole in the app, with translator and year: Pope, Butler, Dryden, Jowett, Long, Legge, Longfellow, the King James translators and others.
+- **Original-language texts** are included where we have brought them in. Today that is the Greek of *Meditations* and Shakespeare's own *Hamlet*. The rest are still to come.
+- **Modern translations and scholarship under copyright** are named in an edition's provenance where they were consulted. Their text is not quoted or reproduced, in the app or on this site.
+- **The Lectio edition** is the Institute's own text, released under CC BY-NC 4.0.
+
+Copyright protects a translator's wording. It does not protect what a passage means. That is the line the editions keep to, and it is the same line any scholar keeps.
+
+Every edition carries a provenance record: the model that drafted it, the date, the sources, and the method. An edition without one does not ship. A Lectio edition is never presented as a historical translation.
+
+## The six stages an edition goes through.
+
+The first four are done by machine and produce a beta. The fifth belongs to people and cannot be handed to a model.
+
+1. **Ingest.** The public-domain translations and the original are brought into the bundle, each with its source and rights recorded.
+2. **Draft.** An AI model writes the Lectio rendering, one section at a time.
+3. **Review.** A second reader takes each section and reads it against every other edition of that section. It checks fidelity first, then register, voice, how the sentences read aloud, and form. It grades the section A, B or C and lists each fault with the source reading and a proposed fix.
+4. **Fix.** A further pass takes each reported fault and tries to prove it wrong. Only what holds is kept. The fix is written to change as little of the sentence as it needs.
+5. **Readers' review and the editor's read.** Readers hold the beta against the older translations or the original and flag what is wrong. The editor reads the whole edition and the list of fixes, and strikes what he does not want.
+6. **Release.** The corrections are applied, the bundle is rebuilt, and the edition is stamped a release. Only a release is printed.
+
+**Where the 17 editions are:** All 17 are beta. They have been through the first four stages. In this first run the editor chose to apply every confirmed fix before reading, so the corrected text is what the bundle now holds. The fifth stage has not been done for any of them: no readers' review has closed and the editor has not yet read any edition in full. 0 of 17 are releases.
+
+## What the first full review found.
+
+In November 2026 every drafted edition was read against its sources: 17 works, 442 sections, about a million words.
+
+No section had to be redone. 212 sections were graded A, meaning no changes proposed. 230 were graded B, meaning small fixes. None was graded C. The readers found 51 errors of meaning, about 480 places where a reader would stumble, and roughly twice as many points of polish.
+
+After each finding was re-checked, 2,208 fixes were applied: 113 high, 752 medium and 1,343 low. High means the meaning was wrong or missing. Medium means a reader would stumble. Low is polish. The count of high fixes is larger than the count of errors because one decision, such as a single English word for a key term, becomes many entries.
+
+| Edition | Drafted by | Sections | A | B | High | Medium | Low |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Meditations](https://sandiegotech.org/lectio/meditations/#made) | Opus 4.8 | 12 | 0 | 12 | 8 | 45 | 102 |
+| [The Iliad](https://sandiegotech.org/lectio/iliad/#made) | Opus 4.8 | 24 | 4 | 20 | 5 | 44 | 114 |
+| [The Odyssey](https://sandiegotech.org/lectio/odyssey/#made) | Opus 4.8 | 24 | 5 | 19 | 2 | 31 | 250 |
+| [The Republic](https://sandiegotech.org/lectio/republic/#made) | Fable 5 | 10 | 1 | 9 | 28 | 75 | 76 |
+| [The Aeneid](https://sandiegotech.org/lectio/aeneid/#made) | Opus 4.8 | 12 | 0 | 12 | 8 | 62 | 74 |
+| [The Prince](https://sandiegotech.org/lectio/the-prince/#made) | Fable 5 | 26 | 20 | 6 | 0 | 15 | 28 |
+| [The Analects](https://sandiegotech.org/lectio/analects/#made) | Fable 5 | 20 | 14 | 6 | 0 | 15 | 150 |
+| [The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/#made) | Opus 4.8 | 81 | 65 | 16 | 4 | 26 | 30 |
+| [The Dhammapada](https://sandiegotech.org/lectio/dhammapada/#made) | Opus 4.8 | 26 | 6 | 20 | 3 | 31 | 49 |
+| [The Bhagavad Gita](https://sandiegotech.org/lectio/bhagavad-gita/#made) | Opus 4.8 | 18 | 8 | 10 | 3 | 24 | 49 |
+| [The Epic of Gilgamesh](https://sandiegotech.org/lectio/gilgamesh/#made) | Opus 4.8 | 11 | 0 | 11 | 2 | 23 | 48 |
+| [Nicomachean Ethics](https://sandiegotech.org/lectio/nicomachean-ethics/#made) | Opus 4.8 | 10 | 0 | 10 | 38 | 112 | 56 |
+| [Confessions](https://sandiegotech.org/lectio/confessions/#made) | Fable 5 | 13 | 2 | 11 | 1 | 18 | 55 |
+| [The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/#made) | Opus 4.8 | 100 | 55 | 45 | 2 | 134 | 171 |
+| [Hamlet](https://sandiegotech.org/lectio/hamlet/#made) | Opus 4.8 | 5 | 0 | 5 | 9 | 67 | 71 |
+| [The Gospel of Mark](https://sandiegotech.org/lectio/mark/#made) | Opus 5 | 16 | 3 | 13 | 0 | 27 | 8 |
+| [Genesis](https://sandiegotech.org/lectio/genesis/#made) | Opus 5 | 34 | 29 | 5 | 0 | 3 | 12 |
+| Total |  | 442 | 212 | 230 | 113 | 752 | 1,343 |
+
+The readers were AI models, up to twenty working at once. For most works the original language is not yet in the bundle, so the reader compared the draft with the public-domain translation and judged the original from its own knowledge of it. Each edition's page says which was the case. That is a real limit, and it is one reason the editor's read matters.
+
+### The five causes
+
+The same five causes account for most of what was found.
+
+1. **The older translator's notes printed as the author.** Footnotes and bracketed glosses from the base translation had been carried into the text. In *Meditations*, a footnote of George Long's quoting Homer was printed as Marcus's own words. A translator's note sat inside the Muses' speech in the *Republic*.
+2. **Drafted from the English, not the original.** Where the base translation was wrong or coy, so was the draft. Marcus's grandfather's mistress had become his father's.
+3. **No style sheet.** Each section was drafted alone, so names and key terms changed from book to book. The *Ethics* had four English words for temperance. *The Prince* kept "virtù" in some chapters and translated it in others.
+4. **Explanation written into the sentence.** A gloss after a name. A moral after an ending.
+5. **Single words in the wrong register.** Too new on one side, too old on the other.
+
+### What changed in the method
+
+- A style sheet is written before the first section: names, the dozen key terms and the one English word for each, oaths, quotation and verse style, what stays in the original language. The rules the reviewers wrote for each work, which are on each edition's page, are the first of these.
+- New editions are drafted from the original, with the public-domain translation as a check on meaning and not as the text to modernize. The original is to be bundled for every work so that review can check against it.
+- The build gets a mechanical gate: no brackets or translator's notes in a Lectio segment, one quotation style per work.
+- 9 segments that turned out to be an editor's note or an invented sentence are now marked so the app, print and audio skip them. Segment numbers are frozen, so they could not simply be deleted.
+- Quoted verse inside prose is to keep its line breaks. The build does not do this yet.
+
+## The readers' review.
+
+Every edition is beta until its readers make it a release. The review is open to anyone who will read closely, students and scholars alike. It is review by care, not by credential.
+
+A reviewer holds the Lectio edition against the older translations or the original, flags where a passage loses the sense or reads badly, and says so plainly. Each flag anchors to an exact segment. An accepted correction lands in the next revision with its reason recorded, and a released edition names its reviewers in the colophon.
+
+The machine review described above came first and does not replace this. The first open review is *Meditations*.
+
+[The Scholars, and how to join](https://sandiegotech.org/lectio/#scholars)
+
+## Which models, and why.
+
+Each edition names the model that drafted it. The first review also gave a way to compare them.
+
+| Drafted by | Works | Serious and medium faults per 10,000 words | Errors of meaning per 100,000 words |
+| --- | --- | --- | --- |
+| Opus 4.8 (June 2026) | 11 | 6.3 | 6.8 |
+| Fable 5 (July 2026) | 4 | 2.1 | 1.4 |
+
+The works differ, so this is suggestive and not proof. But the stronger model made about a third as many faults and a fifth as many errors of meaning, and errors of meaning are the ones that matter. The table covers fifteen works. The other two, Genesis and Mark, were drafted by a different model (Claude Opus 5) under their own charter and are not in the comparison.
+
+From this the plan follows. Draft with the best model available, because drafting is done once and read by everyone after. Do the first review with a model that reads closely and can run many sections at once. Do the fix pass on the best model, because it decides what prints.
+
+The changes to the method matter more than any change of model.
+
+## One edition, stamped, with revisions.
+
+An edition carries a vintage, the year it was drafted, and a revision date. All 17 editions are vintage 2026, revised November 17, 2026, and beta.
+
+Fixes from review are revisions. The vintage stays the same, the revision date changes, and each change is logged. An edition is revised in the open. It is not quietly regenerated.
+
+A new vintage is a full redraft, and it is made only when it is measurably better. Three sections are redrafted as a trial and reviewed blind against the current text. The trial has to win on faults per ten thousand words and on the editor's own reading. Otherwise the current edition stands. The trial is run about once a year, when a new generation of models arrives. Some years nothing will change.
+
+Old vintages are kept with their provenance, so a passage can still be cited from the edition it came from. The printed book carries its vintage and revision in the colophon.
+
+## The review record, and where to read it.
+
+For every work the review left a record: a report on each section, the list of fixes with the reason for each, the rules chosen for the work, the findings that were rejected and why, and what was left for the editor.
+
+Each edition's page on this site gives the substance of it: the model and drafting date, the sources, what the edition was checked against, the grades, the fixes by severity, the rules, and a plain list of what is still open. Start from [the library](https://sandiegotech.org/lectio/#library).
+
+The files themselves are in the Lectio repository under `review/`. If you find an error in an edition, write to [brandon@sandiegotech.org](mailto:brandon@sandiegotech.org?subject=Lectio) with the passage.
+
+## Other languages.
+
+Translation has always carried these books from one language and one century into the next. English is the first language Lectio works in. It is not meant to be the only one.
+
+Spanish comes first. A translation starts only from an edition that is a release. It is made from the original, with the Lectio English as the guide to register. It needs its own reader at the read stage, a native speaker. It is a new edition of the same work under the same rules.
+
+A Spanish *Meditations* has been set as a print trial and is not finished. There will be no second language until the first has a reader.
+
+## What is not done yet.
+
+An account of a method should say where it stops.
+
+- The readers' review and the editor's read. No edition has had either in full, so all 17 are beta. Each edition's page lists what waits for the editor. *Meditations* is first.
+- One house style across works. Each edition is now consistent within itself, but they differ from each other in quotation marks and dashes.
+- The originals. Only two works have their original text in the bundle.
+- The margin notes. Explanations that were taken out of the text have mostly not yet been written as notes.
+- The launch shelf. 3 drafted books still have to be brought into the library and reviewed.
+- The app's release, which waits on Apple.
+- Print, beyond one proof. Other languages, beyond one trial.
+
+[Back to the library](https://sandiegotech.org/lectio/#library)
+
+---
+
+Source: https://sandiegotech.org/lectio/meditations/
+
+Lectio Edition · 2026
+
+# Meditations
+
+Marcus Aurelius
+
+- 170–180 CE
+- Western tradition
+- Philosophy
+- Lectio Edition 2026
+
+The private notebook of a Roman emperor. Marcus Aurelius wrote it in Greek, at night and on campaign, to remind himself how to live: with reason, with justice, and without fear of death. He did not mean anyone to read it.
+
+## A man talking to himself should sound like one.
+
+Most readers meet Marcus in George Long's translation of 1862. It is accurate and it is stiff. "Begin the morning by saying to thyself" is not how anyone speaks to himself, and the book is nothing but a man speaking to himself.
+
+The older English also carries its own furniture. Long's brackets, footnotes and conjectures sit in and around the text, and a reader cannot always tell where Marcus stops and his translator begins.
+
+The Lectio Edition gives the twelve books in plain current English, with nothing in the text that the Greek does not have. Long, Casaubon's English of 1634 and the Greek itself stay in the app beside it. The aim is that you read Marcus straight through, and go to the older versions when a line makes you curious.
+
+## How it begins.
+
+> **Book I · What I Learned, and From Whom**
+
+> From my grandfather Verus, I learned to be good-natured and to keep my temper under control.
+
+> From everything I heard and remembered about my father, I learned modesty and a strong, manly character.
+
+> From my mother, I learned reverence and generosity; to hold back not only from doing wrong but even from thinking it; and to live simply, far from the habits of the rich.
+
+> From my great-grandfather, I learned the value of not relying on public schools but having good teachers at home—and that this is something worth spending freely on.
+
+> From my tutor, I learned not to back the Greens or the Blues at the races, or the small-shield or the big-shield fighters in the arena; to endure hard work, to want little, to do things with my own hands, to mind my own business, and to refuse to listen to gossip.
+
+> From Diognetus, I learned not to waste myself on trivial things; not to believe the claims of magicians and quacks about spells and exorcisms; and not to keep quails for fighting, or get excited about such things. He taught me to put up with plain speaking and to take philosophy seriously; he led me to hear the philosophers Bacchius, Tandasis, and Marcianus, to write dialogues as a boy, and to choose the simple camp-bed and animal skins of the Greek discipline.
+
+The first 225 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review of November 2026 set these rules for the whole work and applied them. The authority is the Greek. Long and Casaubon are witnesses to it, not sources of text.
+
+- Long's apparatus stays out. Nothing from his square brackets, footnotes, conjectures or ellipses is printed unless the Greek has it. The review found two places where a footnote of Long's had been printed as Marcus's own words: a line of Homer in Book X and Cicero's Latin in Book VII. Both are gone.
+- The inner *daimon* is "the divinity within you" every time, so a reader can see it is one thing. Only in VII.17, where the sentence turns on the Greek word, is the word itself named.
+- A generic person is "a man" and "he", with "people" for the plural, as the Greek has it. Book VIII had drifted to "a person" and "they" and was brought back.
+- Where Marcus quotes the same verse twice, the English is the same twice.
+- Where a sentence depends on a Greek pun that English cannot carry, the Greek word is named once inside the sentence. Where English can carry the play, it stays English.
+- Quoted speech takes double quotation marks. Quoted verse runs on as prose, because this is a prose edition.
+
+### Where it differs from the older translations
+
+The edition records 3 divergences: places where it departs from the older English, each with its reason. These are all of them, with 1 correction from the review added. The full record is in the app, one tap from the text.
+
+### Τὰ εἰς ἑαυτόν
+
+The title
+
+**Older:** "Meditations", the traditional title
+
+**Lectio:** Kept as "Meditations", read as "To Himself"
+
+Marcus gave the work no title. "Meditations" is a later editor's label. The Greek means "to himself". The edition keeps the familiar name and treats the text as what it is, a private notebook.
+
+### δαίμων (*daimon*)
+
+Books II, III, V and elsewhere
+
+**Older:** "the daemon" (Long)
+
+**Lectio:** the divinity within you
+
+"Daemon" sends a modern reader toward "demon". For the Stoics it is the share of divine reason each person carries, and Marcus treats it as a god. One phrase throughout lets the reader follow it, and the phrase keeps the word divine.
+
+### τὸ ἡγεμονικόν (*to hegemonikon*)
+
+Throughout
+
+**Older:** "the ruling faculty" (Long)
+
+**Lectio:** the ruling faculty
+
+This is the Stoic name for the part of the self that reasons and commands. Here the edition agrees with Long and keeps his term as the standing one, varying it only where the sentence needs it. The editor has still to decide whether an agreement belongs in a list of divergences.
+
+### τῇ παλλακῇ τοῦ πάππου
+
+Book I, section 17
+
+**Older:** "my grandfather's concubine" (Long)
+
+**Lectio:** my grandfather's mistress
+
+The first draft had "my father's mistress". The Greek says grandfather, and so does Long. It is one of the errors of meaning the review caught, and an example of why every section is read against its sources.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. Three other editions of Meditations are in the bundle, and switching keeps your place.
+
+- **George Long, 1862.** The classic Victorian standard: clear, dignified, widely read.
+- **Méric Casaubon, 1634.** The first English Meditations: ornate, archaic, devotional.
+- **The original Greek.** The original Koine Greek: Marcus's private notebook (Τὰ εἰς ἑαυτόν).
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 15, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 12 books, about 42,400 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- George Long, translation (1862)
+- Méric Casaubon, translation (1634)
+- Greek original — Τὰ εἰς ἑαυτόν (Wikisource)
+
+**First review:** November 2026. 12 books read against the Greek in the bundle, with Long (1862) and Casaubon (1634) as witnesses. 0 graded A, 12 graded B, none graded C.
+
+**Fixes applied:** 155: 8 high (meaning), 45 medium (a reader would stumble), 102 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The readers' review, which is open now, and the editor's own read of all twelve books. Meditations is first in line for both.
+- The note on *hegemonikon* now records agreement with Long. Keep it or drop it.
+- The notes and front matter use curly quotation marks and the text uses straight ones. One house style across all editions is planned and not yet applied.
+- The place-notes at the ends of Books I and II ("Among the Quadi at the Granua") are not in the Greek as bundled and are not printed. They belong in the margin notes, which are not yet written.
+
+Cite this edition: Marcus Aurelius. Meditations. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/meditations/
+
+## A PDF exists. A printed book does not yet.
+
+The book is set from the same bundle the app reads, so the page and the screen carry the same text.
+
+[PDF, beta, revised November 2026 · 1.2 MB](https://sandiegotech.org/lectio/meditations/meditations-lectio-edition-2026-11.pdf)
+
+Meditations is the first book Lectio has set for print: 5.5 by 8.5 inches, the app's serif, the translation notes at the back. One proof exists. Only a release is printed. The readers' review and the editor's read come first. Then the editor reads the proof on paper and signs it.
+
+[The library](https://sandiegotech.org/lectio/)[The Iliad](https://sandiegotech.org/lectio/iliad/)
+
+Read next: [Nicomachean Ethics](https://sandiegotech.org/lectio/nicomachean-ethics/), [The Republic](https://sandiegotech.org/lectio/republic/), [The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/)
+
+---
+
+Source: https://sandiegotech.org/lectio/iliad/
+
+Lectio Edition · 2026
+
+# The Iliad
+
+Homer
+
+- 800–701 BCE
+- Western tradition
+- Epic poem
+- Lectio Edition 2026
+
+Homer's poem of a few weeks in the tenth year of the war at Troy. It is about what a man does with anger, with grief, and with the certainty that he will die. The Greeks sang it for centuries before anyone wrote it down.
+
+## Homer is fast. The old English versions are slow.
+
+The two public-domain Iliads most people find are Pope's couplets of 1715 and Butler's prose of 1898. Pope is a great English poem and not much like Homer. Butler is plain, but he gives the gods their Roman names and writes "car" for chariot.
+
+A reader who starts either one tends to stop in Book II. The story is not the obstacle. The English is.
+
+The Lectio Edition is a prose Iliad in current English, all twenty-four books. It keeps the repeated epithets, because the repetition is how the poem is built. It restores the Greek names. Pope and Butler stay in the app beside it.
+
+## How it begins.
+
+> **Book I · The Quarrel**
+
+> Rage — sing, goddess, the rage of Achilles, son of Peleus, the ruinous rage that brought the Greeks endless suffering and hurled down to the house of the dead the strong souls of many heroes, leaving their bodies as carrion for the dogs and all the birds — and the will of Zeus was working itself out. Begin where the two first quarreled: Agamemnon, lord of men, and brilliant Achilles.
+
+> Which of the gods set them fighting? Apollo, son of Zeus and Leto. Furious with the king, he sent a foul plague through the camp, and the soldiers were dying — all because Agamemnon had dishonored Chryses, his priest.
+
+> Chryses had come to the fast Greek ships to free his daughter, carrying a boundless ransom, holding in his hands, high on a golden staff, the wreaths of Apollo who strikes from afar. He begged the whole army, but most of all the two sons of Atreus, the marshals of the people:
+
+The first 161 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+These are the rules the review settled for the whole poem.
+
+- The first word, *menis*, is "rage". The hot human anger Achilles later curses, *cholos*, is "anger". The two are kept apart, as Homer keeps them.
+- The army is mostly "the Greeks". Homer's three names for it, Achaeans, Argives and Danaans, mean the same coalition and were chosen to fit the meter.
+- Gods and heroes have their Greek names: Zeus, Hera, Athena, Odysseus.
+- Fixed epithets are kept each time they recur: swift-footed Achilles, Hector breaker of horses.
+- A patronymic that names a remote ancestor is given as descent. Achilles is "grandson of Aeacus", not his son.
+- No Biblical or Christian idiom in a pagan poem, and no modern slang. The draft had "the spirit may be willing", "a time to mourn" and "blowhard". All were replaced with what the Greek says.
+- "Car" became "chariot" in 53 places, and leftover archaisms such as "chine" and "a whit" were replaced.
+
+### Where it differs from the older translations
+
+The edition records 73 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### μῆνις (*menis*)
+
+Book I, line 1
+
+**Older:** "wrath" (Pope), "anger" (Butler)
+
+**Lectio:** rage
+
+The poem's first word. Homer uses it almost only for the anger of gods. "Rage" is the current word nearest to its size.
+
+### Ἀχαιοί, Ἀργεῖοι, Δαναοί
+
+Throughout
+
+**Older:** Achaeans, Argives, Danaans
+
+**Lectio:** the Greeks
+
+Three names for one army. Keeping all three puzzles a new reader and tells him nothing. The introduction records the variety.
+
+### οἵη περ φύλλων γενεή
+
+Book VI, lines 146 to 149
+
+**Older:** "Like leaves on trees the race of man is found" (Pope)
+
+**Lectio:** The generations of men are like the leaves of the trees.
+
+The most quoted lines in the book. Butler has the forest bud with "fresh vines", which is a slip. The Greek is leaves falling and the same tree leafing again.
+
+### οὐ ληϊστή, οὐδ' ἑλετή
+
+Book IX, lines 408 to 409
+
+**Older:** "it can neither be bought nor harried back again" (Butler)
+
+**Lectio:** a man's life cannot be raided back
+
+Achilles uses of his life the same words he has just used of cattle and tripods. Everything Agamemnon offers can be replaced. A life cannot. The edition keeps the raiding words.
+
+### χόλος (*cholos*)
+
+Book XVIII, lines 107 to 110
+
+**Older:** "anger" or "wrath" (Butler, Pope)
+
+**Lectio:** "anger", never "rage"
+
+When Achilles curses the passion that rose in him against Agamemnon, Homer does not use the word of line one. The edition reserves "rage" for *menis* so the reader can feel the difference.
+
+### ἀλλὰ φίλος, θάνε καὶ σύ
+
+Book XXI, line 106
+
+**Older:** "Therefore, my friend, you too shall die" (Butler)
+
+**Lectio:** So die, friend
+
+Achilles calls the boy he is about to kill *philos*, one of his own. He is not being kind. He is counting Lycaon among the doomed, himself included. The address is kept bare.
+
+### Ἕκτορος ἱπποδάμοιο
+
+Book XXIV, line 804
+
+**Older:** "And peaceful slept the mighty Hector's shade" (Pope, who rewrites the ending)
+
+**Lectio:** Such was the funeral of Hector, breaker of horses.
+
+The poem ends on Hector, on a burial, and on an epithet. The edition ends where Homer ends.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. Two other editions of The Iliad are in the bundle, and switching keeps your place.
+
+- **Alexander Pope, 1715.** Stately heroic couplets: 18th-century grandeur.
+- **Samuel Butler, 1898.** Plain, clear Victorian prose.
+
+The original Greek is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 15, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 24 books, about 148,400 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Alexander Pope, verse (1715, public domain)
+- Samuel Butler, prose (1898, public domain)
+- Lang, Leaf & Myers, prose (1882, public domain)
+- Richmond Lattimore (1951, consulted for Greek fidelity)
+- Robert Fagles (1990, consulted for narrative energy)
+- Emily Wilson (2017, consulted for accuracy)
+- the Greek (Homeric text)
+
+**First review:** November 2026. 24 books read against Butler (1898) and Pope (1715). The Greek is not in the bundle, so the Greek readings came from the reviewing model's own knowledge of the text. 4 graded A, 20 graded B, none graded C.
+
+**Fixes applied:** 163: 5 high (meaning), 44 medium (a reader would stumble), 114 low (polish). Each was re-checked by a further pass before it was applied.
+
+**Set aside:** 3 segments that held an editor's note or an invented sentence, not the author's text, are marked to be skipped by the app, print and audio.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all twenty-four books.
+- Book I: Achilles' retelling of the quarrel to Thetis is 28 lines of speech in Homer. The edition still gives it as a short narrated list. It has to be restored as speech, and that is new writing the editor should read.
+- Three segments are set aside, in Books V, X and XXIII. The editor has to decide whether to retire them for good or replace them with Homer's own closing lines.
+- The note that stood at the end of Book XXIII should move to the margin notes.
+
+Cite this edition: Homer. The Iliad. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/iliad/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[Meditations](https://sandiegotech.org/lectio/meditations/)[The Odyssey](https://sandiegotech.org/lectio/odyssey/)
+
+Read next: [The Odyssey](https://sandiegotech.org/lectio/odyssey/), [The Aeneid](https://sandiegotech.org/lectio/aeneid/), [The Epic of Gilgamesh](https://sandiegotech.org/lectio/gilgamesh/)
+
+---
+
+Source: https://sandiegotech.org/lectio/odyssey/
+
+Lectio Edition · 2026
+
+# The Odyssey
+
+Homer
+
+- 800–701 BCE
+- Western tradition
+- Epic poem
+- Lectio Edition 2026
+
+Homer's poem of the long way home. Odysseus spends ten years getting back from Troy to his wife, his son and his island. Under the monsters and the gods it is about cunning, endurance and the pull of home.
+
+## The story is easy. The 1900 file is not.
+
+The free Odyssey is Samuel Butler's prose of 1900. Butler is readable, but he calls the hero Ulysses and the goddess Minerva, and he flattens the repeated lines that give the poem its sound.
+
+The Lectio Edition tells all twenty-four books in current English. It keeps the Greek names and the fixed epithets, and where Homer repeats a line word for word, so does the English. Butler stays in the app beside it.
+
+It was made to be read alongside the Lectio Iliad. The two share their names, their epithets and their spelling.
+
+## How it begins.
+
+> **Book I · Athena Visits Ithaca**
+
+> Tell me, Muse, of the man of many turns — the one who wandered far and long after he sacked the holy city of Troy. He saw the cities of many peoples and learned how they thought; he suffered deep grief on the open sea, fighting for his own life and for the safe homecoming of his men. But he could not save them, hard as he tried — they died by their own reckless folly, those fools, when they devoured the cattle of Hyperion the Sun, who took from them the day of their return. Of these things, goddess, daughter of Zeus, begin where you will, and tell us too.
+
+> By now everyone who had escaped a violent death — in the war or on the sea — was home. Only Odysseus was still kept from his wife and his own country, held back by the nymph Calypso, a queen among goddesses, who wanted him for a husband and kept him deep inside her hollow cave. And when at last, as the years rolled on, the time came that the gods had spun for him to return to Ithaca, his trials were still not over, not even among his own people. The gods pitied him now — all of them but Poseidon, who stayed furious with godlike Odysseus and would not let him reach his homeland.
+
+The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review swept all twenty-four books for each of these and corrected every departure it found.
+
+- Gods and heroes keep their Greek names, in the familiar Latinized spelling: Odysseus, Athena, Telemachus, Eurycleia. The draft had mixed spellings such as Antinoos and Antinous. One form now holds.
+- The army is "the Greeks", as in the Iliad.
+- Fixed epithets have one form each: "winged words", "gray-eyed Athena", "Zeus who gathers the clouds", "earth-shaker".
+- Lines Homer repeats word for word are rendered word for word. Penelope's shroud speech is the same in Books II, XIX and XXIV.
+- Homeric idioms are kept where English can carry them and translated where it cannot.
+- Modern idioms with the wrong sense came out: "make your play", "good luck to you", "last supper". So did leftover archaisms such as "trumpery" and "steading".
+
+### Where it differs from the older translations
+
+The edition records 72 divergences: places where it departs from the older English, each with its reason. Here are 5, with 1 correction from the review added. The full record is in the app, one tap from the text.
+
+### πολύτροπος (*polytropos*)
+
+Book I, line 1
+
+**Older:** "that ingenious hero" (Butler)
+
+**Lectio:** the man of many turns
+
+The word means both much-traveled and quick to turn in thought. Older versions pick one sense. The phrase holds both.
+
+### πολύτλας δῖος Ὀδυσσεύς
+
+Throughout
+
+**Older:** "the much-enduring noble Odysseus"
+
+**Lectio:** long-suffering Odysseus
+
+His standing epithet. Endurance is what defines him, and the reader should hear it each time Homer says it.
+
+### Οὖτις (*Outis*)
+
+Book IX, lines 366 to 414
+
+**Older:** "Noman" (Butler, Pope)
+
+**Lectio:** Nobody
+
+Odysseus names himself Nobody, so that when the Cyclops shouts that Nobody is killing him, his neighbors go home. The name has to be the same word in the cave and in the cry, and it has to be ordinary English.
+
+### ἐπάρουρος ἐὼν θητευέμεν ἄλλῳ
+
+Book XI, lines 489 to 491
+
+**Older:** "a paid servant in a poor man's house" (Butler)
+
+**Lectio:** I would rather be a hired hand, working another man's land
+
+Achilles among the dead takes back the creed of the Iliad. The Greek is exact: a hired field hand serving a man who has no land of his own. He is free, and he is at the bottom. "Servant" is too vague.
+
+### τέτλαθι δή, κραδίη
+
+Book XX, line 18
+
+**Older:** "Heart, be still, you had worse than this to bear" (Butler)
+
+**Lectio:** Endure, my heart. You have borne worse than this.
+
+The verb is from the same root as his epithet. He is ordering himself to be what his name says he is.
+
+### ἔπεα πτερόεντα
+
+Throughout
+
+**Older:** varied
+
+**Lectio:** winged words
+
+The draft gave this formula several ways. Homer gives it one way. Eleven places were corrected.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Odyssey is in the bundle, and switching keeps your place.
+
+- **Samuel Butler, 1900.** Plain, clear Victorian prose.
+
+The original Greek is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 16, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 24 books, about 118,400 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Samuel Butler, prose (1900, public domain)
+- Butcher & Lang, prose (1879, public domain)
+- Robert Fitzgerald (1961, consulted)
+- Robert Fagles (1996, consulted)
+- Emily Wilson (2017, consulted)
+- the Greek (Homeric text)
+
+**First review:** November 2026. 24 books read against Butler (1900). The Greek is not in the bundle, so the Greek readings came from the reviewing model's own knowledge of the text. 5 graded A, 19 graded B, none graded C.
+
+**Fixes applied:** 283: 2 high (meaning), 31 medium (a reader would stumble), 250 low (polish). Each was re-checked by a further pass before it was applied.
+
+**Set aside:** 2 segments that held an editor's note or an invented sentence, not the author's text, are marked to be skipped by the app, print and audio.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all twenty-four books.
+- Seven lines about Helen in Penelope's speech (Book XXIII) were missing and have been restored. Ancient critics doubted these lines. The edition has no note saying so yet.
+- Two translator's notes that had been printed as Homer's text, in Books V and XIV, are set aside. The first belongs in the margin notes. The second made a false claim and must be reworded before it goes anywhere.
+- A passage in Book XVII repeats one in Book IV and is still worded differently. Matching them is optional.
+
+Cite this edition: Homer. The Odyssey. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/odyssey/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Iliad](https://sandiegotech.org/lectio/iliad/)[The Republic](https://sandiegotech.org/lectio/republic/)
+
+Read next: [The Iliad](https://sandiegotech.org/lectio/iliad/), [The Aeneid](https://sandiegotech.org/lectio/aeneid/), [The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/)
+
+---
+
+Source: https://sandiegotech.org/lectio/republic/
+
+Lectio Edition · 2026
+
+# The Republic
+
+Plato
+
+- 375 BCE
+- Western tradition
+- Philosophy
+- Lectio Edition 2026
+
+Plato's dialogue on justice. Socrates asks what justice is and whether it is worth having, and to answer he builds a city in words. The Cave, the divided line and the philosopher-king all come from this book.
+
+## It is a conversation, and it should read like one.
+
+Benjamin Jowett's translation of 1871 is lucid and long-lived. It is also Victorian. His speakers swear "By heaven", his Cave is a "den", and his key words have moved since he chose them. "Temperance" now means not drinking. "Idea" now means a thought in someone's head.
+
+The Lectio Edition renders all ten books as talk between people, in current English, and fixes one English word for each term the argument turns on. Jowett stays in the app beside it.
+
+## How it begins.
+
+> **Book I · What Is Justice?**
+
+> I went down to the Piraeus yesterday with Glaucon, the son of Ariston, to offer my prayers to the goddess, and to see how they would put on the festival, this being the first time it was held. I thought the procession our own people made was beautiful, though the one the Thracians marched in looked every bit as good. We said our prayers, watched the spectacle, and set off back toward the city. And just then Polemarchus, the son of Cephalus, caught sight of us from a distance, starting on the road home, and sent his slave running ahead to tell us to wait for him. The boy caught my cloak from behind and said: Polemarchus asks you to wait.
+
+> I turned around and asked where his master was.
+
+> There he is, said the boy — coming up behind you. Just wait.
+
+> Of course we'll wait, said Glaucon; and in a few minutes Polemarchus came up, with Adeimantus, Glaucon's brother, Niceratus the son of Nicias, and several others, all on their way from the procession.
+
+The first 176 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review found that this edition's terms drifted from book to book. These are the rules that now hold.
+
+- Explanations are never printed as Plato's text. A gloss on a name, a pun or an allusion comes out of the sentence and goes to the margin notes. The review found a translator's note inside the Muses' speech in Book VIII.
+- The four virtues are wisdom, courage, self-command and justice. *Sophrosyne* had been "self-discipline", "self-restraint" and "temperance" in different books.
+- *Gymnastike* is "physical training". "Gymnastics" now means a sport.
+- When the Greek swears by Zeus, the English says "by Zeus". "God" and "Good lord" are not used as exclamations.
+- A line of Homer quoted twice has one wording.
+- Words that date the text came out: "girlfriend", "the haves", "consumer", "payroll", "the gym".
+
+### Where it differs from the older translations
+
+The edition records 30 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### τὸ τοῦ κρείττονος συμφέρον
+
+Book I, 338c
+
+**Older:** "justice is nothing else than the interest of the stronger" (Jowett)
+
+**Lectio:** justice is nothing other than the advantage of the stronger
+
+"Interest" has drifted toward finance and polite concern. "Advantage" keeps Thrasymachus as blunt as Plato makes him.
+
+### γενναῖόν τι ἓν ψευδομένους
+
+Book III, 414b
+
+**Older:** "just one royal lie" (Jowett)
+
+**Lectio:** One noble lie
+
+*Gennaios* means well-born. Plato's phrase is a contradiction on purpose, a lie of good family. "Royal" names who hears the lie. "Noble" keeps the discomfort.
+
+### σωφροσύνη (*sophrosyne*)
+
+Book IV and throughout
+
+**Older:** "temperance" (Jowett)
+
+**Lectio:** self-command
+
+Plato explains the word by the phrase "stronger than himself": the better part of a man holding the worse. "Self-command" keeps that in view each time.
+
+### ἐὰν μὴ οἱ φιλόσοφοι βασιλεύσωσιν
+
+Book V, 473c
+
+**Older:** "Until philosophers are kings" (Jowett)
+
+**Lectio:** Unless philosophers become kings in our cities
+
+The Greek is a hard condition and promises nothing. "Until" tells the reader the day is coming. Plato does not say so.
+
+### καταγείῳ οἰκήσει σπηλαιώδει
+
+Book VII, 514a
+
+**Older:** "an underground den" (Jowett)
+
+**Lectio:** a kind of cave
+
+A den is where an animal lives. The image depends on its being a place where people live and which they take for the world.
+
+### ἡ τοῦ ἀγαθοῦ ἰδέα
+
+Book VII
+
+**Older:** "the idea of good" (Jowett)
+
+**Lectio:** the form of the good
+
+To a modern ear an idea is a thought. Plato means the opposite: the thing most real, seen last and with effort.
+
+### δαίμων (*daimon*)
+
+Book X, 617e
+
+**Older:** "genius" (Jowett)
+
+**Lectio:** guardian spirit
+
+"Genius" now means talent. The *daimon* is the spirit that goes with a life. In the myth of Er the soul chooses its own, which is why the blame is the chooser's.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Republic is in the bundle, and switching keeps your place.
+
+- **Benjamin Jowett, 1871.** The classic Victorian Republic: Jowett's lucid, hugely influential standard.
+
+The original Greek is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** July 7, 2026, by Claude Fable 5 (`claude-fable-5`), an AI model. 10 books, about 112,900 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Greek, the original text of the Politeia
+- Benjamin Jowett, The Republic of Plato (1871, public domain)
+- Paul Shorey, Loeb Classical Library (consulted, not quoted)
+- G. M. A. Grube / C. D. C. Reeve (1992, consulted, not quoted)
+
+**First review:** November 2026. 10 books read against Jowett (1871). The Greek is not in the bundle, so the Greek readings came from the reviewing model's own knowledge of the text. 1 graded A, 9 graded B, none graded C.
+
+**Fixes applied:** 179: 28 high (meaning), 75 medium (a reader would stumble), 76 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all ten books.
+- Book VII: short replies now use contractions, as in the books around it. The long speeches do not. The rest needs to be settled by ear.
+- Three places where "Honestly" may stand for an oath in the Greek. The Greek has not been checked.
+- One gloss is still in the text at 392d, and a note defends it. Decide whether it stays.
+- The explanations taken out of the text (Bendis, the nuptial number, the 729 calculation and others) have not yet been written into the margin notes.
+- One note quotes "the turning around of the soul" where the text has "of a soul".
+
+Cite this edition: Plato. The Republic. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/republic/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Odyssey](https://sandiegotech.org/lectio/odyssey/)[The Aeneid](https://sandiegotech.org/lectio/aeneid/)
+
+Read next: [Nicomachean Ethics](https://sandiegotech.org/lectio/nicomachean-ethics/), [The Prince](https://sandiegotech.org/lectio/the-prince/), [Meditations](https://sandiegotech.org/lectio/meditations/)
+
+---
+
+Source: https://sandiegotech.org/lectio/aeneid/
+
+Lectio Edition · 2026
+
+# The Aeneid
+
+Virgil
+
+- 29–19 BCE
+- Western tradition
+- Epic poem
+- Lectio Edition 2026
+
+Virgil's epic of Rome. Aeneas carries his father and his household gods out of burning Troy and goes to found the people who will become Rome. It is a poem about duty and about what duty costs.
+
+## Dryden is a monument. He is not an on-ramp.
+
+The public-domain Aeneid is John Dryden's verse of 1697. It is one of the great English translations, and it is in couplets more than three centuries old. Dryden also paraphrases freely. "I fear the Greeks even when they bring gifts" becomes "Trust not their presents, nor admit the horse".
+
+The Lectio Edition gives the twelve books as prose in current English. It keeps Virgil's names and keeps each famous line at its own length and shape. Dryden stays in the app beside it.
+
+## How it begins.
+
+> **Book I · The Storm, and Carthage**
+
+> Arms, and the man, I sing — the man who, driven by fate, was first to flee the shores of Troy and come to Italy and its Lavinian coast. He was battered hard over sea and land by the power of the gods, for cruel Juno's unforgetting rage hounded him at every turn; and bitter were the wars he fought before he could found his city and carry his gods into Latium. From him came the Latin people, the Alban fathers, and the high walls of Rome.
+
+> Muse, tell me the causes. What wound to her divinity, what burning grievance, drove the queen of heaven to force a man so faithful, so devoted, through such a gauntlet of disaster — to hurl one trouble after another in his path? Can there really be such anger in the hearts of gods?
+
+> There was an ancient city, Carthage, a colony out of Tyre, facing Italy far across the water, opposite the mouth of the Tiber — a city rich in resources and fierce in the arts of war. They say Juno loved it above all places on earth, more even than Samos. Here she kept her armor; here she kept her chariot. And it was her fixed ambition, if fate would only allow it, that this city should one day rule the world.
+
+The first 221 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review set these rules and applied them across the twelve books.
+
+- Names are the ones Virgil gives, in his Latin forms: Minerva, never Athena. Tartarus, Erebus and Dis, where the draft had put "hell". No name is added that Virgil leaves out, and none is dropped.
+- No oaths to one God in a poem with many gods. A character swears by Jupiter or simply cries out.
+- No modern idiom that calls up something outside the poem. The draft had "gone with the wind" and "for free".
+- The poet's narration does not use contractions. Direct speech may, when the speaker is talking in the moment. Prayers, oaths and prophecy do not.
+- Famous lines keep their own length and shape.
+- The last line of Book XI and the last line of the poem are the same line in Latin, and are now the same in English.
+
+### Where it differs from the older translations
+
+The edition records 36 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### *pietas*
+
+Throughout
+
+**Older:** "piety", "pious Aeneas"
+
+**Lectio:** "duty", "dutiful Aeneas"
+
+*Pietas* is what a man owes to gods, country and family. "Piety" now means religious feeling. "Duty" is what drives Aeneas, and what the poem counts the cost of.
+
+### *timeo Danaos et dona ferentis*
+
+Book II, line 49
+
+**Older:** "Trust not their presents, nor admit the horse" (Dryden)
+
+**Lectio:** I fear the Greeks even when they come bearing gifts
+
+The line is a proverb in English already. The edition keeps it close to the shape people know.
+
+### *agnosco veteris vestigia flammae*
+
+Book IV, line 23
+
+**Older:** "Too like the sparkles of my former flame" (Dryden)
+
+**Lectio:** I recognize the marks of the old flame
+
+Dido admits she loves again. *Vestigia* are traces, footprints, a scar. Dryden's "sparkles" is prettier than the Latin.
+
+### *hoc opus, hic labor est*
+
+Book VI, lines 126 to 129
+
+**Older:** "In this the task and mighty labour lies" (Dryden)
+
+**Lectio:** that is the labor, that is the task
+
+Anyone can go down. Coming back is the hard part. The descent to the underworld is built on that contrast, and the doubled close is kept.
+
+### *parcere subiectis et debellare superbos*
+
+Book VI, lines 851 to 853
+
+**Older:** "To tame the proud, the fetter'd slave to free" (Dryden)
+
+**Lectio:** to spare the conquered, and to crush the proud
+
+Virgil's statement of what Rome is for. Dryden softens the second half. The edition leaves the cost where Virgil put it.
+
+### *flectere si nequeo superos, Acheronta movebo*
+
+Book VII, line 312
+
+**Older:** "Hell shall the pow'r of Heav'n and Jove supply" (Dryden)
+
+**Lectio:** If I cannot bend the gods above, I will stir up Hell
+
+Juno's vow in two plain halves. Note that this line still says "Hell", against the edition's own rule on names. It is on the editor's list below.
+
+### *vitaque cum gemitu fugit indignata sub umbras*
+
+Book XII, line 952
+
+**Older:** "And the disdainful soul came rushing through the wound" (Dryden)
+
+**Lectio:** and life fled with a groan, resentful, down to the shades
+
+The last line. The poem ends on the kill, with no funeral and no peace. The same line closes Camilla's death in Book XI and is rendered the same way there.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Aeneid is in the bundle, and switching keeps your place.
+
+- **John Dryden, 1697.** Stately heroic couplets: the great English Virgil.
+
+The original Latin is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 16, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 12 books, about 100,200 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- John Dryden, verse (1697, public domain)
+- Allen Mandelbaum (1971, consulted)
+- Robert Fitzgerald (1983, consulted)
+- Robert Fagles (2006, consulted)
+- the Latin (Virgil)
+
+**First review:** November 2026. 12 books read against Dryden (1697). The Latin is not in the bundle, so the Latin readings came from the reviewing model's own knowledge of the text. 0 graded A, 12 graded B, none graded C.
+
+**Fixes applied:** 144: 8 high (meaning), 62 medium (a reader would stumble), 74 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all twelve books.
+- Books II and III are Aeneas telling his own story. They still have contractions. Decide whether his tale follows the rule for speech or for narration.
+- "Hell" is still in Book VII in three places, and one note argues for it. The rule on names says otherwise.
+- Three of the edition's notes quote wording the text no longer has, including the notes on the first line and on *sunt lacrimae rerum*. They need rewriting.
+- Prayers and speeches of state in Books IX to XII have not been checked one by one for contractions.
+
+Cite this edition: Virgil. The Aeneid. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/aeneid/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Republic](https://sandiegotech.org/lectio/republic/)[The Prince](https://sandiegotech.org/lectio/the-prince/)
+
+Read next: [The Iliad](https://sandiegotech.org/lectio/iliad/), [The Odyssey](https://sandiegotech.org/lectio/odyssey/), [The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/)
+
+---
+
+Source: https://sandiegotech.org/lectio/the-prince/
+
+Lectio Edition · 2026
+
+# The Prince
+
+Niccolò Machiavelli
+
+- 1513
+- Western tradition
+- Politics
+- Lectio Edition 2026
+
+A short handbook on power, written in 1513 by a Florentine diplomat who had lost his post. Machiavelli sets aside how rulers ought to behave and describes what they must do to keep a state.
+
+## One word carries the book, and the old translation hides it.
+
+The standard free translation is W. K. Marriott's of 1908. It is clear and faithful. But Machiavelli runs his whole argument on one word, *virtù*, and Marriott turns it into a different English word almost every time: ability, valour, energy, talent.
+
+A reader of Marriott cannot see that the book is one argument about one quality set against fortune. A reader of the Italian cannot miss it.
+
+The Lectio Edition renders the twenty-six chapters in current English and leaves *virtù* in Italian wherever Machiavelli uses it in this sense. Marriott stays in the app beside it.
+
+## How it begins.
+
+> **Chapter I · The Kinds of Principalities**
+
+> All states, all dominions that have held and hold power over men, have been and are either republics or principalities.
+
+> Principalities are either hereditary, where one bloodline has ruled for a long time, or they are new.
+
+> The new ones are either new outright, as Milan was to Francesco Sforza, or they are like limbs grafted onto the hereditary state of the prince who acquires them, as the kingdom of Naples is to the King of Spain.
+
+> Dominions acquired this way are accustomed either to living under a prince or to being free; and they are acquired either with the arms of others or with one's own, either by fortune or by virtù.
+
+> **Chapter II · Hereditary Principalities**
+
+> I will leave republics aside, since I have discussed them at length elsewhere. I will turn only to principalities, taking up the threads laid out above, and ask how these principalities can be governed and kept.
+
+> I say at once that hereditary states, accustomed to the bloodline of their prince, are far less difficult to hold than new ones. It is enough not to break the customs of one's ancestors, and to play for time when events turn; then a prince of ordinary industry will always keep his state, unless some extraordinary and overwhelming force strips him of it — and even stripped of it, he wins it back the moment the usurper stumbles.
+
+The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review graded twenty of twenty-six chapters as needing no change. The rules it set are few.
+
+- *Virtù* stays untranslated from Chapter I to Chapter XXVI. It means skill, force and nerve together, with no moral content. No single English word holds it, and five different English words hide that it is one idea. The draft had kept it in some chapters and translated it in others.
+- The adjective *virtuoso* is "able". The ordinary moral plural, virtues set against vices, stays English.
+- *Spegnere*, to put out a flame, is "snuff out" each time Machiavelli uses it of a family or a republic.
+- No explanation is written into Machiavelli's sentence. The draft defined *virtù* inside Chapter I and glossed the Parlement of Paris inside Chapter XIX. Both glosses were removed.
+- Roman Gaul is Gaul, not France. Names carry their accents: Forlì, Vailà.
+
+### Where it differs from the older translations
+
+The edition records 62 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### *o per fortuna o per virtù*
+
+Chapter I
+
+**Older:** "or else by fortune or by ability" (Marriott)
+
+**Lectio:** either by fortune or by virtù
+
+The first appearance of the pair the whole book is built on. The Italian word is kept here and at every later use.
+
+### *o vezzeggiare o spegnere*
+
+Chapter III
+
+**Older:** "either to be well treated or crushed" (Marriott)
+
+**Lectio:** men should be either treated well or snuffed out
+
+The verb is the one for putting out a flame. Keeping the image, and keeping it the same each time, lets the reader hear the maxim return.
+
+### *Non si può ancora chiamare virtù*
+
+Chapter VIII
+
+**Older:** "Yet it cannot be called talent to slay fellow-citizens" (Marriott)
+
+**Lectio:** it cannot be called virtù to kill your fellow citizens
+
+The one sentence where Machiavelli refuses his own word to a man who seems to have earned it. "Talent" loses the refusal.
+
+### *la verità effettuale della cosa*
+
+Chapter XV
+
+**Older:** "the real truth of the matter" (Marriott)
+
+**Lectio:** the effectual truth of the thing
+
+Machiavelli coined the phrase: truth measured by what works. "Real truth" makes it ordinary emphasis. The edition keeps it strange.
+
+### *imparare a potere essere non buono*
+
+Chapter XV
+
+**Older:** "to know how to do wrong" (Marriott)
+
+**Lectio:** to learn how not to be good
+
+Marriott moralizes. Machiavelli says the prince must be able to be not good, and use that or not as need requires.
+
+### *la fortuna è donna*
+
+Chapter XXV
+
+**Older:** "it is necessary to beat and ill-use her" (Marriott)
+
+**Lectio:** fortune is a woman, and if you mean to keep her down you must beat her and shove her
+
+The most notorious sentence in the book, at full force. Softening it would misreport the writer. The reader should meet it as written and judge him.
+
+### *il parlamento e la sua autorità*
+
+Chapter XIX
+
+**Older:** "the parliament and its authority" (Marriott)
+
+**Lectio:** the Parlement and its authority
+
+He means the Parlement of Paris, a court of law. "Parliament" suggests a legislature, which it was not. The French name marks the difference.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Prince is in the bundle, and switching keeps your place.
+
+- **W. K. Marriott, 1908.** The standard public-domain Prince: Marriott's clear, faithful Edwardian English.
+
+The original Italian is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** July 7, 2026, by Claude Fable 5 (`claude-fable-5`), an AI model. 26 chapters, about 29,000 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Italian, the original text of Il Principe
+- W. K. Marriott, The Prince (1908, public domain)
+- N. H. Thomson (1882, public domain)
+- George Bull (1961, consulted, not quoted)
+- Harvey Mansfield (1985, consulted, not quoted)
+
+**First review:** November 2026. 26 chapters read against Marriott (1908). The Italian is not in the bundle, so the Italian readings came from the reviewing model's own knowledge of the text. 20 graded A, 6 graded B, none graded C.
+
+**Fixes applied:** 43: 0 high (meaning), 15 medium (a reader would stumble), 28 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all twenty-six chapters.
+- The text now leaves *virtù* unexplained and points to the margin. The margin entry for it has not been written.
+- Chapter VI: "He abolished the old militia" may have the same fault that was fixed in Chapter VIII. It is a judgment call and was left.
+- The lines of Virgil in Chapter XVII and of Petrarch in Chapter XXVI are verse. The build runs them together as prose. The fix is in the pipeline, not the text.
+- Several of the edition's notes quote the text loosely. They need one pass to match it exactly.
+
+Cite this edition: Niccolò Machiavelli. The Prince. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/the-prince/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Aeneid](https://sandiegotech.org/lectio/aeneid/)[The Analects](https://sandiegotech.org/lectio/analects/)
+
+Read next: [The Republic](https://sandiegotech.org/lectio/republic/), [The Analects](https://sandiegotech.org/lectio/analects/), [Hamlet](https://sandiegotech.org/lectio/hamlet/)
+
+---
+
+Source: https://sandiegotech.org/lectio/analects/
+
+Lectio Edition · 2026
+
+# The Analects
+
+Confucius
+
+- 479–221 BCE
+- Eastern tradition
+- Philosophy
+- Lectio Edition 2026
+
+The sayings and conversations of Confucius, written down by his students after his death. Twenty short books on learning, ritual, family, government, and what it takes to become fully human.
+
+## The sayings are short. The Victorian English is not.
+
+James Legge's translation of 1893 is the scholar's standard and it is careful. It is also wordy where the Chinese is brief. Two plain words in the original become "to be true to the principles of our nature and the benevolent exercise of them to others".
+
+Legge also renders the book's central word, *ren*, as a general "virtue", so a reader cannot follow it. And his "superior man" sounds like rank, which is the opposite of what Confucius meant.
+
+The Lectio Edition keeps each saying about the size the Chinese keeps it, and gives each key term one English word. Legge stays in the app beside it.
+
+## How it begins.
+
+> **Book I · Learning**
+
+> The Master said, "To learn, and in good time to practice what you have learned — is that not a pleasure? To have friends come from far away — is that not a joy? To go unrecognized and feel no bitterness — is that not a gentleman?"
+
+> Master Yu said, "Men who honor their parents and respect their elder brothers rarely have a taste for defying their superiors, and no man without that taste has ever been fond of stirring up revolt. The gentleman tends to the root; when the root is set, the Way grows from it. Devotion to parents and respect for elders — surely these are the root of human-heartedness."
+
+> The Master said, "Clever words and a winning face rarely keep company with human-heartedness."
+
+> Master Tsang said, "Each day I examine myself on three points. Working for others, was I faithless? With my friends, did I fail to keep my word? What was handed on to me, did I leave unpracticed?"
+
+The first 164 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review graded fourteen of twenty books as needing no change. Most of its fixes were to punctuation. The edition's main choices are in its terms.
+
+- *Ren* is "human-heartedness" everywhere. "Virtue" is kept for *de*, moral force, so the reader can watch the two ideas separately.
+- *Junzi* is "the gentleman": a man defined by conduct, not birth.
+- *Li* is "ritual", one word throughout.
+- Explanations are not written into the Master's sentences. Glosses the draft had added in Books V, XI and XIV were removed.
+- Proper names follow Legge's romanization, so the edition and the 1893 text can be read side by side.
+- One style of quotation mark across all twenty books. Books VI to X had used a different one.
+
+### Where it differs from the older translations
+
+The edition records 48 divergences: places where it departs from the older English, each with its reason. Here are 8. The full record is in the app, one tap from the text.
+
+### 仁 (*ren*)
+
+Book I and throughout
+
+**Older:** "true virtue", "perfect virtue", "benevolent actions" (Legge)
+
+**Lectio:** human-heartedness
+
+*Ren* is the particular excellence of being fully human toward other people, and it is the book's central word. Legge folds it into "virtue" and it disappears.
+
+### 君子 (*junzi*)
+
+Book I and throughout
+
+**Older:** "the superior man" (Legge)
+
+**Lectio:** the gentleman
+
+The word once meant a lord's son. Confucius remade it to mean a formed character, open to anyone who does the work. "Gentleman" has made the same journey in English.
+
+### 禮 (*li*)
+
+Book III and throughout
+
+**Older:** "the rules of propriety" (Legge)
+
+**Lectio:** ritual
+
+Legge makes it sound like a code of etiquette. *Li* is rite, ceremony and the learned forms respect takes, all as one thing.
+
+### 忠恕 (*zhong shu*)
+
+Book IV
+
+**Older:** "to be true to the principles of our nature and the benevolent exercise of them to others" (Legge)
+
+**Lectio:** loyalty, and putting yourself in the other man's place
+
+The one thread through the Master's Way is two plain words. The edition keeps it that size.
+
+### 子不語怪，力，亂，神
+
+Book VII, 20
+
+**Older:** "extraordinary things, feats of strength, disorder, and spiritual beings" (Legge)
+
+**Lectio:** The Master did not speak of marvels, feats of strength, rebellion, or the spirits.
+
+Four bare words in the Chinese. *Luan* in this company is political violence, not untidiness.
+
+### 過猶不及
+
+Book XI
+
+**Older:** "To go beyond is as wrong as to fall short" (Legge)
+
+**Lectio:** Too far is no better than not far enough.
+
+The proverb weighs the same on both sides and uses no moral word. Legge's "wrong" adds a judgment the Chinese leaves out.
+
+### 己所不欲，勿施於人
+
+Book XII
+
+**Older:** "not to do to others as you would not wish done to yourself" (Legge)
+
+**Lectio:** What you do not want done to you, do not do to others.
+
+The golden rule in its negative form, five centuries before the positive one. In the Chinese it is a free-standing command of eight characters, and it returns in Book XV.
+
+### 君子和而不同
+
+Book XIII
+
+**Older:** "The superior man is affable, but not adulatory" (Legge)
+
+**Lectio:** The gentleman is in harmony without being in unison.
+
+These are music words. Harmony is different notes agreeing. Unison is one note doubled. Legge moves the saying into drawing-room manners.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Analects is in the bundle, and switching keeps your place.
+
+- **James Legge, 1893.** The scholar's Analects: Legge's careful, literal Victorian standard.
+
+The original Classical Chinese is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** July 7, 2026, by Claude Fable 5 (`claude-fable-5`), an AI model. 20 books, about 22,900 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Classical Chinese, the original text of the Lunyu (論語)
+- James Legge, The Chinese Classics, Vol. I (1893, public domain)
+- W. E. Soothill, The Analects of Confucius (1910, public domain)
+- Arthur Waley (1938, consulted, not quoted)
+- D. C. Lau (1979, consulted, not quoted)
+
+**First review:** November 2026. 20 books read against Legge (1893). The Chinese is not in the bundle, so readings of the Chinese came from the reviewing model's own knowledge of the text. 14 graded A, 6 graded B, none graded C.
+
+**Fixes applied:** 165: 0 high (meaning), 15 medium (a reader would stumble), 150 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all twenty books.
+- Glosses taken out of Books V, XI and XIV need margin notes, if they are wanted.
+- Two of the edition's notes quote a saying without the "said the Master" that interrupts it in the text. Harmless, but not exact.
+
+Cite this edition: Confucius. The Analects. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/analects/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Prince](https://sandiegotech.org/lectio/the-prince/)[The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/)
+
+Read next: [The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/), [The Dhammapada](https://sandiegotech.org/lectio/dhammapada/), [Nicomachean Ethics](https://sandiegotech.org/lectio/nicomachean-ethics/)
+
+---
+
+Source: https://sandiegotech.org/lectio/tao-te-ching/
+
+Lectio Edition · 2026
+
+# The Tao Te Ching
+
+Laozi
+
+- 400–301 BCE
+- Eastern tradition
+- Philosophy
+- Lectio Edition 2026
+
+Eighty-one short chapters, part poem and part proverb, ascribed to Laozi. They teach the Way that cannot be named and the power that works by yielding. It is the founding text of Taoism.
+
+## A book this short should not need brackets.
+
+James Legge's translation of 1891 is exact and hard to read. He explains inside the line, in brackets: "The highest excellence is like (that of) water." He reads the famous first line as a path one can walk, which loses its argument about speech and names.
+
+The Chinese is spare, and it hedges where it is unsure. A translation that explains and decides for it is a different book.
+
+The Lectio Edition gives each chapter in a few plain sentences, with no gloss inside the line, and keeps the hedges where the Chinese has them. Legge stays in the app beside it.
+
+## How it begins.
+
+> **Chapter 1 · The Way and the Name**
+
+> The Way that can be spoken is not the eternal Way. The name that can be named is not the eternal name.
+
+> Nameless, it is the origin of heaven and earth. Named, it is the mother of all things.
+
+> So if you are always without desire, you see its hidden depths; but if desire is always in you, you see only its outer edges.
+
+> These two spring from the same source, though we call them by different names. Together they are the Mystery — mystery within mystery, the gate of all that is subtle and wonderful.
+
+> **Chapter 2 · The Mutual Arising of Opposites**
+
+> When everyone in the world recognizes beauty as beauty, ugliness has already appeared. When everyone recognizes good as good, what is not good has already appeared.
+
+> So it is that being and non-being give rise to each other; the difficult and the easy complete each other; the long and the short measure each other; the high and the low lean on each other; note and voice harmonize with each other; before and after follow each other.
+
+The first 172 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review set these rules. The first is the one a reader will notice.
+
+- *Te*, the second word of the title, is "power" everywhere. "Virtue" is retired, because in current English it means moral goodness and *te* does not. The one exception is in Chapter 63, where "repay resentment with power" would read as revenge. There it is "kindness". The editor may overrule this.
+- *Wu wei* is acting without forcing, not doing nothing.
+- No explanation inside the line. What a term means goes in a note.
+- Hedges stay hedged. Where the Chinese says "seems" or "perhaps", so does the English.
+- The ideal person is "he", as the sage is throughout. A general maxim may say "you".
+- The base is the received text of Wang Bi. A variant reading is used only where a note records it.
+- A phrase the Chinese repeats is repeated. "He lets that go and takes hold of this" closes Chapters 12, 38 and 72 in the same words.
+
+### Where it differs from the older translations
+
+The edition records 169 divergences: places where it departs from the older English, each with its reason. Here are 8. The full record is in the app, one tap from the text.
+
+### 道可道，非常道
+
+Chapter 1
+
+**Older:** "The Tao that can be trodden is not the enduring and unchanging Tao." (Legge)
+
+**Lectio:** The Way that can be spoken is not the eternal Way.
+
+The second *dao* is a verb, and in the oldest usage it means to say. The whole chapter is about speaking and naming. Legge's "trodden" is possible grammar and loses the point.
+
+### 為無為，則無不治
+
+Chapter 3
+
+**Older:** "When there is this abstinence from action, good order is universal." (Legge)
+
+**Lectio:** Act without forcing, and nothing is left ungoverned.
+
+The Chinese is an active paradox: do the not-doing. It is not idleness. The edition keeps it as a command.
+
+### 芻狗
+
+Chapter 5
+
+**Older:** "the dogs of grass" (Legge)
+
+**Lectio:** straw dogs
+
+A straw dog was made for a sacrifice, handled with honor during the rite, and thrown away after. Heaven and earth treat all things so, without malice and without favor.
+
+### 上善若水
+
+Chapter 8
+
+**Older:** "The highest excellence is like (that of) water." (Legge)
+
+**Lectio:** The highest good is like water.
+
+Four characters, five English words. The same word for "good" then runs down the chapter's list, and the reader should hear it as one idea.
+
+### 道常無為而無不為
+
+Chapter 37
+
+**Older:** "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." (Legge)
+
+**Lectio:** The Way never forces anything, yet nothing is left undone.
+
+The book's central paradox. Legge hedges it with a bracket and it reads as inaction.
+
+### 含德之厚，比於赤子
+
+Chapter 55
+
+**Older:** "He who has in himself abundantly the attributes (of the Tao) is like an infant." (Legge)
+
+**Lectio:** One full of power is like a newborn child.
+
+The fullest power is held by the weakest creature. Legge unpacks *te* into a phrase and hides the one word the chapter turns on.
+
+### 報怨以德
+
+Chapter 63
+
+**Older:** "to recompense injury with kindness" (Legge)
+
+**Lectio:** Repay resentment with kindness.
+
+The edition's one exception to "power" for *te*. Confucius answers this same proverb in the Analects, and the Lectio Analects says "kindness" there. The two books should let the reader hear one saying.
+
+### 天下莫柔弱於水
+
+Chapter 78
+
+**Older:** "There is nothing in the world more soft and weak than water" (Legge)
+
+**Lectio:** Nothing in the world is softer or weaker than water
+
+Legge goes on to add a bracketed "(so effectual)". The Chinese closes more simply: nothing can take water's place.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Tao Te Ching is in the bundle, and switching keeps your place.
+
+- **James Legge, 1891.** The scholar's Tao Te Ching: Legge's careful Victorian prose for the Sacred Books of the East.
+
+The original Classical Chinese is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 27, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 81 chapters, about 8,400 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Classical Chinese, the original text of the Daodejing
+- James Legge, The Tâo Teh King (1891, Sacred Books of the East, public domain)
+- Walter Gorn Old, The Book of the Simple Way (1904, public domain)
+- D. C. Lau (1963, consulted, not quoted)
+
+**First review:** November 2026. 81 chapters read against Legge (1891). The Chinese is not in the bundle, so readings of the received Wang Bi text came from the reviewing model's own knowledge of it. 65 graded A, 16 graded B, none graded C.
+
+**Fixes applied:** 60: 4 high (meaning), 26 medium (a reader would stumble), 30 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all eighty-one chapters.
+- The ruling on Chapter 63: "kindness" as the one exception, or "power" with no exception.
+- Six of the edition's notes quote the text loosely. They predate the review and were left.
+- The note on the royal titles in Chapter 39 explains a word as "of little worth" where the text says "widowed".
+
+Cite this edition: Laozi. The Tao Te Ching. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/tao-te-ching/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Analects](https://sandiegotech.org/lectio/analects/)[The Dhammapada](https://sandiegotech.org/lectio/dhammapada/)
+
+Read next: [The Analects](https://sandiegotech.org/lectio/analects/), [The Dhammapada](https://sandiegotech.org/lectio/dhammapada/), [Meditations](https://sandiegotech.org/lectio/meditations/)
+
+---
+
+Source: https://sandiegotech.org/lectio/dhammapada/
+
+Lectio Edition · 2026
+
+# The Dhammapada
+
+Early Buddhist tradition
+
+- 300–100 BCE
+- Eastern tradition
+- Religion
+- Lectio Edition 2026
+
+About four hundred short verses, sayings of the Buddha gathered by theme. It is the best loved and most quoted book in Buddhism. The verses were made to be learned by heart.
+
+## Proverbs should sound like proverbs.
+
+F. Max Müller's translation of 1881 was made for the Sacred Books of the East. It is a scholar's version in Victorian prose. It says "tabernacle" for a house and "sin" for harm, and it explains terms in parentheses in the middle of a verse.
+
+Some of it is simply wrong. Müller has "All forms are unreal" where the Pali says all things are without a self.
+
+The Lectio Edition gives the twenty-six chapters in plain English that keeps the weight of a saying. It follows the Pali where Müller departs from it. Müller stays in the app beside it.
+
+## How it begins.
+
+> **Chapter I. The Twin-Verses · The Twin Verses**
+
+> 1. All that we are is shaped by what we have thought. The mind goes before everything; the mind is chief of all; everything is made of the mind. If you speak or act with a corrupted mind, suffering follows you, as the wheel follows the foot of the ox that pulls the cart.
+
+> 2. All that we are is shaped by what we have thought. The mind goes before everything; the mind is chief of all; everything is made of the mind. If you speak or act with a clear mind, happiness follows you, like a shadow that never leaves.
+
+> 3. "He insulted me, he struck me, he got the better of me, he robbed me"—in those who hold on to such thoughts, hatred never ends.
+
+> 4. "He insulted me, he struck me, he got the better of me, he robbed me"—in those who let go of such thoughts, hatred comes to an end.
+
+The first 155 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review set these rules and swept the whole work for each.
+
+- Nothing in a verse explains the verse. "Nirvana" appears only where the Pali has the word. Müller's parenthetical glosses, which the draft had written into the lines, were removed.
+- Where Müller is wrong, the edition follows the Pali. Brahma the god is not "Brahman".
+- Each Pali term has one English word. *Appamada* is "heedfulness" and its opposite is "heedlessness". The Buddha's *dhamma* is "the teaching". The *sangha* is "the Order". A *bhikkhu* is a monk.
+- "Evil" or "harm", not "sin". The Pali word carries no guilt before a god.
+- The verses keep Müller's numbering, so the two can be compared.
+
+### Where it differs from the older translations
+
+The edition records 79 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### *manopubbangama dhamma*
+
+Verses 1 and 2
+
+**Older:** "All that we are is the result of what we have thought" (Müller)
+
+**Lectio:** the mind is chief of all
+
+Müller's opening is loved and it interprets. The edition keeps his cadence as the first line, then gives the Pali's three claims in order: the mind goes first, the mind is chief, things are made of mind. The draft had said the mind "makes" everything. The Pali does not, and the review took it out.
+
+### *esa dhammo sanantano*
+
+Verse 5
+
+**Older:** "this is an old rule" (Müller)
+
+**Lectio:** Hatred ends only by love—this is the ancient and unchanging law.
+
+The Pali word means timeless, a law that has always held. "An old rule" is too small for it.
+
+### *appamada*
+
+Verses 21 to 32
+
+**Older:** "earnestness" (Müller)
+
+**Lectio:** heedfulness
+
+The chapter turns on this one word. It means unbroken watchfulness. "Earnestness" sounds like sincerity.
+
+### *gahakaraka*
+
+Verses 153 and 154
+
+**Older:** "maker of the tabernacle" (Müller)
+
+**Lectio:** House-builder, now you are seen!
+
+By tradition these are the Buddha's words on awakening. The Pali image is a house: builder, rafters, ridgepole. "Tabernacle" brings in a Biblical word the Pali does not have.
+
+### *atta hi attano natho*
+
+Verse 160
+
+**Older:** "Self is the lord of self, who else could be the lord?" (Müller)
+
+**Lectio:** You are your own master; who else could be?
+
+The Pali speaks to the listener. Müller makes it an abstract remark about the self.
+
+### *sabbapapassa akaranam*
+
+Verse 183
+
+**Older:** "Not to commit any sin, to do good" (Müller)
+
+**Lectio:** Not to do any evil; to cultivate good; to purify one's own mind
+
+The verse Buddhists call the summary of the teaching. "Sin" imports guilt before a god.
+
+### *sabbe dhamma anatta*
+
+Verses 277 to 279
+
+**Older:** "All forms are unreal" (Müller)
+
+**Lectio:** All things are without a self
+
+These are the three marks of existence: impermanent, suffering, without a self. Müller's third is a mistranslation, and the edition corrects it.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Dhammapada is in the bundle, and switching keeps your place.
+
+- **F. Max Müller, 1881.** The scholar's Dhammapada: Müller's careful Victorian prose for the Sacred Books of the East.
+
+The original Pali is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 26, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 26 chapters, about 12,200 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Pali, the original text of the Dhammapada
+- F. Max Müller, The Dhammapada (1881, Sacred Books of the East, public domain)
+- Albert J. Edmunds, Hymns of the Faith (1902, public domain)
+- Acharya Buddharakkhita (1985, consulted, not quoted)
+
+**First review:** November 2026. 26 chapters read against Müller (1881). The Pali is not in the bundle, so readings of the Pali came from the reviewing model's own knowledge of the text. 6 graded A, 20 graded B, none graded C.
+
+**Fixes applied:** 83: 3 high (meaning), 31 medium (a reader would stumble), 49 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all twenty-six chapters.
+- The edition's overview still speaks of "the mind that makes the world". That sits a little against the correction to verses 1 and 2.
+- Verse 128, which was missing, has been restored. The provenance should say so.
+- Müller's text in the bundle runs verses 127 and 128 together. That is a fault in how his edition was brought in, to be fixed there.
+
+Cite this edition: The Dhammapada. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/dhammapada/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/)[The Bhagavad Gita](https://sandiegotech.org/lectio/bhagavad-gita/)
+
+Read next: [The Bhagavad Gita](https://sandiegotech.org/lectio/bhagavad-gita/), [The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/), [Meditations](https://sandiegotech.org/lectio/meditations/)
+
+---
+
+Source: https://sandiegotech.org/lectio/bhagavad-gita/
+
+Lectio Edition · 2026
+
+# The Bhagavad Gita
+
+- 200 BCE – 200 CE
+- Eastern tradition
+- Religion
+- Lectio Edition 2026
+
+On the eve of a battle against his own family, the warrior Arjuna lays down his bow. His charioteer, the god Krishna, answers him. The answer is eighteen chapters on duty, devotion, and how to act without clinging to the result. It sits inside the epic Mahabharata.
+
+## The teaching is direct. Victorian verse is not.
+
+The public-domain Gita is Edwin Arnold's *The Song Celestial* of 1885, in blank verse with lyric stanzas. It is graceful and it is ornate. "I am Time" becomes "Time who kills, Time who brings all to doom, the Slayer Time, Ancient of Days".
+
+Arnold also changes the names of things from line to line, so a reader cannot tell that the Gita has a fixed set of terms and uses them exactly.
+
+The Lectio Edition is prose. It says what Krishna says in the order he says it, and holds each Sanskrit term to one English form. Arnold stays in the app beside it.
+
+## How it begins.
+
+> **Chapter I · The Distress of Arjuna**
+
+> Dhritarashtra said: On the sacred plain of Kurukshetra my people and the sons of Pandu have gathered, hungry for battle. Tell me, Sanjaya: what did they do?
+
+> Sanjaya said: When he saw the army of the Pandavas arrayed for war, King Duryodhana went to his teacher Drona and said: "Master, look at this great host of Pandu's sons, marshalled by the son of Drupada, your own pupil in the art of war. Here stand heroes, great archers, the equals of Bhima and Arjuna in battle — Yuyudhana, Virata, and Drupada the mighty charioteer; Dhrishtaketu, Chekitana, and the valiant king of Kashi; Purujit, Kuntibhoja, and Saivya, that bull among men; bold Yudhamanyu and brave Uttamaujas; the son of Subhadra, and the sons of Draupadi — every one of them a great chariot-warrior.
+
+> "Know, too, best of brahmins, the finest of our own side — the captains of my army. Let me name them, so you may recognize them: yourself first of all, then Bhishma and Karna, and Kripa ever victorious in the fight; Ashvatthaman, Vikarna, and the son of Somadatta as well — and many another hero besides, each armed with his chosen weapon, all skilled in war, every one of them ready this day to lay down his life for me. Yet our forces, guarded by Bhishma, seem to me too few, while theirs, guarded by Bhima, seem strong enough. So let all of you, standing each in his place along the line, give support to Bhishma above all."
+
+The first 249 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review wrote a term sheet for the whole work and brought every chapter into line with it.
+
+- *Yoga* is "discipline" in running text. Where the text names or defines the teaching it is "Yoga", with a capital.
+- The three *gunas* are "the three qualities". Their names are kept: *sattva*, *rajas*, *tamas*. Their English is goodness, passion, darkness. *Tamas* is never "ignorance". Ignorance is what it comes from.
+- Where the Sanskrit has *brahman*, the English says Brahman. It is not turned into "God" or "the eternal". Brahma the creator god is a different word and stays Brahma.
+- *Dharma*, Sankhya and the Vedas keep their names, with no gloss in the sentence.
+- *Akasha* is "space", not "air" or "ether".
+
+### Where it differs from the older translations
+
+The edition records 60 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### *karmany evadhikaras te*
+
+2.47
+
+**Older:** "Let right deeds be thy motive, not the fruit which comes from them" (Arnold)
+
+**Lectio:** So your concern is with the action itself, never with its fruits.
+
+The best-known verse in the Gita. The Sanskrit has four clauses and the fourth matters: do not cling to inaction either. Arnold lets it dissolve. The edition keeps all four.
+
+### *vasamsi jirnani*
+
+2.22
+
+**Older:** "Nay, but as when one layeth / His worn-out robes away" (Arnold)
+
+**Lectio:** As a person casts off worn-out clothes and puts on others that are new
+
+Death as a change of clothes. Arnold sets it as a sing-song stanza. In plain prose the comparison keeps its weight.
+
+### *shreyan svadharmo vigunah*
+
+3.35
+
+**Older:** "this is better, that one do / His own task as he may, even though he fail" (Arnold)
+
+**Lectio:** It is better to do your own duty imperfectly than to do another's duty well
+
+The Sanskrit goes on to say that another's duty is dangerous. Arnold softens that. The edition keeps the edge.
+
+### *yada yada hi dharmasya*
+
+4.7 and 4.8
+
+**Older:** "When Righteousness / Declines, O Bharata! when Wickedness / Is strong, I rise, from age to age" (Arnold)
+
+**Lectio:** For whenever dharma declines and the wrong prevails, Arjuna, I bring myself into being.
+
+The teaching of divine descent. *Dharma* is kept as the term. "Righteousness" and "Virtue" are two English words for one Sanskrit one.
+
+### *kalo 'smi lokakshayakrit*
+
+11.32
+
+**Older:** "Thou seest Me as Time who kills, Time who brings all to doom" (Arnold)
+
+**Lectio:** I am Time, grown mighty, the destroyer of worlds
+
+The Sanskrit is one blow: I am Time. Arnold makes it three soft ones.
+
+### *sattvam rajas tama iti*
+
+14.5 to 14.8
+
+**Older:** "'Soothfastness,' 'Passion,' and 'Ignorance'" (Arnold)
+
+**Lectio:** goodness, passion, and darkness
+
+"Soothfastness" was never living English. And *tamas* is darkness and inertia. The draft had followed Arnold's "ignorance", and the review corrected it.
+
+### *sarvadharman parityajya*
+
+18.66
+
+**Older:** "And let go those— / Rites and writ duties! Fly to Me alone!" (Arnold)
+
+**Lectio:** Abandon all duties and come to me alone for refuge.
+
+The verse the devotional tradition holds to contain the whole. The Sanskrit says all duties. Arnold narrows it to ritual ones.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Bhagavad Gita is in the bundle, and switching keeps your place.
+
+- **Edwin Arnold, 1885.** The Song Celestial: Arnold's stately Victorian blank verse.
+
+The original Sanskrit is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 26, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 18 chapters, about 20,200 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Sanskrit, the original text of the Bhagavadgītā
+- Sir Edwin Arnold, The Song Celestial (1885, public domain)
+- Kashinath Trimbak Telang, The Bhagavadgītā (1882, public domain)
+- Franklin Edgerton (1944, consulted, not quoted)
+
+**First review:** November 2026. 18 chapters read against Arnold (1885). The Sanskrit is not in the bundle, so readings of the Sanskrit came from the reviewing model's own knowledge of the text. 8 graded A, 10 graded B, none graded C.
+
+**Fixes applied:** 76: 3 high (meaning), 24 medium (a reader would stumble), 49 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all eighteen chapters.
+- The review left no other item for the editor on this work.
+
+Cite this edition: The Bhagavad Gita. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/bhagavad-gita/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Dhammapada](https://sandiegotech.org/lectio/dhammapada/)[The Epic of Gilgamesh](https://sandiegotech.org/lectio/gilgamesh/)
+
+Read next: [The Dhammapada](https://sandiegotech.org/lectio/dhammapada/), [The Tao Te Ching](https://sandiegotech.org/lectio/tao-te-ching/), [Genesis](https://sandiegotech.org/lectio/genesis/)
+
+---
+
+Source: https://sandiegotech.org/lectio/gilgamesh/
+
+Lectio Edition · 2026
+
+# The Epic of Gilgamesh
+
+Anonymous · Sumer & Akkad
+
+- 2100–1200 BCE
+- Eastern tradition
+- Epic poem
+- Lectio Edition 2026
+
+The oldest long story we have. Gilgamesh, king of Uruk, and Enkidu, a man raised among animals, become friends. When Enkidu dies, Gilgamesh refuses his own death and goes looking for a way to live forever. It was written in Akkadian on clay tablets and was lost for two thousand years.
+
+## There is no old translation to fall back on.
+
+Every other book here has a readable public-domain translation behind it. Gilgamesh does not. The tablets were dug up in the 1850s and are still being pieced together. The first English versions, by Smith and Thompson, are free to use and are halting and incomplete. Every complete, readable English Gilgamesh is modern and under copyright.
+
+So for this work the Lectio Edition is the primary text and not a modernizing of an older one. It follows the Standard Babylonian version in eleven tablets, drawn from the public-domain scholarly record.
+
+This also makes it the edition with the least to check against. No comparison text is in the bundle. The review says so, and so should this page.
+
+## How it begins.
+
+> **Tablet I · The Coming of Enkidu**
+
+> Of the man who saw the deep, the country's foundation, who knew the proper way of all things — let me tell. Gilgamesh saw everything, traveled every road, learned the whole of wisdom. He looked on what was secret and uncovered what was hidden, and he carried home a story older than the Flood. He went a long road, came back worn out but at peace, and cut the whole of his labor into a slab of stone.
+
+> Look at the wall of Uruk, how it shines like bronze. Study its foundation; no later king will ever match it. Climb the wall and walk its length, test the brickwork: were these bricks not fired in the kiln? Did the Seven Sages themselves not lay the groundwork? A square mile of city, a square mile of date groves, a square mile of clay pits, and half a square mile for Ishtar's temple — three square miles and a half, and all of it is Uruk. Find the box of cedar, slip the bronze ring that locks it, lift the lid, and take out the tablet of lapis lazuli. Read aloud how Gilgamesh suffered, and all that he came through.
+
+The first 198 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The first draft added to the story. It explained, moralized and supplied feelings the tablets do not give. Most of the review's work was taking that out.
+
+- A sentence that explains, interprets or moralizes is cut, not reworded. So is a feeling the tablet does not state.
+- A gap in the tablets is reported once, in square brackets, outside the story's voice: what is lost, and where the text resumes. The narrator never comments on the edition.
+- Where the tablet gives a name the draft had dropped, the name is restored: Ninurta, Ishhara, Anzu, Belet-ili.
+- The edition follows the Standard Babylonian version and does not import passages from the older one, however famous.
+- Shamhat is named, and her office is stated plainly. She is not "the harlot".
+
+### Where it differs from the older translations
+
+The edition records 33 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### *sha naqba imuru*
+
+Tablet I, line 1
+
+**Older:** "who saw everything" (early translators)
+
+**Lectio:** who saw the deep, the country's foundation
+
+*Naqbu* is the deep water under the earth and, by extension, the whole of things. "Everything" keeps the breadth and loses the depth Gilgamesh later goes down to.
+
+### Shamhat
+
+Tablet I
+
+**Older:** "the harlot", "the temple-harlot"
+
+**Lectio:** Shamhat, one of the women of the temple
+
+Shamhat is a name. A woman of Ishtar's temple held a recognized office. She is the one who makes Enkidu a human being.
+
+### Enkidu's change
+
+Tablet I
+
+**Older:** stress on his having "grown weak"
+
+**Lectio:** his mind had widened; now he understood
+
+When the gazelles run from him, the Akkadian says he had gained reason. The scene is a loss, and before that it is a birth.
+
+### *melammu*
+
+Tablet IV
+
+**Older:** "seven splendors", "seven coats of armor"
+
+**Lectio:** seven cloaks of terror
+
+Humbaba's *melammu* are an aura that spreads dread. They are not cloth or metal. The phrase keeps a thing worn and what it gives off.
+
+### *kima kallati*
+
+Tablet VIII
+
+**Older:** "he covered the face of his friend"
+
+**Lectio:** he covered his friend's face, the way a man veils the face of a bride
+
+The Akkadian says Gilgamesh veiled Enkidu like a bride. Older versions sometimes give the act and drop the comparison. The strangeness is the meaning.
+
+### Siduri's counsel
+
+Tablet X
+
+**Older:** the well-known speech telling Gilgamesh to eat, be merry and cherish his wife and child
+
+**Lectio:** Siduri gives no such speech in this edition
+
+That speech belongs to the Old Babylonian version. The Standard Babylonian text, which this edition follows, does not have it. Here Siduri questions him and sends him on to the boatman.
+
+### *kikkish kikkish, igar igar*
+
+Tablet XI
+
+**Older:** "O reed-hut, reed-hut! O wall, wall!" (Smith and after)
+
+**Lectio:** Reed wall, reed wall!
+
+Ea has sworn with the other gods not to warn anyone. So he speaks to the wall of the house while the man listens behind it. The edition keeps the oath and the cry together so the trick shows.
+
+## This is the only edition in the bundle.
+
+No older translation of Gilgamesh is in the bundle. The public-domain versions are fragmentary, and the complete modern ones are under copyright and are not reproduced.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 23, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 11 tablets, about 15,400 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Akkadian, the Standard Babylonian recension (eleven tablets, traditionally credited to the scholar Sîn-lēqi-unninni)
+- George Smith, the first Gilgamesh fragments in The Chaldean Account of Genesis (1876, public domain)
+- R. Campbell Thompson, The Epic of Gilgamish (1928, public domain)
+- Morris Jastrow & Albert T. Clay, An Old Babylonian Version of the Gilgamesh Epic (1920, public domain)
+- E. A. Speiser, in Ancient Near Eastern Texts (1950, consulted, not quoted)
+- Benjamin R. Foster, The Epic of Gilgamesh: A Norton Critical Edition (2001, consulted, not quoted)
+- Andrew George, The Babylonian Gilgamesh Epic (2003, the standard critical edition; consulted for the Akkadian, not quoted)
+
+**First review:** November 2026. 11 tablets read against nothing in the bundle, because no comparison edition is bundled. The reviewing model judged each section against the Standard Babylonian epic from its own knowledge, and every fix that rests on that is marked as unverified against a bundled source. 0 graded A, 11 graded B, none graded C.
+
+**Fixes applied:** 73: 2 high (meaning), 23 medium (a reader would stumble), 48 low (polish). Each was re-checked by a further pass before it was applied.
+
+**Set aside:** 1 segment that held an editor's note or an invented sentence, not the author's text, is marked to be skipped by the app, print and audio.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all eleven tablets, with a printed scholarly edition in hand. This work needs it more than any other.
+- Passages the tablets preserve and the edition skips or shortens: the hymn to the king in Tablet I, the forging of the weapons in Tablet II, the fourth dream in Tablet IV, Gilgamesh's answer to Enkidu in Tablet VII, the list of grave goods in Tablet VIII, and Ea's cover story in Tablet XI. Restoring them is new writing.
+- Shamash's warning in Tablet IV stands in the wrong place. Moving it means swapping two segments.
+- One segment in Tablet VIII was an editor's summary and is set aside. It needs the tablet's own text or a bracketed note in its place.
+- A note on the killing of Humbaba describes his speech differently from how the text now has it.
+
+Cite this edition: The Epic of Gilgamesh. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/gilgamesh/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Bhagavad Gita](https://sandiegotech.org/lectio/bhagavad-gita/)[Nicomachean Ethics](https://sandiegotech.org/lectio/nicomachean-ethics/)
+
+Read next: [Genesis](https://sandiegotech.org/lectio/genesis/), [The Iliad](https://sandiegotech.org/lectio/iliad/), [The Odyssey](https://sandiegotech.org/lectio/odyssey/)
+
+---
+
+Source: https://sandiegotech.org/lectio/nicomachean-ethics/
+
+Lectio Edition · 2026
+
+# Nicomachean Ethics
+
+Aristotle
+
+- 340 BCE
+- Western tradition
+- Philosophy
+- Lectio Edition 2026
+
+Aristotle's inquiry into how to live well. Happiness is the activity of a whole life lived with excellence. Virtue is a mean, formed by habit. Friendship and contemplation complete a human life. The book is his lecture notes, in ten books.
+
+## An argument cannot be followed if its terms keep changing.
+
+The Ethics is compressed and technical, and it doubles back. That is hard enough. D. P. Chase's translation, the public-domain version in the bundle, adds Victorian terms of art: "Perfected Self-Mastery", "Imperfect Self-Control", "Great-mindedness".
+
+The first Lectio draft had the opposite fault. It was plain, but each book was drafted alone, and the key terms drifted. The review found four English words for temperance.
+
+The edition now keeps every distinction Aristotle makes and gives each term one English word in all ten books. Chase stays in the app beside it.
+
+## How it begins.
+
+> **Book I · The Good for Man**
+
+> Every craft and every line of inquiry, and likewise every action and deliberate choice, seems to aim at some good. That is why people have rightly described the good as "what everything aims at." But the aims clearly differ. In some cases the aim is the activity itself; in others it is some product over and above the activity. And where there are products beyond the activities, the products are by their nature better than the activities. Since there are many actions, crafts, and sciences, there are also many aims: health is the aim of medicine, a ship of shipbuilding, victory of generalship, wealth of household management.
+
+> Wherever a number of such pursuits fall under a single master art — as bridle-making and all the other trades that produce a horse's equipment fall under horsemanship, and horsemanship together with every military action falls under generalship, and so on — in every case the aim of the master art is more worth choosing than the aims of the arts beneath it, since those lower aims are pursued for the sake of the higher. And it makes no difference whether the activities themselves are the aims, or something further beyond them, as in the sciences just mentioned.
+
+The first 205 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+This edition took more correction than any other: 206 fixes, most of them to make the vocabulary hold. The review wrote a glossary and applied it.
+
+- One English word for each Greek term, in every book. *Sophrosyne* is "temperance". *Akolasia* is "self-indulgence". *Enkrateia* is "self-control". *Akrasia* is "lack of self-control". These are four different conditions and Aristotle keeps them apart.
+- *To kalon*, as a motive for action, is "the noble". The draft had "fine", "honor" and "honorable". "Honor" is now kept for *time* alone.
+- *Eudaimonia* stays "happiness", and Aristotle's own argument is left to say what he means by it.
+- *Arete* is "virtue" in the moral sense and "excellence" where he means being good at a function.
+- *Nous* is "intuitive understanding" as the faculty that grasps first principles, and "intellect" as the highest part of us.
+- No contractions. Book III had 189 and read in a different voice from the rest.
+- Chase's own insertions came out, including a line of Shakespeare in Book IX. Two examples in Book VII that Chase had silently cut were restored.
+
+### Where it differs from the older translations
+
+The edition records 30 divergences: places where it departs from the older English, each with its reason. Here are 8. The full record is in the app, one tap from the text.
+
+### εὐδαιμονία (*eudaimonia*)
+
+Book I and throughout
+
+**Older:** "happiness" (Chase)
+
+**Lectio:** happiness
+
+Here the edition keeps the old word. *Eudaimonia* is a whole life that has gone well, not a mood, and some translators prefer "flourishing". The edition keeps the word readers expect and lets the argument redefine it.
+
+### ἀρετή (*arete*)
+
+Book I, chapter 7
+
+**Older:** "virtue" (Chase)
+
+**Lectio:** excellence
+
+A good knife cuts well. A good harpist plays well. *Arete* is that, before it is anything moral. "Excellence" lets the function argument read as an argument.
+
+### σωφροσύνη, ἀκολασία
+
+Book III, chapters 10 to 12
+
+**Older:** "Perfected Self-Mastery", "absence of self-control" (Chase)
+
+**Lectio:** temperance
+
+Chase's second term suggests the man who knows better and fails, which is a different condition treated in Book VII. The self-indulgent man does not think he is failing.
+
+### μεγαλοψυχία (*megalopsychia*)
+
+Book IV, chapter 3
+
+**Older:** "Great-mindedness" (Chase)
+
+**Lectio:** greatness of soul
+
+The Greek is built from the words for great and soul, not mind. It is the soul Aristotle is measuring.
+
+### φρόνησις (*phronesis*)
+
+Book VI
+
+**Older:** "Practical Wisdom" (Chase), "prudence"
+
+**Lectio:** practical wisdom
+
+"Prudence" has shrunk to caution. *Phronesis* is the settled ability to work out what is good to do and to do it.
+
+### ἀκρασία (*akrasia*)
+
+Book VII
+
+**Older:** "Imperfect Self-Control" (Chase), "incontinence"
+
+**Lectio:** lack of self-control
+
+The state of a person who knows the better course and takes the worse. "Incontinence" now means something medical.
+
+### φιλία (*philia*)
+
+Book VIII
+
+**Older:** "friendship" (Chase)
+
+**Lectio:** friendship
+
+Kept, with a caution. *Philia* covers parent and child, husband and wife, fellow citizens, host and guest. It is wider than the English word, and the edition says so in its notes instead of inventing a term.
+
+### θεωρία (*theoria*)
+
+Book X, chapters 7 and 8
+
+**Older:** "Contemplative Speculation" (Chase)
+
+**Lectio:** contemplation
+
+Chase makes it sound mystical. *Theoria* is active looking: the mind fully at work on the highest things.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of Nicomachean Ethics is in the bundle, and switching keeps your place.
+
+- **D. P. Chase, 1911.** The compact Everyman Ethics: Chase's plain, readable Victorian prose.
+
+The original Greek is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 24, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 10 books, about 75,100 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Greek, the Bekker text of the Nicomachean Ethics
+- D. P. Chase, The Nicomachean Ethics (1847; Everyman 1911, public domain)
+- W. D. Ross, The Nicomachean Ethics (1925, consulted, not quoted)
+- F. H. Peters (1893, public domain)
+- H. Rackham, Loeb Classical Library (consulted, not quoted)
+
+**First review:** November 2026. 10 books read against Chase (1911). The Greek is not in the bundle, so readings of the Bekker text came from the reviewing model's own knowledge of it. 0 graded A, 10 graded B, none graded C.
+
+**Fixes applied:** 206: 38 high (meaning), 112 medium (a reader would stumble), 56 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all ten books.
+- Book IV still says "excellence" 26 times for the moral virtues, where Books III and V say "virtue". Bringing it into line is a separate pass of about twenty changes.
+- Book VII, chapter 5: the examples Chase had cut are restored. They are faithful and plainly worded. Because they add content readers of Chase never saw, the editor should read the passage himself.
+- One sentence in Book VII uses "weak" alone for the man who lacks self-control, against the edition's own rule.
+
+Cite this edition: Aristotle. Nicomachean Ethics. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/nicomachean-ethics/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Epic of Gilgamesh](https://sandiegotech.org/lectio/gilgamesh/)[Confessions](https://sandiegotech.org/lectio/confessions/)
+
+Read next: [The Republic](https://sandiegotech.org/lectio/republic/), [Meditations](https://sandiegotech.org/lectio/meditations/), [The Analects](https://sandiegotech.org/lectio/analects/)
+
+---
+
+Source: https://sandiegotech.org/lectio/confessions/
+
+Lectio Edition · 2026
+
+# Confessions
+
+Saint Augustine
+
+- 397–400 CE
+- Western tradition
+- Religion
+- Lectio Edition 2026
+
+Augustine tells God the story of his life and lets the reader overhear. A restless youth, a long struggle of mind and will, a conversion in a garden. Then he turns to memory, to time, and to the first verses of Genesis. Thirteen books, written in Latin about the year 400.
+
+## A prayer in "Thou" and "hast" keeps the reader outside it.
+
+E. B. Pusey's translation of 1838 is reverent and exact, and every sentence is in the English of the King James Bible. "Too late loved I Thee, O Thou Beauty of ancient days." A modern reader hears church, not a man.
+
+Augustine's Latin is direct, quick and often funny. He prays for chastity, but not yet. He says he stole pears for no reason at all.
+
+The Lectio Edition gives all thirteen books in current English, with "you" for God, and keeps the cries and the wordplay. Pusey stays in the app beside it.
+
+## How it begins.
+
+> **Book I · Infancy and Boyhood**
+
+> Great are you, Lord, and greatly to be praised: great is your power, and your wisdom is beyond all measure. And man wants to praise you — man, one small piece of your creation; man, hauling his mortality around with him, hauling the evidence of his sin and the evidence that you resist the proud. Yet still he wants to praise you, this man, one small piece of your creation. You stir us up to delight in praising you, because you made us for yourself, and our heart is restless until it rests in you. Grant me, Lord, to know and understand which comes first: calling on you, or praising you? And which first — knowing you, or calling on you? But who calls on you without knowing you? Not knowing you, he could call on something else instead of you. Or is it rather that you are called on in order to be known? Yet how will they call on one they have not believed in? And how will they believe without someone to preach him? And those who seek the Lord will praise him — for those who seek find him, and those who find him will praise him. Let me seek you, Lord, by calling on you; let me call on you by believing in you — for you have been preached to us.
+
+The first 227 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The review set these rules for the whole work.
+
+- *Distentio*, Augustine's word for what time is, is "stretching-out" every time. Pusey splits it into two unrelated words and the thread is lost.
+- *Continentia* is chosen by its sense. For sexual restraint it is "continence", so that the famous prayer matches the figure of Continence who appears in the garden. For the general virtue it is "self-mastery".
+- A cry is translated as a cry. *Ei mihi* is "Woe is me". It is never dropped or turned into a description.
+- Quoted verse keeps its lines.
+- One spelling, Manichaean, and one style of quotation mark across the thirteen books.
+- Single words in the wrong register were fixed one at a time.
+
+### Where it differs from the older translations
+
+The edition records 39 divergences: places where it departs from the older English, each with its reason. Here are 8. The full record is in the app, one tap from the text.
+
+### *inquietum est cor nostrum, donec requiescat in te*
+
+Book I
+
+**Older:** "our heart is restless, until it repose in Thee" (Pusey)
+
+**Lectio:** you made us for yourself, and our heart is restless until it rests in you
+
+The Latin ties restless to rest in one breath. "Repose" breaks the echo.
+
+### *ut essem gratis malus*
+
+Book II
+
+**Older:** "that I should be gratuitously evil" (Pusey)
+
+**Lectio:** that I should be evil for free
+
+*Gratis* is a word from the market: no payment. Augustine's point about the pears is that there was nothing to gain. "Gratuitously" has drifted toward "excessively".
+
+### *tolle lege, tolle lege*
+
+Book VIII
+
+**Older:** "Take up and read; Take up and read." (Pusey)
+
+**Lectio:** Take it and read. Take it and read.
+
+A child's chant over a garden wall, four syllables. It has to be something a child would sing.
+
+### *da mihi castitatem et continentiam, sed noli modo*
+
+Book VIII
+
+**Older:** "Give me chastity and continency, only not yet." (Pusey)
+
+**Lectio:** Give me chastity and continence
+
+The line ends "but not yet". The draft had "self-control". The review restored "continence", the word the line is known by, which also ties it to the scene that follows.
+
+### *sero te amavi*
+
+Book X, chapter 27
+
+**Older:** "Too late loved I Thee, O Thou Beauty of ancient days, yet ever new!" (Pusey)
+
+**Lectio:** Late have I loved you, Beauty so old and so new
+
+*Sero* is "late", not "too late". It is grief at the delay, spoken after arriving. Pusey turns it into a verdict.
+
+### *da quod iubes et iube quod vis*
+
+Book X, chapter 29
+
+**Older:** "Give what Thou enjoinest, and enjoin what Thou wilt." (Pusey)
+
+**Lectio:** Give what you command, and command what you will.
+
+The sentence that provoked Pelagius. God must supply the obedience he demands. "Enjoin" makes it polite.
+
+### *quid est ergo tempus?*
+
+Book XI
+
+**Older:** "If no one asks me, I know: if I wish to explain it to one that asketh, I know not." (Pusey)
+
+**Lectio:** What then is time? If no one asks me, I know
+
+Pusey is nearly plain here already. The edition only removes "asketh" and "I know not".
+
+### *distentio*
+
+Book XI
+
+**Older:** "protraction", and later "distraction" (Pusey)
+
+**Lectio:** a stretching-out
+
+One coined term for what time is, used again at the book's close. One English word each time lets the reader follow it.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of Confessions is in the bundle, and switching keeps your place.
+
+- **E. B. Pusey, 1838.** The devotional classic Confessions: Pusey's reverent, 'Thou'-keeping English.
+
+The original Latin is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** July 7, 2026, by Claude Fable 5 (`claude-fable-5`), an AI model. 13 books, about 117,300 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Latin, the original text of the Confessiones
+- E. B. Pusey, The Confessions of S. Augustine (1838, public domain)
+- William Watts (1631, public domain)
+- F. J. Sheed (1942, consulted, not quoted)
+- Henry Chadwick (1991, consulted, not quoted)
+
+**First review:** November 2026. 13 books read against Pusey (1838). The Latin is not in the bundle, so readings of the Latin came from the reviewing model's own knowledge of the text. 2 graded A, 11 graded B, none graded C.
+
+**Fixes applied:** 74: 1 high (meaning), 18 medium (a reader would stumble), 55 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all thirteen books.
+- Lines of Virgil in Book VIII and of Ambrose's hymn in Book IX are marked as verse. The build still runs them together as prose. The fix is in the pipeline.
+
+Cite this edition: Saint Augustine. Confessions. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/confessions/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[Nicomachean Ethics](https://sandiegotech.org/lectio/nicomachean-ethics/)[The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/)
+
+Read next: [The Gospel of Mark](https://sandiegotech.org/lectio/mark/), [Meditations](https://sandiegotech.org/lectio/meditations/), [The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/)
+
+---
+
+Source: https://sandiegotech.org/lectio/divine-comedy/
+
+Lectio Edition · 2026
+
+# The Divine Comedy
+
+Dante Alighieri
+
+- 1308–1320
+- Western tradition
+- Epic poem
+- Lectio Edition 2026
+
+Dante's journey through Hell, Purgatory and Paradise, led first by Virgil and then by Beatrice. One hundred cantos in three-line stanzas, written in Italian between about 1308 and 1320.
+
+## Longfellow kept Dante's lines and lost his speed.
+
+The public-domain Dante in the bundle is Longfellow's of 1867. It is faithful, line for line. It is also full of the inverted word order of its century: "a forest dark", "All hope abandon, ye who enter in".
+
+Dante's Italian is concrete and quick. It was the spoken language of his city, chosen over Latin so that people could read it.
+
+The Lectio Edition keeps Dante's form, one tercet at a time, on his lines, and puts the words in the order English uses now. Longfellow stays in the app beside it, and because both follow Dante's lines the two can be compared stanza by stanza.
+
+## How it begins.
+
+> **Inferno: Canto I**
+
+> Midway along the journey of our life  
+> I came to myself in a dark wood,  
+> for the straight road had been lost.
+
+> How hard it is to say what it was like —  
+> that wood, so wild and rough and unrelenting  
+> that the fear comes back the moment I think of it.
+
+> It was so bitter that death is hardly worse.  
+> But to tell of the good I found there too,  
+> I'll speak of the other things I saw.
+
+> How I came to enter it I can't say clearly,  
+> so heavy was I with sleep at the moment  
+> I wandered off from the true way.
+
+> But once I had reached the foot of a hill,  
+> there where the valley came to an end  
+> that had pierced my heart with dread,
+
+> I looked up and saw its shoulders  
+> already wrapped in that planet's rays  
+> that lead us straight down every road.
+
+The first 150 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+Three reviewers took one canticle each and wrote their rules separately. They were then applied as one rule across all hundred cantos.
+
+- One tercet to a segment, on Dante's lines. Where the English had slipped a line, the lines were moved back.
+- Each canto ends on a single line, and that line stands alone.
+- Latin stays Latin. Where Dante quotes a hymn, a psalm or scripture in Latin, the edition prints the Latin and puts no English beside it in the verse. The draft had translated or glossed many of these.
+- Dante's "Ahi" is "Ah". It is never "God".
+- Leftover archaism came out: "Behold", "yonder", "the while".
+- A word that would mislead a modern reader is replaced by the thing Dante means. The draft had "specialist" for a physician.
+
+### Where it differs from the older translations
+
+The edition records 309 divergences: places where it departs from the older English, each with its reason. Here are 8. The full record is in the app, one tap from the text.
+
+### *selva oscura*
+
+Inferno I, line 2
+
+**Older:** "a forest dark" (Longfellow)
+
+**Lectio:** a dark wood
+
+The Italian is plainly noun then adjective, and English wants it the other way round. It is the canto's governing image and should be bare.
+
+### *Lasciate ogne speranza, voi ch'intrate*
+
+Inferno III, line 9
+
+**Older:** "All hope abandon, ye who enter in!" (Longfellow)
+
+**Lectio:** Abandon every hope, you who enter here.
+
+A plain and terrible command: verb, object, address. "Every" because Dante counts each hope given up.
+
+### *il gran rifiuto*
+
+Inferno III, line 60
+
+**Older:** "Who made through cowardice the great refusal" (Longfellow)
+
+**Lectio:** who out of cowardice made the great refusal
+
+Dante does not name this shade. The edition does not name him either, and does not explain the phrase. The withholding is the point.
+
+### *Amor, ch'al cor gentil ratto s'apprende*
+
+Inferno V, lines 100 to 106
+
+**Older:** "Love, that on gentle heart doth swiftly seize" (Longfellow)
+
+**Lectio:** Love, which is quick to seize the gentle heart
+
+Francesca begins three tercets in a row with "Love". All three openings are kept so the repetition is heard.
+
+### *fatti non foste a viver come bruti*
+
+Inferno XXVI, lines 118 to 120
+
+**Older:** "Ye were not made to live like unto brutes" (Longfellow)
+
+**Lectio:** Consider where you came from.
+
+Ulysses to his crew before the last voyage. The tercet goes on: you were not made to live like beasts, but to follow after virtue and knowledge.
+
+### *Vexilla regis prodeunt inferni*
+
+Inferno XXXIV, line 1
+
+**Older:** left in Latin (Longfellow)
+
+**Lectio:** Vexilla regis prodeunt inferni
+
+The only line of Latin in the Inferno, a Good Friday hymn with one word added to turn it toward Satan. The draft had put an English version in the verse. The review took it out, as Dante and Longfellow have it.
+
+### *a riveder le stelle*
+
+Inferno XXXIV, line 139
+
+**Older:** "Thence we came forth to rebehold the stars" (Longfellow)
+
+**Lectio:** to see again the stars
+
+Each of the three canticles ends on the word "stars". After Hell the line has to open and lift, and a simple verb does it.
+
+### *l'amor che move il sole e l'altre stelle*
+
+Paradiso XXXIII, line 145
+
+**Older:** "The Love which moves the sun and the other stars" (Longfellow)
+
+**Lectio:** by the Love that moves the sun and the other stars.
+
+The last line of the poem. Here there is almost nothing to change, and the edition changes almost nothing.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Divine Comedy is in the bundle, and switching keeps your place.
+
+- **Henry Wadsworth Longfellow, 1867.** Longfellow's landmark American Dante: faithful blank verse, line for line.
+
+The original Italian is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 24, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 100 cantos, about 117,700 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Italian, Dante's Commedia (Petrocchi text)
+- Henry Wadsworth Longfellow (1867, public domain)
+- Henry Francis Cary (1814, public domain)
+- Charles Eliot Norton, prose (1892, public domain)
+- modern verse translations (Ciardi, Mandelbaum, Hollander, consulted, not quoted)
+
+**First review:** November 2026. 100 cantos read against Longfellow (1867), which follows Dante line for line. The Italian is not in the bundle, so readings of the Italian came from the reviewing models' own knowledge of the text. 55 graded A, 45 graded B, none graded C.
+
+**Fixes applied:** 307: 2 high (meaning), 134 medium (a reader would stumble), 171 low (polish). Each was re-checked by a further pass before it was applied.
+
+**Set aside:** 3 segments that held an editor's note or an invented sentence, not the author's text, are marked to be skipped by the app, print and audio.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all one hundred cantos.
+- In seven cantos the closing line shares the last segment with the tercet before it, because segment numbers are frozen. One ruling is needed for all seven.
+- Purgatorio XXII is one line off from its twelfth tercet to the end. Realigning it would move every later stanza number in that canto. Paradiso XXX had the same fault and was realigned. Decide whether Purgatorio XXII gets the same.
+- Arnaut Daniel's Occitan in Purgatorio XXVI: three segments that held an English version in brackets are set aside. Decide whether to retire them.
+- Three Latin phrases that Dante sets inside an Italian sentence are still in English. The canticles' rules differ on this.
+- "Behold" survives seven times in the Purgatorio and Paradiso. The rule against it was applied only to the Inferno.
+- Fourteen of the edition's notes paraphrase the text instead of quoting it.
+
+Cite this edition: Dante Alighieri. The Divine Comedy. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/divine-comedy/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[Confessions](https://sandiegotech.org/lectio/confessions/)[Hamlet](https://sandiegotech.org/lectio/hamlet/)
+
+Read next: [The Aeneid](https://sandiegotech.org/lectio/aeneid/), [Confessions](https://sandiegotech.org/lectio/confessions/), [Genesis](https://sandiegotech.org/lectio/genesis/)
+
+---
+
+Source: https://sandiegotech.org/lectio/hamlet/
+
+Lectio Edition · 2026
+
+# Hamlet
+
+William Shakespeare
+
+- 1600–1601
+- Western tradition
+- Drama
+- Lectio Edition 2026
+
+Shakespeare's tragedy of a prince, a murdered father, and a mind that cannot stop thinking. Five acts, written about 1600. More of its lines have passed into ordinary speech than those of any other play.
+
+## With Shakespeare the English is the art. So this edition does very little.
+
+Hamlet is the one work here that was written in English. There is no original behind it to get closer to. A full rewrite would throw away the thing itself.
+
+But Early Modern English stops many readers. Words have died or changed their meaning. "Fardels" are burdens. "Fancy" meant imagination. Some clauses run backward.
+
+The Lectio Edition keeps the verse lines and nearly all of Shakespeare's words. It steps in only where the language itself blocks a modern reader: a dead word replaced, an inverted clause set straight. It is a way in, to be read beside the original and then left behind.
+
+**Where it stands:** Shakespeare's own text is what opens by default for Hamlet, and it will stay the default. The Lectio Edition is a companion, one tap away.
+
+## How it begins.
+
+> **Act I**
+
+> SCENE I. Elsinore. A platform before the Castle.
+
+> Enter Francisco and Barnardo, two sentinels.
+
+> BARNARDO  
+> Who's there?
+
+> FRANCISCO  
+> No—you answer me. Stand, and reveal yourself.
+
+> BARNARDO  
+> Long live the King!
+
+> FRANCISCO  
+> Barnardo?
+
+> BARNARDO  
+> The same.
+
+> FRANCISCO  
+> You come right on the stroke of your hour.
+
+> BARNARDO  
+> It's just struck twelve. Get to bed, Francisco.
+
+> FRANCISCO  
+> For this relief, many thanks. It's bitter cold,  
+> and I am sick at heart.
+
+> BARNARDO  
+> Have you had a quiet watch?
+
+> FRANCISCO  
+> Not a mouse stirring.
+
+> BARNARDO  
+> Well, good night.  
+> If you do meet Horatio and Marcellus,  
+> the partners of my watch, bid them make haste.
+
+> Enter Horatio and Marcellus.
+
+> FRANCISCO  
+> I think I hear them. Stand, there! Who's that?
+
+> HORATIO  
+> Friends to this country.
+
+> MARCELLUS  
+> And loyal men to the Dane.
+
+> FRANCISCO  
+> Good night to you.
+
+> MARCELLUS  
+> Oh, farewell, honest soldier. Who has relieved you?
+
+> FRANCISCO  
+> Barnardo has my place. Good night to you.
+
+The first 150 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+The first draft changed too much. Most of the review's 147 fixes put Shakespeare's wording back.
+
+- The verse lines are kept, line for line. Prose stays prose.
+- "Thou" and "thee" become "you", except in a short closed list of lines known by heart: "to thine own self be true", "Get thee to a nunnery", "flights of angels sing thee to thy rest".
+- "Ay" is kept. Every reader takes it as "aye".
+- Claudius keeps the royal "we" wherever Shakespeare gives it to him.
+- A rare word the scene itself discusses is kept. Hamlet and Polonius stop to talk about "mobled", so it stays.
+- Songs, the letter, the Players' speeches and the play within the play keep their own setting.
+- The famous lines are not touched.
+
+### Where it differs from the older translations
+
+The edition records 12 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### "Buzz, buzz"
+
+Act II, scene 2
+
+**Older:** Buzz, buzz. (Shakespeare)
+
+**Lectio:** Bah, bah.
+
+Hamlet's answer to stale news. "Buzz" was a noise of contempt. Today it reads as a sound effect.
+
+### "the mobled queen"
+
+Act II, scene 2
+
+**Older:** the mobled queen (Shakespeare)
+
+**Lectio:** the mobled queen
+
+Kept. The draft had "muffled". But Hamlet stops on the word and Polonius approves of it, and with an ordinary word their exchange is about nothing. The review put it back.
+
+### "his quietus make / With a bare bodkin"
+
+Act III, scene 1
+
+**Older:** his quietus make / With a bare bodkin (Shakespeare)
+
+**Lectio:** settle his account
+
+"To be, or not to be" is kept almost word for word. Four dead words are cleared, each in the meter. A bodkin is a dagger and fardels are burdens.
+
+### "methinks"
+
+Act III, scene 2
+
+**Older:** The lady protests too much, methinks. (Shakespeare)
+
+**Lectio:** The lady protests too much, methinks.
+
+Kept word for word. The draft had removed "methinks". Every reader still understands it, and the line is known with it.
+
+### "argal" and "se offendendo"
+
+Act V, scene 1
+
+**Older:** argal, she drowned herself wittingly (Shakespeare)
+
+**Lectio:** she drowned herself on purpose
+
+The gravedigger's law Latin is wrong on purpose, and that is the joke. His blunders are kept. Only the plain words around them are eased.
+
+### "of most excellent fancy"
+
+Act V, scene 1
+
+**Older:** a fellow of infinite jest, of most excellent fancy (Shakespeare)
+
+**Lectio:** of most excellent imagination
+
+"Fancy" then meant the power of imagination. Now it means a whim. "Infinite jest" is untouched.
+
+### "The rest is silence"
+
+Act V, scene 2
+
+**Older:** The rest is silence. (Shakespeare)
+
+**Lectio:** The rest is silence.
+
+Hamlet's last words, left exactly as written. So are "the readiness is all" and "there's a divinity that shapes our ends".
+
+## The other editions on hand.
+
+What opens by default for this work is the original English, not the Lectio Edition. One other edition of Hamlet is in the bundle, and switching keeps your place.
+
+- **The original English, 1603.** Shakespeare's text: the tragedy entire, in five acts.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** June 24, 2026, by Claude Opus 4.8 (`claude-opus-4-8`), an AI model. 5 acts, about 32,400 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- Shakespeare's text (the conflated Second Quarto / First Folio Hamlet, public domain)
+- the OED and a standard glossarial edition (Arden, consulted, not quoted) for archaic senses
+
+**First review:** November 2026. 5 acts read against Shakespeare's text in the bundle, the conflated Second Quarto and First Folio Hamlet. 0 graded A, 5 graded B, none graded C.
+
+**Fixes applied:** 147: 9 high (meaning), 67 medium (a reader would stumble), 71 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all five acts, beside the original.
+- The letter, Hamlet's poem, the Players' speeches and the songs should be set in italics as in the source. Act II still has them in quotation marks and Act IV's songs have lost their indent.
+- A handful of "O" and "Oh" exclamations were left for the editor's ear.
+- Two of the edition's notes quote the text with slightly different punctuation from how it reads.
+
+Cite this edition: William Shakespeare. Hamlet. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/hamlet/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/)[The Gospel of Mark](https://sandiegotech.org/lectio/mark/)
+
+Read next: [The Divine Comedy](https://sandiegotech.org/lectio/divine-comedy/), [The Prince](https://sandiegotech.org/lectio/the-prince/), [The Iliad](https://sandiegotech.org/lectio/iliad/)
+
+---
+
+Source: https://sandiegotech.org/lectio/mark/
+
+Lectio Edition · 2026
+
+# The Gospel of Mark
+
+Anonymous · attributed to Mark
+
+- c. 65–75 CE
+- Western tradition
+- Scripture
+- Lectio Edition 2026
+
+The earliest of the four Gospels and the shortest. It has no birth story and no long sermon. It opens with a voice in the wilderness and moves fast, in the everyday Greek of markets and letters, to an empty tomb.
+
+## Mark is rough and in a hurry. English Bibles have made him dignified.
+
+The King James Version of 1611 gave English its sacred register, and Mark does not write in a sacred register. He piles clause on clause with "and". He says "right away" more than forty times in sixteen chapters. Translators have varied the word for elegance since the beginning.
+
+The smoothing also hides what Mark built. At the baptism the sky is torn, the same verb he uses for the temple curtain at the crucifixion. The King James has "opened".
+
+The Lectio Edition keeps the pace and the repetition, and keeps the hard words hard. It ends where the oldest manuscripts end. The King James stays in the app beside it.
+
+## How it begins.
+
+> **Chapter 1 · The Beginning of the Good News**
+
+> The beginning of the good news of Jesus Christ, the Son of God. As it stands written in the prophet Isaiah — “Look, I am sending my messenger ahead of you; he will prepare your road. A voice shouts in the wilderness: Get the road ready for the Lord. Make his paths straight.”
+
+> John appeared, baptizing in the wilderness and announcing a baptism of turning back, for the forgiveness of sins. The whole Judean countryside went out to him, and all the people of Jerusalem; they were baptized by him in the Jordan River, confessing their sins. John wore camel's hair with a leather belt at his waist, and he ate locusts and wild honey.
+
+> And this is what he announced: “After me comes one stronger than I am. I'm not fit to stoop down and untie the strap of his sandals. I baptized you with water. He will baptize you with the Holy Spirit.”
+
+The first 155 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+These rules were set before drafting, in a charter for the biblical books, and the review held the text to them.
+
+- *Euthys* is "right away", every time. The review checked all 41 places and corrected 13 that had been varied.
+- Biblical units and hours stay: denarii, the third hour, the fourth watch. They are not converted.
+- Hard words stay hard: "rebuking", "deny himself", "eternal sin".
+- *Parabole* is "parable" wherever it names the form.
+- Where Jesus is moved by a crowd, "his heart went out". At 1:41, where manuscripts differ between compassion and anger, the edition has "Moved to the depths" and records the variant.
+- The base Greek text is Westcott and Hort's of 1881, which is in the public domain.
+
+### Where it differs from the older translations
+
+The edition records 13 divergences: places where it departs from the older English, each with its reason. Here are 8. The full record is in the app, one tap from the text.
+
+### εὐαγγέλιον (*euangelion*)
+
+Throughout
+
+**Older:** "gospel" (King James)
+
+**Lectio:** good news
+
+Before it became a church word it was a herald's word, for news of a victory. "Good news" is what a first hearer heard.
+
+### εὐθύς (*euthys*)
+
+Throughout
+
+**Older:** "straightway", "immediately", "anon", "forthwith" (King James)
+
+**Lectio:** right away
+
+Mark repeats it on purpose. A translator who varies it is correcting an author who made no mistake.
+
+### σχιζομένους
+
+1:10
+
+**Older:** "he saw the heavens opened" (King James)
+
+**Lectio:** torn open
+
+The verb is the one for tearing cloth. Mark uses it again of the temple curtain. The tear frames the book.
+
+### σπλαγχνισθείς or ὀργισθείς
+
+1:41
+
+**Older:** "moved with compassion" (King James)
+
+**Lectio:** Moved to the depths
+
+A few important manuscripts read "moved with anger". The Greek word behind "compassion" names the inward organs. The edition gives the depth and records the variant in a note.
+
+### σιώπα, πεφίμωσο
+
+4:39
+
+**Older:** "Peace, be still" (King James)
+
+**Lectio:** Quiet. Be muzzled.
+
+Jesus does not soothe the storm. He silences it with the verb he used on an unclean spirit in chapter 1. The King James line is beautiful and hides the connection.
+
+### ὁ Χριστός
+
+8:29
+
+**Older:** "Thou art the Christ" (King James)
+
+**Lectio:** You are the Messiah
+
+It is a title being claimed. Modern readers hear "Christ" as a surname, and the scene loses its weight.
+
+### γέεννα
+
+9:43 to 9:48
+
+**Older:** "hell" (King James)
+
+**Lectio:** Gehenna
+
+Gehenna is a place, the Valley of Hinnom outside Jerusalem. "Hell" brings in a later picture of the afterlife.
+
+### ἐφοβοῦντο γάρ
+
+16:8
+
+**Older:** verses 9 to 20 printed as part of the Gospel (King James)
+
+**Lectio:** Verse 8 is the ending. Verses 9 to 20 are printed and marked as a later addition.
+
+The oldest manuscripts stop with the women running from the tomb, afraid, saying nothing. The longer ending was written later in a different style. The edition prints it and says what it is.
+
+## The other editions on hand.
+
+The Lectio Edition is what opens by default. One other edition of The Gospel of Mark is in the bundle, and switching keeps your place.
+
+- **The King James translators, 1611.** The 1611 monument: the cadence that shaped English itself.
+
+The original Greek is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** August 6, 2026, by Claude Opus 5 (`claude-opus-5`), an AI model. 16 chapters, about 13,800 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- King James Version (1611) — public domain
+- American Standard Version (1901) — public domain
+- Young's Literal Translation (1898) — public domain
+- Greek New Testament, Westcott-Hort text (1881) — public domain
+
+**First review:** November 2026. 16 chapters read against the King James Version (1611). The Greek is not in the bundle, so readings of the Greek came from the reviewing model's own knowledge of the critical text. 3 graded A, 13 graded B, none graded C.
+
+**Fixes applied:** 35: 0 high (meaning), 27 medium (a reader would stumble), 8 low (polish). Each was re-checked by a further pass before it was applied.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all sixteen chapters.
+- The review left no other item for the editor on this work.
+
+Cite this edition: The Gospel of Mark. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/mark/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[Hamlet](https://sandiegotech.org/lectio/hamlet/)[Genesis](https://sandiegotech.org/lectio/genesis/)
+
+Read next: [Genesis](https://sandiegotech.org/lectio/genesis/), [Confessions](https://sandiegotech.org/lectio/confessions/), [The Dhammapada](https://sandiegotech.org/lectio/dhammapada/)
+
+---
+
+Source: https://sandiegotech.org/lectio/genesis/
+
+Lectio Edition · 2026
+
+# Genesis
+
+Anonymous · Ancient Israel
+
+- c. 900–500 BCE
+- Western tradition
+- Scripture
+- Lectio Edition 2026
+
+The first book of the Bible. Eleven chapters about everyone: creation, a garden, a murder, a flood, a tower. Then thirty-nine about one family: Abraham and Sarah, Isaac and Rebekah, Jacob, Leah and Rachel, Joseph and his brothers.
+
+## The Hebrew is plain. Four hundred years of English have made it grand.
+
+Genesis is spare. The Hebrew has a small vocabulary, repeats itself on purpose, and almost never explains. It says what happened and leaves the judgment to the reader.
+
+The King James Version of 1611 is one of the great works of English, and it adds a solemnity the Hebrew does not have. It also varies words the Hebrew repeats. Abraham answers "Here I am" three times in one chapter, to God, to his son, and to the messenger who stops the knife. The King James gives it three ways.
+
+The Lectio Edition keeps the refrains word for word, keeps more of the Hebrew's "and" than modern taste likes, and leaves a puzzle as a puzzle. The King James stays in the app beside it.
+
+**Where it stands:** In the app, the King James is still what opens by default for Genesis. The Lectio Edition is complete, all fifty chapters. It is a beta, and it becomes the default after the readers' review and the editor's read.
+
+## How it begins.
+
+> **Chapter 1 · The Seven Days**
+
+> When God began to create the heavens and the earth — the earth was a shapeless waste, darkness lay over the face of the deep, and the breath of God hovered over the waters — God said, “Let there be light.” And there was light. God saw that the light was good, and God separated the light from the darkness. God called the light Day, and the darkness he called Night. And there was evening, and there was morning: the first day.
+
+> God said, “Let there be a vault in the middle of the waters, to separate water from water.” So God made the vault, and it separated the water beneath it from the water above it. And so it was. God called the vault Sky. And there was evening, and there was morning: the second day.
+
+> God said, “Let the waters under the sky be gathered into one place, so that dry land can appear.” And so it was. God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good. God said, “Let the earth put out growth: seed-bearing plants, and every kind of fruit tree bearing fruit with its seed inside it.” And so it was. The earth put out growth — every kind of seed-bearing plant, every kind of tree bearing fruit with its seed inside it. And God saw that it was good. And there was evening, and there was morning: the third day.
+
+The first 247 words of the Lectio Edition, as they stand in the bundle the app reads.
+
+## What this edition decided.
+
+These rules come from the charter written for the biblical books and from the review.
+
+- Where the Hebrew is unknown or can be read two ways, the edition prints the received text and leaves it open. A scholar's guess goes in a note, not in the verse. "Gopher wood" stays "gopher wood". Nobody knows what it was.
+- Refrains and repeated words are the same each time.
+- The divine name is "the LORD" in capitals, the convention English Bibles have used since Tyndale. It marks that a substitution is being made.
+- *Shamayim* is "sky" for the physical sky and "heaven" where it is God's place or title.
+- *Hesed* is "kindness".
+- The poems inside Genesis are verse and should be set as lines. The build cannot do that yet. See below.
+
+### Where it differs from the older translations
+
+The edition records 34 divergences: places where it departs from the older English, each with its reason. Here are 7. The full record is in the app, one tap from the text.
+
+### בְּרֵאשִׁית בָּרָא (*bereshit bara*)
+
+1:1
+
+**Older:** "In the beginning God created the heaven and the earth." (King James)
+
+**Lectio:** When God began to create the heavens and the earth
+
+The Hebrew most likely opens a clause that runs on to "God said, Let there be light". Creation starts with a scene already dark and wet. Rashi read it this way in the eleventh century.
+
+### תֹהוּ וָבֹהוּ (*tohu wabohu*)
+
+1:2
+
+**Older:** "without form, and void" (King James)
+
+**Lectio:** a shapeless waste
+
+The Hebrew is a rhyming pair. In the same verse *ruach* is breath, wind and spirit at once, and the edition has "the breath of God hovered".
+
+### עֵזֶר כְּנֶגְדּוֹ (*ezer kenegdo*)
+
+2:18
+
+**Older:** "an help meet for him" (King James)
+
+**Lectio:** a partner who matches him
+
+*Ezer* is used most often of God and implies no lower rank. *Kenegdo* means his counterpart.
+
+### לֶךְ־לְךָ (*lekh lekha*)
+
+12:1
+
+**Older:** "Get thee out of thy country" (King James)
+
+**Lectio:** out of your country
+
+Two blunt Hebrew words. The verse begins "Go". Everything after it follows from a man obeying an order that gives no reason.
+
+### כָּרַת בְּרִית (*karat berit*)
+
+15:18
+
+**Older:** "the LORD made a covenant with Abram" (King James)
+
+**Lectio:** the LORD cut a covenant with Abram
+
+The Hebrew idiom is to cut a covenant, and here it is literal. Animals are cut in half and fire passes between the pieces. "Made" hides the knife.
+
+### הִנֵּנִי (*hineni*)
+
+22:1, 22:7, 22:11
+
+**Older:** "Behold, here I am", "Here am I" (King James)
+
+**Lectio:** Here I am
+
+One word, three times. It is the spine of the chapter. Varying it breaks it.
+
+### סֻלָּם (*sullam*)
+
+28:12
+
+**Older:** "a ladder" (King James)
+
+**Lectio:** a stairway
+
+The word occurs only here. The picture is most likely the ramp of a temple tower, a fixed way between the sky and a stone in open country.
+
+## The other editions on hand.
+
+What opens by default for this work is the translation of The King James translators (1611), not the Lectio Edition. One other edition of Genesis is in the bundle, and switching keeps your place.
+
+- **The King James translators, 1611.** The 1611 monument: the cadence that shaped English itself.
+
+The original Hebrew is not in the bundle yet. Bundling the original for every work is part of the plan, so that review can check against it directly.
+
+## The record for this edition.
+
+Every Lectio edition says how it was made. This one is a beta. It was drafted by an AI model, read against its sources by a second AI reader, and corrected. [The method is described here.](https://sandiegotech.org/lectio/mission/)
+
+**Status:** [Beta. Open for review.](https://sandiegotech.org/lectio/#scholars) The first review, by machine readers, is done and its fixes are applied. The readers' review and the editor's own full read have not happened yet. Both come before the release stamp, and only a release is printed.
+
+**Drafted:** August 6, 2026, by Claude Opus 5 (`claude-opus-5`), an AI model. 50 chapters, about 36,600 words.
+
+**Vintage:** 2026
+
+**Revised:** November 17, 2026
+
+**Sources:**
+
+- King James Version (1611) — public domain
+- American Standard Version (1901) — public domain
+- Jewish Publication Society (1917) — public domain
+- Young's Literal Translation (1898) — public domain
+- Hebrew Bible, Leningrad Codex tradition — public domain
+
+**First review:** November 2026. 34 chapters read against the King James Version (1611). The Hebrew is not in the bundle, so readings of the Hebrew came from the reviewing model's own knowledge of the text. 29 graded A, 5 graded B, none graded C.
+
+**Fixes applied:** 15: 0 high (meaning), 3 medium (a reader would stumble), 12 low (polish). Each was re-checked by a further pass before it was applied.
+
+**Also:** The figures above cover chapters 1 to 34, which were reviewed with the other works. Chapters 35 to 50 were drafted the same night and read by one reader: 15 graded A and 1 graded B, with six small fixes applied. That reader asked that its Hebrew readings be confirmed against a printed text.
+
+### Still open
+
+What the first review left for the editor to decide or restore.
+
+- The editor's own read of all fifty chapters. Until then the King James remains the default.
+- The poems (2:23, 3:14 to 19, 4:23 to 24, 9:25 to 27, 25:23, 27:27 to 29, 27:39 to 40, and chapter 49) are still set as prose. The build has to learn to keep line breaks inside a paragraph first.
+- Notes for the places left open: gopher wood, who gave the tenth at 14:20, the reading at 16:13, Joseph's coat, the traders at 37:28, "until Shiloh comes" at 49:10, and others. They have not been written.
+- The Hebrew readings for chapters 35 to 50 should be confirmed against a printed text.
+
+Cite this edition: Genesis. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/genesis/
+
+## No printed edition or PDF yet.
+
+Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.
+
+[The Gospel of Mark](https://sandiegotech.org/lectio/mark/)[The library](https://sandiegotech.org/lectio/)
+
+Read next: [The Gospel of Mark](https://sandiegotech.org/lectio/mark/), [The Epic of Gilgamesh](https://sandiegotech.org/lectio/gilgamesh/), [Confessions](https://sandiegotech.org/lectio/confessions/)

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://sandiegotech.org/lectio/</id>
+  <title>Lectio editions</title>
+  <subtitle>New and revised Lectio editions from the San Diego Institute of Technology.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://sandiegotech.org/lectio/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/"/>
+  <updated>2026-11-17T00:00:00Z</updated>
+  <author><name>San Diego Institute of Technology</name><uri>https://sandiegotech.org/</uri></author>
+  <rights>CC BY-NC 4.0</rights>
+  <entry>
+    <id>https://sandiegotech.org/lectio/meditations/</id>
+    <title>Meditations, Marcus Aurelius: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/meditations/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>A new plain-English translation of the Stoic emperor's private notebook, with Long, Casaubon and the Greek beside it. Beta, open for review.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/iliad/</id>
+    <title>The Iliad, Homer: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/iliad/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Homer's poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/odyssey/</id>
+    <title>The Odyssey, Homer: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/odyssey/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Homer's poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler's version beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/republic/</id>
+    <title>The Republic, Plato: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/republic/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Plato's dialogue on justice, the Cave and the philosopher-king, in a new plain-English translation with Jowett's version beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/aeneid/</id>
+    <title>The Aeneid, Virgil: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/aeneid/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Virgil's epic of Aeneas, the fall of Troy and the founding of Rome, in a new plain-English prose translation with Dryden's beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/the-prince/</id>
+    <title>The Prince, Niccolò Machiavelli: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/the-prince/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Machiavelli's short handbook on winning and keeping power, in a new plain-English translation that keeps the word virtù. Marriott's beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/analects/</id>
+    <title>The Analects, Confucius: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/analects/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge's version beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/tao-te-ching/</id>
+    <title>The Tao Te Ching, Laozi: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/tao-te-ching/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Laozi's eighty-one chapters on the Way and the power that works by yielding, in a new plain-English translation with Legge's beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/dhammapada/</id>
+    <title>The Dhammapada: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/dhammapada/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>The Buddha's verses on the mind, craving and the path, in a new plain-English translation that follows the Pali, with Müller's beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/bhagavad-gita/</id>
+    <title>The Bhagavad Gita: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/bhagavad-gita/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Krishna's teaching to Arjuna on duty, devotion and acting without clinging to results, in new plain-English prose with Arnold's verse beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/gilgamesh/</id>
+    <title>The Epic of Gilgamesh: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/gilgamesh/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/nicomachean-ethics/</id>
+    <title>Nicomachean Ethics, Aristotle: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/nicomachean-ethics/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Aristotle on happiness, virtue, friendship and the good life, in a new plain-English translation with one word for each key term. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/confessions/</id>
+    <title>Confessions, Saint Augustine: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/confessions/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Augustine's account of his restless youth and conversion, and of memory and time, in a new plain-English translation with Pusey's beside it. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/divine-comedy/</id>
+    <title>The Divine Comedy, Dante Alighieri: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/divine-comedy/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Dante's journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/hamlet/</id>
+    <title>Hamlet, William Shakespeare: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/hamlet/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Shakespeare's tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/mark/</id>
+    <title>The Gospel of Mark: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/mark/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>The earliest Gospel in a new plain-English translation that keeps Mark's speed, his repeated "right away" and his abrupt ending. Beta.</summary>
+  </entry>
+  <entry>
+    <id>https://sandiegotech.org/lectio/genesis/</id>
+    <title>Genesis: Lectio Edition</title>
+    <link rel="alternate" type="text/html" href="https://sandiegotech.org/lectio/genesis/"/>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>Creation, the flood, Abraham and Joseph, in a new plain-English translation that keeps the Hebrew's refrains, with the King James beside it. Beta.</summary>
+  </entry>
+</feed>

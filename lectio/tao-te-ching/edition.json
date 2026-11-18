@@ -1,0 +1,59 @@
+{
+  "title": "The Tao Te Ching",
+  "author": "Laozi",
+  "composed": "400–301 BCE",
+  "originalLanguage": "lzh",
+  "tradition": "East",
+  "genre": "Philosophy",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-27"
+  },
+  "sections": 81,
+  "words": 8364,
+  "sourcesConsulted": [
+    "Classical Chinese, the original text of the Daodejing",
+    "James Legge, The Tâo Teh King (1891, Sacred Books of the East, public domain)",
+    "Walter Gorn Old, The Book of the Simple Way (1904, public domain)",
+    "D. C. Lau (1963, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "James Legge",
+      "year": 1891,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 81,
+    "gradedA": 65,
+    "gradedB": 16,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 4,
+      "medium": 26,
+      "low": 30
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 169,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Laozi. The Tao Te Ching. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/tao-te-ching/",
+  "url": "https://sandiegotech.org/lectio/tao-te-ching/",
+  "markdown": "https://sandiegotech.org/lectio/tao-te-ching/index.md",
+  "cover": "https://sandiegotech.org/lectio/tao-te-ching/cover.jpg"
+}

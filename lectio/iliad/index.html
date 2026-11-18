@@ -3,23 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Iliad, Homer · Lectio Edition — San Diego Institute of Technology</title>
-  <meta name="description" content="The Lectio Edition of Homer&#x27;s Iliad: a prose Iliad in plain current English, with its choices, its opening, and the record of its review.">
+  <title>The Iliad by Homer: a modern English translation · Lectio</title>
+  <meta name="description" content="Homer&#x27;s poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/iliad/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="edition.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="book">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/iliad/">
-  <meta property="og:title" content="The Iliad, Homer · Lectio Edition — San Diego Institute of Technology">
-  <meta property="og:description" content="The Lectio Edition of Homer&#x27;s Iliad: a prose Iliad in plain current English, with its choices, its opening, and the record of its review.">
-  <meta property="og:image" content="https://sandiegotech.org/lectio/iliad/cover.jpg">
-  <meta property="og:image:width" content="582">
-  <meta property="og:image:height" content="900">
-  <meta property="og:image:alt" content="Cover of the Lectio Edition of The Iliad">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="The Iliad, Homer · Lectio Edition — San Diego Institute of Technology">
-  <meta name="twitter:description" content="The Lectio Edition of Homer&#x27;s Iliad: a prose Iliad in plain current English, with its choices, its opening, and the record of its review.">
-  <meta name="twitter:image" content="https://sandiegotech.org/lectio/iliad/cover.jpg">
+  <meta property="og:title" content="The Iliad by Homer: a modern English translation · Lectio">
+  <meta property="og:description" content="Homer&#x27;s poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/iliad/share.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="The Iliad by Homer: Lectio Edition">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Iliad by Homer: a modern English translation · Lectio">
+  <meta name="twitter:description" content="Homer&#x27;s poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/iliad/share.jpg">
+  <meta name="twitter:image:alt" content="The Iliad by Homer: Lectio Edition">
+  <meta property="book:author" content="https://en.wikipedia.org/wiki/Homer">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta name="citation_title" content="The Iliad: Lectio Edition">
+  <meta name="citation_author" content="Homer">
+  <meta name="citation_publisher" content="San Diego Institute of Technology">
+  <meta name="citation_publication_date" content="2026/11/17">
+  <meta name="citation_language" content="en">
+  <meta name="citation_public_url" content="https://sandiegotech.org/lectio/iliad/">
+  <meta name="DC.title" content="The Iliad: Lectio Edition">
+  <meta name="DC.creator" content="Homer">
+  <meta name="DC.publisher" content="San Diego Institute of Technology">
+  <meta name="DC.date" content="2026-11-17">
+  <meta name="DC.language" content="en">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.rights" content="CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/">
+  <meta name="DC.identifier" content="https://sandiegotech.org/lectio/iliad/">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,43 +57,115 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "Book",
-      "@id": "https://sandiegotech.org/lectio/iliad/#book",
+      "@id": "https://sandiegotech.org/lectio/iliad/#work",
       "name": "The Iliad",
+      "inLanguage": "grc",
+      "dateCreated": "800–701 BCE",
+      "genre": "Epic poem",
+      "workExample": {
+        "@id": "https://sandiegotech.org/lectio/iliad/#edition"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Homer",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Homer",
+          "https://www.wikidata.org/wiki/Q6691"
+        ]
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://sandiegotech.org/lectio/iliad/#edition",
+      "name": "The Iliad: Lectio Edition",
       "url": "https://sandiegotech.org/lectio/iliad/",
       "bookEdition": "Lectio Edition, 2026 vintage, revised 2026-11-17",
       "inLanguage": "en",
-      "datePublished": "2026",
-      "dateModified": "2026-11-17",
-      "image": "https://sandiegotech.org/lectio/iliad/cover.jpg",
-      "description": "The Lectio Edition of Homer's Iliad: a prose Iliad in plain current English, with its choices, its opening, and the record of its review.",
-      "translator": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+      "exampleOfWork": {
+        "@id": "https://sandiegotech.org/lectio/iliad/#work"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
-      "genre": "Epic poem",
+      "datePublished": "2026",
+      "dateModified": "2026-11-17",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
       "creativeWorkStatus": "Beta",
+      "image": "https://sandiegotech.org/lectio/iliad/cover.jpg",
+      "abstract": "Homer's poem of a few weeks in the tenth year of the war at Troy. It is about what a man does with anger, with grief, and with the certainty that he will die. The Greeks sang it for centuries before anyone wrote it down.",
+      "description": "Homer's poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.",
+      "genre": "Epic poem",
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/iliad/"
+      },
       "author": {
         "@type": "Person",
-        "name": "Homer"
+        "name": "Homer",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/Homer",
+          "https://www.wikidata.org/wiki/Q6691"
+        ]
+      },
+      "translationOfWork": {
+        "@id": "https://sandiegotech.org/lectio/iliad/#work"
+      },
+      "translator": {
+        "@id": "https://sandiegotech.org/#organization"
       }
     },
     {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/iliad/",
       "url": "https://sandiegotech.org/lectio/iliad/",
-      "name": "The Iliad: the Lectio Edition",
-      "about": {
-        "@id": "https://sandiegotech.org/lectio/iliad/#book"
-      },
+      "name": "The Iliad by Homer: a modern English translation · Lectio",
+      "description": "Homer's poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.",
+      "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/iliad/#edition"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/iliad/#breadcrumb"
+      },
+      "dateModified": "2026-11-17",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/lectio/iliad/cover.jpg",
+        "width": 582,
+        "height": 900
       }
     },
     {
@@ -94,7 +189,8 @@
           "name": "The Iliad",
           "item": "https://sandiegotech.org/lectio/iliad/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/iliad/#breadcrumb"
     }
   ]
 }
@@ -123,7 +219,7 @@
     <section class="charter lx-book">
       <div class="frame">
         <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li><a href="/lectio/">Lectio</a></li><li aria-current="page">The Iliad</li></ol></nav>
-        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" alt="Cover of the Lectio Edition of The Iliad, by Homer"></div>
+        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" decoding="async" alt="Cover of the Lectio Edition of The Iliad by Homer"></div>
         <div class="lx-head">
           <p class="eyebrow">Lectio Edition · 2026</p>
           <h1>The Iliad</h1>
@@ -282,6 +378,7 @@
             <li>Three segments are set aside, in Books V, X and XXIII. The editor has to decide whether to retire them for good or replace them with Homer&#x27;s own closing lines.</li>
             <li>The note that stood at the end of Book XXIII should move to the margin notes.</li>
           </ul>
+          <p class="lx-cite">Cite this edition: Homer. The Iliad. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/iliad/</p>
         </div>
       </div>
     </section>
@@ -292,6 +389,7 @@
           <h2>No printed edition or PDF yet.</h2>
           <p class="lede">Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.</p>
           <p class="lx-next" style="margin-top: 2.5rem;"><a href="/lectio/meditations/">← Meditations</a><a href="/lectio/odyssey/">The Odyssey →</a></p>
+          <p class="lx-related">Read next: <a href="/lectio/odyssey/">The Odyssey</a>, <a href="/lectio/aeneid/">The Aeneid</a>, <a href="/lectio/gilgamesh/">The Epic of Gilgamesh</a></p>
         </div>
       </div>
     </section>

@@ -1,0 +1,59 @@
+{
+  "title": "The Republic",
+  "author": "Plato",
+  "composed": "375 BCE",
+  "originalLanguage": "grc",
+  "tradition": "West",
+  "genre": "Philosophy",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-fable-5",
+    "name": "Claude Fable 5",
+    "date": "2026-07-07"
+  },
+  "sections": 10,
+  "words": 112876,
+  "sourcesConsulted": [
+    "Greek, the original text of the Politeia",
+    "Benjamin Jowett, The Republic of Plato (1871, public domain)",
+    "Paul Shorey, Loeb Classical Library (consulted, not quoted)",
+    "G. M. A. Grube / C. D. C. Reeve (1992, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "Benjamin Jowett",
+      "year": 1871,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 10,
+    "gradedA": 1,
+    "gradedB": 9,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 28,
+      "medium": 75,
+      "low": 76
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 30,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "Plato. The Republic. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/republic/",
+  "url": "https://sandiegotech.org/lectio/republic/",
+  "markdown": "https://sandiegotech.org/lectio/republic/index.md",
+  "cover": "https://sandiegotech.org/lectio/republic/cover.jpg"
+}

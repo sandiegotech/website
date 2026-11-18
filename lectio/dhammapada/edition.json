@@ -1,0 +1,59 @@
+{
+  "title": "The Dhammapada",
+  "author": "Early Buddhist tradition",
+  "composed": "300–100 BCE",
+  "originalLanguage": "pi",
+  "tradition": "East",
+  "genre": "Religion",
+  "edition": "Lectio Edition",
+  "language": "en",
+  "form": "prose",
+  "vintage": 2026,
+  "revised": "2026-11-17",
+  "status": "beta",
+  "defaultInApp": true,
+  "draftedBy": {
+    "model": "claude-opus-4-8",
+    "name": "Claude Opus 4.8",
+    "date": "2026-06-26"
+  },
+  "sections": 26,
+  "words": 12152,
+  "sourcesConsulted": [
+    "Pali, the original text of the Dhammapada",
+    "F. Max Müller, The Dhammapada (1881, Sacred Books of the East, public domain)",
+    "Albert J. Edmunds, Hymns of the Faith (1902, public domain)",
+    "Acharya Buddharakkhita (1985, consulted, not quoted)"
+  ],
+  "editionsOnHand": [
+    {
+      "kind": "translation",
+      "translator": "F. Max Müller",
+      "year": 1881,
+      "language": "en",
+      "rights": "public_domain"
+    }
+  ],
+  "firstReview": {
+    "run": "2026-11-17",
+    "sectionsRead": 26,
+    "gradedA": 6,
+    "gradedB": 20,
+    "gradedC": 0,
+    "fixesApplied": {
+      "high": 3,
+      "medium": 31,
+      "low": 49
+    }
+  },
+  "readersReview": "open",
+  "editorsRead": false,
+  "divergencesRecorded": 79,
+  "publisher": "San Diego Institute of Technology",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "citation": "The Dhammapada. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/dhammapada/",
+  "url": "https://sandiegotech.org/lectio/dhammapada/",
+  "markdown": "https://sandiegotech.org/lectio/dhammapada/index.md",
+  "cover": "https://sandiegotech.org/lectio/dhammapada/cover.jpg"
+}

@@ -1,0 +1,49 @@
+# San Diego Institute of Technology
+
+> Art and technology, undivided. A new institution on the Pacific coast where artists and engineers make things that live in the world.
+
+The San Diego Institute of Technology is a 501(c)(3) nonprofit in San Diego. Lectio is its first project: a new plain-English edition of each great book, with the older translations beside it.
+
+Every Lectio edition is a beta. Each was drafted by an AI model, had a first review by machine readers in November 2026, and is open for review by its readers. Each page says how the edition was made and what is still open.
+
+The Lectio editions are licensed CC BY-NC 4.0. Content here may be used to answer questions with attribution and a link. It is not offered for model training. See /robots.txt.
+
+## Lectio
+
+- [Lectio: the library](https://sandiegotech.org/lectio/): Lectio gives each great book a new plain-English edition, with the older translations beside it. Seventeen editions in beta, from Homer to Hamlet.
+- [The translation mission](https://sandiegotech.org/lectio/mission/): Why Lectio makes new translations of the great books, how each is drafted by AI and reviewed, what the first review found, and what is not done yet.
+
+## Lectio editions
+
+- [Meditations, Marcus Aurelius](https://sandiegotech.org/lectio/meditations/): A new plain-English translation of the Stoic emperor's private notebook, with Long, Casaubon and the Greek beside it. Beta, open for review.
+- [The Iliad, Homer](https://sandiegotech.org/lectio/iliad/): Homer's poem of the rage of Achilles and the war at Troy, in a new plain-English prose translation, with Pope and Butler beside it. Beta.
+- [The Odyssey, Homer](https://sandiegotech.org/lectio/odyssey/): Homer's poem of Odysseus and his long way home from Troy, in a new plain-English prose translation, with Butler's version beside it. Beta.
+- [The Republic, Plato](https://sandiegotech.org/lectio/republic/): Plato's dialogue on justice, the Cave and the philosopher-king, in a new plain-English translation with Jowett's version beside it. Beta.
+- [The Aeneid, Virgil](https://sandiegotech.org/lectio/aeneid/): Virgil's epic of Aeneas, the fall of Troy and the founding of Rome, in a new plain-English prose translation with Dryden's beside it. Beta.
+- [The Prince, Niccolò Machiavelli](https://sandiegotech.org/lectio/the-prince/): Machiavelli's short handbook on winning and keeping power, in a new plain-English translation that keeps the word virtù. Marriott's beside it. Beta.
+- [The Analects, Confucius](https://sandiegotech.org/lectio/analects/): The sayings of Confucius on learning, ritual and becoming fully human, in a new plain-English translation with Legge's version beside it. Beta.
+- [The Tao Te Ching, Laozi](https://sandiegotech.org/lectio/tao-te-ching/): Laozi's eighty-one chapters on the Way and the power that works by yielding, in a new plain-English translation with Legge's beside it. Beta.
+- [The Dhammapada](https://sandiegotech.org/lectio/dhammapada/): The Buddha's verses on the mind, craving and the path, in a new plain-English translation that follows the Pali, with Müller's beside it. Beta.
+- [The Bhagavad Gita](https://sandiegotech.org/lectio/bhagavad-gita/): Krishna's teaching to Arjuna on duty, devotion and acting without clinging to results, in new plain-English prose with Arnold's verse beside it. Beta.
+- [The Epic of Gilgamesh](https://sandiegotech.org/lectio/gilgamesh/): The oldest epic: Gilgamesh, Enkidu and the search for a way not to die. A new plain-English rendering of the eleven tablets. Beta.
+- [Nicomachean Ethics, Aristotle](https://sandiegotech.org/lectio/nicomachean-ethics/): Aristotle on happiness, virtue, friendship and the good life, in a new plain-English translation with one word for each key term. Beta.
+- [Confessions, Saint Augustine](https://sandiegotech.org/lectio/confessions/): Augustine's account of his restless youth and conversion, and of memory and time, in a new plain-English translation with Pusey's beside it. Beta.
+- [The Divine Comedy, Dante Alighieri](https://sandiegotech.org/lectio/divine-comedy/): Dante's journey through Hell, Purgatory and Paradise, all 100 cantos, in a new plain-English translation set tercet by tercet. Beta.
+- [Hamlet, William Shakespeare](https://sandiegotech.org/lectio/hamlet/): Shakespeare's tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.
+- [The Gospel of Mark](https://sandiegotech.org/lectio/mark/): The earliest Gospel in a new plain-English translation that keeps Mark's speed, his repeated "right away" and his abrupt ending. Beta.
+- [Genesis](https://sandiegotech.org/lectio/genesis/): Creation, the flood, Abraham and Joseph, in a new plain-English translation that keeps the Hebrew's refrains, with the King James beside it. Beta.
+
+## The Institute
+
+- [Daily](https://sandiegotech.org/daily.html): A song, an image, and an idea — something worth knowing, currently sent each Monday morning. From the San Diego Institute of Technology.
+- [Academics](https://sandiegotech.org/academics.html): A single four-year Bachelor of Arts in Technology that reunites the arts, sciences, engineering, and humanities — a working framework in development.
+- [Projects](https://sandiegotech.org/projects.html): The projects of the San Diego Institute of Technology: Lectio, the great books in clear modern editions; The Daily, a weekly letter; the open curriculum; and Papers.
+- [Philosophy](https://sandiegotech.org/philosophy.html): The working constitution of the San Diego Institute of Technology — eleven tenets in three parts, each with a test everything is measured against.
+- [Papers](https://sandiegotech.org/papers/): Long-form papers from the San Diego Institute of Technology — clear, readable explorations of a single idea, published as the work warrants.
+
+## Optional
+
+- [Lectio, full text of these pages](https://sandiegotech.org/llms-full.txt): the overview, the mission and every edition page as one Markdown file
+- [Editions as data](https://sandiegotech.org/lectio/editions.json): each edition's public record as JSON
+- [Feed](https://sandiegotech.org/lectio/feed.xml): new and revised editions, as Atom
+- Every Lectio page has a Markdown twin at the same address with index.md added

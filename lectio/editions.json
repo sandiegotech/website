@@ -1,0 +1,180 @@
+{
+  "publisher": "San Diego Institute of Technology",
+  "url": "https://sandiegotech.org/lectio/",
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "updated": "2026-11-17",
+  "count": 17,
+  "editions": [
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "originalLanguage": "grc",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/meditations/",
+      "record": "https://sandiegotech.org/lectio/meditations/edition.json"
+    },
+    {
+      "title": "The Iliad",
+      "author": "Homer",
+      "originalLanguage": "grc",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/iliad/",
+      "record": "https://sandiegotech.org/lectio/iliad/edition.json"
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "originalLanguage": "grc",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/odyssey/",
+      "record": "https://sandiegotech.org/lectio/odyssey/edition.json"
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "originalLanguage": "grc",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/republic/",
+      "record": "https://sandiegotech.org/lectio/republic/edition.json"
+    },
+    {
+      "title": "The Aeneid",
+      "author": "Virgil",
+      "originalLanguage": "la",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/aeneid/",
+      "record": "https://sandiegotech.org/lectio/aeneid/edition.json"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "originalLanguage": "it",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/the-prince/",
+      "record": "https://sandiegotech.org/lectio/the-prince/edition.json"
+    },
+    {
+      "title": "The Analects",
+      "author": "Confucius",
+      "originalLanguage": "lzh",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/analects/",
+      "record": "https://sandiegotech.org/lectio/analects/edition.json"
+    },
+    {
+      "title": "The Tao Te Ching",
+      "author": "Laozi",
+      "originalLanguage": "lzh",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/tao-te-ching/",
+      "record": "https://sandiegotech.org/lectio/tao-te-ching/edition.json"
+    },
+    {
+      "title": "The Dhammapada",
+      "author": "Early Buddhist tradition",
+      "originalLanguage": "pi",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/dhammapada/",
+      "record": "https://sandiegotech.org/lectio/dhammapada/edition.json"
+    },
+    {
+      "title": "The Bhagavad Gita",
+      "author": null,
+      "originalLanguage": "sa",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/bhagavad-gita/",
+      "record": "https://sandiegotech.org/lectio/bhagavad-gita/edition.json"
+    },
+    {
+      "title": "The Epic of Gilgamesh",
+      "author": "Anonymous · Sumer & Akkad",
+      "originalLanguage": "akk",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/gilgamesh/",
+      "record": "https://sandiegotech.org/lectio/gilgamesh/edition.json"
+    },
+    {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle",
+      "originalLanguage": "grc",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/nicomachean-ethics/",
+      "record": "https://sandiegotech.org/lectio/nicomachean-ethics/edition.json"
+    },
+    {
+      "title": "Confessions",
+      "author": "Saint Augustine",
+      "originalLanguage": "la",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/confessions/",
+      "record": "https://sandiegotech.org/lectio/confessions/edition.json"
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "originalLanguage": "it",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/divine-comedy/",
+      "record": "https://sandiegotech.org/lectio/divine-comedy/edition.json"
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "originalLanguage": "en",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/hamlet/",
+      "record": "https://sandiegotech.org/lectio/hamlet/edition.json"
+    },
+    {
+      "title": "The Gospel of Mark",
+      "author": "Anonymous · attributed to Mark",
+      "originalLanguage": "grc",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/mark/",
+      "record": "https://sandiegotech.org/lectio/mark/edition.json"
+    },
+    {
+      "title": "Genesis",
+      "author": "Anonymous · Ancient Israel",
+      "originalLanguage": "hbo",
+      "vintage": 2026,
+      "revised": "2026-11-17",
+      "status": "beta",
+      "url": "https://sandiegotech.org/lectio/genesis/",
+      "record": "https://sandiegotech.org/lectio/genesis/edition.json"
+    }
+  ]
+}

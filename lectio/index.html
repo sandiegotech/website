@@ -3,23 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lectio — San Diego Institute of Technology</title>
-  <meta name="description" content="Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.">
+  <title>Lectio: modern English editions of the great books</title>
+  <meta name="description" content="Lectio gives each great book a new plain-English edition, with the older translations beside it. Seventeen editions in beta, from Homer to Hamlet.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="editions.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/">
-  <meta property="og:title" content="Lectio — San Diego Institute of Technology">
-  <meta property="og:description" content="Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.">
-  <meta property="og:image" content="https://sandiegotech.org/assets/sdit-crest-navy.png">
+  <meta property="og:title" content="Lectio: modern English editions of the great books">
+  <meta property="og:description" content="Lectio gives each great book a new plain-English edition, with the older translations beside it. Seventeen editions in beta, from Homer to Hamlet.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/share.jpg">
   <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="696">
-  <meta property="og:image:alt" content="San Diego Institute of Technology">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Lectio: modern English editions of the great books">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Lectio — San Diego Institute of Technology">
-  <meta name="twitter:description" content="Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.">
-  <meta name="twitter:image" content="https://sandiegotech.org/assets/sdit-crest-navy.png">
+  <meta name="twitter:title" content="Lectio: modern English editions of the great books">
+  <meta name="twitter:description" content="Lectio gives each great book a new plain-English edition, with the older translations beside it. Seventeen editions in beta, from Homer to Hamlet.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/share.jpg">
+  <meta name="twitter:image:alt" content="Lectio: modern English editions of the great books">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,100 +42,163 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "CollectionPage",
       "@id": "https://sandiegotech.org/lectio/",
       "url": "https://sandiegotech.org/lectio/",
-      "name": "Lectio",
-      "description": "Lectio is the first project of the San Diego Institute of Technology: a clear modern edition of each great book, with the older translations beside it.",
+      "name": "Lectio: modern English editions of the great books",
+      "description": "Lectio gives each great book a new plain-English edition, with the older translations beside it. Seventeen editions in beta, from Homer to Hamlet.",
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
       "inLanguage": "en",
-      "hasPart": [
+      "isPartOf": {
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "dateModified": "2026-11-17",
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/#editions"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://sandiegotech.org/lectio/#editions",
+      "name": "Lectio editions",
+      "numberOfItems": 17,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": [
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 1,
           "name": "Meditations",
           "url": "https://sandiegotech.org/lectio/meditations/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 2,
           "name": "The Iliad",
           "url": "https://sandiegotech.org/lectio/iliad/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 3,
           "name": "The Odyssey",
           "url": "https://sandiegotech.org/lectio/odyssey/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 4,
           "name": "The Republic",
           "url": "https://sandiegotech.org/lectio/republic/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 5,
           "name": "The Aeneid",
           "url": "https://sandiegotech.org/lectio/aeneid/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 6,
           "name": "The Prince",
           "url": "https://sandiegotech.org/lectio/the-prince/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 7,
           "name": "The Analects",
           "url": "https://sandiegotech.org/lectio/analects/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 8,
           "name": "The Tao Te Ching",
           "url": "https://sandiegotech.org/lectio/tao-te-ching/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 9,
           "name": "The Dhammapada",
           "url": "https://sandiegotech.org/lectio/dhammapada/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 10,
           "name": "The Bhagavad Gita",
           "url": "https://sandiegotech.org/lectio/bhagavad-gita/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 11,
           "name": "The Epic of Gilgamesh",
           "url": "https://sandiegotech.org/lectio/gilgamesh/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 12,
           "name": "Nicomachean Ethics",
           "url": "https://sandiegotech.org/lectio/nicomachean-ethics/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 13,
           "name": "Confessions",
           "url": "https://sandiegotech.org/lectio/confessions/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 14,
           "name": "The Divine Comedy",
           "url": "https://sandiegotech.org/lectio/divine-comedy/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 15,
           "name": "Hamlet",
           "url": "https://sandiegotech.org/lectio/hamlet/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 16,
           "name": "The Gospel of Mark",
           "url": "https://sandiegotech.org/lectio/mark/"
         },
         {
-          "@type": "Book",
+          "@type": "ListItem",
+          "position": 17,
           "name": "Genesis",
           "url": "https://sandiegotech.org/lectio/genesis/"
         }
@@ -148,7 +219,8 @@
           "name": "Lectio",
           "item": "https://sandiegotech.org/lectio/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/#breadcrumb"
     }
   ]
 }
@@ -202,87 +274,87 @@
           <p class="lede">Each cover opens a page on that edition: what the book is, why the edition was made, how it begins, the choices it makes, and the record of how it was drafted and checked.</p>
           <ul class="lx-grid">
             <li><a href="/lectio/meditations/">
-              <img src="/lectio/meditations/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Meditations">
+              <img src="/lectio/meditations/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of Meditations by Marcus Aurelius">
               <span class="lx-t">Meditations</span>
               <span class="lx-a">Marcus Aurelius</span>
             </a></li>
             <li><a href="/lectio/iliad/">
-              <img src="/lectio/iliad/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Iliad">
+              <img src="/lectio/iliad/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Iliad by Homer">
               <span class="lx-t">The Iliad</span>
               <span class="lx-a">Homer</span>
             </a></li>
             <li><a href="/lectio/odyssey/">
-              <img src="/lectio/odyssey/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Odyssey">
+              <img src="/lectio/odyssey/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Odyssey by Homer">
               <span class="lx-t">The Odyssey</span>
               <span class="lx-a">Homer</span>
             </a></li>
             <li><a href="/lectio/republic/">
-              <img src="/lectio/republic/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Republic">
+              <img src="/lectio/republic/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Republic by Plato">
               <span class="lx-t">The Republic</span>
               <span class="lx-a">Plato</span>
             </a></li>
             <li><a href="/lectio/aeneid/">
-              <img src="/lectio/aeneid/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Aeneid">
+              <img src="/lectio/aeneid/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Aeneid by Virgil">
               <span class="lx-t">The Aeneid</span>
               <span class="lx-a">Virgil</span>
             </a></li>
             <li><a href="/lectio/the-prince/">
-              <img src="/lectio/the-prince/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Prince">
+              <img src="/lectio/the-prince/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Prince by Niccolò Machiavelli">
               <span class="lx-t">The Prince</span>
               <span class="lx-a">Niccolò Machiavelli</span>
             </a></li>
             <li><a href="/lectio/analects/">
-              <img src="/lectio/analects/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Analects">
+              <img src="/lectio/analects/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Analects by Confucius">
               <span class="lx-t">The Analects</span>
               <span class="lx-a">Confucius</span>
             </a></li>
             <li><a href="/lectio/tao-te-ching/">
-              <img src="/lectio/tao-te-ching/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Tao Te Ching">
+              <img src="/lectio/tao-te-ching/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Tao Te Ching by Laozi">
               <span class="lx-t">The Tao Te Ching</span>
               <span class="lx-a">Laozi</span>
             </a></li>
             <li><a href="/lectio/dhammapada/">
-              <img src="/lectio/dhammapada/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Dhammapada">
+              <img src="/lectio/dhammapada/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Dhammapada by Early Buddhist tradition">
               <span class="lx-t">The Dhammapada</span>
               <span class="lx-a">Early Buddhist tradition</span>
             </a></li>
             <li><a href="/lectio/bhagavad-gita/">
-              <img src="/lectio/bhagavad-gita/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Bhagavad Gita">
+              <img src="/lectio/bhagavad-gita/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Bhagavad Gita">
               <span class="lx-t">The Bhagavad Gita</span>
               <span class="lx-a"></span>
             </a></li>
             <li><a href="/lectio/gilgamesh/">
-              <img src="/lectio/gilgamesh/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Epic of Gilgamesh">
+              <img src="/lectio/gilgamesh/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Epic of Gilgamesh by Anonymous · Sumer &amp; Akkad">
               <span class="lx-t">The Epic of Gilgamesh</span>
               <span class="lx-a">Sumer &amp; Akkad</span>
             </a></li>
             <li><a href="/lectio/nicomachean-ethics/">
-              <img src="/lectio/nicomachean-ethics/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Nicomachean Ethics">
+              <img src="/lectio/nicomachean-ethics/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of Nicomachean Ethics by Aristotle">
               <span class="lx-t">Nicomachean Ethics</span>
               <span class="lx-a">Aristotle</span>
             </a></li>
             <li><a href="/lectio/confessions/">
-              <img src="/lectio/confessions/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Confessions">
+              <img src="/lectio/confessions/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of Confessions by Saint Augustine">
               <span class="lx-t">Confessions</span>
               <span class="lx-a">Saint Augustine</span>
             </a></li>
             <li><a href="/lectio/divine-comedy/">
-              <img src="/lectio/divine-comedy/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Divine Comedy">
+              <img src="/lectio/divine-comedy/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Divine Comedy by Dante Alighieri">
               <span class="lx-t">The Divine Comedy</span>
               <span class="lx-a">Dante Alighieri</span>
             </a></li>
             <li><a href="/lectio/hamlet/">
-              <img src="/lectio/hamlet/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Hamlet">
+              <img src="/lectio/hamlet/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of Hamlet by William Shakespeare">
               <span class="lx-t">Hamlet</span>
               <span class="lx-a">William Shakespeare</span>
             </a></li>
             <li><a href="/lectio/mark/">
-              <img src="/lectio/mark/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of The Gospel of Mark">
+              <img src="/lectio/mark/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of The Gospel of Mark by Anonymous · attributed to Mark">
               <span class="lx-t">The Gospel of Mark</span>
               <span class="lx-a">attributed to Mark</span>
             </a></li>
             <li><a href="/lectio/genesis/">
-              <img src="/lectio/genesis/cover.jpg" width="582" height="900" loading="lazy" alt="Cover of the Lectio Edition of Genesis">
+              <img src="/lectio/genesis/cover.jpg" width="582" height="900" loading="lazy" decoding="async" alt="Cover of the Lectio Edition of Genesis by Anonymous · Ancient Israel">
               <span class="lx-t">Genesis</span>
               <span class="lx-a">Ancient Israel</span>
             </a></li>

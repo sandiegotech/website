@@ -3,23 +3,46 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hamlet, William Shakespeare · Lectio Edition — San Diego Institute of Technology</title>
-  <meta name="description" content="The Lectio Edition of Hamlet: a light-touch companion that keeps Shakespeare&#x27;s lines and clears only dead words and tangled grammar. Shakespeare&#x27;s text stays the default.">
+  <title>Hamlet by Shakespeare: a modern English edition · Lectio</title>
+  <meta name="description" content="Shakespeare&#x27;s tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.">
   <link rel="canonical" href="https://sandiegotech.org/lectio/hamlet/">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <link rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="alternate" type="application/json" href="edition.json">
+  <link rel="alternate" type="application/atom+xml" title="Lectio editions" href="/lectio/feed.xml">
   <meta property="og:type" content="book">
   <meta property="og:site_name" content="San Diego Institute of Technology">
   <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://sandiegotech.org/lectio/hamlet/">
-  <meta property="og:title" content="Hamlet, William Shakespeare · Lectio Edition — San Diego Institute of Technology">
-  <meta property="og:description" content="The Lectio Edition of Hamlet: a light-touch companion that keeps Shakespeare&#x27;s lines and clears only dead words and tangled grammar. Shakespeare&#x27;s text stays the default.">
-  <meta property="og:image" content="https://sandiegotech.org/lectio/hamlet/cover.jpg">
-  <meta property="og:image:width" content="582">
-  <meta property="og:image:height" content="900">
-  <meta property="og:image:alt" content="Cover of the Lectio Edition of Hamlet">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Hamlet, William Shakespeare · Lectio Edition — San Diego Institute of Technology">
-  <meta name="twitter:description" content="The Lectio Edition of Hamlet: a light-touch companion that keeps Shakespeare&#x27;s lines and clears only dead words and tangled grammar. Shakespeare&#x27;s text stays the default.">
-  <meta name="twitter:image" content="https://sandiegotech.org/lectio/hamlet/cover.jpg">
+  <meta property="og:title" content="Hamlet by Shakespeare: a modern English edition · Lectio">
+  <meta property="og:description" content="Shakespeare&#x27;s tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.">
+  <meta property="og:image" content="https://sandiegotech.org/lectio/hamlet/share.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Hamlet by William Shakespeare: Lectio Edition">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Hamlet by Shakespeare: a modern English edition · Lectio">
+  <meta name="twitter:description" content="Shakespeare&#x27;s tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.">
+  <meta name="twitter:image" content="https://sandiegotech.org/lectio/hamlet/share.jpg">
+  <meta name="twitter:image:alt" content="Hamlet by William Shakespeare: Lectio Edition">
+  <meta property="book:author" content="https://en.wikipedia.org/wiki/William_Shakespeare">
+  <meta property="og:updated_time" content="2026-11-17T00:00:00Z">
+  <meta property="article:modified_time" content="2026-11-17T00:00:00Z">
+  <meta name="citation_title" content="Hamlet: Lectio Edition">
+  <meta name="citation_author" content="William Shakespeare">
+  <meta name="citation_publisher" content="San Diego Institute of Technology">
+  <meta name="citation_publication_date" content="2026/11/17">
+  <meta name="citation_language" content="en">
+  <meta name="citation_public_url" content="https://sandiegotech.org/lectio/hamlet/">
+  <meta name="DC.title" content="Hamlet: Lectio Edition">
+  <meta name="DC.creator" content="William Shakespeare">
+  <meta name="DC.publisher" content="San Diego Institute of Technology">
+  <meta name="DC.date" content="2026-11-17">
+  <meta name="DC.language" content="en">
+  <meta name="DC.type" content="Text">
+  <meta name="DC.rights" content="CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/">
+  <meta name="DC.identifier" content="https://sandiegotech.org/lectio/hamlet/">
   <link rel="stylesheet" href="/assets/fonts/fonts.css">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/lectio/lectio.css">
@@ -34,43 +57,112 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": [
+        "Organization",
+        "NGO"
+      ],
+      "@id": "https://sandiegotech.org/#organization",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/assets/sdit-crest-navy.png",
+        "width": 1200,
+        "height": 696
+      },
+      "foundingDate": "2025",
+      "nonprofitStatus": "Nonprofit501c3",
+      "sameAs": [
+        "https://github.com/sandiegotech"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://sandiegotech.org/#website",
+      "name": "San Diego Institute of Technology",
+      "url": "https://sandiegotech.org/",
+      "publisher": {
+        "@id": "https://sandiegotech.org/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
       "@type": "Book",
-      "@id": "https://sandiegotech.org/lectio/hamlet/#book",
+      "@id": "https://sandiegotech.org/lectio/hamlet/#work",
       "name": "Hamlet",
+      "inLanguage": "en",
+      "dateCreated": "1600–1601",
+      "genre": "Drama",
+      "workExample": {
+        "@id": "https://sandiegotech.org/lectio/hamlet/#edition"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "William Shakespeare",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/William_Shakespeare",
+          "https://www.wikidata.org/wiki/Q692"
+        ]
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://sandiegotech.org/lectio/hamlet/#edition",
+      "name": "Hamlet: Lectio Edition",
       "url": "https://sandiegotech.org/lectio/hamlet/",
       "bookEdition": "Lectio Edition, 2026 vintage, revised 2026-11-17",
       "inLanguage": "en",
-      "datePublished": "2026",
-      "dateModified": "2026-11-17",
-      "image": "https://sandiegotech.org/lectio/hamlet/cover.jpg",
-      "description": "The Lectio Edition of Hamlet: a light-touch companion that keeps Shakespeare's lines and clears only dead words and tangled grammar. Shakespeare's text stays the default.",
-      "translator": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+      "exampleOfWork": {
+        "@id": "https://sandiegotech.org/lectio/hamlet/#work"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "San Diego Institute of Technology",
-        "url": "https://sandiegotech.org/"
+        "@id": "https://sandiegotech.org/#organization"
       },
-      "genre": "Drama",
+      "datePublished": "2026",
+      "dateModified": "2026-11-17",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
       "creativeWorkStatus": "Beta",
+      "image": "https://sandiegotech.org/lectio/hamlet/cover.jpg",
+      "abstract": "Shakespeare's tragedy of a prince, a murdered father, and a mind that cannot stop thinking. Five acts, written about 1600. More of its lines have passed into ordinary speech than those of any other play.",
+      "description": "Shakespeare's tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.",
+      "genre": "Drama",
+      "mainEntityOfPage": {
+        "@id": "https://sandiegotech.org/lectio/hamlet/"
+      },
       "author": {
         "@type": "Person",
-        "name": "William Shakespeare"
+        "name": "William Shakespeare",
+        "sameAs": [
+          "https://en.wikipedia.org/wiki/William_Shakespeare",
+          "https://www.wikidata.org/wiki/Q692"
+        ]
+      },
+      "editor": {
+        "@id": "https://sandiegotech.org/#organization"
       }
     },
     {
       "@type": "WebPage",
       "@id": "https://sandiegotech.org/lectio/hamlet/",
       "url": "https://sandiegotech.org/lectio/hamlet/",
-      "name": "Hamlet: the Lectio Edition",
-      "about": {
-        "@id": "https://sandiegotech.org/lectio/hamlet/#book"
-      },
+      "name": "Hamlet by Shakespeare: a modern English edition · Lectio",
+      "description": "Shakespeare's tragedy with its verse and famous lines kept, and only dead words and tangled grammar cleared. A companion to the original. Beta.",
+      "inLanguage": "en",
       "isPartOf": {
-        "@id": "https://sandiegotech.org/lectio/"
+        "@id": "https://sandiegotech.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://sandiegotech.org/lectio/hamlet/#edition"
+      },
+      "breadcrumb": {
+        "@id": "https://sandiegotech.org/lectio/hamlet/#breadcrumb"
+      },
+      "dateModified": "2026-11-17",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://sandiegotech.org/lectio/hamlet/cover.jpg",
+        "width": 582,
+        "height": 900
       }
     },
     {
@@ -94,7 +186,8 @@
           "name": "Hamlet",
           "item": "https://sandiegotech.org/lectio/hamlet/"
         }
-      ]
+      ],
+      "@id": "https://sandiegotech.org/lectio/hamlet/#breadcrumb"
     }
   ]
 }
@@ -123,7 +216,7 @@
     <section class="charter lx-book">
       <div class="frame">
         <nav class="lx-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">San Diego Institute of Technology</a></li><li><a href="/lectio/">Lectio</a></li><li aria-current="page">Hamlet</li></ol></nav>
-        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" alt="Cover of the Lectio Edition of Hamlet, by William Shakespeare"></div>
+        <div class="lx-cover"><img src="cover.jpg" width="582" height="900" decoding="async" alt="Cover of the Lectio Edition of Hamlet by William Shakespeare"></div>
         <div class="lx-head">
           <p class="eyebrow">Lectio Edition · 2026</p>
           <h1>Hamlet</h1>
@@ -300,6 +393,7 @@
             <li>A handful of &quot;O&quot; and &quot;Oh&quot; exclamations were left for the editor&#x27;s ear.</li>
             <li>Two of the edition&#x27;s notes quote the text with slightly different punctuation from how it reads.</li>
           </ul>
+          <p class="lx-cite">Cite this edition: William Shakespeare. Hamlet. Lectio Edition. San Diego Institute of Technology, 2026 vintage, revised November 17, 2026. https://sandiegotech.org/lectio/hamlet/</p>
         </div>
       </div>
     </section>
@@ -310,6 +404,7 @@
           <h2>No printed edition or PDF yet.</h2>
           <p class="lede">Only a release is printed. This edition is a beta. The review by its readers and a full read by the editor are still to come. The printed book and a free PDF follow the release.</p>
           <p class="lx-next" style="margin-top: 2.5rem;"><a href="/lectio/divine-comedy/">← The Divine Comedy</a><a href="/lectio/mark/">The Gospel of Mark →</a></p>
+          <p class="lx-related">Read next: <a href="/lectio/divine-comedy/">The Divine Comedy</a>, <a href="/lectio/the-prince/">The Prince</a>, <a href="/lectio/iliad/">The Iliad</a></p>
         </div>
       </div>
     </section>

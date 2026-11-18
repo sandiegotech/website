@@ -15,9 +15,35 @@
 #   search   — building a search index, returning links and short excerpts
 #   ai-input — feeding content to a model at query time (RAG, AI search answers)
 #   ai-train — training or fine-tuning models
+#
+# ai-input is stated outright, not left to be inferred: a page here may be read
+# at the moment someone asks a question and used to answer it, with attribution
+# and a link back. That is reading. Training stays reserved.
 
 User-agent: *
-Content-Signal: search=yes, ai-train=no, use=reference
+Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference
+Allow: /
+
+# ── Search and answer agents ─────────────────────────────────────────────────
+# Allowed by name. These fetch a page to index it for search or to answer one
+# person's question, and they publish a token distinct from their company's
+# training crawler. Each token was checked against the vendor's own
+# documentation on 2026-11-17. A named group replaces the general one for that
+# agent, so the content signal is repeated here. Machine readers: start at
+# /llms.txt.
+
+User-agent: Applebot
+User-agent: Bingbot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: DuckAssistBot
+User-agent: Googlebot
+User-agent: MistralAI-User
+User-agent: OAI-SearchBot
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference
 Allow: /
 
 # ── Bulk training crawlers ───────────────────────────────────────────────────
